@@ -1,3 +1,6 @@
+/data contains the data per canton
+/ids contains the listing ids per canton (july 2025) irrelevant for future use.
+
 1. id
 2. street
 3. city_postal
