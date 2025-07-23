@@ -1,0 +1,1001 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+4000824200,"Mettlengässli 8 + 10,",3074 Muri b. Bern,2.0,59.0,3770,4.0,Apartment,-1,-1,1
+4001313085,"Hauptstrasse 17,",2563 Ipsach,3.5,80.0,2250,3.0,Attic flat,2024,-1,1
+4001365163,"Bernapark 23,",3066 Stettlen,3.5,142.0,3240,7.33,Apartment,-1,2020,1
+4001403890,"Murtenstrasse 3,",3270 Aarberg,5.0,144.0,2210,4.75,Apartment,-1,-1,1
+4001425840,"Bahnhofstrasse 29,",3066 Stettlen,5.0,98.0,1980,3.0,Apartment,2001,1971,0
+4001495431,"Mattenstrasse 81,",2503 Biel,7.5,184.0,4210,5.0,Apartment,-1,-1,1
+4001635498,"Bartolomäusweg 25,",2504 Biel/Bienne,4.5,94.0,1980,7.0,Apartment,-1,1994,1
+4001655412,"Eichmatt 2,",4938 Rohrbach,3.5,78.0,1235,4.0,Roof flat,2018,1985,1
+4001668329,"Staffelweg 6,",3400 Burgdorf,4.0,74.0,1330,7.25,Apartment,-1,1963,1
+4001668438,"Staffelstr. 5a,",3303 Jegenstorf,4.0,72.0,1690,6.25,Apartment,-1,1962,1
+4001668473,"Rue de la Liberté 12-18,",2740 Moutier,4.0,104.0,1580,4.0,Apartment,-1,-1,0
+4001668931,"Marktgasse 4,",4900 Langenthal,2.5,146.0,2190,3.25,Loft,-1,2008,0
+4001669383,"Grauholzstr. 80,",3063 Ittigen,4.5,118.0,2240,12.0,Apartment,-1,1979,1
+4001669420,"Unterer Strassackerweg 11,",3067 Boll,3.0,84.0,1630,9.0,Apartment,2017,1992,1
+4001683433,"Gerechtigkeitsgasse 57,",3011 Bern,2.0,66.0,2200,3.75,Apartment,-1,-1,0
+4001685991,"Nidaugasse 50,",2502 Biel/Bienne,3.5,94.0,2055,1.5,Apartment,-1,-1,0
+4001691514,"Hofmattenstrasse 3,",4914 Roggwil BE,3.5,77.0,1765,5.67,Apartment,-1,-1,1
+4001699835,"Schmiedweg 30,",2503 Biel,3.0,-1,1290,5.25,Maisonette / Duplex,2024,-1,0
+4001708731,"Austr. 7,",3114 Wichtrach,4.5,170.0,2495,10.75,Roof flat,-1,1992,1
+4001726560,"Bernstrasse 29,",3032 Hinterkappelen,3.5,60.0,1500,6.75,Roof flat,2017,-1,0
+4001731221,"Kreuzstrasse 3a,",3052 Zollikofen,5.5,125.0,2770,4.25,Apartment,-1,-1,1
+4001748867,"Kappelenstrasse 11,",3250 Lyss,3.5,72.0,1690,4.25,Apartment,2018,1973,0
+4001749871,"Lyss-Strasse 24,",2560 Nidau,3.5,95.0,1470,7.75,Apartment,-1,-1,1
+4001764632,"Thunstrasse 47,",3005 Bern,3.5,100.0,3140,4.0,Apartment,2024,-1,1
+4001767434,"Zürchermatte 11, BE 153'040,",3550 Langnau i. E.,4.5,102.0,2020,9.75,Maisonette / Duplex,-1,1992,1
+4001778561,"Hinterdorfstrasse 11,",3550 Langnau im Emmental,5.5,-1,2350,15.25,Attic flat,2024,-1,1
+4001788625,"Burgdorfstrasse 29,",3422 Alchenflüh,3.5,80.0,1350,9.0,Apartment,2024,-1,1
+4001809021,"Rohrstrasse 2,",3507 Biglen,4.5,155.0,2360,6.33,Maisonette / Duplex,-1,-1,0
+4001809267,"Madretschstrasse 72,",2503 Bienne,3.5,43.0,1190,5.25,Apartment,2025,-1,0
+4001828964,"Bernstrasse 87,",3363 Oberönz,4.5,-1,1560,9.75,Apartment,2022,-1,1
+4001853355,"Muracher 3,",2542 Pieterlen,3.5,88.0,2050,11.5,Apartment,-1,-1,1
+4001874968,"Poststrasse 19,",2504 Biel/Bienne,5.5,135.0,3950,2.0,Apartment,-1,2024,1
+4001878408,"Alte Bernstrasse 9,",3148 Lanzenhäusern,4.0,75.0,1490,5.0,Apartment,-1,-1,0
+4001891289,"Unterer Strassackerweg 3,",3067 Boll,4.5,112.0,2080,8.0,Apartment,2017,1992,1
+4001897509,"Wabersackerstr. 57,",3097 Liebefeld,3.5,-1,1990,6.25,Apartment,-1,-1,1
+4001899317,"Neue Bahnhofstrasse 21,",3297 Leuzigen,4.5,94.0,1640,9.5,Apartment,-1,-1,1
+4001901241,"Schwarzenburgstrasse 601,",3144 Gasel,3.5,77.0,1548,-1,Apartment,-1,-1,0
+4001902060,"Mühlemattweg 10,",3324 Hindelbank,4.5,89.0,1800,4.5,Apartment,-1,1984,1
+4001905028,"Nidaugasse 24,",2502 Biel/Bienne,3.0,157.0,2880,2.5,Apartment,-1,1926,0
+4001917553,"Hirschenplatz 4 -10,",3250 Lyss,3.5,81.0,2010,3.25,Apartment,-1,1988,1
+4001919724,"Zürchermatte 10, BE 153'040,",3550 Langnau i. E.,4.5,95.0,2210,-1,Maisonette / Duplex,-1,1992,0
+4001923530,"Zürchermatte 9, BE 153'040,",3550 Langnau i. E.,3.5,75.0,1840,-1,Maisonette / Duplex,-1,1992,1
+4001924456,"Alte Bernstrasse 9,",3148 Lanzenhäusern,3.0,59.0,1290,5.0,Apartment,-1,-1,0
+4001950144,"Lätternweg 4,",3052 Zollikofen,3.5,78.0,1650,4.25,Apartment,-1,1970,1
+4001957145,"Hermann-Lienhard-Strasse 1e, 2502 Biel,",2505 Biel,3.5,89.0,2200,-1,Apartment,-1,-1,1
+4001958834,"Rue Industrielle 88,",2740 Moutier,4.5,85.0,1080,8.5,Apartment,-1,-1,0
+4001959476,"Hauptstrasse 3,",3251 Wengi b. Büren,4.5,179.0,2180,-1,Maisonette / Duplex,-1,2017,1
+4001959810,"Gotthelfstr. 52,",3400 Burgdorf,5.0,114.0,2010,3.5,Apartment,-1,1954,1
+4001962331,"Bahnhofstrasse 1,",2502 Biel/Bienne,4.0,-1,1800,1.75,Apartment,-1,-1,0
+4001968194,"Spismattweg 15,",3296 Arch,3.5,85.0,1700,3.0,Apartment,-1,-1,1
+4001970033,"Füllerichstr. 22,",3073 Gümligen,3.0,70.0,1930,7.0,Apartment,2023,-1,1
+4001975555,"7, rte de la neuveville,",2515 Prêles,4.5,-1,1800,16.0,Roof flat,2025,1906,1
+4001976090,"Gigonweg 3,",3027 Bern,4.5,85.0,2390,3.75,Apartment,-1,2022,1
+4001979606,,,-1,-1,-1,-1,,-1,-1,0
+4001980491,"Reitschulstrasse 5,",2502 Biel,1.5,-1,1390,2.5,Attic flat,2025,-1,1
+4001983065,"Einschlagstrasse 2,",4923 Wynau,5.5,150.0,2250,10.0,Attic flat,-1,-1,1
+4001983261,"Ursprungstrasse 45,",3053 Münchenbuchsee,3.5,80.0,1830,7.25,Apartment,-1,-1,1
+4001985044,"Leimernweg 5,",3270 Aarberg,4.5,113.0,2040,7.0,Apartment,-1,2012,1
+4001985074,"Bahnhofstr. 29,",4900 Langenthal,4.5,97.0,1795,3.25,Apartment,-1,1983,1
+4001986351,"Brüggstrasse 68,",2503 Biel/Bienne,2.5,45.0,1090,6.75,Roof flat,-1,-1,1
+4001987280,"Gutenbergstr. 37,",3011 Bern,2.5,66.0,1925,5.0,Apartment,1997,1934,0
+4001995630,"Hauptstrasse 33,",3250 Lyss,3.5,72.0,1490,4.25,Apartment,-1,1954,1
+4001997044,"Ob. Bahnhofstr. 22K,",3700 Spiez,6.5,133.0,3323,-1,Attic flat,2013,1984,0
+4002004941,"Muhlernstr. 246,",3098 Schliern b. Köniz,3.5,76.0,1640,4.0,Apartment,2015,1983,1
+4002004954,"Zürchermatte 12, BE 153'040,",3550 Langnau i. E.,5.5,118.0,2350,-1,Maisonette / Duplex,-1,1992,0
+4002004955,"Zürchermatte 13, BE 153'040,",3550 Langnau i. E.,5.5,102.0,2250,-1,Maisonette / Duplex,-1,1992,1
+4002005132,"Höheweg 2,",3800 Interlaken,1.5,25.0,1600,2.75,Apartment,2025,-1,0
+4002006363,"Brüggstrasse 66,",2503 Biel/Bienne,3.5,60.0,1200,6.75,Apartment,-1,-1,1
+4002008503,"Thunstrasse 47,",3005 Bern,4.5,100.0,3140,4.0,Apartment,2024,-1,1
+4002008883,"Rue du Pont 2,",2710 Tavannes,1.5,-1,600,4.0,Apartment,2024,-1,1
+4002009254,"Grubenstrasse 47,",4900 Langenthal,4.0,74.0,1489,7.5,Apartment,-1,-1,1
+4002020794,"Zytgloggelaube 6,",3011 Bern,3.5,111.0,-1,1.25,Apartment,-1,1926,1
+4002022125,"Buristr. 8,",3006 Bern,3.5,79.0,1980,6.75,Apartment,1996,1967,1
+4002022134,"Giacomettistrasse 26,",3006 Bern,5.0,111.0,2337,3.75,Apartment,-1,1962,1
+4002023064,"Rückimattweg 1,",3312 Fraubrunnen,4.5,102.0,2005,3.67,Apartment,-1,-1,0
+4002025414,"Madretschstr. 108,",2503 Biel,3.5,67.0,1525,7.5,Apartment,-1,1966,1
+4002025489,"Rohrstrasse 2,",3507 Biglen,4.5,154.0,2350,6.33,Maisonette / Duplex,-1,-1,0
+4002027413,"Dorfstrasse 10,",3297 Leuzigen,2.5,47.0,1065,4.0,Apartment,-1,-1,0
+4002028682,"Unterdorfstr. 11,",3072 Ostermundigen,3.5,80.0,1935,7.0,Apartment,-1,1981,1
+4002029592,"Schmidtenweg 2,",4912 Aarwangen,2.5,78.0,1620,6.0,Apartment,-1,-1,0
+4002031482,"Grauholzstr. 72,",3063 Ittigen,4.5,113.0,2255,11.5,Apartment,-1,1979,1
+4002031801,"Wangenstrasse 132A,",3018 Bern,4.5,-1,1690,9.25,Apartment,-1,-1,1
+4002033471,"Kirchstrasse 2-8 / 24-26,",3097 Liebefeld,-1,139.0,2514,1.5,Loft,2014,1990,0
+4002038494,"Sägestr. 78,",3098 Köniz,1.0,48.0,1410,4.0,Apartment,2024,2006,0
+4002039879,"Buristr. 10,",3006 Bern,4.5,96.0,2305,7.0,Apartment,1996,1967,1
+4002039880,"Buristr. 8,",3006 Bern,3.5,78.0,2010,6.75,Apartment,1996,1967,1
+4002042524,"Mettlenweg 34,",2504 Biel,3.5,-1,1190,4.75,Apartment,-1,-1,1
+4002043843,"Bützbergstrasse 89,",4900 Langenthal,4.5,90.0,1520,11.0,Apartment,-1,-1,1
+4002045424,"Beundenstrasse 12,",4538 Oberbipp,3.5,114.0,2030,8.0,Apartment,-1,-1,0
+4002047947,"Mühlestrasse 35,",3555 Trubschachen,3.5,130.0,1890,6.5,Apartment,-1,-1,1
+4002050163,"Bodelenweg 101,",3172 Niederwangen b. Bern,4.5,104.0,2120,8.33,Apartment,-1,2015,1
+4002051194,"Kirchenfeldstrasse 1d,",3250 Lyss,3.5,83.0,2180,6.75,Apartment,-1,2020,1
+4002052350,"Flurweg 22,",2504 Biel/Bienne,3.0,71.0,1530,8.0,Apartment,1997,1970,0
+4002055699,"Gyrischachenstrasse 2a,",3400 Burgdorf,5.5,112.0,2020,10.0,Apartment,2010,1976,1
+4002056564,"Lischenweg 30A,",2503 Biel,3.5,69.0,1560,6.5,Apartment,-1,-1,1
+4002057244,"Ernst-Schüler-Strasse 30,",2502 Biel,4.5,80.0,1950,2.5,Roof flat,-1,-1,0
+4002062017,"Riedstrasse 40,",3626 Hünibach,5.5,131.0,3790,7.25,Apartment,-1,2025,1
+4002062690,"Mattenhofstr. 11,",3007 Bern,4.5,121.0,2530,3.75,Maisonette / Duplex,-1,1992,1
+4002066596,"Marktgasse 6,",2502 Biel/Bienne,4.0,140.0,2495,2.0,Apartment,2018,1948,0
+4002069518,"Dammweg 4A,",3426 Aefligen,3.5,54.0,1240,5.67,Apartment,-1,1975,1
+4002071237,"Lenzenhohlestrasse 4,",3302 Moosseedorf,3.5,72.0,1742,11.0,Apartment,2002,1971,1
+4002071248,"Ländtestrasse 51,",2503 Biel/Bienne,3.5,71.0,1450,3.5,Apartment,-1,1959,1
+4002072518,"Nussbaumweg 1,",4914 Roggwil BE,4.0,78.0,1540,8.33,Apartment,2019,1963,0
+4002073538,"Bözingenstrasse 138,",2504 Biel/Bienne,3.5,105.0,1778,3.0,Apartment,-1,1961,1
+4002076759,"Bächtelenweg 3,",3084 Wabern,3.5,86.0,2290,6.75,Apartment,-1,2015,1
+4002079060,"Staffelstr. 5a,",3303 Jegenstorf,4.0,72.0,1700,6.25,Apartment,-1,1962,1
+4002079077,"Bodelenweg 101,",3172 Niederwangen b. Bern,3.5,75.0,1970,8.33,Attic flat,-1,2015,0
+4002079079,"Bodelenweg 107,",3172 Niederwangen b. Bern,4.5,104.0,2340,9.67,Apartment,-1,2015,0
+4002079080,"Unterer Strassackerweg 11,",3067 Boll,4.5,103.0,1880,9.0,Apartment,2017,1992,1
+4002084870,"Aarestrasse 4,",3052 Zollikofen,3.5,71.0,1660,8.0,Apartment,-1,1970,1
+4002085529,"Bürenstrasse 81,",2504 Biel,3.5,-1,1800,6.75,Apartment,-1,-1,1
+4002086320,"Felderhofstr. 24A,",3360 Herzogenbuchsee,3.0,69.0,1360,7.25,Apartment,2011,1965,1
+4002086531,"Belpstrasse 23,",3007 Bern,1.5,30.0,1650,5.25,Apartment,2022,-1,0
+4002086534,"Belpstrasse 23,",3007 Bern,1.5,23.0,1650,5.25,Apartment,2022,-1,0
+4002088695,"Thörigenstrasse 43,",3368 Bleienbach,4.5,95.0,1845,6.5,Apartment,-1,2023,1
+4002089026,"Etzmattrain 28,",3322 Urtenen-Schönbühl,3.5,78.0,1790,7.5,Apartment,-1,2008,1
+4002093423,"Dorfstrasse 35,",3432 Lützelflüh-Goldbach,5.5,-1,1990,5.0,Apartment,-1,-1,1
+4002093561,"Dorfstrasse 50,",3415 Hasle b. Burgdorf,4.0,-1,1850,4.0,Apartment,-1,-1,1
+4002094138,"Marktgasse 2,",4900 Langenthal,2.5,130.0,2030,4.25,Loft,-1,2008,1
+4002096476,,,-1,-1,-1,-1,,-1,-1,0
+4002096641,"Kappeliweg 20,",3360 Herzogenbuchsee,4.5,96.0,1770,6.0,Apartment,-1,2010,0
+4002100979,"Schulstrasse 67B,",3604 Thun,4.5,-1,2050,7.25,Apartment,2025,1979,1
+4002101549,"Viktoriastr. 21 (Townhouse),",3013 Bern,3.5,131.0,4485,4.5,Apartment,-1,-1,0
+4002102782,"Friedhofweg 1,",2555 Brügg,1.5,30.0,1000,6.75,Apartment,-1,-1,0
+4002106215,"Buristrasse 43,",3006 Bern,5.5,174.0,4350,5.5,Apartment,-1,-1,1
+4002106445,,,-1,-1,-1,-1,,-1,-1,0
+4002107012,"Gottstattstrasse 72,",2504 Biel (BE),4.5,100.0,2095,9.75,Apartment,-1,-1,1
+4002112285,"Obermattstr. 18,",3018 Bern,3.0,61.0,1640,5.5,Apartment,2000,1970,1
+4002112308,"Badhausstrasse 5,",2503 Biel/Bienne,3.0,65.0,1748,5.5,Apartment,-1,1960,1
+4002113571,"Sonneggstrasse 4c,",4950 Huttwil,3.5,70.0,1440,3.75,Apartment,-1,2017,1
+4002114701,"Jungfraustrasse 1a,",2543 Lengnau BE,2.0,53.0,1071,6.0,Apartment,-1,-1,1
+4002116370,"Emil-Schiblistrasse 15,",2543 Lengnau,2.5,50.0,990,4.75,Apartment,-1,1963,1
+4002117928,"Schützenweg 7,",4913 Bannwil,3.5,100.0,1490,-1,Apartment,2024,1983,1
+4002118569,"Gerechtigkeitsgasse 79,",3011 Bern,5.0,133.0,3980,3.25,Apartment,-1,-1,1
+4002119066,"Ahornweg 3,",3662 Seftigen,4.5,110.0,1780,4.0,Apartment,-1,-1,1
+4002119975,"Lutertalstr. 108,",3065 Bolligen,4.5,115.0,2490,8.25,Apartment,2018,1978,1
+4002126391,"Gyrischachenstrasse 6b,",3400 Burgdorf,4.5,97.0,1855,9.5,Apartment,2010,1976,1
+4002126564,"Hüsliweg 1,",3072 Ostermundigen,3.5,95.0,1990,8.25,Apartment,2023,1995,1
+4002129721,"Sonnenbergrain 25,",3013 Bern,2.0,65.0,2000,7.25,Roof flat,2024,-1,0
+4002131705,"Poststrasse 19,",2504 Biel/Bienne,4.5,112.0,3450,2.0,Apartment,-1,2024,1
+4002133362,"Wagisbachstrasse 19,",3818 Grindelwald,4.5,-1,2600,-1,Chalet,2023,-1,0
+4002133603,"Viktoriastr. 21 (Townhouse),",3013 Bern,3.5,116.0,3987,4.5,Apartment,-1,-1,0
+4002133843,"Möslistrasse 5,",3127 Thurnen,3.5,-1,2570,7.67,Apartment,-1,2025,1
+4002133846,"Möslistrasse 5 Mühlethurnen,",3127 Mühlethurnen,4.5,-1,2705,5.67,Apartment,-1,2025,1
+4002134996,"Gantrischweg 6,",3177 Laupen BE,3.0,-1,1270,6.75,Apartment,-1,-1,1
+4002135504,"Oelegasse 4,",3628 Uttigen,3.5,-1,1420,7.33,Apartment,-1,-1,1
+4002135619,"Rabbentalstrasse 87D,",3013 Bern,2.5,76.0,3080,6.25,Attic flat,2025,1999,1
+4002136823,"Route de Soleure 5,",2740 Moutier,3.5,-1,1060,7.75,Apartment,-1,-1,0
+4002136852,"Rue Albert-Gobat 3,",2746 Crémines,4.5,-1,1200,5.5,Apartment,-1,-1,0
+4002136953,"Aarbergstrasse 2,",2502 Biel/Bienne,5.5,120.0,1795,8.0,Apartment,2024,-1,1
+4002137140,"Nassegasse 14,",3302 Moosseedorf,3.5,60.0,1500,9.25,Apartment,2023,-1,1
+4002141004,"Hühnerbühlstrasse 33-51,",3065 Bolligen,3.5,72.0,1930,6.75,Apartment,2025,-1,1
+4002141945,"Weltpoststrasse 1,",3015 Bern,4.5,124.0,4500,4.5,Apartment,-1,2019,1
+4002144191,"Länggasse 9,",3292 Busswil BE,4.5,120.0,1860,3.5,Apartment,2016,1991,1
+4002144963,"Bälliz 35,",3600 Thun,4.5,137.0,2900,4.5,Apartment,2023,-1,1
+4002149206,"Erlenstrasse 5a,",3612 Steffisburg,4.5,92.0,1815,3.75,Apartment,-1,1962,1
+4002149743,"Gummenacher 4,",2562 Port,2.5,60.0,1250,6.0,Apartment,-1,1996,1
+4002152204,"Nesslerenweg 68,",3084 Wabern,3.5,84.0,2305,8.0,Apartment,-1,2016,1
+4002152565,"Beundenstrasse 1,",3063 Ittigen,4.5,140.0,3500,6.75,Apartment,-1,2014,1
+4002153386,"Kronenmattweg 4,",3315 Bätterkinden,3.5,81.0,1860,6.25,Attic flat,-1,2007,1
+4002154991,"Gerechtigkeitsgasse 48,",3011 Bern,2.5,79.0,1990,3.25,Apartment,2023,-1,0
+4002155039,"Zentralstrasse 68,",2503 Biel/Bienne,4.5,138.0,2870,4.25,Attic flat,-1,2010,1
+4002155970,"Buristr. 10,",3006 Bern,2.0,59.0,1625,7.0,Apartment,1996,1967,1
+4002156077,"Rue Pierre-Jolissaint 40,",2610 St-Imier,3.5,75.0,940,3.25,Apartment,2023,-1,1
+4002157749,"Wangentalstrasse 253,",3173 Oberwangen b. Bern,5.5,157.0,2620,-1,Apartment,2020,-1,1
+4002158197,"Kappelenring 12b,",3032 Hinterkappelen,3.5,70.0,1570,3.25,Apartment,-1,1969,0
+4002158199,"Aegertenstrasse 16,",2503 Biel/Bienne,3.0,75.0,1530,7.5,Attic flat,-1,1989,1
+4002159780,"Ländtestrasse 51,",2503 Biel/Bienne,3.5,91.0,1680,3.5,Apartment,-1,1959,1
+4002163238,"Rebenackerweg 1,",2572 Sutz,4.5,120.0,2380,8.67,Apartment,2025,2002,1
+4002164721,"Landoltstrasse 55,",3007 Bern,2.5,85.0,2600,8.75,Apartment,2025,1923,0
+4002164876,"Fliederweg 5,",2503 Biel/Bienne,4.5,114.0,2200,7.0,Apartment,-1,2010,1
+4002165047,"Dorfmattweg 15b,",3110 Münsingen,4.5,69.0,1620,7.0,Apartment,-1,1962,1
+4002166845,"Talbodenstrasse 60,",3098 Schliern b. Köniz,3.5,84.0,2250,7.33,Apartment,2025,1972,1
+4002169050,"Hansenstrasse 12,",3550 Langnau i. E.,4.5,154.0,1790,5.0,Apartment,-1,-1,0
+4002170215,"Lyss-Strasse 20,",2560 Nidau,3.5,83.0,1390,6.0,Apartment,-1,-1,1
+4002170288,"Belpstrasse 41,",3007 Bern,3.0,60.0,1710,4.75,Apartment,-1,1952,0
+4002170693,"Waldrainstrasse 8,",2503 Biel/Bienne,3.5,114.0,2185,6.75,Attic flat,-1,2014,1
+4002171845,"Moserstrasse 22,",3014 Bern,4.5,-1,2950,2.75,Apartment,-1,-1,1
+4002171904,"Wabersackerstrasse 17,",3097 Liebefeld,3.5,68.0,1830,5.5,Apartment,2023,-1,1
+4002172246,,,5.5,-1,1880,-1,Roof flat,2000,1968,1
+4002172531,"Hübeliweg 4,",3053 Münchenbuchsee,2.0,58.0,1150,8.0,Apartment,-1,1972,0
+4002172875,"Bottigenstrasse 252,",3019 Bern,6.5,-1,2600,4.0,Row house,2016,-1,1
+4002173847,"Oberstrasse 61,",3550 Langnau i. E.,4.0,73.0,1580,7.5,Apartment,-1,1953,0
+4002174985,"Schönmattweg 13,",3123 Belp,3.5,65.0,1970,5.0,Apartment,2024,-1,1
+4002175414,"Kasernenstrasse 23,",3600 Thun,4.5,118.0,3250,6.75,Attic flat,-1,2014,1
+4002175814,"Finkenhubelweg,",3012 Bern,3.5,80.0,3400,7.25,Apartment,2025,1893,1
+4002176400,,,1.0,-1,850,-1,Single Room,2023,-1,1
+4002176698,"Zähringerstr. 25,",3012 Bern,2.0,64.0,2020,4.5,Attic flat,2012,1981,1
+4002176734,"Badhausstrasse 7,",2503 Biel/Bienne,3.0,65.0,1620,5.5,Apartment,-1,1960,1
+4002176784,"Kranichweg 18,",3074 Muri b. Bern,4.5,96.0,2300,7.5,Apartment,2017,1984,0
+4002177935,"Berggasse 7,",3150 Schwarzenburg,6.5,-1,2390,4.5,Apartment,-1,-1,1
+4002178763,"Gyrischachenstrasse 2,",3400 Burgdorf,4.5,97.0,1840,9.75,Apartment,2010,1976,1
+4002179233,"Bühlenstrasse 14,",3132 Riggisberg,4.5,88.0,1860,5.67,Apartment,-1,1979,1
+4002181919,"Sägestr. 78,",3098 Köniz,1.0,34.0,1260,4.0,Apartment,2024,2006,0
+4002182196,"Möslistrasse 5 Mühlethurnen,",3127 Mühlethurnen,3.5,-1,2730,5.67,Roof flat,-1,2025,1
+4002183873,"Reuchenettestrasse 37,",2502 Biel,3.5,80.0,1495,6.0,Apartment,2025,-1,1
+4002184917,"Muhlernstrasse 204 (Z3),",3098 Schliern b. Köniz,5.5,133.0,3320,4.33,Attic flat,-1,2013,1
+4002186221,"Zihlbrücke 2A,",3238 Gals,4.5,128.0,2090,9.5,Apartment,-1,2020,1
+4002186712,"Wankdorffeldstrasse 69,",3014 Bern,1.0,47.0,1350,3.75,Apartment,-1,-1,1
+4002187002,"Allmendstr. 5,",3600 Thun,3.5,84.0,1975,6.25,Apartment,-1,2014,0
+4002187023,"Tiergarten 41,",3400 Burgdorf,4.5,100.0,1741,6.5,Apartment,1989,1989,1
+4002187457,,,-1,-1,-1,-1,,-1,-1,0
+4002187458,"Bernstrasse 7,",3122 Kehrsatz,4.5,100.0,1985,2.33,Apartment,2020,1904,1
+4002188571,"Brauihof 26,",4900 Langenthal,3.5,70.0,1735,4.25,Apartment,-1,1995,0
+4002189262,"Brühlweg 11,",2542 Pieterlen,2.5,56.0,1350,6.33,Apartment,-1,2015,0
+4002189265,"Brühlweg 13,",2542 Pieterlen,3.5,94.0,1820,6.33,Apartment,-1,2015,0
+4002189841,"Jakob-Strasse 38,",2504 Biel/Bienne,3.0,59.0,1315,7.75,Apartment,2004,1960,1
+4002189864,"Talackerweg 21,",3506 Grosshöchstetten,4.0,68.0,1320,11.0,Apartment,2012,1973,1
+4002189865,"Talackerweg 37,",3506 Grosshöchstetten,3.0,55.0,1339,11.0,Apartment,2012,1973,1
+4002189869,"Bodelenweg 105,",3172 Niederwangen b. Bern,4.5,104.0,2120,10.33,Apartment,-1,2015,0
+4002189878,"Hirschweid 607,",3113 Rubigen,4.0,100.0,2313,9.0,Maisonette / Duplex,-1,1997,0
+4002189892,"Bernstrasse 11,",3053 Münchenbuchsee,2.5,49.0,1260,3.25,Apartment,-1,1965,1
+4002191090,"Waffengasse 4,",2502 Biel/Bienne,3.5,80.0,1720,1.5,Apartment,-1,1998,1
+4002191116,"Denkmalweg 38,",2543 Lengnau BE,4.5,87.0,1300,10.25,Apartment,2003,1973,1
+4002191119,"Nidaugasse 14,",2502 Biel/Bienne,3.0,75.0,1470,2.25,Apartment,2007,1962,1
+4002191128,"Lyssstr. 5,",2560 Nidau,3.5,90.0,1750,5.75,Apartment,-1,2014,0
+4002192318,"Pestalozzistrasse 71,",3600 Thun,4.5,90.0,2250,7.5,Apartment,-1,-1,1
+4002194781,"Hauptstrasse 36,",2556 Schwadernau,5.5,138.0,2950,-1,Bifamiliar house,-1,2025,1
+4002195183,"Hübeliweg 11,",3052 Zollikofen,3.5,79.0,1911,9.0,Apartment,-1,-1,0
+4002196431,"Lorrainestrasse 7,",3360 Herzogenbuchsee,4.5,90.0,1590,6.0,Apartment,-1,-1,1
+4002196522,"Bernstrasse 94,",3206 Biberen,7.5,244.0,2990,7.5,Row house,-1,2025,1
+4002198322,"Grotweg 23,",2543 Lengnau BE,4.5,107.0,2090,10.5,Apartment,-1,2016,1
+4002199492,"Bielstrasse 78C,",2555 Brügg BE,4.5,-1,1450,9.0,Apartment,2018,-1,1
+4002200208,"Bahnhofstrasse 43,",4950 Huttwil,3.5,97.0,1870,2.75,Apartment,-1,2021,1
+4002201765,"Bruchbachweg 26,",3312 Fraubrunnen,3.5,97.0,1845,5.33,Apartment,-1,-1,1
+4002204772,"Kreuzackerweg 14,",3250 Lyss,3.5,96.0,1970,4.75,Roof flat,-1,-1,1
+4002205540,"Kranichweg 3,",3074 Muri b. Bern,4.5,97.0,2270,7.5,Apartment,2017,1981,0
+4002205541,"Weltpoststrasse 1B,",3015 Bern,4.5,110.0,3070,4.5,Apartment,-1,2019,1
+4002206574,"Gyrischachenstrasse 41,",3400 Burgdorf,3.5,71.0,1233,8.5,Apartment,2023,1966,1
+4002207838,"Clos Cabert 17,",2747 Corcelles BE,2.5,66.0,1280,-1,Apartment,2021,2021,1
+4002209235,"Jungfrauweg 4,",3322 Urtenen-Schönbühl,3.0,65.0,1650,8.5,Apartment,2024,-1,1
+4002209316,"Schlossmatte 16,",3110 Münsingen,3.5,86.0,1880,7.5,Apartment,-1,1996,1
+4002209833,"Lyssachstrasse 34,",3400 Burgdorf,3.5,95.0,-1,2.25,Apartment,2025,-1,1
+4002209892,"Lyssachstrasse 36,",3400 Burgdorf,4.5,113.0,-1,3.0,Apartment,2025,-1,1
+4002209941,"Zähringerstrasse 10,",3315 Bätterkinden,4.5,89.0,1830,6.75,Apartment,2025,-1,1
+4002210445,"Stegmätteli 9,",3177 Laupen,4.5,108.0,2600,6.75,Apartment,-1,2014,0
+4002212015,"Bäreggstr. 53, Haus A,",4900 Langenthal,3.5,94.0,2050,5.75,Apartment,-1,2013,0
+4002212993,"Dammweg 2,",3426 Aefligen,3.5,54.0,1185,4.67,Apartment,-1,1980,1
+4002213168,"Marktgasse 37,",2502 Biel/Bienne,3.5,79.0,1279,1.75,Apartment,-1,-1,0
+4002213832,"Reichenbachstrasse 3,",3004 Bern,2.5,44.0,1670,13.75,Apartment,-1,-1,1
+4002214423,"Vordergasse 8,",3858 Hofstetten b. Brienz,3.5,94.0,2280,6.0,Apartment,-1,2025,1
+4002214599,"Rämelgässli 76/78,",3067 Boll,4.5,101.0,2240,8.75,Apartment,-1,2018,0
+4002214600,"Rämelgässli 84/86/88,",3067 Boll,3.5,82.0,1950,8.0,Maisonette / Duplex,-1,2018,0
+4002214625,"Stägmatt 10,",3302 Moosseedorf,3.5,101.0,2130,8.0,Apartment,-1,2013,0
+4002214628,"Neumarktstrasse 31,",2500 Biel/Bienne,2.5,74.0,1560,5.75,Attic flat,-1,2007,0
+4002214633,"Neumarktstrasse 29,",2500 Biel/Bienne,3.5,94.0,1845,5.75,Apartment,-1,2007,0
+4002214644,"Alpenstrasse 111,",3052 Zollikofen,4.0,86.0,1880,4.5,Apartment,2010,1998,0
+4002214649,"Bornweg 7,",3006 Bern,2.5,72.0,2060,4.0,Apartment,1991,1928,0
+4002214656,"Farnsbergstrasse 60,",3363 Herzogenbuchsee,4.5,100.0,1655,8.0,Apartment,-1,2006,0
+4002214657,"Oberhardstrasse 20a,",4900 Langenthal,5.5,157.0,2530,6.5,Attic flat,-1,2004,0
+4002216555,"Tellstrasse 26,",3014 Bern,2.5,-1,2210,4.75,Apartment,-1,-1,1
+4002216783,"Hühnerbühlstrasse 33-51,",3065 Bolligen,3.5,84.0,2250,6.75,Apartment,2025,-1,1
+4002218033,"Eigerweg 9,",3422 Kirchberg,4.5,92.0,1770,11.25,Apartment,-1,-1,1
+4002218081,"Zentralstrasse 68,",2503 Biel/Bienne,3.5,92.0,1900,4.25,Apartment,-1,2010,1
+4002218649,"Bahnhofstrasse 29,",3066 Stettlen,6.0,107.0,2200,3.0,Apartment,2001,1971,0
+4002218666,"Wilhelm Kutterweg 35,",2503 Biel,2.5,53.0,1400,-1,Apartment,-1,-1,1
+4002218667,"Wilhelm Kutterweg 37,",2503 Biel,2.5,53.0,1400,-1,Apartment,-1,-1,1
+4002218668,"Wilhelm Kutterweg 35,",2503 Biel,2.5,47.0,1370,-1,Apartment,-1,-1,1
+4002218670,"Innere Schachenstrasse 10,",3315 Bätterkinden,4.5,90.0,1615,5.0,Apartment,-1,-1,1
+4002219342,"Fliederweg 5,",2503 Biel/Bienne,4.5,147.0,2325,3.5,Attic flat,-1,2010,1
+4002219369,"Route du Chaumin 2,",2606 Corgémont,2.5,64.0,1490,3.75,Apartment,-1,2018,1
+4002224187,"Chemin des Bourdons 18,",2533 Leubringen,3.5,80.0,1750,6.0,Apartment,-1,2016,1
+4002224391,"Freiestrasse 24,",2502 Biel,3.5,-1,2150,3.75,Loft,-1,-1,1
+4002228578,"Lerchenweg 8,",3110 Münsingen,4.0,77.0,1905,4.0,Apartment,2018,-1,1
+4002228610,"Fuchsweg 7,",3097 Liebefeld,2.0,56.0,1520,6.5,Apartment,2021,-1,1
+4002228902,"Schwabstrasse 80,",3018 Bern,4.5,100.0,1995,2.5,Apartment,-1,1968,1
+4002229131,"Oelegasse 4,",3628 Uttigen,4.5,-1,1650,7.33,Apartment,-1,-1,1
+4002229277,"Junkerngasse 58,",3011 Bern,3.5,116.0,3500,3.5,Apartment,2014,1836,0
+4002229599,"Schürlistrasse 3,",2563 Ipsach,4.5,-1,1985,7.0,Apartment,-1,-1,1
+4002230466,"Schwarzenburgstr. 73 / Geb. B,",3097 Liebefeld,2.5,60.0,1713,5.5,Apartment,-1,1947,0
+4002230551,"Jakob-Stämpfli-Strasse 132,",2502 Biel/Bienne,3.5,65.0,1369,4.75,Apartment,2014,1952,0
+4002230627,"Place de la gare 3, 1.Nord,",2710 Tavannes,4.5,-1,999,4.75,Apartment,-1,-1,0
+4002230695,"Lorrainestrasse 5,",3360 Herzogenbuchsee,4.5,90.0,1630,6.0,Apartment,-1,-1,1
+4002230883,"Clos Cabert 17,",2747 Corcelles BE,5.5,162.0,1980,-1,Apartment,2021,2021,1
+4002231552,"Weltpoststrasse 1A,",3015 Bern,2.5,71.0,2208,4.5,Apartment,-1,2019,0
+4002231943,"Bahnweg 55,",3177 Laupen,4.5,150.0,2790,8.0,Maisonette / Duplex,2019,-1,1
+4002232059,"Langenwilweg 57,",3150 Schwarzenburg,3.5,-1,1835,6.75,Roof flat,-1,-1,1
+4002232427,"Oberdorfweg 11,",3512 Walkringen,4.5,110.0,2400,5.5,Roof flat,2023,1836,1
+4002233016,"obere Zollgasse 5,",3072 Ostermundigen,4.5,-1,1950,3.75,Apartment,2017,-1,1
+4002233183,"Rue du Moulin 4a,",2732 Reconvilier,5.5,141.0,2770,4.5,Apartment,-1,2025,0
+4002233731,"Bernstrasse 26,",3360 Herzogenbuchsee,1.0,12.0,655,9.75,Single Room,2020,1920,0
+4002233828,"Napfstrasse 62,",3550 Langnau,3.5,90.0,2200,6.67,Attic flat,-1,2016,1
+4002234399,"Rämelgässli 90/92,",3067 Boll,3.5,83.0,1930,8.5,Maisonette / Duplex,-1,2018,0
+4002234401,"Bornweg 9,",3006 Bern,2.5,52.0,1610,4.0,Apartment,1991,1928,0
+4002234405,"Alpenstrasse 59,",3052 Zollikofen,4.5,104.0,2120,3.5,Apartment,2010,1998,0
+4002235519,"Mühlestrasse 35,",3555 Trubschachen,3.0,88.0,1380,6.5,Apartment,-1,-1,1
+4002235547,"Aeschlenstrasse 134,",3656 Aeschlen ob Gunten,3.0,75.0,2130,-1,Apartment,2025,-1,1
+4002235839,"Neuhofstrasse 27,",3422 Kirchberg,3.5,56.0,1300,8.25,Apartment,-1,1959,1
+4002236129,"Eigerstrasse 73,",3007 Bern,1.0,222.0,3140,5.5,Loft,2021,1972,1
+4002236197,"Eigerstrasse 73,",3007 Bern,3.5,222.0,3140,5.5,Loft,2021,1972,1
+4002236407,"Aarbergstrasse 24,",3250 Lyss,3.5,90.0,1960,2.25,Apartment,-1,2009,0
+4002236832,"Rue du Crêt 4,",2740 Moutier,3.5,-1,1300,6.0,Apartment,-1,-1,0
+4002236845,"von May-Strasse 4,",3604 Thun,4.5,142.0,1920,5.5,Apartment,-1,-1,1
+4002237340,"Lätternweg 38,",3052 Zollikofen,3.5,72.0,1550,6.25,Apartment,-1,1960,1
+4002237532,"Alfred-Aebi-Strasse 92,",2503 Biel/Bienne,4.5,103.0,2280,3.5,Apartment,2016,1960,0
+4002237540,"Alfred-Aebi-Strasse 92,",2503 Biel/Bienne,2.5,84.0,1440,3.5,Apartment,2016,1960,0
+4002238086,"Bözingenstrasse 31,",2502 Biel/Bienne,1.0,83.0,1700,5.75,Loft,2020,-1,1
+4002238087,"Bözingenstrasse 31,",2502 Biel/Bienne,1.0,68.0,1610,5.75,Loft,2020,-1,1
+4002238088,"Bözingenstrasse 31,",2502 Biel/Bienne,2.0,87.0,1770,5.75,Loft,2020,-1,0
+4002238090,"Bözingenstrasse 31,",2502 Biel/Bienne,1.0,93.0,1850,5.75,Loft,2020,-1,1
+4002238443,,,-1,-1,-1,-1,,-1,-1,0
+4002238444,"Mattenstrasse 138,",2503 Biel/Bienne,2.0,51.0,1100,7.0,Apartment,-1,-1,0
+4002238460,"Rue Industrielle 82,",2740 Moutier,3.5,75.0,860,8.0,Apartment,-1,-1,1
+4002238633,"Rue de la Fromagerie 10,",2712 Le Fuet,2.0,36.0,1690,4.5,Apartment,2025,-1,1
+4002238742,"Bim Hasel 19,",3052 Zollikofen,4.5,97.0,2050,13.75,Apartment,2014,1983,1
+4002239058,"Stadtplatz 20,",3270 Aarberg,1.5,41.0,1225,6.0,Apartment,1977,1994,0
+4002240560,"Blumensteinstrasse 26,",3665 Wattenwil,3.5,80.0,1690,4.67,Apartment,2000,-1,1
+4002242077,"Oenzgasse 15,",3362 Niederönz,5.5,114.0,1990,11.75,Maisonette / Duplex,-1,2009,1
+4002244091,"Müliholzstrasse 3,",3203 Mühleberg,2.5,80.0,1665,5.5,Roof flat,2018,-1,1
+4002244167,"Breitmoosstrasse 2,",3421 Lyssach,1.0,-1,850,5.5,Single Room,-1,-1,1
+4002244286,"Sandrainstrasse 72,",3007 Bern,1.0,-1,400,8.0,Hobby room,2005,2005,0
+4002244450,"Hühnerhubelstrasse 981,",3123 Belp,4.0,130.0,2440,-1,Apartment,2023,-1,1
+4002244507,"Seidenweg 10,",3012 Bern,3.0,-1,2400,3.25,Apartment,2020,1912,1
+4002245002,"Zelgweg 10,",3076 Worb,3.5,65.0,1790,5.5,Apartment,-1,2025,1
+4002245328,"Grand-Rue 29,",2732 Reconvilier,3.5,74.0,1130,4.25,Apartment,-1,-1,1
+4002245474,"Grand-Rue 33a + 31,",2608 Courtelary,4.5,113.0,1730,6.0,Apartment,-1,2018,1
+4002245508,"Rainstrasse 46,",2503 Biel/Bienne,4.5,96.0,2280,7.25,Apartment,-1,-1,1
+4002247347,"Bahnhofstrasse 43,",4950 Huttwil,3.5,71.0,1510,2.5,Apartment,-1,2021,0
+4002247706,"Gassacherweg 3,",3114 Wichtrach,4.5,140.0,1960,4.0,Apartment,-1,-1,1
+4002248586,"Ja Freimettigenstrasse 4,",3510 Konolfingen,5.5,292.0,2570,6.0,Apartment,-1,2008,1
+4002249115,"Austrasse 75,",3176 Neuenegg,3.5,87.0,1849,-1,Apartment,2000,2000,1
+4002250138,,,-1,-1,-1,-1,,-1,-1,0
+4002250563,"Standstrasse 21,",3014 Bern,1.5,104.0,2600,3.25,Loft,-1,2023,1
+4002250804,"Wahlackerstrasse 5,",3052 Zollikofen,2.5,75.0,1930,4.0,Apartment,-1,2023,1
+4002250842,"Ulmenweg 10,",3604 Thun,4.5,100.0,1760,8.0,Apartment,2003,1963,1
+4002251035,"Oberstrasse 61,",3550 Langnau i. E.,4.0,73.0,1550,7.5,Apartment,-1,1953,0
+4002251947,"Jurastrasse 37,",3063 Ittigen,4.5,102.0,1800,8.75,Apartment,1988,1988,0
+4002252342,"Farnsbergstrasse 28,",3360 Herzogenbuchsee,4.5,69.0,1400,8.5,Apartment,-1,-1,1
+4002252349,"Seestrasse 24,",2563 Ipsach,3.5,-1,2000,7.0,Apartment,-1,-1,0
+4002252533,"Seftigenstrasse 354,",3084 Wabern,3.5,82.0,2040,5.25,Apartment,2009,1986,1
+4002252535,"Kirchweg 56,",3324 Hindelbank,2.5,49.0,1580,5.0,Attic flat,-1,2013,1
+4002252742,"Neuengasse 38,",2502 Biel/Bienne,3.5,90.0,1770,2.0,Apartment,-1,-1,1
+4002252774,"Postgässli 2,",3045 Meikirch,2.5,-1,1315,13.67,Apartment,-1,-1,1
+4002252857,"Landstrasse 78,",3715 Adelboden,3.5,-1,1700,-1,Apartment,-1,-1,1
+4002252866,"Brauereiweg 1,",3612 Steffisburg,3.5,-1,1950,3.67,Apartment,-1,-1,1
+4002252936,"Gantrischstrasse 12,",3052 Zollikofen,3.5,75.0,1595,11.0,Apartment,2022,-1,1
+4002253063,"Kastanienweg 58,",3123 Belp,4.5,119.0,2790,11.75,Attic flat,-1,2010,0
+4002253064,"Friedweg 8,",2503 Biel/Bienne,3.5,75.0,1609,5.75,Apartment,-1,2013,0
+4002253139,"Breitfeldstrasse 58,",3014 Bern,3.5,95.0,2290,2.75,Apartment,-1,1928,0
+4002253142,,,-1,-1,-1,-1,,-1,-1,0
+4002253607,"Stadtbachstrasse 40,",3012 Bern,2.5,54.0,1990,7.25,Apartment,2019,-1,1
+4002253804,"Baumgartenstrasse 10,",3123 Belp,5.5,111.0,2300,4.75,Apartment,2025,-1,1
+4002254515,"Platanenweg 7,",4914 Roggwil BE,3.0,65.0,1420,7.33,Apartment,2019,1963,0
+4002254538,"Etzmattrain 26,",3322 Urtenen-Schönbühl,3.5,81.0,1910,7.5,Apartment,-1,2008,1
+4002254818,"Schollstrasse 19,",2504 Biel/Bienne,3.5,67.0,1325,4.25,Apartment,1998,1957,0
+4002254889,,,-1,-1,-1,-1,,-1,-1,0
+4002254890,"Bondelistrasse 66,",3084 Wabern,3.5,79.0,1920,5.25,Apartment,2018,1975,0
+4002254891,"Chemin Près-Guetins 36f,",2520 La Neuveville,4.5,93.0,1930,7.5,Apartment,-1,-1,1
+4002254898,,,-1,-1,-1,-1,,-1,-1,0
+4002255485,"Lischenweg 30B,",2503 Biel,3.5,69.0,1470,6.5,Apartment,-1,-1,1
+4002255486,,,-1,-1,-1,-1,,-1,-1,0
+4002255784,,,-1,-1,-1,-1,,-1,-1,0
+4002256075,,,-1,-1,-1,-1,,-1,-1,0
+4002256392,"Bälliz 25,",3600 Thun,2.5,79.0,2050,5.0,Apartment,-1,2025,1
+4002256550,,,-1,-1,-1,-1,,-1,-1,0
+4002258219,"Neumarktstrasse 29,",2500 Biel/Bienne,3.5,94.0,1890,5.75,Apartment,-1,2007,0
+4002258227,"Verresiusstrasse 15,",2502 Biel/Bienne,3.5,78.0,1530,4.25,Apartment,2016,1951,0
+4002259393,"Mattenstrasse 14c,",2562 Port,3.5,70.0,1480,10.5,Apartment,-1,-1,1
+4002259428,"Zentralstrasse 28,",2502 Biel/Bienne,3.0,-1,1750,2.25,Attic flat,2022,-1,1
+4002259814,"Dorfstrasse 10,",3297 Leuzigen,2.5,47.0,1162,4.0,Apartment,-1,-1,0
+4002260342,"Alpenstrasse 11,",3250 Lyss,3.5,123.0,1990,6.75,Apartment,2012,1997,1
+4002260439,"Galgackerweg 6,",4704 Niederbipp,4.5,125.0,1730,9.33,Terrace flat,2025,1985,1
+4002261096,"Beundengasse 2,",3250 Lyss,2.5,64.0,1560,1.75,Apartment,-1,2009,1
+4002261337,"Westerholz 4,",2504 Biel/Bienne,5.5,114.0,2010,6.25,Apartment,-1,1989,0
+4002264223,,,-1,-1,-1,-1,,-1,-1,0
+4002264628,,,-1,-1,-1,-1,,-1,-1,0
+4002264860,"Luzernstrasse 37,",4950 Huttwil,1.5,40.0,750,6.0,Apartment,-1,-1,0
+4002265352,"Schwabstrasse 78,",3018 Bern,4.5,88.0,2590,2.5,Apartment,2025,1970,1
+4002267022,"Bahnhofstrasse 2,",4900 Langenthal,3.5,-1,1650,3.25,Apartment,2007,1840,0
+4002267317,"Holenackerstrasse 85,",3027 Bern,3.5,96.0,2042,7.0,Apartment,-1,-1,1
+4002267519,"Haldenweg 5,",3283 Kallnach,4.5,-1,2090,11.0,Apartment,-1,-1,1
+4002267772,"Terrassenrain 7,",3072 Ostermundigen,5.5,-1,4650,7.0,Attic flat,-1,-1,1
+4002267823,"Aarwangenstrasse 68a,",4900 Langenthal,3.5,140.0,1560,4.5,Apartment,-1,1981,1
+4002268219,"Schmiedengasse 25,",3400 Burgdorf,4.5,136.0,2414,3.0,Apartment,2016,1867,0
+4002268766,"Elfenauweg 35,",3006 Bern,2.5,60.0,1750,5.0,Apartment,-1,-1,1
+4002268807,"Thunstrasse 20 d,",3110 Münsingen,3.5,90.0,2340,5.5,Apartment,-1,2018,1
+4002268809,"Rue Baptiste-Savoye 62,",2610 St-Imier,2.5,51.0,820,3.5,Apartment,-1,-1,0
+4002269102,"Centralweg 16,",3013 Bern,2.5,66.0,1830,2.75,Apartment,1999,1938,0
+4002269772,"Guinandstrasse 10,",2555 Brügg,5.5,147.0,2720,5.25,Apartment,2023,2010,1
+4002270653,"Finkenweg 6,",4932 Lotzwil,3.5,60.0,1500,3.67,Apartment,2019,-1,1
+4002270674,"Mannenriedstrasse 23,",3074 Muri b. Bern,5.5,146.0,6100,11.5,Apartment,-1,2022,1
+4002271073,"Schönmattweg 24,",3123 Belp,3.5,68.0,1510,5.25,Apartment,-1,1964,0
+4002271197,"Bernstrasse 149,",3400 Burgdorf,3.5,86.0,1850,11.25,Apartment,-1,2011,0
+4002271268,"Freiburgstrasse 92,",3174 Thörishaus,5.5,180.0,3600,8.67,Apartment,2021,1919,1
+4002272005,"Kirchlindachstrasse 25,",3052 Zollikofen,4.5,110.0,2700,4.0,Apartment,2024,1969,1
+4002272644,"Waldrainstrasse 8,",2503 Biel/Bienne,3.5,77.0,1770,6.75,Apartment,-1,2014,1
+4002272881,"Zilmattstrasse 103,",3255 Rapperswil,3.5,96.0,2050,3.0,Apartment,-1,2025,1
+4002274477,"Oberstrasse 31,",3550 Langnau i. E.,4.5,105.0,1595,6.25,Apartment,-1,-1,1
+4002274756,"Breiteweg 6,",3380 Wangen an der Aare,4.5,85.0,2270,15.67,Apartment,-1,-1,1
+4002274775,"Städtli 17,",4537 Wiedlisbach,4.0,-1,2155,2.67,Apartment,-1,-1,1
+4002275152,"Mühlestrasse 35,",3555 Trubschachen,6.5,218.0,3270,6.5,Farm house,-1,-1,1
+4002275533,"Chemin du Coteau 2,",2533 Evilard,3.5,-1,1610,12.67,Apartment,-1,-1,1
+4002275579,"Cyrostrasse 15,",3006 Bern,3.5,135.0,3300,6.75,Maisonette / Duplex,2025,2001,1
+4002276295,"Südstrasse 48,",2504 Biel/Bienne,3.5,79.0,1624,4.75,Apartment,2015,1987,1
+4002277135,"Feldeggstrasse 30,",3322 Schönbühl,4.5,-1,1671,3.5,Apartment,-1,-1,1
+4002277719,"Breitebünenweg 5,",4539 Rumisberg,5.5,-1,1890,12.0,Apartment,-1,-1,0
+4002277886,"Vorder Weg 31,",3555 Trubschachen,5.5,122.0,2700,7.0,Apartment,-1,2025,1
+4002278016,"Mühlemattweg 8,",3324 Hindelbank,4.5,89.0,1790,3.5,Apartment,-1,1985,0
+4002278402,"Beethovenstrasse 21,",3073 Gümligen,3.5,72.0,1818,6.75,Apartment,-1,-1,1
+4002279033,,,-1,-1,-1,-1,,-1,-1,0
+4002279088,"Zelgweg 2,",3047 Bremgarten b. Bern,3.5,78.0,2190,7.33,Apartment,-1,-1,1
+4002279141,"Mettlenweg 66,",2504 Biel/Bienne,3.0,-1,1315,8.75,Apartment,-1,-1,1
+4002280396,"Gebelstrasse 57,",3126 Kaufdorf,5.5,130.0,2290,5.0,Maisonette / Duplex,-1,1986,1
+4002280936,,,4.0,-1,1580,-1,Roof flat,-1,-1,0
+4002282571,"Lotzwilstrasse 28,",4900 Langenthal,3.0,104.0,1300,3.25,Apartment,2019,-1,0
+4002283495,"Lugenbachweg 11,",3457 Wasen im Emmental,4.5,-1,2000,10.67,Apartment,-1,2024,1
+4002283496,"Lugenbachweg 13,",3457 Wasen im Emmental,4.5,-1,1950,10.67,Apartment,-1,2024,1
+4002284142,"Franz-Schnyder-Weg 14,",3422 Alchenflüh,2.5,57.0,1300,7.5,Apartment,-1,-1,0
+4002284348,"Thunstettenstrasse 58a,",4900 Langenthal,4.5,92.0,1450,12.0,Apartment,-1,-1,1
+4002284372,"Esplanade Kongresshaus 1,",2502 Biel,4.5,133.0,2625,4.5,Apartment,-1,2023,1
+4002284691,"Silbergasse 42 / Haus E,",2503 Biel/Bienne,4.5,-1,2120,5.75,Apartment,-1,-1,0
+4002284824,"Finkhubelweg 6,",3400 Burgdorf,3.5,77.0,1895,9.0,Apartment,-1,-1,0
+4002285236,"Rue des Ruaux 9,",2603 Péry,3.5,74.0,1180,-1,Apartment,-1,-1,1
+4002285496,"Hauptstrasse 34,",3252 Worben,3.5,81.0,1820,4.5,Apartment,-1,-1,1
+4002287390,"Ziegeleistrasse 6a,",3054 Schüpfen,2.5,54.0,1540,11.25,Apartment,-1,2011,1
+4002287649,"Frenschenbergstrasse 21,",2575 Gerolfingen,4.0,80.0,1500,6.75,Apartment,2021,-1,1
+4002288299,"Narzissenweg 23,",2504 Biel,3.5,87.0,1835,3.5,Apartment,-1,-1,1
+4002288817,"Schifflaube 16,",3011 Bern,4.5,102.0,2790,4.0,Apartment,-1,-1,1
+4002288999,"Mattenstrasse 3,",2558 Aegerten,4.5,-1,1520,7.75,Apartment,-1,-1,1
+4002289116,"Bleienbachstrasse 4B,",4932 Lotzwil,4.5,-1,1890,5.0,Apartment,-1,-1,0
+4002289178,"Jungfraustrasse 1,",2543 Lengnau BE,4.5,83.0,1430,5.25,Apartment,-1,-1,1
+4002290003,"Stägmatt 12,",3302 Moosseedorf,4.5,115.0,2570,8.0,Apartment,-1,2013,0
+4002290343,"Jurastrasse 19,",3063 Ittigen,4.5,97.0,1640,8.75,Apartment,1984,1984,1
+4002290388,"Jakob-Stämpfli-Strasse 114a,",2502 Biel,2.5,67.0,1645,6.0,Apartment,-1,-1,1
+4002290757,"Alfred Aebi-Strasse 55,",2503 Biel/Bienne,4.5,100.0,1880,5.25,Apartment,-1,-1,1
+4002290776,"Länggassstrasse 77,",3012 Bern,3.0,-1,2270,5.0,Apartment,-1,-1,1
+4002290782,"Grotweg 23,",2543 Lengnau BE,3.5,79.0,1575,10.5,Apartment,-1,2016,1
+4002290845,"Wynigenstrasse 8,",3400 Burgdorf,4.0,70.0,1610,4.5,Apartment,-1,-1,0
+4002290852,"Sahlimatte 203,",3036 Detligen,4.5,98.0,1800,-1,Apartment,2018,1987,1
+4002291175,"Sennweg 3,",3012 Bern,2.0,-1,1840,4.5,Apartment,-1,-1,1
+4002291515,"Riedbachstr. 93,",3027 Bern,3.5,95.0,2260,6.25,Apartment,-1,-1,0
+4002291539,"Amietstrasse 18,",3400 Burgdorf,1.0,37.0,895,10.0,Apartment,-1,1996,0
+4002291732,"Bordweg 5,",3436 Zollbrück,2.5,93.0,1795,6.0,Roof flat,-1,2022,1
+4002291848,"Jubiläumsstrasse 42,",3005 Bern,2.5,65.0,1910,6.25,Roof flat,2023,1930,0
+4002292291,"Dammstrasse 24,",3400 Burgdorf,3.5,96.0,1770,5.25,Apartment,2012,1962,1
+4002292293,"Typonweg 5,",3400 Burgdorf,4.5,95.0,1820,5.5,Apartment,2012,1962,1
+4002292294,"Typonweg 5,",3400 Burgdorf,4.5,104.0,1990,5.5,Apartment,2012,1962,1
+4002292295,"Typonweg 3,",3400 Burgdorf,3.5,87.0,1775,5.25,Apartment,2012,1962,1
+4002292296,"Typonweg 15 a,",3400 Burgdorf,4.5,105.0,2100,5.25,Maisonette / Duplex,2012,1962,1
+4002292297,"Typonweg 9 b,",3400 Burgdorf,3.5,137.0,2300,5.25,Maisonette / Duplex,2012,1962,1
+4002292411,"Gyrischachenstrasse 42,",3400 Burgdorf,3.5,75.0,1395,9.25,Apartment,2025,-1,1
+4002292445,"Schwarzenburgstrasse 749,",3145 Niederscherli,4.5,85.0,1740,11.0,Apartment,2015,1988,1
+4002292656,"Niesenweg 1,",3012 Bern,2.5,63.0,2390,6.75,Apartment,2015,1976,1
+4002292657,"Niesenweg 1,",3012 Bern,1.5,43.0,1480,6.75,Apartment,2015,1976,1
+4002292704,,,-1,-1,-1,-1,,-1,-1,0
+4002292714,,,-1,-1,-1,-1,,-1,-1,0
+4002293053,,,-1,-1,-1,-1,,-1,-1,0
+4002293669,"Vorstadt 30,",3380 Wangen an der Aare,1.5,36.0,852,3.33,Apartment,-1,-1,0
+4002294384,"Friedweg 8,",2503 Biel/Bienne,3.5,73.0,1620,5.75,Apartment,-1,2013,0
+4002295127,"Bielstrasse 18,",2560 Nidau,3.5,-1,1439,7.25,Apartment,-1,-1,1
+4002295158,"Zilmattstrasse 105,",3255 Rapperswil,4.5,121.0,2900,1.5,Apartment,-1,2025,1
+4002295196,"Bahnstrasse 59,",3008 Bern,3.5,83.0,2130,5.75,Apartment,2025,-1,1
+4002295261,"Oberbalmstrasse 225,",3096 Oberbalm,5.0,102.0,1900,2.33,Roof flat,2017,-1,1
+4002295378,"Buristr. 8,",3006 Bern,1.0,31.0,1060,6.75,Apartment,1996,1967,1
+4002295510,"Bälliz 34,",3600 Thun,2.5,61.0,2590,4.5,Apartment,2025,-1,0
+4002295819,"Jungfrauweg 12,",3303 Jegenstorf,3.5,160.0,2800,6.5,Loft,2017,1972,1
+4002296125,"Vorstadt 28,",3380 Wangen an der Aare,3.5,77.0,1424,3.33,Apartment,-1,-1,0
+4002296375,"Schwarzenburgstrasse 605,",3144 Gasel,4.5,89.0,1790,-1,Apartment,-1,-1,1
+4002296413,"Wengistrasse 34,",3257 Grossaffoltern,5.5,173.0,3400,12.0,Apartment,-1,2021,1
+4002296455,"J.V. Widmannstrasse 3,",3074 Muri bei Bern,10.0,-1,6800,13.0,Villa,-1,-1,1
+4002296857,,,-1,-1,-1,-1,,-1,-1,0
+4002297441,,,-1,-1,-1,-1,,-1,-1,0
+4002297841,"Seerosenstrasse 52,",3302 Moosseedorf,4.5,104.0,2750,10.25,Apartment,2025,-1,1
+4002297868,"Beaulieustrasse 51,",3012 Bern,2.5,60.0,1740,5.75,Roof flat,2025,1970,0
+4002298299,"Jurastrasse 47,",2500 Biel/Bienne,3.5,69.0,1425,4.5,Apartment,-1,1959,0
+4002298713,"Waldhofstrasse 24,",4900 Langenthal,1.0,35.0,800,7.75,Apartment,2005,-1,1
+4002299385,,,-1,-1,-1,-1,,-1,-1,0
+4002300054,"Oberdorfstrasse 31,",3322 Urtenen-Schönbühl,4.5,115.0,2527,9.0,Apartment,2025,2017,1
+4002300618,"Hünigengasse 10,",3237 Brüttelen,3.5,105.0,1930,7.5,Apartment,-1,2024,1
+4002301645,"Tessenbergstrasse 1,",2513 Twann,5.5,-1,2380,3.5,Roof flat,2025,-1,1
+4002301674,"Lorrainestrasse 52,",3013 Bern,5.5,162.0,4990,3.75,Apartment,2019,-1,1
+4002301941,"Gyrischachenstrasse 6b,",3400 Burgdorf,4.5,97.0,1885,9.5,Apartment,2010,1976,1
+4002301942,,,-1,-1,-1,-1,,-1,-1,0
+4002302317,"Aarstrasse 102,",3005 Bern,2.0,35.0,1600,7.75,Apartment,-1,1880,0
+4002302319,,,-1,-1,-1,-1,,-1,-1,0
+4002302320,"Lindenhofweg 11,",3123 Belp,1.0,24.0,890,4.25,Apartment,-1,-1,0
+4002302330,"Thunstrasse 19,",3510 Konolfingen,2.5,78.0,1720,3.75,Apartment,-1,-1,1
+4002303239,"Schürlistrasse 38,",2563 Ipsach,3.5,88.0,1645,10.0,Apartment,2016,2002,1
+4002303822,"Bernstrasse 78,",3067 Boll,3.5,82.0,1610,3.5,Apartment,2014,-1,1
+4002303891,"Bernstrasse 65/67,",3303 Jegenstorf,4.5,106.0,3340,12.0,Attic flat,-1,-1,1
+4002303892,"Bernstrasse 65/67,",3303 Jegenstorf,4.5,116.0,2735,12.0,Apartment,-1,-1,1
+4002304210,"Surbekstrasse 17,",3006 Bern,4.5,130.0,4950,6.5,Row house,2021,1982,1
+4002304564,"Bernstrasse 139,",3400 Burgdorf,2.5,65.0,1620,9.0,Apartment,-1,-1,1
+4002304976,"Dorf 120,",3538 Röthenbach im Emmental,5.5,129.0,2000,-1,Roof flat,-1,2006,1
+4002304991,"Dennigkofenweg 183,",3072 Ostermundigen,4.5,118.0,2650,7.5,Apartment,2021,1982,1
+4002305072,"Neumarktstrasse 30,",2502 Biel/Bienne,4.5,94.0,1840,3.25,Apartment,2020,-1,1
+4002305186,"Schwärzere 19,",3425 Koppigen,4.5,136.0,2350,5.25,Apartment,2025,2011,1
+4002305450,"Kappelen 24,",3156 Riffenmatt,3.0,95.0,1400,-1,Apartment,-1,-1,1
+4002305771,"Junkerngasse 58,",3011 Bern,2.5,135.0,3090,3.5,Apartment,2014,1836,0
+4002305781,"Fabrikstrasse 12,",3292 Busswil,4.5,106.0,2180,2.5,Apartment,-1,2012,0
+4002305783,"Staffelweg 6,",3400 Burgdorf,4.0,74.0,1330,7.25,Apartment,-1,1963,1
+4002305791,"Ob. Bahnhofstr. 22C,",3700 Spiez,3.5,78.0,1771,-1,Apartment,2013,1984,1
+4002305794,"Mattenhofstr. 11,",3007 Bern,4.5,104.0,1920,3.75,Apartment,-1,1992,1
+4002305796,"Mattenhofstr. 13,",3007 Bern,4.5,104.0,1960,3.75,Apartment,-1,1992,1
+4002305815,"Pestalozzistrasse 85a,",3600 Thun,3.0,61.0,1500,7.25,Apartment,1964,1964,0
+4002305936,"Bahnhofstrasse 1,",2577 Siselen BE,4.5,108.0,1840,9.0,Bifamiliar house,2021,1912,1
+4002306635,,,3.5,52.0,1200,-1,Apartment,-1,1920,1
+4002306965,"Aarestr. 10,",2555 Brügg BE,3.5,71.0,1310,7.25,Apartment,-1,1985,1
+4002306968,"Talackerweg 1,",3506 Grosshöchstetten,2.5,49.0,1050,9.5,Apartment,2012,1973,1
+4002306971,"Bodelenweg 107,",3172 Niederwangen b. Bern,3.5,75.0,1860,9.67,Apartment,-1,2015,0
+4002306972,"Grauholzstr. 72,",3063 Ittigen,4.5,113.0,2230,11.5,Apartment,-1,1979,1
+4002306975,"Sulgenauweg 31,",3007 Bern,2.5,52.0,1360,4.0,Apartment,-1,1987,0
+4002306981,"Hirschweid 601,",3113 Rubigen,4.0,100.0,2265,8.33,Maisonette / Duplex,-1,1997,0
+4002307323,"Eigerweg 9,",3422 Kirchberg,4.5,92.0,1850,11.25,Apartment,-1,-1,0
+4002307329,"Weststrasse 96,",4900 Langenthal,3.5,97.0,1723,11.25,Apartment,-1,-1,0
+4002308091,"Dorfstrasse 20,",3380 Walliswil b. Niederbipp,4.5,123.0,-1,15.67,Apartment,2014,2014,1
+4002308168,"Höheweg  9,",3052 Zollikofen,5.5,132.0,3910,7.25,Attic flat,-1,-1,1
+4002308273,"Route du Château 43,",2520 La Neuveville,4.0,110.0,1810,6.25,Attic flat,2014,1850,1
+4002308571,"Schwanengasse 23 (Haus D),",2503 Biel,3.5,91.0,2050,-1,Apartment,-1,-1,1
+4002308572,,,-1,-1,-1,-1,,-1,-1,0
+4002308610,"Aufhabenweg 3,",4900 Langenthal,4.5,79.0,1570,9.0,Apartment,2021,-1,1
+4002308705,"Ländte 34,",3294 Büren an der Aare,3.5,58.0,1330,3.25,Apartment,-1,-1,0
+4002308925,"Mittelstrasse 5,",3012 Bern,3.5,68.0,1690,3.5,Apartment,-1,1919,1
+4002309877,"Elisabethenstr. 10,",3014 Bern,2.5,64.0,2390,1.75,Attic flat,2013,1978,0
+4002310290,"Klösterlirain 22,",2542 Pieterlen,4.5,105.0,1900,9.0,Apartment,-1,-1,1
+4002310318,"Aareweg 5C,",3037 Herrenschwanden,3.5,95.0,2140,5.0,Apartment,-1,2009,0
+4002310324,"Bernstrasse 49,",3018 Bern,2.0,54.0,1420,2.75,Apartment,1986,1968,0
+4002310855,"Sternenweg 2,",3308 Grafenried,4.5,96.0,1794,9.33,Apartment,-1,1996,1
+4002311339,"Archgässli 1 bis 15,",3454 Sumiswald,2.5,61.0,1570,9.0,Apartment,-1,-1,1
+4002311356,"Hindelbankstrasse 16,",3322 Schönbühl,3.5,-1,1790,3.5,Apartment,2025,-1,1
+4002311735,"Oberer Aareggweg 58,",3004 Bern,3.0,60.0,1310,9.25,Apartment,-1,-1,0
+4002311888,"Meisenweg 14,",2503 Biel/Bienne,2.0,49.0,1130,9.0,Apartment,-1,1955,1
+4002312031,"Bleikenmattstrasse 22,",3122 Kehrsatz,2.5,60.0,1690,7.33,Apartment,2024,2024,1
+4002312178,"Plein-Soleil 16,",2740 Moutier,3.5,-1,1120,17.25,Apartment,-1,-1,1
+4002312714,"Schönmattweg 13,",3123 Belp,2.5,72.0,2490,5.0,Apartment,2024,-1,1
+4002312723,"Löhrenweg 19,",2504 Biel/Bienne,2.5,54.0,1218,5.5,Apartment,-1,2009,0
+4002312724,"Bäreggstrasse 63 A,",4900 Langenthal,4.5,93.0,1865,6.5,Apartment,-1,2004,0
+4002312735,"Moosweg 6,",2554 Meinisberg,4.5,128.0,2300,12.5,Apartment,-1,2021,1
+4002312835,"Murtenstrasse 143 C,",3008 Bern,3.0,76.0,1930,5.75,Apartment,-1,2013,1
+4002312837,,,-1,-1,-1,-1,,-1,-1,0
+4002313384,"Bergernschachenweg 6B,",3436 Zollbrück,4.5,115.0,2100,6.0,Roof flat,-1,2018,1
+4002314037,"Grenzstrasse 10,",2558 Aegerten,3.5,-1,1950,8.5,Terrace flat,-1,-1,1
+4002314078,"Mettstrasse 135a,",2504 Biel/Bienne,2.0,-1,1390,3.75,Attic flat,-1,-1,1
+4002314216,"Tessenbergstrasse 76,",2505 Biel,3.0,70.0,1800,-1,Apartment,2019,-1,0
+4002314775,"Seidenfadenstrasse 1A,",3800 Unterseen,5.5,158.0,2610,7.0,Apartment,-1,-1,1
+4002315046,"Güterstrasse 18,",3550 Langnau im Emmental,6.5,237.0,2700,-1,Maisonette / Duplex,-1,-1,1
+4002315104,"Dalmazirain 6,",3005 Bern,-1,-1,5200,5.5,Bifamiliar house,-1,-1,0
+4002315817,"Bahnhofstrasse 23,",3270 Aarberg,4.5,117.0,2140,4.25,Apartment,-1,2005,1
+4002317041,"Schwarztorstr. 36,",3007 Bern,1.5,47.0,1650,5.5,Apartment,-1,1977,0
+4002317059,"Bielstrasse 2,",3263 Büetigen,4.5,87.0,1780,3.0,Apartment,-1,2016,1
+4002317556,"Gaichtstrasse 1,",2512 Tüscherz-Alfermée,3.5,-1,1890,-1,Apartment,2023,-1,1
+4002319206,"Kronenrain 3,",3315 Bätterkinden,3.5,85.0,1700,5.0,Terrace flat,2025,2012,1
+4002319226,"Roggengratbad,",4954 Wyssachen,3.5,95.0,1400,-1,Maisonette / Duplex,2025,2025,0
+4002319229,"Roggengratbad,",4954 Wyssachen,2.5,70.0,1100,-1,Maisonette / Duplex,2025,2025,0
+4002319916,"Schwarzenburgstrasse 30,",3007 Bern,6.0,150.0,3850,5.5,Apartment,-1,-1,1
+4002319917,"Lyssachstrasse 21/23,",3400 Burgdorf,3.5,-1,1779,2.25,Maisonette / Duplex,-1,-1,1
+4002320172,"Goldgrubenweg 15,",2504 Biel,3.5,-1,1390,6.0,Apartment,-1,-1,0
+4002320616,"Dorfstrasse 231,",3433 Schwanden im Emmental,4.5,105.0,1270,-1,Apartment,-1,-1,1
+4002320717,"Austrasse 69,",3176 Neuenegg,3.5,-1,1420,7.25,Apartment,-1,-1,0
+4002320977,"Olivenweg 9,",3018 Bern,2.0,53.0,1430,4.75,Apartment,2022,-1,1
+4002321373,,,-1,-1,-1,-1,,-1,-1,0
+4002321388,"Maurerweg 10,",2503 Biel,4.5,-1,2090,7.75,Apartment,-1,2025,1
+4002321437,"Leiernstrasse 1,",3054 Schüpfen,3.0,86.0,1790,4.75,Roof flat,2025,-1,1
+4002321540,"Alpenstrasse 35,",3072 Ostermundigen,3.0,61.0,1497,5.5,Apartment,-1,1921,1
+4002321637,"Schulhausstr. 5,",4900 Langenthal,3.5,78.0,1520,3.0,Apartment,-1,-1,0
+4002321835,,,-1,-1,-1,-1,,-1,-1,0
+4002321887,"Fichtenweg 6,",3225 Müntschemier,3.5,81.0,2050,5.67,Attic flat,-1,2018,1
+4002321899,"Käsereigasse 9,",3282 Bargen,4.5,118.0,1850,3.0,Apartment,2022,-1,1
+4002321944,"Seftigenstrasse 279,",3084 Wabern,3.5,98.0,2224,1.75,Apartment,-1,-1,1
+4002322776,"Sonnenhofstrasse 23,",2542 Pieterlen,3.5,84.0,1860,10.67,Apartment,-1,2018,1
+4002322814,"Bürglenweg 3,",3123 Belp,5.5,144.0,3100,8.0,Row house,-1,1998,1
+4002323123,"Nesslerenweg 64,",3084 Wabern,3.5,84.0,2145,8.5,Apartment,-1,2016,0
+4002323514,"Vorder dorfschwummen 246,",3419 Biembach im Emmental,2.5,-1,-1,-1,Roof flat,-1,-1,0
+4002323709,"Gampelengasse 71,",3232 Ins,3.5,-1,1500,9.67,Roof flat,-1,-1,0
+4002324045,"Funkerstrasse 19,",3013 Bern,3.0,86.0,2690,5.75,Apartment,2021,-1,1
+4002324240,"Gasse,",2553 Safnern,4.0,103.0,1730,-1,Apartment,-1,1995,1
+4002324248,"Fischrain,",3063 Ittigen,3.5,98.0,2280,-1,Apartment,-1,1996,1
+4002324250,"Talbodenstrasse,",3098 Schliern b. Köniz,3.5,89.0,2540,-1,Apartment,-1,2005,1
+4002324254,"Sandbühlstrasse,",3122 Kehrsatz,3.0,77.0,1730,-1,Apartment,-1,1996,1
+4002324256,"Moosbühlstrasse,",3302 Moosseedorf,3.5,102.0,1930,-1,Apartment,-1,1996,1
+4002324588,"Bernstrasse 25,",3072 Ostermundigen,3.5,85.0,2750,3.25,Apartment,-1,2022,1
+4002324786,"Dorf 214,",3159 Riedstätt,6.5,194.0,1960,-1,Maisonette / Duplex,2021,1763,1
+4002324787,"Kirchweg 6a,",3076 Worb,4.5,105.0,2450,3.5,Apartment,2019,2000,1
+4002324822,"Sprengliweg 22,",3360 Herzogenbuchsee,3.0,63.0,1280,5.25,Roof flat,2018,1980,0
+4002325091,"Rosenweg 1,",3315 Bätterkinden,4.5,90.0,1615,5.75,Apartment,-1,-1,1
+4002325271,"Oberbach 104,",3433 Schwanden im Emmental,3.5,60.0,1250,-1,Apartment,2024,1979,1
+4002325761,"Theodor-Kocher-Strasse 5,",2500 Biel/Bienne,3.5,79.0,1770,2.5,Apartment,2017,-1,1
+4002325778,"Theodor-Kocher-Strasse 5,",2500 Biel/Bienne,1.5,53.0,1365,2.5,Loft,2017,-1,0
+4002325829,"Hintergasse 17A,",2504 Biel/Bienne,4.5,97.0,2330,5.5,Apartment,-1,2018,1
+4002325858,"Scheurenweg 35,",2504 Biel/Bienne,4.5,84.0,1580,6.25,Apartment,-1,-1,1
+4002325874,"Mattenstrasse 126,",2503 Biel/Bienne,4.5,133.0,3490,5.25,Attic flat,2024,-1,1
+4002325878,"Mattenstrasse 126,",2503 Biel/Bienne,3.5,103.0,1640,5.25,Apartment,2024,-1,1
+4002326056,"Nordring 46,",3013 Bern,3.0,73.0,2340,2.75,Apartment,2017,-1,0
+4002326235,"Fischrainweg 5,",3048 Worblaufen,3.5,-1,1590,4.0,Apartment,-1,-1,1
+4002326345,"General-Dufour-Strasse 149,",2502 Biel/Bienne,3.0,70.0,1360,4.75,Apartment,-1,1929,1
+4002326408,"Sägefeldweg 45G,",2504 Biel,3.5,101.0,2000,7.0,Apartment,-1,2021,1
+4002326460,"Bernapark 23,",3066 Stettlen,3.5,78.0,2450,8.0,Apartment,-1,2020,1
+4002327271,"Sonnhalde 6,",3063 Ittigen,3.5,-1,1935,3.5,Apartment,2023,1975,1
+4002327276,"Murtenstrasse 143 E,",3008 Bern,4.5,101.0,2490,5.75,Apartment,-1,2013,1
+4002327317,"Unterdorfstrasse 47,",3365 Grasswil,5.5,139.0,2320,5.0,Apartment,-1,2020,1
+4002327331,"Jakob-Stämpfli-Strasse 114a,",2502 Biel,2.5,65.0,1645,6.0,Apartment,-1,-1,1
+4002327361,"Talbodenstrasse 11,",3098 Schliern b. Köniz,3.5,89.0,1865,5.67,Apartment,2016,1981,0
+4002327365,"Terrassenweg 16,",3110 Münsingen,4.5,108.0,2398,9.25,Apartment,-1,-1,0
+4002327391,"Hübeliweg 11,",3052 Zollikofen,3.5,79.0,1944,9.0,Apartment,-1,-1,0
+4002328105,"Dorfstrasse 65,",3706 Leissigen,2.5,70.0,2330,5.33,Single house,2025,-1,1
+4002328347,"Freiburgstrasse 176,",3008 Bern,2.5,49.0,1720,4.0,Apartment,-1,2022,1
+4002328348,"Ursprungstrasse 63,",3053 Münchenbuchsee,3.5,83.0,1970,7.75,Attic flat,-1,-1,1
+4002328350,"Ursprungstrasse 59,",3053 Münchenbuchsee,3.5,83.0,1970,7.75,Attic flat,-1,-1,0
+4002328442,"Dorfstrasse 10,",3297 Leuzigen,2.5,47.0,1170,4.0,Apartment,-1,-1,0
+4002328449,"Moosweg 13,",3293 Dotzigen,3.5,67.0,1260,10.33,Apartment,-1,1974,1
+4002328450,"Rüttiweg 11,",3047 Bremgarten,4.5,80.0,1950,5.67,Apartment,-1,1983,1
+4002328501,"Alpenstrasse 46,",2502 Biel/Bienne,3.5,66.0,1740,6.0,Apartment,-1,1967,1
+4002328535,"Nüchternweg 12,",3038 Kirchlindach,3.5,71.0,1860,5.0,Attic flat,-1,2007,1
+4002328546,"Poststrasse 36,",2504 Biel,3.5,69.0,1420,3.0,Apartment,-1,-1,0
+4002328547,"Poststrasse 44a,",2504 Biel,2.5,51.0,1010,3.25,Apartment,-1,-1,0
+4002328550,"Salomegasse 12,",2500 Biel/Bienne,5.5,135.0,2595,5.5,Apartment,-1,2007,0
+4002329091,,,-1,-1,-1,-1,,-1,-1,0
+4002329092,"Weidstrasse 15,",4564 Zielebach,2.5,55.0,1190,10.0,Apartment,2023,-1,1
+4002329310,"Jurastrasse 65,",3063 Ittigen,4.5,100.0,1780,10.0,Apartment,1990,1990,0
+4002329547,"Maurerweg 12,",2503 Biel,1.0,-1,1360,6.0,Apartment,-1,2025,1
+4002330016,"Sägefeldweg 60a,",2504 Biel/Bienne,4.5,80.0,1720,6.25,Apartment,-1,-1,1
+4002330085,"Ziegeleistrasse 6,",3054 Schüpfen,5.5,199.0,2430,10.75,Roof flat,2000,2000,1
+4002330199,"Bantigerstrasse 24,",3006 Bern,1.0,90.0,2350,5.75,Apartment,-1,-1,0
+4002330252,"Rue de Madretsch 74,",2503 Bienne,3.5,81.0,1350,5.25,Apartment,-1,-1,1
+4002330412,"Heilbachrain 21a,",3250 Lyss,4.5,107.0,2460,8.5,Apartment,-1,-1,1
+4002330454,"Bernstrasse 9a,",3510 Konolfingen,4.5,75.0,1660,5.25,Apartment,-1,1969,1
+4002330455,"Flurweg 32,",3072 Ostermundigen,3.0,56.0,1390,6.75,Apartment,-1,1959,0
+4002330456,"Neuhofstrasse 27,",3422 Kirchberg,4.5,66.0,1450,8.25,Apartment,-1,1959,1
+4002330645,"Bielstrasse 16,",2560 Nidau,9.0,-1,4500,7.0,Apartment,-1,-1,1
+4002330695,"Gaichtstrasse 1,",2512 Tüscherz-Alfermée,2.5,-1,1300,-1,Apartment,-1,-1,1
+4002330795,"Fuchsenried 5,",2504 Biel/Bienne,5.5,160.0,2990,6.0,Apartment,2024,1994,1
+4002330824,"Kappelenring 6,",3032 Hinterkappelen,4.5,118.0,2320,3.5,Apartment,2011,-1,1
+4002331132,"Stegmattgasse 8,",3506 Grosshöchstetten,3.5,-1,1580,11.0,Apartment,-1,-1,1
+4002331459,"Mühledorfstrasse 4,",3018 Bern,2.5,60.0,1540,3.25,Apartment,-1,2017,0
+4002331465,"Zionsweg 43,",2503 Biel/Bienne,3.5,-1,1240,5.25,Apartment,-1,-1,1
+4002332105,"Lauterbach 4C,",3414 Oberburg,3.5,70.0,1300,-1,Apartment,-1,-1,1
+4002332157,"Dorfgasse 31,",2514 Ligerz,2.5,55.0,1380,-1,Apartment,2012,1600,1
+4002332193,"Altenbergstrasse 126,",3013 Bern,1.0,-1,350,5.5,Hobby room,-1,1980,0
+4002332337,"Heckenweg 32,",3007 Bern,2.5,-1,1690,5.75,Apartment,-1,-1,1
+4002333007,"Dorfstrasse 84,",3073 Gümligen,4.5,112.0,2899,7.75,Apartment,2021,-1,0
+4002333030,"Kirchweg 62,",3324 Hindelbank,4.5,110.0,2220,4.5,Apartment,-1,2013,1
+4002333067,"Stampachgasse 14,",3065 Bolligen,4.5,134.0,2450,7.75,Apartment,-1,-1,1
+4002333076,"Hinteregasse 13,",3132 Riggisberg,-1,-1,1390,-1,Apartment,-1,-1,0
+4002333147,"Lindenpark 39,",3427 Utzenstorf,3.5,-1,1669,7.0,Apartment,-1,-1,1
+4002333148,"Lindenpark 41,",3427 Utzenstorf,3.5,92.0,1864,7.0,Apartment,-1,-1,1
+4002333155,"Bifangweg 13,",3432 Lützelflüh-Goldbach,2.5,80.0,1390,9.33,Apartment,-1,-1,0
+4002333156,"Lindenpark 45,",3427 Utzenstorf,3.5,88.0,1990,7.5,Apartment,-1,-1,0
+4002333157,"Thunstrasse 22,",3400 Burgdorf,3.5,73.0,1740,6.67,Apartment,-1,-1,1
+4002333158,"Thunstrasse 22,",3400 Burgdorf,3.5,73.0,1740,6.67,Apartment,-1,-1,0
+4002333164,"Farnsbergstrasse 3,",3360 Herzogenbuchsee,4.5,-1,1440,7.25,Apartment,-1,1960,1
+4002333166,,,-1,-1,-1,-1,,-1,-1,0
+4002333167,"Bahnhofstrasse 1,",3421 Lyssach,4.5,-1,1990,9.0,Apartment,-1,-1,1
+4002333169,"Dorfstrasse 9/9 A,",4932 Gutenburg,4.5,-1,1490,-1,Apartment,-1,-1,1
+4002333193,"Fischermätteli 5 Haus G,",3400 Burgdorf,3.5,-1,2210,14.33,Apartment,-1,-1,0
+4002333234,"Lochweg 8,",3114 Wichtrach,5.5,129.0,1995,4.75,Roof flat,-1,-1,1
+4002333241,"Buchholzstrasse 68,",3604 Thun,4.0,100.0,2026,9.25,Apartment,2022,1972,1
+4002333512,"Dorfstrasse 17,",3457 Wasen im Emmental,3.5,70.0,900,3.33,Apartment,-1,1987,0
+4002333625,"Eichmatt 18,",3326 Krauchthal,4.5,100.0,1875,4.67,Row house,2025,-1,1
+4002333755,"Reichenbachstrasse 13,",3004 Bern,2.5,59.0,1530,14.75,Apartment,-1,1965,0
+4002333808,"Bündackerstrasse 30,",3047 Bremgarten b. Bern,4.0,116.0,2420,7.67,Apartment,-1,1984,1
+4002333860,"Kronenmattweg 4,",3315 Bätterkinden,2.0,50.0,1150,5.75,Apartment,-1,2007,1
+4002334036,"Lyssachstrasse 44A,",3400 Burgdorf,4.5,-1,2520,5.25,Apartment,-1,2025,1
+4002334263,"Grabenstrasse 49a,",3360 Herzogenbuchsee,3.5,93.0,2270,14.33,Apartment,-1,-1,1
+4002334282,"Flugplatzstr. 44,",3123 Belp,5.5,200.0,2750,-1,Terrace flat,-1,-1,1
+4002334664,"Weissensteinstrasse 22a,",3007 Bern,3.0,-1,1700,4.5,Apartment,-1,-1,1
+4002335014,"Erlenweg 7,",3005 Bern,3.5,90.0,2400,7.5,Apartment,2021,1981,1
+4002335226,"Bäreggstr. 55, Haus C,",4900 Langenthal,3.5,89.0,1900,6.5,Apartment,-1,2013,0
+4002335238,"Felderhofstr. 26A,",3360 Herzogenbuchsee,3.0,70.0,1295,8.25,Roof flat,2011,1965,1
+4002335415,"Bim Hasel 22,",3052 Zollikofen,2.5,57.0,1410,5.0,Apartment,2014,1983,1
+4002335620,"Alpenstrasse 9,",3052 Zollikofen,3.5,95.0,2040,2.0,Apartment,2010,1998,0
+4002336261,"Bernstrasse 133,",3400 Burgdorf,3.5,92.0,1860,9.5,Apartment,-1,-1,1
+4002336262,"Jurastrasse 23,",3063 Ittigen,3.5,84.0,1655,7.75,Maisonette / Duplex,1985,1985,0
+4002336293,"Balmweg 11,",3007 Bern,4.0,84.0,2170,3.5,Apartment,-1,-1,0
+4002336294,"Weierweg 35,",3053 Münchenbuchsee,3.0,62.0,1460,11.75,Apartment,2013,-1,1
+4002336540,"Bäreggstr. 33,",4900 Langenthal,4.5,108.0,1780,5.5,Apartment,-1,2010,1
+4002337202,"Flurweg 11,",3250 Lyss,3.5,88.0,1500,5.0,Apartment,-1,-1,1
+4002337851,"Dorfstrasse 37,",3436 Zollbrück,4.5,120.0,1700,6.67,Apartment,2017,-1,1
+4002337933,"Lotzwilstrasse 28,",4900 Langenthal,4.0,104.0,1400,5.0,Apartment,2022,-1,1
+4002338057,"Obere Dürrmühlestrasse 31,",4704 Niederbipp,3.5,82.0,1700,11.0,Roof flat,2016,-1,1
+4002338245,"Gartenstrasse 6,",3063 Ittigen,3.0,65.0,1450,7.25,Apartment,2023,-1,1
+4002338263,"Bernstrasse 62,",3267 Seedorf BE,3.5,100.0,1800,8.5,Apartment,2022,2006,1
+4002338569,"Bäraustrasse 1,",3552 Bärau,4.5,130.0,1900,6.0,Apartment,2020,-1,1
+4002339098,"Pianostrasse 10A,",2503 Biel/Bienne,3.5,74.0,1680,4.75,Maisonette / Duplex,2025,1900,1
+4002339169,"Herzogenacker 38,",3654 Gunten,3.5,88.0,2740,-1,Apartment,-1,2015,1
+4002339405,"Schlossweg 5,",3324 Hindelbank,4.0,120.0,2480,-1,Apartment,2014,1853,1
+4002339567,"Grauholzstrasse 29a,",3063 Ittigen,4.5,95.0,1925,14.0,Apartment,-1,-1,1
+4002339762,"Haldenstrasse 61,",2502 Biel/Bienne,3.5,80.0,1750,8.0,Apartment,2015,1940,0
+4002339837,"Lerchenfeldstrase 54,",3603 Thun,3.5,87.0,1830,2.67,Apartment,2025,-1,1
+4002340121,"Kirchlindachstrasse 25,",3052 Zollikofen,4.5,115.0,2700,4.0,Apartment,2024,1969,1
+4002340183,"Bellevuepark 13,",2562 Port,5.5,150.0,3500,10.25,Row house,-1,2019,1
+4002340828,"Bahnhofstrasse 98,",3232 Ins,5.5,140.0,2250,9.67,Apartment,2022,1900,1
+4002340948,"Ruelle de l'Eglise 1,",2740 Moutier,4.5,-1,1180,5.0,Apartment,-1,-1,1
+4002341145,"Nussbaumallee 7,",3073 Gümligen,4.5,156.0,3260,9.0,Apartment,2022,-1,1
+4002341271,"Mühledorfstrasse 23,",3018 Bern,4.5,87.0,2153,2.5,Apartment,-1,1977,1
+4002341279,"Oberstrasse 14 B,",3360 Herzogenbuchsee,3.5,91.0,1540,5.0,Apartment,-1,-1,0
+4002341305,,,7.5,240.0,4950,-1,Single house,2025,-1,1
+4002341338,"Kramgasse 51,",3011 Bern,2.5,78.0,2390,2.5,Apartment,2020,1800,0
+4002341549,"Bellerivestrasse 38 L,",3780 Gstaad,2.5,41.0,1995,11.25,Chalet,-1,-1,1
+4002341754,"Tscharnerstrasse 5,",3007 Bern,3.5,82.0,2170,2.0,Apartment,-1,-1,0
+4002341790,"Husmattstrasse 25,",3123 Belp,5.5,108.0,2150,4.75,Apartment,2023,1980,1
+4002342411,"Gewerbestrasse 30,",3432 Lützelflüh-Goldbach,3.5,105.0,2000,7.0,Roof flat,-1,2020,1
+4002342439,,,-1,-1,-1,-1,,-1,-1,0
+4002342442,"Neuengasse 38,",2502 Biel/Bienne,3.5,-1,1890,2.0,Apartment,2019,-1,1
+4002342486,"Allmendstr. 3C,",3600 Thun,3.5,86.0,2145,5.0,Apartment,-1,2014,1
+4002342487,"Allmendstr. 5,",3600 Thun,3.5,97.0,2315,6.25,Apartment,-1,2014,1
+4002342517,"Neuengasse 38,",2502 Biel/Bienne,2.5,-1,1480,2.0,Apartment,2018,-1,1
+4002342550,"Ortschwabenstrasse 3a,",3043 Uettligen,2.5,-1,1320,3.33,Apartment,-1,-1,1
+4002342596,"Brunnadernstrasse 29,",3297 Leuzigen,5.5,178.0,2650,10.0,Terrace flat,2023,-1,1
+4002342803,"Dorfstrasse 8,",3054 Schüpfen,3.5,81.0,1485,5.75,Apartment,-1,-1,0
+4002342983,"Neuhausweg 25,",3027 Bern,6.0,110.0,2250,4.5,Apartment,-1,-1,0
+4002343023,"Unterer Aareggweg 14,",3004 Bern,4.0,-1,2090,9.25,Maisonette / Duplex,2025,-1,1
+4002343142,"Hühnerhubelstrasse 12,",3123 Belp,5.5,147.0,2850,6.5,Apartment,2024,1983,1
+4002343264,"Thunstrasse 20 d,",3110 Münsingen,4.5,114.0,2820,5.5,Apartment,-1,2018,1
+4002343274,"Bözingenstrasse 11,",2502 Biel/Bienne,4.5,99.0,1670,4.25,Apartment,2019,1926,1
+4002343276,"In der Gass 1,",3380 Wangen an der Aare,4.5,88.0,1520,2.67,Apartment,-1,1980,1
+4002343519,"Unterer Quai 102A,",2502 Biel/Bienne,4.5,126.0,2890,2.0,Apartment,-1,2014,1
+4002343530,"Dorfstrasse 24,",3714 Frutigen,5.5,119.0,2390,3.33,Apartment,2025,-1,1
+4002343538,"Schützenrain 9,",3042 Ortschwaben,5.5,116.0,2090,5.5,Apartment,-1,-1,0
+4002343569,"Faubourg du Lac 75,",2502 Biel/Bienne,3.5,-1,2430,6.25,Apartment,-1,-1,1
+4002343572,"Faubourg du Lac 75,",2502 Biel/Bienne,3.5,-1,2800,6.25,Apartment,-1,-1,1
+4002343579,"Lilienweg 16,",3007 Bern,3.0,82.0,2650,4.25,Apartment,2025,1919,0
+4002343592,"Lilienweg 16,",3007 Bern,3.0,84.0,2550,4.25,Apartment,2025,1919,1
+4002343607,"Lilienweg 16,",3007 Bern,3.0,84.0,2550,4.25,Apartment,2025,1919,1
+4002343635,"Lilienweg 16,",3007 Bern,3.0,86.0,2550,4.25,Apartment,2025,1919,0
+4002343772,"Kreuzgasse 8,",2555 Brügg,4.5,-1,1970,6.25,Apartment,-1,-1,1
+4002344210,"Bielstrasse 52,",3270 Aarberg,5.5,140.0,2980,10.25,Attic flat,-1,2010,1
+4002344333,"Bälliz 34,",3600 Thun,1.5,48.0,1960,4.5,Apartment,2025,-1,1
+4002344579,"Steinweg 14,",3250 Lyss,3.5,79.0,1780,3.0,Apartment,-1,2011,1
+4002344580,"Steinweg 14,",3250 Lyss,3.5,84.0,1838,3.0,Apartment,-1,2011,1
+4002344589,"Oberweg 5,",3013 Bern,2.5,47.0,1820,5.25,Attic flat,-1,1960,1
+4002344605,"Zedtwitzweg 6,",3626 Hünibach,4.5,88.0,1925,5.5,Apartment,1965,1965,0
+4002344672,"Bahnhofstrasse 42,",4900 Langenthal,4.5,106.0,1750,4.75,Apartment,2015,1985,0
+4002345382,"Alexander-Moser-Strasse 37,",2503 Biel/Bienne,4.5,93.0,1905,6.75,Apartment,-1,-1,1
+4002345746,"Bahnhofstr. 11b,",4537 Wiedlisbach,4.5,136.0,2210,3.33,Apartment,-1,2010,0
+4002345747,"Bahnhofstr. 11b,",4537 Wiedlisbach,4.5,136.0,2200,3.33,Apartment,-1,2010,0
+4002345799,"Spitzensteinweg 22,",2542 Pieterlen,2.5,-1,930,9.0,Apartment,-1,-1,1
+4002345835,"Hauptstrasse 4,",3251 Wengi b. Büren,3.5,-1,1931,-1,Apartment,-1,-1,1
+4002345874,"Dr. Zuber-Strasse 4A,",3072 Ostermundigen,3.5,96.0,2020,6.25,Apartment,-1,2017,1
+4002345880,"Oberfeldstrass 46,",3507 Biglen,3.5,100.0,1500,4.0,Roof flat,-1,-1,1
+4002345976,"Bachtelenrain 2,",3098 Schliern b. Köniz,4.5,150.0,3440,10.67,Apartment,-1,2020,1
+4002346054,"Fischermätteli 17,",3400 Burgdorf,3.5,-1,2010,15.33,Apartment,-1,-1,1
+4002346397,,,-1,-1,-1,-1,,-1,-1,0
+4002346398,"Engeweg 14,",3123 Belp,4.5,77.0,1560,5.5,Apartment,-1,1969,1
+4002346473,"Waldeggstrasse 34,",3097 Liebefeld,2.5,70.0,1870,4.5,Apartment,-1,2020,1
+4002346474,"Worbstrasse 240,",3073 Gümligen,2.5,52.0,1950,4.0,Attic flat,-1,-1,1
+4002346612,"Längmattstrasse 14,",3436 Zollbrück,4.5,85.0,1400,8.25,Apartment,-1,1982,1
+4002346631,,,-1,-1,-1,-1,,-1,-1,0
+4002346632,,,-1,-1,-1,-1,,-1,-1,0
+4002346633,"Südstrasse 36,",2504 Biel/Bienne,3.5,67.0,1330,3.5,Apartment,1998,1957,0
+4002346636,"Belchenstrasse 23,",4900 Langenthal,4.0,98.0,1800,9.25,Apartment,2020,1980,0
+4002346716,"Bütikofenstrasse 38,",3422 Kirchberg BE,4.0,76.0,1560,11.0,Apartment,2025,-1,1
+4002346809,"Sägestrasse 10a,",3054 Schüpfen,2.5,69.0,1725,-1,Apartment,-1,2018,1
+4002347286,"Beethovenstrasse 19,",3073 Gümligen,4.5,90.0,1982,6.75,Apartment,-1,-1,1
+4002347324,"Oberdorfstrasse 39,",3612 Steffisburg,2.5,50.0,1540,7.0,Apartment,2012,-1,1
+4002347569,"Seftigenstrasse 38,",3007 Bern,3.0,76.0,1954,2.0,Apartment,2013,-1,0
+4002347622,"Lagerweg 12,",3250 Lyss,3.5,64.0,1400,5.5,Apartment,2005,1963,1
+4002347678,"Oltenstrasse 5,",4536 Attiswil,3.5,94.0,1330,2.67,Apartment,-1,-1,0
+4002347953,"Hinderi Gasse 26,",3770 Zweisimmen,3.0,72.0,1280,-1,Apartment,-1,-1,0
+4002347982,"Wassermattweg 36,",3176 Neuenegg,5.5,116.0,2270,9.25,Apartment,-1,2016,1
+4002347993,"Alpenstrasse 31,",3052 Zollikofen,3.5,114.0,2200,2.5,Apartment,2010,1998,0
+4002348152,,,3.5,75.0,1470,-1,Apartment,2022,-1,0
+4002348493,"Spismattweg 11,",3296 Arch,2.5,58.0,1365,3.0,Apartment,-1,-1,1
+4002348497,"Seedorfweg 26,",3053 Münchenbuchsee,3.5,67.0,1720,8.25,Apartment,-1,-1,1
+4002348824,"Hauptstrasse 46-52,",3252 Worben,3.5,-1,1590,5.5,Apartment,-1,-1,1
+4002348825,"Moosgasse 7,",3232 Ins,5.5,135.0,2380,3.5,Roof flat,-1,-1,0
+4002348885,"Gässli 13 (Haus B),",4704 Niederbipp,3.5,100.0,2130,7.67,Apartment,-1,-1,1
+4002348920,"Uferweg 24,",3400 Burgdorf,2.5,46.0,1290,7.0,Apartment,-1,2026,1
+4002348960,"Parkweg 10,",2502 Biel,3.5,85.0,1790,2.5,Apartment,2015,-1,1
+4002348969,"Eichholzweg 30,",3074 Muri b. Bern,4.5,148.0,3650,8.67,Apartment,-1,-1,1
+4002349075,"Kändlenstrasse 9,",2543 Lengnau BE,3.0,-1,1150,4.25,Apartment,-1,-1,0
+4002349381,,,-1,-1,-1,-1,,-1,-1,0
+4002349536,"Uferweg 26,",3400 Burgdorf,3.5,77.0,1645,7.0,Apartment,-1,2026,1
+4002349629,"Schwarzenburgstrasse 601,",3144 Gasel,3.5,77.0,1595,-1,Apartment,-1,-1,1
+4002349661,"Jungfrauweg 3,",3110 Münsingen,3.5,69.0,1785,7.0,Apartment,-1,1980,0
+4002349663,"Kappelenring 12b,",3032 Hinterkappelen,3.5,70.0,1650,3.25,Apartment,-1,1969,0
+4002349694,"Grubenweg 2,",3360 Herzogenbuchsee,3.5,126.0,2210,7.75,Apartment,-1,-1,0
+4002349781,"Dr. Zuber-Strasse 4,",3072 Ostermundigen,5.5,144.0,2940,6.25,Apartment,-1,2017,1
+4002349923,"Bümplizstrasse 3,",3027 Bern-Bethlehem,3.0,-1,1690,-1,Apartment,-1,-1,1
+4002349941,"Brüggeweidlistrasse 8a,",3718 Kandersteg,4.5,85.0,1670,9.33,Roof flat,-1,-1,1
+4002349969,"Uferweg 26,",3400 Burgdorf,5.5,120.0,2360,7.0,Apartment,-1,2026,1
+4002349970,"Uferweg 26,",3400 Burgdorf,4.5,98.0,2000,7.0,Apartment,-1,2026,1
+4002349975,"Brüggstrasse 68,",2503 Biel/Bienne,3.5,60.0,1300,6.75,Apartment,-1,-1,1
+4002350027,"Jurastrasse 7,",2552 Orpund,5.5,-1,1950,8.5,Apartment,2020,-1,1
+4002350058,"Bergstrasse 8c,",4950 Huttwil,4.5,92.0,1490,8.67,Apartment,-1,-1,1
+4002350149,,,-1,-1,-1,-1,,-1,-1,0
+4002350180,,,-1,-1,-1,-1,,-1,-1,0
+4002350446,"Wasenstrasse 16,",2502 Biel/Bienne,2.5,63.0,1230,8.0,Apartment,-1,-1,0
+4002351041,"Sonnenhofweg 6,",3006 Berne,3.5,-1,1920,3.25,Roof flat,-1,-1,1
+4002351193,"Burgisteinstrasse 14,",3665 Wattenwil,3.0,89.0,1610,4.67,Apartment,2018,1965,1
+4002351226,"Scheibenstrasse 21b,",3600 Thun,4.5,109.0,2330,7.75,Apartment,-1,2011,0
+4002351234,"Lugenbachweg 13,",3457 Wasen im Emmental,3.5,-1,2100,10.67,Apartment,-1,2024,1
+4002351316,"Nesslerenweg 46,",3084 Wabern,4.5,94.0,2350,7.75,Apartment,-1,2016,1
+4002351563,"Frommgutweg,",3400 Burgdorf,4.5,-1,1850,6.0,Roof flat,-1,-1,1
+4002351644,,,5.5,140.0,1500,-1,Maisonette / Duplex,-1,-1,1
+4002351673,,,4.5,97.0,1780,-1,Apartment,-1,-1,1
+4002351744,"Adam-Friedrich-Molz-Gasse 27,",2500 Biel/Bienne,2.5,57.0,1020,2.75,Apartment,-1,-1,0
+4002351758,"Mauer 590,",3454 Sumiswald,4.5,-1,1578,-1,Roof flat,-1,-1,1
+4002352219,"Biblisweg 7,",3360 Herzogenbuchsee,2.5,52.0,1555,9.5,Apartment,-1,2025,1
+4002352245,"Brühlstrasse 19,",2503 Biel,5.0,-1,2490,5.25,Apartment,-1,-1,1
+4002352267,"Lindenmattstrasse,",3065 Bolligen,3.5,102.0,2100,12.67,Apartment,2024,1975,1
+4002352274,"Einungerstrasse 16,",3400 Burgdorf,3.5,123.0,1950,5.25,Apartment,-1,2009,0
+4002352299,"Mühlestrasse 46b,",2504 Biel/Bienne,3.0,73.0,1330,2.5,Apartment,-1,-1,1
+4002352304,"Murtenstrasse 147b,",3008 Bern,3.5,95.0,2370,8.25,Apartment,-1,2021,1
+4002352315,"Hohlenweg 12,",2572 Sutz-Lattrigen,4.0,119.0,1850,8.0,Single house,-1,1850,1
+4002352371,"Stöckackerstrasse 81,",3018 Bern,2.5,-1,1995,2.75,Attic flat,-1,-1,1
+4002352756,"Stapfenstrasse 7,",3098 Köniz,3.0,106.0,2400,2.75,Roof flat,-1,-1,1
+4002353105,"Weltpoststrasse 8a,",3015 Bern,4.5,132.0,3425,4.5,Apartment,-1,2012,0
+4002353106,,,-1,-1,-1,-1,,-1,-1,0
+4002353107,"Weltpoststrasse 8b,",3015 Bern,3.5,103.0,2445,4.0,Apartment,-1,2012,0
+4002353231,"Laubeggstrasse 141,",3006 Bern,2.0,58.0,1490,2.5,Apartment,-1,1945,1
+4002353311,"Rue des Condémines 1,",2732 Reconvilier,3.5,-1,980,7.25,Apartment,-1,-1,1
+4002353481,"Faltschenstrasse 51,",3713 Reichenbach im Kandertal,5.5,-1,2030,13.33,Maisonette / Duplex,-1,-1,1
+4002353522,"Ch. des Fauvettes 1,",2740 Moutier,4.5,76.0,1020,8.75,Apartment,-1,-1,1
+4002353682,,,-1,-1,-1,-1,,-1,-1,0
+4002353686,"Emile-Ganguilletweg 22,",2503 Biel/Bienne,3.0,-1,1310,6.75,Apartment,2018,-1,1
+4002354046,"Diemtigtalstrasse 1,",3753 Oey,2.0,-1,1110,3.0,Apartment,2024,1967,0
+4002354243,"Waldmannstrasse 7,",3027 Bern,3.5,70.0,1420,4.0,Apartment,-1,1962,1
+4002354384,"Unterdorfstrasse 9,",3072 Ostermundigen,3.5,80.0,2020,6.25,Apartment,-1,-1,1
+4002354388,"Murtenstrasse 143b,",3008 Bern,2.0,40.0,1355,5.75,Apartment,-1,2013,1
+4002354431,"Mattenstrasse 36,",2502 Biel/Bienne,1.0,65.0,1240,12.75,Loft,-1,-1,0
+4002354505,"Aeschlenstrasse 134,",3656 Aeschlen ob Gunten,2.0,69.0,1780,-1,Apartment,2025,-1,1
+4002355343,"Mittelstrasse 32,",3012 Bern,1.0,23.0,969,3.75,Apartment,-1,1932,0
+4002355344,"Kreuzstrasse 9,",3052 Zollikofen,5.0,105.0,2800,4.5,Apartment,-1,1960,0
+4002355394,"Aeschlenstrasse 134,",3656 Aeschlen ob Gunten,3.5,101.0,2850,-1,Apartment,2025,-1,1
+4002355426,"Aeschlenstrasse 134,",3656 Aeschlen ob Gunten,5.0,111.0,3100,-1,Apartment,2025,-1,1
+4002355804,,,5.5,140.0,1750,-1,Maisonette / Duplex,2022,-1,1
+4002356438,"Sägestr. 78,",3098 Köniz,1.0,34.0,1260,4.0,Apartment,2024,2006,0
+4002356671,"Byfangweg 10,",4538 Oberbipp,2.5,50.0,1180,10.67,Bachelor flat,2025,1987,1
+4002356799,"Hirschimattestrasse 1,",3714 Frutigen,5.5,112.0,1950,30.5,Roof flat,2022,1979,1
+4002357038,"Ernst-Schüler-Strasse 48,",2502 Biel,4.5,92.0,1990,3.25,Roof flat,2021,1927,1
+4002357107,,,-1,-1,-1,-1,,-1,-1,0
+4002357108,"Murtenstrasse 5,",3008 Bern,2.5,67.0,1750,3.75,Attic flat,2014,1933,1
+4002357169,"Mühlestützli  7,",3507 Biglen,3.5,75.0,1590,4.0,Roof flat,2018,1934,1
+4002357240,"Langenthalstrasse 20,",4912 Aarwangen,4.0,90.0,1250,3.67,Roof flat,2018,1990,0
+4002357851,"Mösli 53F,",3207 Wileroltigen,4.5,96.0,1600,6.0,Roof flat,-1,1997,1
+4002357889,"Glockentalstrasse 5,",3612 Steffisburg,3.5,78.0,1820,4.0,Apartment,-1,-1,1
+4002357997,"Stangenweg 4,",3238 Gals,5.5,123.0,2150,4.0,Apartment,1991,1991,1
+4002358258,"Zälgli 4,",3315 Bätterkinden,4.5,150.0,2250,10.75,Row house,2017,1979,1
+4002358781,"Welschhaus 119,",3472 Wynigen,6.5,200.0,2500,19.33,Farm house,2004,1804,1
+4002358930,"Birkenweg 18A,",3293 Dotzigen,4.5,139.0,1950,9.0,Apartment,-1,2002,1
+4002359191,,,4.5,120.0,-1,-1,Apartment,2021,-1,1
+4002359542,"Jungfraublickallee 28,",3800 Matten b. Interlaken,2.5,59.0,1645,7.5,Apartment,-1,2016,1
+4002359803,"Juraweg 1,",3250 Lyss,4.5,-1,2500,3.25,Apartment,-1,2007,1
+4002359976,"Vinelzstrasse 25,",3235 Erlach,3.5,93.0,1480,4.25,Roof flat,2025,-1,0
+4002359995,"Mösliweg 9,",3098 Köniz,3.5,78.0,1980,6.5,Apartment,-1,-1,0
+4002360034,"Chasseralweg 2,",3250 Lyss,3.5,-1,1540,6.5,Apartment,-1,-1,1
+4002360055,"Kastanienweg 6,",3123 Belp,2.5,56.0,1515,6.75,Attic flat,-1,2010,0
+4002360112,"Schachengässli 3,",3426 Aefligen,3.0,82.0,1350,4.0,Apartment,-1,1986,1
+4002360244,"Vélé 6,",2735 Bévilard,3.5,68.0,1090,8.0,Apartment,2008,1900,0
+4002360530,,,-1,-1,-1,-1,,-1,-1,0
+4002360603,"Hohle Gasse 8,",3095 Spiegel b. Bern,5.5,-1,2240,3.0,Apartment,-1,-1,1
+4002361052,"Bürenstrasse 83,",2504 Biel,4.5,-1,1850,6.75,Apartment,-1,-1,1
+4002361174,"Hermrigengasse 11,",3274 Merzligen,2.5,80.0,1795,5.5,Apartment,-1,2025,1
+4002361374,,,4.5,150.0,2630,-1,Attic flat,2025,1644,1
+4002361380,"Gartenstrasse 9,",3125 Toffen,3.5,83.0,2155,10.0,Apartment,-1,2018,1
+4002361465,"Buristr. 8,",3006 Bern,3.5,78.0,2060,6.75,Apartment,1996,1967,1
+4002361502,"Laubeggstrasse 141,",3006 Bern,2.0,58.0,1390,2.5,Apartment,-1,1945,0
+4002361503,"Laubeggstrasse 141,",3006 Bern,2.0,47.0,1390,2.5,Apartment,-1,1945,1
+4002361506,"Ostring 77,",3006 Bern,2.0,54.0,1390,2.5,Apartment,-1,1945,0
+4002361542,"Falkenhöheweg 17,",3012 Bern,4.5,131.0,3765,6.75,Apartment,2011,1895,0
+4002361547,,,-1,-1,-1,-1,,-1,-1,0
+4002361556,"Logengasse 15,",2502 Biel/Bienne,2.0,55.0,1110,3.5,Apartment,2023,1900,0
+4002361677,"Sandernweg,",2577 Siselen,4.5,-1,1650,7.0,Maisonette / Duplex,-1,-1,1
+4002361732,"Ammerzwilstrasse 9,",3257 Grossaffoltern,3.0,-1,1400,-1,Apartment,2005,1912,1
+4002361908,"Bütikofenstrasse 36,",3422 Kirchberg BE,4.0,76.0,1495,11.0,Apartment,2025,-1,1
+4002362543,"Oberdorfstrasse 1,",3072 Ostermundigen,2.5,55.0,1550,5.75,Apartment,-1,-1,1
+4002363139,"Friedhofstrasse 33B,",4912 Aarwangen,3.5,97.0,1645,9.33,Apartment,-1,-1,1
+4002363194,"Sägestr. 76,",3098 Köniz,2.5,112.0,1980,5.0,Apartment,2024,2006,0
+4002363202,"Felderhofstr. 26A,",3360 Herzogenbuchsee,3.0,70.0,1315,8.25,Apartment,2011,1965,1
+4002363320,"Rue du Canal 5,",2535 Frinvillier,4.5,100.0,1680,-1,Roof flat,-1,-1,1
+4002363328,"Wankdorffeldstrasse 101,",3014 Bern,2.0,64.0,1670,3.75,Apartment,-1,-1,0
+4002363368,"Brüggstrasse 2,",2503 Biel/Bienne,4.0,-1,1795,4.0,Attic flat,2023,-1,1
+4002363568,"Rosenstrasse 37,",3800 Interlaken,4.5,130.0,2870,6.75,Maisonette / Duplex,2025,2009,1
+4002363850,"Schwadernauweg 4,",2504 Biel/Bienne,2.5,57.0,1495,5.5,Attic flat,-1,2009,0
+4002363910,,,-1,-1,-1,-1,,-1,-1,0
+4002363911,,,-1,-1,-1,-1,,-1,-1,0
+4002363927,"Höhenweg 25 A,",2572 Mörigen,3.5,137.0,3500,13.0,Apartment,-1,2022,1
+4002364094,"Bahnweg 2d,",3177 Laupen,3.5,130.0,2250,4.0,Maisonette / Duplex,-1,2015,1
+4002364096,"Bahnweg 2E,",3177 Laupen,3.5,128.0,2275,4.0,Apartment,-1,2015,1
+4002364108,"Kirchenfeld,",4704 Niederbipp,3.5,83.0,1870,10.0,Apartment,-1,2025,1
+4002364276,"Lötschenstrasse 17,",3072 Ostermundigen,3.5,-1,1490,7.5,Apartment,-1,-1,0
+4002364443,,,-1,-1,-1,-1,,-1,-1,0
+4002364749,"Schwarzenburgstrasse 217,",3097 Liebefeld,4.5,109.0,2945,3.75,Apartment,-1,2015,1
+4002364826,,,-1,-1,-1,-1,,-1,-1,0
+4002364827,,,-1,-1,-1,-1,,-1,-1,0
+4002364870,"Bahnweg 5,",2563 Ipsach,5.5,152.0,2640,4.25,Apartment,-1,2010,1
+4002364985,"Worbstrasse 6,",3067 Boll,4.5,113.0,2210,4.0,Apartment,-1,-1,1
+4002365034,"Tiergarten 9,",3400 Burgdorf,4.5,108.0,1840,7.0,Apartment,-1,-1,1
+4002365057,"Uttigenstrasse 35,",3661 Uetendorf,1.0,60.0,600,11.0,Attic compartment,-1,-1,0
+4002365064,"Schaufelweg 98,",3098 Schliern b. Köniz,4.5,107.0,2150,3.33,Apartment,1998,1973,0
+4002365165,"Marktgasse 34,",4900 Langenthal,2.5,77.0,1150,3.25,Apartment,-1,-1,1
+4002365196,"Haltenstrasse 151,",3145 Niederscherli,5.0,130.0,2000,9.5,Maisonette / Duplex,-1,1967,1
+4002365222,,,-1,-1,-1,-1,,-1,-1,0
+4002365597,"Rougemontweg 4,",3626 Hünibach,5.0,112.0,1955,5.5,Apartment,2018,1960,1
+4002366645,"Könizstrasse 61,",3008 Bern,4.0,125.0,3250,3.5,Apartment,2019,1927,1
+4002366727,"Im Breitenacker 2,",3122 Kehrsatz,4.5,108.0,2500,8.75,Apartment,-1,2020,1
+4002366761,"Bürenstrasse 41,",2504 Biel/Bienne,3.0,63.0,1380,7.0,Apartment,2005,1960,1
+4002366776,"Schaalweg 6 (Neumatt II),",3053 Münchenbuchsee,4.5,92.0,1700,5.75,Apartment,-1,1980,0
+4002366782,"Belpbergstrasse 32G,",3110 Münsingen,5.5,135.0,2643,10.0,Attic flat,-1,1996,0
+4002366890,"Sternenmatt 5,",3315 Bätterkinden,3.5,85.0,1940,4.25,Apartment,-1,-1,1
+4002366912,,,-1,-1,-1,-1,,-1,-1,0
+4002367056,"Simmenfluhweg 61,",3647 Reutigen,5.5,175.0,2410,7.0,Apartment,2020,-1,1
+4002367100,"Hühnerbühlstrasse 43,",3065 Bolligen,4.5,91.0,2220,7.75,Apartment,2025,-1,1
+4002367101,"Tägertschistrasse 26,",3110 Münsingen,4.5,105.0,1850,3.25,Apartment,1990,1960,1
+4002367131,"Krattigstrasse 38,",3700 Spiez,4.5,78.0,1600,9.0,Apartment,-1,1965,1
+4002367427,"Schlossstrasse 137,",3008 Bern,3.0,61.0,1630,2.75,Apartment,-1,-1,1
+4002367443,"Werkgasse 28,",3018 Bern,3.5,74.0,1800,4.0,Apartment,-1,1999,1
+4002367498,"Faubourg du Lac 75,",2502 Bienne,3.5,78.0,2290,6.25,Roof flat,-1,2023,1
+4002367522,"Längimoosstrasse 3,",3075 Rüfenacht BE,4.5,105.0,2010,3.67,Apartment,-1,2003,0
+4002367816,"Bifangweg 1,",3125 Toffen,4.0,107.0,2130,2.67,Apartment,-1,2008,1
+4002367819,"Bergackerweg 4,",3054 Schüpfen,4.5,135.0,2100,11.0,Apartment,2025,-1,1
+4002367937,"Vorstadt 6A,",3380 Wangen an der Aare,3.5,85.0,1600,2.67,Roof flat,2025,1931,1
+4002368006,"Aeschenbrunnmattstrasse 44,",3047 Bremgarten bei Bern,4.5,105.0,2790,11.0,Apartment,-1,2016,1
+4002368013,"Buchenweg 7,",2563 Ipsach,3.5,-1,1790,5.75,Terrace flat,-1,1988,1
+4002368106,"Alpenstrass 47,",3073 Gümligen,4.0,89.0,2080,10.0,Roof flat,2000,1924,1
+4002368111,"Wiesenstrasse 13,",4912 Aarwangen,4.5,92.0,1455,7.0,Apartment,-1,-1,1
+4002368132,"La Chaux-d'Abel 65,",2333 La Ferrière,2.5,60.0,750,-1,Apartment,2025,1950,1
+4002368316,"Rue Dr-Schwab 23,",2610 St-Imier,4.5,105.0,1850,5.25,Apartment,-1,2024,1
+4002368458,,,-1,-1,-1,-1,,-1,-1,0
+4002368656,"Rütistrasse 2,",3421 Lyssach,4.5,125.0,1865,6.0,Maisonette / Duplex,2024,1930,1
+4002368682,"Kappeliweg 20,",3360 Herzogenbuchsee,3.5,74.0,1430,6.0,Apartment,-1,2010,0
+4002368692,"Brüggstrasse 1,",2503 Biel/Bienne,1.5,38.0,860,4.0,Apartment,2001,1963,0
+4002368732,"Stauffacherstrasse 18,",3014 Bern,3.0,77.0,2390,3.0,Apartment,-1,-1,1
+4002368896,"Brunnenweg 6,",2572 Sutz-Lattrigen,4.5,-1,2600,11.0,Apartment,2025,2003,1
+4002368935,"Scheidgasse 48,",3800 Unterseen,3.5,95.0,1750,6.25,Apartment,-1,-1,1
+4002369068,,,4.5,115.0,1600,-1,Roof flat,-1,-1,1
+4002369360,"Lehn 15,",3096 Oberbalm,2.0,-1,1300,15.0,Apartment,2016,1604,1
+4002369823,"Neumattstrasse 41,",3400 Burgdorf,1.0,35.0,850,9.33,Studio,2023,1992,1
+4002369839,"Aarbergstrasse 35 a,",3294 Büren an der Aare,2.0,40.0,980,4.0,Studio,2025,1990,0
+4002369852,"Bernstrasse 217,",3627 Heimberg,4.5,120.0,2800,5.5,Apartment,-1,2025,1
+4002369867,"Rösslimatte 10A,",3645 Thun,4.5,-1,2980,9.67,Attic flat,-1,2015,1
+4002369882,"Neuengasse 48,",2502 Biel,2.5,-1,1520,1.75,Apartment,2025,-1,1
+4002370117,"Simmenfluhstrasse 9 A,",3752 Wimmis,5.0,160.0,2150,6.33,Roof flat,-1,1992,1
+4002370423,"Bernapark 28,",3066 Stettlen,4.5,127.0,2990,8.33,Maisonette / Duplex,-1,2020,1
+4002370524,"Schlehdornweg 18,",3613 Steffisburg,3.0,65.0,1300,10.0,Apartment,1990,1954,1
+4002370553,"Bachstrasse 20,",3072 Ostermundigen,2.5,-1,1394,7.0,Apartment,-1,-1,1
+4002370557,"Wiesenstrasse 30,",3072 Ostermundigen,3.5,70.0,1600,8.0,Apartment,-1,1973,1
+4002370558,"Schachenstrasse 6,",3315 Bätterkinden,4.5,95.0,1890,7.5,Apartment,-1,2007,1
+4002370621,"Bäreggstr. 31,",4900 Langenthal,3.5,84.0,1690,4.75,Apartment,-1,2010,1
+4002370626,"Orpundstr. 9,",2504 Biel/Bienne,2.5,81.0,1180,3.25,Apartment,-1,1987,1
+4002370783,"Badhausstrasse 21,",2503 Biel/Bienne,2.0,36.0,990,4.75,Apartment,-1,1960,0
+4002370937,"Waffengasse 18-20,",2502 Biel/Bienne,1.0,56.0,1340,2.0,Apartment,2016,-1,0
+4002371149,"Bernapark 23,",3066 Stettlen,4.5,151.0,3690,8.0,Maisonette / Duplex,-1,2020,1
+4002371256,"Dornhaldestrasse 35,",3627 Heimberg,3.5,79.0,2250,8.67,Roof flat,2025,-1,1
+4002371262,"Chemin du Crêt 21,",2533 Evilard,4.5,100.0,2050,11.0,Apartment,-1,-1,0
+4002371277,"Dornhaldestrasse 35,",3627 Heimberg,2.5,66.0,2050,8.67,Roof flat,2025,-1,1
+4002371370,"Alte Bernstrasse 17,",2558 Aegerten,3.5,84.0,1690,9.0,Apartment,-1,2018,1
+4002371474,"Burgdorfstrasse 13,",3422 Alchenflüh,4.0,70.0,1230,8.25,Apartment,2014,1965,1
+4002371589,"Kirchgasse 4,",4537 Wiedlisbach,3.5,-1,1390,4.67,Apartment,-1,-1,1
+4002371993,"Längmattstrasse 1,",3436 Zollbrück,6.0,130.0,1995,8.0,Roof flat,2020,-1,1
+4002372039,"Kleinfeldstrasse 33,",3380 Wangen an der Aare,3.0,-1,1250,12.5,Apartment,-1,-1,1
+4002372146,"Oberdorfstrasse 4,",3303 Münchringen,3.5,59.0,834,7.5,Roof flat,-1,-1,0
+4002372213,"Bantigerweg 2,",3122 Kehrsatz,4.5,95.0,1900,2.33,Apartment,2019,1983,1
+4002372342,"Rue Agassiz 22,",2610 St-Imier,-1,-1,853,2.75,Apartment,-1,-1,0
+4002372666,"Aalmattenweg 1,",2560 Nidau,3.0,64.0,1250,3.5,Apartment,2025,1940,1
+4002373100,"Nesslerenweg 72,",3084 Wabern,2.5,57.0,1610,8.75,Apartment,-1,2017,1
+4002373394,"Moserstrasse 16,",3013 Bern,4.5,105.0,2525,2.5,Apartment,2019,-1,0
+4002373421,"Eigerweg 3,",3322 Urtenen-Schönbühl,3.5,77.0,1550,4.75,Apartment,-1,-1,0
+4002373465,,,-1,-1,-1,-1,,-1,-1,0
+4002373486,"Winterseistrasse 6,",3415 Rüegsauschachen,4.0,69.0,1340,5.0,Apartment,-1,-1,1
+4002373618,"Lüfternweg 4,",3052 Zollikofen,3.5,86.0,2135,5.0,Apartment,-1,2023,1
+4002373680,,,-1,-1,-1,-1,,-1,-1,0
+4002373710,"Sigriswilstrasse 17,",3654 Gunten,2.5,64.0,1970,-1,Apartment,-1,2017,1
+4002373712,"Grünweg 6,",2502 Biel,3.5,-1,1250,5.0,Attic flat,-1,-1,1
+4002373807,"Läubliplatz 8,",3177 Laupen BE,6.0,-1,2900,4.25,Apartment,-1,-1,1
+4002373906,"Haldenstrasse 58,",4900 Langenthal,3.5,93.0,1808,8.0,Apartment,2014,2011,1
+4002373924,"Jungfraustrasse 4,",3073 Gümligen,3.5,76.0,1895,6.5,Apartment,2022,1953,1
+4002374114,"Grubenweg 21,",3115 Gerzensee,3.5,79.0,1870,8.5,Apartment,-1,2022,1
+4002374118,"Winkelriedstrasse 50,",3014 Bern,3.5,-1,2190,4.25,Roof flat,-1,-1,1
+4002374139,"Alleestrasse 21,",3550 Langnau i. E.,4.5,93.0,2250,3.75,Apartment,-1,2019,1
+4002374367,"Gurtenfeldstrasse 4,",3053 Münchenbuchsee,4.5,114.0,1820,4.0,Apartment,-1,1963,1
+4002374514,"Waldmeisterstrasse 48,",3018 Bern,2.5,62.0,1550,8.0,Apartment,2025,-1,1
+4002374530,"Dorfstrasse 8,",3115 Gerzensee,3.0,70.0,1050,2.33,Apartment,2025,1900,1
+4002374616,"Burggasse 17,",2502 Biel,2.5,-1,1335,2.0,Apartment,2025,-1,0
+4002374620,"Auweg 14,",2502 Biel/Bienne,3.5,-1,1595,5.75,Apartment,-1,-1,1
+4002374623,"Füllerichstrasse 55a,",3073 Gümligen,1.0,40.0,1440,3.75,Apartment,-1,2023,0
+4002374866,"Busswilstrasse 28 D,",3250 Lyss,3.5,92.0,1930,8.25,Apartment,-1,-1,1
+4002375127,"Solothurnstrasse 94a,",2543 Lengnau BE,3.5,75.0,1494,6.0,Roof flat,-1,2017,1
+4002375209,"Vollstrasse 13,",2558 Aegerten,5.5,-1,2290,10.0,Apartment,-1,-1,1
+4002375249,"Schmiedengasse 8,",2502 Biel/Bienne,3.5,88.0,1950,2.0,Apartment,-1,-1,1
+4002375527,,,-1,-1,-1,-1,,-1,-1,0
+4002375544,"Obere Zollgasse 36,",3072 Ostermundigen,2.0,38.0,1290,5.75,Apartment,2018,-1,0
+4002375640,"Hauptstrasse 31,",3255 Rapperswil,5.5,130.0,3160,1.5,Apartment,-1,2025,1
+4002375641,"Zilmattstrasse 105,",3255 Rapperswil,2.5,62.0,1840,1.5,Attic flat,-1,2025,1
+4002375642,"Zilmattstrasse 105,",3255 Rapperswil,3.5,97.0,2230,1.5,Apartment,-1,2025,1
+4002375647,"Hauptstrasse 31,",3255 Rapperswil,4.5,106.0,2460,1.5,Apartment,-1,2025,1
+4002375692,"Bernstrasse 217,",3627 Heimberg,4.5,120.0,2650,5.5,Apartment,-1,2025,1
+4002375699,"Jungfraublickallee 30,",3800 Matten b. Interlaken,4.5,100.0,2430,8.33,Apartment,-1,2016,1
+4002375708,"Bütikofenstrasse 30,",3422 Kirchberg BE,2.5,48.0,1170,12.25,Apartment,-1,-1,1
+4002375714,,,-1,-1,-1,-1,,-1,-1,0
+4002376120,"Wiesenweg 7,",3360 Herzogenbuchsee,3.5,111.0,2182,11.75,Attic flat,-1,-1,0
+4002376121,"Wiesenweg 3,",3360 Herzogenbuchsee,3.5,94.0,1764,13.0,Apartment,-1,-1,0
+4002376800,"Sägemattstrasse 16,",3123 Belp,3.5,75.0,1780,4.75,Apartment,-1,-1,0
+4002377621,"Chlinaustrasse 2A,",3629 Kiesen,4.5,90.0,1590,16.25,Apartment,-1,2014,1
+4002377720,"Gaichtstrasse 43,",2512 Tüscherz-Alfermée,2.5,66.0,1350,-1,Roof flat,-1,1993,1
+4002377887,"Höheweg 57,",3626 Hünibach,4.5,110.0,2980,9.25,Single house,-1,1910,1
+4002378270,"Gewerbestrasse 17,",3512 Walkringen,5.5,200.0,-1,4.0,Apartment,-1,-1,0
+4002378476,"Weyermattstrasse,",3360 Herzogenbuchsee,4.5,120.0,1990,5.0,Apartment,2007,2007,1
+4002378481,"Fauggersweg 32,",3232 Ins,4.5,117.0,2400,8.0,Apartment,-1,2020,1
+4002378504,"Hinterstädtli 3,",4537 Wiedlisbach,3.0,60.0,980,3.0,Apartment,2022,-1,0
+4002379020,"Seemattstrasse 3,",3322 Schönbühl,4.5,105.0,2290,3.5,Apartment,2023,1975,1
+4002379097,"Im Städtchen 13,",3235 Erlach,4.5,105.0,1775,1.5,Maisonette / Duplex,2025,-1,0
+4002379269,"Denkmalstrasse 14,",3176 Neuenegg,7.5,161.0,3000,-1,Single house,2025,1954,1
+4002379550,"Bernstrasse 154,",3148 Lanzenhäusern,5.5,142.0,2260,6.0,Apartment,-1,2016,1
+4002379551,"Löchliweg 51,",3048 Worblaufen,2.0,-1,1288,11.75,Apartment,-1,1960,1
+4002379573,"Zelgmatte 3,",3714 Frutigen,5.0,122.0,1800,11.33,Apartment,2025,1975,1
+4002379595,"Muristrasse 97,",3006 Bern,3.0,73.0,1949,4.25,Apartment,2024,1925,0
+4002379601,"Bözingenstrasse 118,",2504 Biel,4.5,-1,1640,4.5,Apartment,-1,-1,1
+4002379645,"Lombachweg 2,",3006 Bern,3.5,90.0,2150,4.75,Apartment,-1,-1,1
+4002379649,"Neumarktstrasse 56,",2503 Biel/Bienne,4.5,-1,2235,5.25,Apartment,-1,2018,1

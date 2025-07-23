@@ -1,0 +1,1001 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+3003379456,"Dorfplatz 5,",4244 Röschenz,4.5,118.0,1590,3.0,Apartment,-1,-1,0
+3003556067,"Unterer Rainweg 3,",4414 Füllinsdorf,4.5,130.0,2770,5.75,Apartment,2004,1962,1
+4000202136,"Ringstrasse 119,",4106 Therwil,3.5,-1,1715,7.0,Apartment,2015,-1,1
+4000471599,"Hauptstrasse 2,",4144 Arlesheim,4.5,125.0,2690,2.25,Apartment,-1,-1,0
+4000518683,"Baslerstrasse 50,",4102 Binningen,3.0,71.0,1800,4.25,Apartment,-1,-1,1
+4000563656,"Hauptstrasse 2,",4144 Arlesheim,4.5,125.0,2350,2.25,Roof flat,2015,1966,0
+4000644740,"Burgfeldermattweg 13,",4123 Allschwil,3.5,85.0,1950,4.5,Apartment,2001,1966,0
+4000669496,"Hauptstrasse 5,",4242 Laufen,3.0,110.0,1630,3.5,Apartment,2023,-1,0
+4001011635,"Hagmattstrasse 7a,",4123 Allschwil,1.0,-1,295,7.75,Hobby room,-1,2016,0
+4001084780,"Ofenstrasse 22,",4123 Allschwil,3.5,93.0,2275,10.25,Maisonette / Duplex,-1,2010,1
+4001117122,"Hauptstrasse 7,",4242 Laufen,3.5,82.0,1410,17.67,Apartment,-1,-1,0
+4001131860,"Langegasse 115,",4104 Oberwil BL,4.5,87.0,2120,7.25,Apartment,2014,1982,1
+4001133352,"Hauptstrasse 40,",4242 Laufen,3.5,142.0,2210,3.75,Maisonette / Duplex,-1,-1,1
+4001190324,,,-1,-1,-1,-1,,-1,-1,0
+4001238938,"Teichweg 30,",4142 Münchenstein,2.5,53.0,1765,9.0,Apartment,-1,2025,1
+4001247258,"Unterwartweg 49,",4132 Muttenz,3.5,80.0,1907,10.5,Apartment,2013,1973,0
+4001307826,"General Guisan-Strasse 29,",4144 Arlesheim,6.5,155.0,3580,8.75,Apartment,-1,-1,1
+4001441525,"Mühlegasse 6,",4105 Biel-Benken BL,3.5,85.0,1650,4.5,Roof flat,-1,-1,0
+4001449869,"Gewerbestrasse 25,",4123 Allschwil,-1,-1,109,8.5,Apartment,-1,-1,0
+4001473981,"Hauptstrasse 88,",4437 Waldenburg,4.5,120.0,1670,3.0,Maisonette / Duplex,2019,1890,1
+4001486201,"Im Wilacker 15,",4106 Therwil,4.5,91.0,1801,6.5,Apartment,-1,1968,1
+4001489063,"Oberdorfstrasse 16,",4244 Röschenz,2.5,66.0,2200,4.5,Roof flat,-1,2019,1
+4001510353,"Frohburgerstrasse 9,",4132 Muttenz,4.5,90.0,1990,7.25,Apartment,-1,-1,0
+4001546919,"Prattelerstrasse 12,",4132 Muttenz,2.5,103.0,1970,4.75,Apartment,-1,-1,1
+4001636325,"Kugelweg 13,",4222 Zwingen,3.5,-1,1460,6.33,Apartment,-1,-1,1
+4001668507,"Hohenrainstr. 24a,",4133 Pratteln,3.5,94.0,2750,5.0,Apartment,-1,2017,1
+4001668702,"Im Albantal 9,",4147 Aesch BL,4.0,85.0,1900,5.25,Apartment,2003,1960,1
+4001669506,"Bruderholzstrasse 12,",4102 Binningen,4.5,116.0,2612,6.5,Apartment,-1,1994,1
+4001670012,"Baumgartenweg 1,",4105 Biel-Benken BL,5.5,154.0,3790,4.0,Maisonette / Duplex,-1,-1,1
+4001682347,"Muesmattweg 70-78a,",4123 Allschwil,3.5,85.0,2110,-1,Maisonette / Duplex,-1,1988,1
+4001682351,"Rosenstrasse 1,",4410 Liestal,2.5,71.0,1855,2.25,Apartment,-1,2020,0
+4001685243,"Baslerstrasse 11,",4106 Therwil,4.5,100.0,2000,3.0,Apartment,-1,-1,1
+4001701297,"Dorfstrasse 42,",4452 Itingen,4.0,82.0,1650,-1,Apartment,-1,1970,0
+4001712304,"Hauptstrasse 28,",4448 Läufelfingen,3.5,118.0,2000,1.5,Apartment,-1,2022,1
+4001734334,"Eggstrasse 53,",4402 Frenkendorf,4.0,90.0,1795,12.0,Apartment,-1,-1,1
+4001741077,"Burgfeldermattweg 15,",4123 Allschwil,3.5,65.0,1640,4.75,Apartment,2001,1966,0
+4001746001,"Dorfgasse 60/62,",4435 Niederdorf,3.5,-1,1370,2.5,Apartment,-1,-1,1
+4001746789,"Pestalozzistrasse 39,",4132 Muttenz,4.5,94.0,2130,3.0,Apartment,2024,-1,1
+4001747479,"Joh. Brüderlin-Str. 12,",4132 Muttenz,4.0,79.0,1700,4.75,Apartment,-1,-1,1
+4001757259,"Schlossstrasse 10,",4133 Pratteln,2.5,56.0,1530,2.75,Roof flat,2001,1969,0
+4001764408,"Bruggfeldweg 2,",4147 Aesch BL,1.0,21.0,275,8.5,Hobby room,-1,1994,0
+4001766658,"Alemannenstr. 19,",4106 Therwil,3.0,71.0,1660,7.75,Apartment,1991,1969,0
+4001767928,"Burgfeldermattweg 17,",4123 Allschwil,3.5,70.0,1908,5.75,Apartment,2001,1966,0
+4001772793,"Unterm Stallen 15,",4104 Oberwil BL,3.5,93.0,2190,6.75,Apartment,-1,-1,1
+4001783599,"Heidenlochstrasse 82,",4410 Liestal,4.5,90.0,1950,10.75,Apartment,-1,-1,1
+4001787411,"Teichweg 24,",4142 Münchenstein,3.5,66.0,2135,9.0,Apartment,-1,2025,1
+4001788466,"Stockackerstrasse 3,",4153 Reinach BL,4.5,93.0,2110,4.25,Apartment,-1,-1,1
+4001817445,"Ergolzstrasse 24,",4414 Füllinsdorf,3.5,70.0,1690,5.5,Apartment,-1,1973,0
+4001818257,"Ringstrasse 9,",4414 Füllinsdorf,4.0,79.0,1910,11.0,Apartment,2024,1973,1
+4001818326,"Reckholderstrasse 44,",4222 Zwingen,3.5,99.0,1770,4.67,Roof flat,2022,-1,1
+4001819931,"Aeussere Lange Heid 5,",4142 Münchenstein,3.0,72.0,1611,4.75,Apartment,1999,1958,0
+4001820892,"Landstrasse 69,",4452 Itingen,2.5,104.0,1750,-1,Apartment,-1,-1,1
+4001821965,"Reckholderstrasse 46,",4222 Zwingen,5.5,122.0,2175,5.67,Roof flat,2024,-1,1
+4001821972,"Reckholderstrasse 46,",4222 Zwingen,4.5,122.0,2175,5.33,Roof flat,2024,-1,1
+4001826838,,,3.5,-1,1550,-1,Apartment,-1,-1,1
+4001836950,"Emil Frey-Strasse 153,",4142 Münchenstein,3.0,88.0,1960,3.25,Apartment,2024,-1,1
+4001837650,"Oristalstrasse 58,",4410 Liestal,4.5,111.0,2490,6.5,Apartment,-1,2020,1
+4001846424,"Aeussere Lange Heid 5,",4142 Münchenstein,3.0,70.0,1640,4.75,Apartment,1999,1958,0
+4001849068,"Alemannenstr. 19,",4106 Therwil,4.0,83.0,1940,7.75,Apartment,1991,1969,0
+4001851948,"Langackerstrasse 11,",4142 Münchenstein,3.5,81.0,2015,2.5,Apartment,-1,1981,1
+4001864088,"Stallenmattstrasse 10,",4104 Oberwil BL,4.5,109.0,2305,8.25,Apartment,-1,1990,0
+4001865623,"Im Reinacherhof 81-89a,",4153 Reinach BL,3.5,94.0,2430,4.5,Maisonette / Duplex,-1,-1,1
+4001867798,,,-1,-1,-1,-1,,-1,-1,0
+4001868862,"Hauptstrasse 63,",4416 Bubendorf,3.5,100.0,1940,5.25,Apartment,-1,-1,1
+4001872763,"Hofackerstrasse 12,",4132 Muttenz,1.5,33.0,1260,6.0,Apartment,-1,2025,1
+4001872764,"Hofackerstrasse 12,",4132 Muttenz,3.5,62.0,1900,6.0,Apartment,-1,2025,1
+4001872765,"Hofackerstrasse 16,",4132 Muttenz,4.5,81.0,2410,6.0,Apartment,-1,2025,1
+4001872766,"Hofackerstrasse 14,",4132 Muttenz,5.5,115.0,3290,5.75,Apartment,-1,2025,1
+4001877479,"Triegismattweg 4,",4450 Sissach,3.5,90.0,2180,6.75,Apartment,-1,-1,1
+4001880671,"Langenhagweg 7,",4123 Allschwil,3.5,75.0,2455,6.0,Apartment,-1,2020,1
+4001882273,,,4.5,127.0,2050,-1,Apartment,2020,1999,0
+4001883242,,,4.5,100.0,1800,-1,Apartment,-1,2016,1
+4001887999,"Baselmattweg 34,",4123 Allschwil,3.0,103.0,2195,6.0,Maisonette / Duplex,-1,1990,1
+4001888167,,,4.5,80.0,1695,-1,Apartment,2025,2024,1
+4001888168,,,4.5,96.0,1795,-1,Apartment,2025,2024,0
+4001888412,,,4.5,80.0,1695,-1,Apartment,2025,2024,1
+4001890731,"Buendtenmattstr. 48,",4102 Binningen,4.0,90.0,2070,5.75,Apartment,-1,1950,1
+4001890759,"Hardstrasse 2,",4455 Zunzgen,3.0,70.0,1530,7.5,Apartment,-1,-1,1
+4001890773,"Oskar Biderstrasse 17,",4410 Liestal,3.5,92.0,1925,8.0,Apartment,2012,1959,1
+4001890791,"Hofmattweg 69,",4144 Arlesheim,2.5,75.0,1950,6.0,Apartment,-1,-1,1
+4001890800,"Fraumattstrasse 2,",4410 Liestal,3.5,60.0,1630,7.5,Apartment,-1,-1,1
+4001890814,"Neubadrain 18,",4102 Binningen,6.0,214.0,4960,5.5,Attic flat,-1,1966,1
+4001901501,"Birsmattstrasse 44,",4106 Therwil,2.0,86.0,1692,8.25,Apartment,1998,1971,0
+4001906070,"Bottmingerstrasse 49,",4102 Binningen,2.5,70.0,2525,4.0,Apartment,-1,2024,1
+4001907517,"Im Bruggrain 2,",4147 Aesch,3.5,131.0,3810,8.0,Apartment,-1,2024,1
+4001907664,"Ergolzstrasse 60,",4414 Füllinsdorf,4.5,101.0,2344,5.75,Apartment,1993,1980,0
+4001908346,"Bifangweg 18,",4441 Thürnen,4.5,100.0,1830,5.0,Apartment,-1,-1,1
+4001910368,"Parkallee 10,",4123 Allschwil,4.5,94.0,2100,6.5,Apartment,2017,1985,0
+4001917545,"Burgfeldermattweg 19,",4123 Allschwil,3.5,108.0,2428,5.75,Apartment,2001,1966,0
+4001917552,"Käppelibodenweg 48,",4132 Muttenz,3.5,88.0,1850,3.75,Apartment,2002,1981,0
+4001918958,"Zihlackerstrasse 54,",4153 Reinach BL,4.5,88.0,2095,7.25,Apartment,2022,1983,1
+4001919848,"Colmarerweg 14,",4153 Reinach BL,4.5,125.0,2670,7.5,Apartment,-1,1988,1
+4001921105,"Sonnenbergstr. 32,",4127 Birsfelden,3.0,62.0,1570,5.0,Apartment,2001,1970,1
+4001921232,"Im Steinenmüller 2,",4142 Münchenstein,3.0,83.0,1835,5.5,Apartment,2006,-1,1
+4001921522,"Käppelibodenweg 36,",4132 Muttenz,4.5,97.0,2200,4.25,Apartment,2002,1981,0
+4001922711,"Baselstrasse 30,",4222 Zwingen,3.5,102.0,1590,6.5,Apartment,2000,1893,0
+4001924003,"Schafmattweg 35,",4102 Binningen,2.5,68.0,1750,4.75,Apartment,2016,1931,1
+4001924363,"Steinbühlweg 68,",4123 Allschwil,4.5,142.0,4405,7.25,Attic flat,-1,2020,0
+4001926891,"General Guisan-Strasse 43,",4144 Arlesheim,4.5,98.0,2440,9.75,Apartment,-1,-1,1
+4001931760,,,3.0,200.0,3250,-1,Apartment,2024,1995,0
+4001933237,"Alemannenstrasse 5,",4106 Therwil,3.5,-1,1815,6.5,Apartment,-1,-1,1
+4001933370,"Bottmingerstr. 119,",4102 Binningen,3.5,78.0,2090,5.25,Apartment,-1,1979,1
+4001933371,"Bottmingerstr. 121,",4102 Binningen,3.5,78.0,2090,5.25,Apartment,-1,1979,1
+4001938053,"Bettenstrasse 22,",4123 Allschwil,3.5,84.0,1890,6.0,Apartment,2001,1967,1
+4001941975,"Kriegackerstrasse 91,",4132 Muttenz,3.5,102.0,2490,4.5,Apartment,2024,-1,1
+4001943560,,,-1,-1,-1,-1,,-1,-1,0
+4001943879,"Benkenstrasse 13,",4106 Therwil,4.5,95.0,2320,3.25,Maisonette / Duplex,-1,1999,1
+4001945406,"Längistrasse 15,",4133 Pratteln,3.0,68.0,1640,3.0,Apartment,-1,-1,0
+4001950340,"Augsterheglistrasse 27,",4133 Pratteln,3.0,68.0,1540,3.0,Apartment,-1,-1,0
+4001950827,"Burgstrasse 6,",4410 Liestal,2.5,52.0,1600,2.0,Apartment,2025,-1,1
+4001950913,"Langenhagweg 25,",4123 Allschwil,3.5,94.0,2995,7.75,Apartment,-1,-1,1
+4001952906,"Wielandstr. 2,",4153 Reinach BL,4.0,117.0,2580,4.0,Apartment,-1,-1,1
+4001957758,"Baslerstrasse 254,",4123 Allschwil,3.5,107.0,2680,6.0,Apartment,-1,1988,1
+4001959769,"Im Oberfeld 8,",4434 Hölstein,4.5,142.0,2225,11.33,Roof flat,-1,-1,1
+4001962996,"Hauptstrasse 31,",4104 Oberwil BL,3.0,80.0,1750,2.0,Roof flat,-1,-1,1
+4001965025,"Erlenstrasse 5,",4416 Bubendorf,4.5,86.0,1990,7.25,Apartment,-1,-1,1
+4001966048,"Langackerstrasse 11,",4142 Münchenstein,3.5,81.0,2055,2.5,Apartment,-1,1981,0
+4001966573,"Hauptstrasse 72,",4450 Sissach,4.5,96.0,1850,3.5,Apartment,-1,-1,1
+4001974775,"Rathausstrasse 28,",4410 Liestal,3.5,103.0,2100,2.25,Maisonette / Duplex,-1,-1,1
+4001974777,"Zinsmattweg 2,",4436 Oberdorf BL,-1,-1,125,5.0,Hobby room,-1,-1,0
+4001974781,"Hauptstrasse 72,",4422 Arisdorf,1.5,-1,1480,2.67,Apartment,-1,-1,0
+4001975876,"Schafmattweg 47,",4102 Binningen,4.5,83.0,1970,3.25,Apartment,1998,1966,1
+4001980418,"Holeeholzweg 55 / 57 / 59,",4102 Binningen,3.5,79.0,1770,9.5,Apartment,1990,-1,0
+4001981841,"Oristalstr. 49 A,",4410 Liestal,3.5,93.0,2250,6.5,Roof flat,-1,2006,1
+4001982962,"Oberemattstrasse 86,",4133 Pratteln,4.0,80.0,1750,3.75,Apartment,-1,-1,1
+4001983081,"Hauptstrasse 72,",4450 Sissach,4.5,96.0,1750,3.5,Apartment,-1,-1,1
+4001987243,"Muttenzerstr. 78,",4133 Pratteln,4.5,86.0,1775,5.75,Apartment,2005,1972,1
+4001988679,"Oberdorfstrasse 16,",4244 Röschenz,3.5,63.0,1900,4.0,Apartment,-1,2018,1
+4001990165,"Baumgartenweg 4,",4104 Oberwil BL,3.5,83.0,2330,5.0,Apartment,-1,2017,1
+4001990724,"Eggstrasse 47,",4402 Frenkendorf,4.0,86.0,1730,11.75,Apartment,-1,1969,1
+4001991954,"Mühlackerstr. 27,",4402 Frenkendorf,4.5,93.0,2250,6.0,Apartment,2020,1985,1
+4001999811,,,3.5,85.0,2070,-1,Apartment,2009,1960,1
+4002002483,"Langenhagweg 23,",4123 Allschwil,3.5,82.0,3195,7.75,Attic flat,-1,-1,1
+4002007250,"Baselmattweg 134a,",4123 Allschwil,3.5,85.0,2130,7.75,Maisonette / Duplex,-1,1988,1
+4002008267,"Baselmattweg 145,",4123 Allschwil,3.5,81.0,1890,8.25,Apartment,-1,1992,1
+4002009500,"Esterlistrasse 20,",4133 Pratteln,3.5,72.0,1530,6.5,Apartment,2009,1965,0
+4002010211,"Weiermattstrasse 4,",4410 Liestal,4.0,77.0,1690,7.25,Apartment,-1,-1,1
+4002016133,"Mausackerweg 71,",4153 Reinach BL,4.0,100.0,2150,7.25,Apartment,-1,-1,0
+4002017828,"Ebeni 3,",4432 Lampenberg,3.5,104.0,2330,13.5,Apartment,-1,2025,1
+4002017890,"Lindenstrasse 8,",4102 Binningen,3.0,63.0,1627,4.0,Apartment,-1,2001,1
+4002021548,"Hauptstrasse 43,",4142 Münchenstein,2.5,100.0,2100,7.25,Studio,-1,2016,0
+4002021554,"Leymenstrasse 7,",4105 Biel-Benken,2.5,70.0,1950,6.5,Roof flat,2022,1986,1
+4002024359,"Ergolzstrasse 60,",4414 Füllinsdorf,4.5,102.0,2296,5.75,Apartment,1993,1980,0
+4002025712,,,-1,-1,-1,-1,,-1,-1,0
+4002026434,"Lettenweg 83,",4123 Allschwil,5.5,136.0,3155,5.25,Apartment,-1,1976,0
+4002026756,"Bruderholzstrasse 20,",4102 Binningen,3.5,97.0,2350,7.5,Apartment,-1,1994,1
+4002030593,"Gewerbestrasse 10,",4450 Sissach,4.5,115.0,2390,5.75,Attic flat,2022,-1,1
+4002030748,"Bärenwil 195,",4438 Langenbruck,7.5,-1,2100,-1,Apartment,-1,-1,0
+4002031143,"Akazienweg 5, Aesch,",4147 Aesch BL,4.5,-1,2000,3.5,Apartment,-1,-1,1
+4002032094,"Landstrasse 61,",4452 Itingen,6.5,249.0,5900,-1,Apartment,-1,2025,1
+4002032831,"Hardstr. 8,",4127 Birsfelden,3.5,66.0,1635,3.25,Apartment,-1,1987,1
+4002039195,"Heidenlochstrasse 110,",4410 Liestal,4.0,85.0,1640,8.0,Apartment,-1,-1,1
+4002044258,"Himmelrainweg 13,",4455 Zunzgen,7.0,160.0,3950,9.75,Apartment,-1,-1,0
+4002044331,"Himmelrainweg 13,",4455 Zunzgen,4.0,80.0,1995,9.75,Apartment,-1,-1,0
+4002045103,"Spitzgartenweg 1,",4123 Allschwil,3.5,79.0,1950,3.25,Apartment,2012,1981,1
+4002046004,"Baslerstrasse 50,",4102 Binningen,3.0,71.0,1780,4.25,Apartment,-1,-1,1
+4002046424,"Bleihollenweg 14,",4242 Laufen,3.0,77.0,1430,13.5,Apartment,-1,-1,1
+4002049037,"Arlesheimerstr. 24,",4147 Aesch BL,3.5,75.0,1820,6.75,Apartment,1982,1982,1
+4002049663,"Lerchenstrasse 36,",4103 Bottmingen,4.5,105.0,2800,8.75,Row house,-1,1970,1
+4002050661,"Hauptstrasse 119,",4102 Binningen,3.0,58.0,1540,3.0,Apartment,1992,1957,0
+4002053078,"Brislachstrasse 2,",4242 Laufen,3.0,75.0,1660,3.5,Apartment,-1,-1,1
+4002055093,"Im Hinterstück 34,",4107 Ettingen,1.0,-1,300,9.5,Hobby room,-1,2020,0
+4002059721,"Rheinstrasse 4,",4133 Pratteln,5.5,160.0,2710,14.0,Maisonette / Duplex,2018,1999,1
+4002061420,"Kugelweg 13,",4222 Zwingen,3.5,-1,1410,6.33,Apartment,-1,-1,1
+4002061713,"Talackerstrasse 13,",4153 Reinach BL,4.5,106.0,2491,6.25,Apartment,1993,1955,0
+4002062751,"Ostenbergstrasse 11,",4410 Liestal,3.5,76.0,2190,15.5,Apartment,-1,-1,0
+4002062962,"Tiergartenstrasse 50d,",4410 Liestal,3.5,92.0,2690,13.25,Attic flat,-1,-1,1
+4002062963,"Tiergartenstrasse 52,",4410 Liestal,3.5,98.0,2790,11.5,Attic flat,-1,-1,1
+4002064680,"Hauptstr. 4,",4102 Binningen,3.5,88.0,2420,3.5,Apartment,2017,1979,1
+4002068643,"Baslerstrasse 252,",4123 Allschwil,2.5,74.0,2050,7.25,Apartment,-1,1988,1
+4002068674,"Heidenlochstrasse 90,",4410 Liestal,2.5,73.0,1940,9.75,Attic flat,-1,2017,1
+4002068678,"Tschäpperliring 8,",4153 Reinach,3.5,79.0,2090,6.75,Apartment,-1,-1,1
+4002068684,"Tschäpperliring 8,",4153 Reinach,3.5,81.0,2090,6.75,Apartment,-1,-1,1
+4002069796,"Klinkerweg 17,",4123 Allschwil,4.5,112.0,2679,9.5,Apartment,-1,2009,0
+4002074519,"Römerstrasse 11,",4153 Reinach BL,5.5,127.0,3350,4.75,Apartment,-1,2018,1
+4002076338,"Burggartenstrasse 34,",4133 Pratteln,2.5,73.0,1995,2.75,Roof flat,-1,2004,1
+4002076504,"Dorfgasse 16,",4435 Niederdorf,3.5,58.0,1270,3.0,Apartment,-1,1960,1
+4002077474,"Margarethenstrasse 100,",4102 Binningen,4.5,88.0,2110,7.25,Apartment,2025,1974,1
+4002077687,"Rebgartenweg 3,",4104 Oberwil BL,3.5,87.0,3300,6.75,Apartment,-1,2025,1
+4002077988,"Hauptstrasse 86B,",4416 Bubendorf,3.5,85.0,2050,7.75,Apartment,-1,-1,0
+4002077998,"Brühlstrasse 42,",4415 Lausen,3.5,77.0,1758,3.0,Apartment,-1,1989,0
+4002079171,"Florastrasse 8,",4127 Birsfelden,4.5,90.0,2330,5.0,Apartment,2011,1970,0
+4002080401,"Brunngasse 1,",4153 Reinach BL,4.5,95.0,2310,2.75,Apartment,1999,-1,1
+4002080483,"Reuslistrasse 43i,",4450 Sissach,3.5,89.0,2840,9.75,Attic flat,-1,2014,0
+4002080751,"Burgfeldermattweg 59,",4123 Allschwil,3.5,85.0,1760,7.5,Apartment,-1,1983,1
+4002085034,"Zelgwasserweg 39,",4460 Gelterkinden,4.5,92.0,1895,9.25,Apartment,2023,1985,1
+4002085227,"Spitzwaldstrasse 209,",4123 Allschwil,3.5,79.0,1760,5.5,Apartment,2020,1968,0
+4002085868,"Weidenweg 8/8a/10,",4127 Birsfelden,3.5,71.0,1990,2.75,Apartment,-1,-1,0
+4002086073,"Neubergweg 16,",4106 Therwil,5.5,147.0,3200,9.75,Apartment,-1,-1,1
+4002086252,"Brunnmattweg 13-15-17-19,",4450 Sissach,4.5,107.0,2780,10.25,Single house,-1,2005,1
+4002086316,"St.Jakobstr. 54,",4147 Aesch,3.0,76.0,1880,-1,Apartment,-1,1996,1
+4002086413,"Saturnstrasse 48,",4123 Allschwil,4.5,109.0,2190,6.25,Apartment,-1,-1,0
+4002086586,"Obere Kirchgasse 23,",4147 Aesch BL,3.5,79.0,1770,6.0,Apartment,-1,-1,1
+4002086617,"Hauptstrasse 21,",4304 Giebenach,3.5,86.0,1700,-1,Apartment,-1,-1,1
+4002088095,"Belchenring 69,",4123 Allschwil,-1,16.0,-1,9.75,Hobby room,-1,2006,0
+4002088588,"Hauptstrasse 72,",4422 Arisdorf,4.5,-1,2170,2.67,Apartment,-1,-1,1
+4002088613,"Tiefentalweg 3,",4223 Blauen,2.5,68.0,1620,-1,Apartment,-1,2025,0
+4002089056,"Tschäpperliring 8,",4153 Reinach,3.0,69.0,1680,6.75,Apartment,-1,-1,1
+4002089732,"Am Stausee 27,",4127 Birsfelden,4.0,87.0,2109,5.75,Apartment,2016,1967,0
+4002090366,"Kanonengasse 24,",4410 Liestal,4.0,138.0,2980,1.75,Apartment,-1,1648,0
+4002093355,"Im Hofacker 14,",4106 Therwil,3.5,96.0,2290,7.25,Apartment,-1,-1,1
+4002093844,"Wiesenstrasse 17,",4457 Diegten,4.5,120.0,2010,3.0,Apartment,-1,-1,0
+4002094579,"Alemannenstr. 19,",4106 Therwil,3.0,71.0,1662,7.75,Apartment,1991,1969,0
+4002095165,"Birsmatt 11,",4147 Aesch,3.5,89.0,2160,6.0,Apartment,-1,-1,0
+4002095173,"Birsmatt 9,",4147 Aesch,3.5,89.0,2160,6.0,Apartment,-1,-1,0
+4002095191,"Im Reinacherhof 81-89a,",4153 Reinach BL,3.5,93.0,2320,4.5,Maisonette / Duplex,-1,-1,1
+4002096438,"Birseckstrasse 33,",4127 Birsfelden,3.0,62.0,1210,5.0,Apartment,-1,-1,1
+4002096527,"Bruderholzstrasse 28,",4102 Binningen,3.5,105.0,2512,7.5,Apartment,-1,1994,1
+4002097045,"Baselstrasse 93,",4144 Arlesheim,3.5,107.0,2250,7.0,Roof flat,-1,-1,1
+4002097046,"Baselstrasse 93a,",4144 Arlesheim,3.5,188.0,2350,7.0,Maisonette / Duplex,-1,-1,1
+4002098071,"Predigerweg 9,",4153 Reinach BL,4.5,128.0,2700,7.0,Apartment,-1,1988,1
+4002102462,"Wabigenweg 6,",4463 Buus,4.5,106.0,2100,-1,Maisonette / Duplex,2024,-1,0
+4002102797,"Flurstrasse 10,",4416 Bubendorf,4.5,157.0,2050,7.25,Apartment,-1,1984,0
+4002105412,,,2.5,-1,1780,-1,Apartment,-1,-1,1
+4002106491,"Güterstrasse 17b,",4133 Pratteln,3.5,86.0,2025,4.0,Apartment,-1,-1,1
+4002106492,"Rufsteinweg 4,",4410 Liestal,3.5,80.0,1850,4.25,Apartment,-1,-1,1
+4002106928,"Nespelmattweg 5a,",4148 Pfeffingen,3.5,89.0,2685,6.5,Apartment,-1,2021,1
+4002107053,"Benkenstrasse 26,",4153 Reinach BL,4.0,-1,2330,8.0,Apartment,-1,-1,1
+4002108015,"Hauptstrasse 8,",4127 Birsfelden,5.5,124.0,2650,5.5,Apartment,-1,-1,1
+4002112037,"Im Hügliacker 2E,",4102 Binningen,5.0,177.0,6490,8.75,Maisonette / Duplex,-1,2013,1
+4002112300,"Reinacherstr. 3,",4106 Therwil,-1,12.0,140,3.5,Hobby room,-1,2002,0
+4002114764,"Teichweg 2,",4450 Sissach,4.5,75.0,1530,3.0,Apartment,-1,-1,1
+4002115000,"Dorfplatz 2,",4142 Münchenstein,3.5,85.0,2375,13.0,Apartment,2002,2002,1
+4002115518,"Ofenstrasse 40,",4123 Allschwil,3.5,93.0,2205,9.75,Maisonette / Duplex,-1,2010,0
+4002116256,"Im Steinenmüller 1,",4142 Münchenstein,3.5,84.0,1710,4.75,Apartment,2003,1952,1
+4002116653,"Mühlematten 5,",4455 Zunzgen,2.5,64.0,1470,12.5,Apartment,-1,-1,0
+4002116735,"Güterstrasse 11,",4402 Frenkendorf,2.0,103.0,1710,7.75,Loft,2017,-1,0
+4002117251,"Ettingerstrasse 49,",4153 Reinach BL,4.0,84.0,2219,7.25,Roof flat,-1,-1,1
+4002118217,"Neumattstrasse 10,",4153 Reinach,3.5,97.0,2950,3.5,Apartment,-1,-1,0
+4002118424,"Rheinparkstrasse 25,",4127 Birsfelden,4.5,96.0,2360,4.75,Apartment,2003,1968,1
+4002128450,"Kesselweg 47a,",4410 Liestal,3.5,66.0,1620,6.0,Apartment,-1,-1,1
+4002131556,"Hauptstrasse 40,",4242 Laufen,3.0,-1,1475,3.75,Apartment,-1,-1,0
+4002134026,"Feldstrasse 14,",4123 Allschwil,3.0,63.0,1661,7.0,Apartment,-1,-1,0
+4002134944,"Wehrlingasse 15,",4104 Oberwil BL,4.0,130.0,2484,3.5,Roof flat,-1,-1,1
+4002137182,"Binningerstr. 62,",4123 Allschwil,3.5,76.0,1770,4.25,Apartment,1999,1966,1
+4002138143,"Akazienweg 18,",4147 Aesch,2.0,64.0,1850,7.5,Apartment,2017,1966,1
+4002138811,"Froburgstrasse 1,",4410 Liestal,4.5,120.0,2400,9.0,Apartment,-1,-1,0
+4002139457,"Stockackerstrasse 4,",4153 Reinach,3.5,95.0,2460,4.0,Apartment,-1,2022,0
+4002146257,"Heissgländstrasse 19,",4132 Muttenz,2.5,65.0,1990,6.5,Apartment,-1,2024,1
+4002146835,"Hofmattweg 19,",4402 Frenkendorf,2.5,90.0,1590,8.75,Apartment,-1,1990,1
+4002148313,"Frenkenstrasse 41,",4434 Hölstein,4.5,158.0,2600,13.0,Maisonette / Duplex,-1,2003,1
+4002149022,"Birseckstrasse 9,",4153 Reinach,4.0,82.0,1950,4.75,Apartment,-1,1955,1
+4002150107,"Widliackerstrasse 68,",4415 Lausen,3.5,78.0,1670,8.0,Apartment,-1,1986,1
+4002151969,"Emil Frey-Strasse 75,",4142 Münchenstein,3.5,67.0,1680,8.0,Apartment,-1,-1,1
+4002152210,"Hasenrainstrasse 24,",4102 Binningen,2.5,67.0,1990,7.25,Apartment,-1,2018,1
+4002152248,"Oberer Moosweg 41,",4203 Grellingen,2.5,100.0,1590,8.33,Roof flat,-1,1996,1
+4002152526,"Ribi 2,",4466 Ormalingen,5.5,122.0,2390,18.5,Apartment,-1,2013,1
+4002152528,"Baselstrasse 12,",4124 Schönenbuch,4.5,-1,1880,4.0,Apartment,-1,-1,1
+4002152540,"Teichweg 26,",4142 Münchenstein,3.5,63.0,2115,9.0,Apartment,-1,2025,1
+4002154390,"Oberwilerstrasse 4,",4142 Münchenstein,4.0,85.0,1863,5.75,Apartment,1999,1958,1
+4002155256,"Frenkenstrasse 29,",4434 Hölstein,1.5,57.0,1335,12.0,Roof flat,-1,2017,0
+4002159819,"Grabenmattweg 38,",4123 Allschwil,3.0,75.0,1722,9.5,Apartment,2005,1972,0
+4002160689,"Grubenstrasse 32,",4222 Zwingen,4.5,106.0,2325,5.67,Apartment,-1,2013,1
+4002160959,"Neuweilerstrasse 1,",4124 Schönenbuch,4.5,-1,2600,2.5,Apartment,-1,2024,0
+4002164227,"Schlossstrasse 8,",4133 Pratteln,3.5,72.0,1715,2.0,Apartment,2001,1969,0
+4002164624,"Ettingerstrasse 37/39,",4106 Therwil,4.0,161.0,3320,6.0,Maisonette / Duplex,-1,2012,1
+4002164925,"Schauenburgerstrasse 25,",4410 Liestal,3.5,76.0,1794,10.5,Apartment,-1,1971,0
+4002165074,"Eptingerstrasse 22,",4132 Muttenz,4.5,89.0,1930,7.25,Apartment,-1,-1,1
+4002165106,"Binningerstrasse 17,",4104 Oberwil,3.5,78.0,1830,8.75,Apartment,-1,1985,1
+4002166649,"In den Gärten 2,",4304 Giebenach,4.5,98.0,1790,-1,Apartment,-1,-1,0
+4002169133,"Holeeholzweg 69,",4102 Binningen,3.5,73.0,1680,11.75,Apartment,1990,-1,0
+4002169307,"Am Bruggrain 1,",4147 Aesch BL,2.5,65.0,2100,7.25,Apartment,-1,2025,1
+4002169425,"Hauptstrasse 48,",4417 Ziefen,4.5,139.0,2650,2.0,Apartment,-1,2009,1
+4002170099,"Benkenstrasse 10,",4153 Reinach BL,5.0,-1,2650,7.5,Maisonette / Duplex,-1,1982,1
+4002171494,"Schlossgasse 4,",4222 Zwingen,4.5,135.0,2570,8.0,Apartment,2025,1651,0
+4002171495,"Schlossgasse 4,",4222 Zwingen,3.5,97.0,1950,8.0,Apartment,2025,1651,1
+4002171496,"Schlossgasse 4,",4222 Zwingen,4.5,121.0,2370,8.0,Apartment,2025,1651,0
+4002172388,"Holeeholzweg 69,",4102 Binningen,4.5,95.0,2060,11.75,Apartment,1990,-1,0
+4002173333,"Ruchholzstrasse 19,",4103 Bottmingen,5.5,162.0,4340,5.5,Apartment,-1,2007,1
+4002173443,"Hofackerstrasse 17,",4132 Muttenz,3.0,67.0,1660,5.75,Apartment,-1,1953,1
+4002173448,"Leimgrubenweg 8,",4102 Binningen,3.5,80.0,2540,9.5,Apartment,-1,1986,1
+4002173450,"Neubadrain 21,",4102 Binningen,4.5,100.0,2590,6.75,Apartment,-1,-1,0
+4002173632,"Steinbühlweg 70,",4123 Allschwil,-1,12.0,160,6.75,Hobby room,-1,2020,0
+4002174518,"Kaspar Pfeifferstrasse 17,",4142 Münchenstein,2.5,78.0,1660,2.75,Apartment,-1,-1,1
+4002174551,"Hauptstrasse 19,",4148 Pfeffingen,2.0,67.0,1582,6.0,Apartment,-1,-1,1
+4002175692,"Bahnweg 20,",4415 Lausen,4.5,101.0,2330,6.0,Apartment,2021,2021,1
+4002175958,"Bahnhofstrasse 28,",4133 Pratteln,3.5,91.0,1750,2.75,Apartment,-1,1931,1
+4002176519,"Bahnhofstrasse 30,",4133 Pratteln,3.5,72.0,1630,2.25,Apartment,-1,1931,1
+4002177932,"Lettenweg 4,",4102 Binningen,5.5,140.0,3180,8.25,Apartment,-1,2002,0
+4002177970,"Fliederweg 6,",4410 Liestal,3.5,100.0,2360,4.25,Attic flat,-1,2005,0
+4002178232,"Therwilerstrasse 12,",4142 Münchenstein,4.5,95.0,2210,5.5,Apartment,-1,-1,0
+4002179188,"Hauptstrasse 17,",4450 Sissach,2.5,74.0,1900,2.25,Apartment,-1,2015,0
+4002179191,"Kurzelaengeweg 9A,",4123 Allschwil,-1,16.0,194,8.0,Hobby room,2009,1983,0
+4002182499,"Hauptstrasse 14,",4402 Frenkendorf,3.5,109.0,2075,8.25,Apartment,-1,-1,0
+4002182558,"Bahnhofstrasse 28,",4242 Laufen,5.0,112.0,2185,2.75,Apartment,-1,-1,1
+4002182560,"Bündtenweg 10,",4242 Laufen,2.5,89.0,1720,4.75,Apartment,-1,-1,1
+4002184946,"Benkenstrasse 26,",4153 Reinach BL,3.0,-1,1920,8.0,Apartment,-1,-1,0
+4002186984,"Kanonengasse 24,",4410 Liestal,2.5,77.0,1900,1.75,Apartment,-1,1648,0
+4002186987,"Bottmingerstr. 5,",4102 Binningen,3.5,110.0,2725,5.0,Attic flat,-1,2007,1
+4002187006,"St.Jakobstr. 70,",4147 Aesch,3.5,99.0,2410,-1,Maisonette / Duplex,-1,1996,1
+4002187009,"Wyhlenstrasse 22,",4133 Pratteln,2.5,54.0,1200,3.33,Apartment,-1,-1,0
+4002187423,"Burggartenstrasse 19,",4133 Pratteln,4.5,107.0,2450,1.75,Apartment,-1,1997,1
+4002187662,"Hofackerweg 10,",4419 Lupsingen,2.5,65.0,1280,5.5,Apartment,2022,2000,1
+4002189252,"Muttenzerstr. 25,",4133 Pratteln,2.0,69.0,1630,6.75,Roof flat,-1,1953,0
+4002189273,"Parkallee 11,",4123 Allschwil,3.5,73.0,1790,6.75,Apartment,-1,1961,0
+4002189279,"Rainenweg 52-156,",4153 Reinach BL,4.5,120.0,3390,6.5,Single house,2024,1994,1
+4002189280,"Hauptstr. 171,",4466 Ormalingen,4.5,111.0,1930,19.5,Apartment,-1,1988,1
+4002189293,"Parkallee 11,",4123 Allschwil,3.0,65.0,1520,6.75,Apartment,-1,1961,0
+4002190121,"Fiechthagstrasse 8,",4103 Bottmingen,3.5,92.0,2220,11.75,Apartment,-1,1996,1
+4002190123,"Fiechthagstrasse 4,",4103 Bottmingen,3.5,92.0,2255,11.0,Apartment,-1,1996,0
+4002190272,"Friedhofweg 12,",4414 Füllinsdorf,3.0,65.0,1650,5.75,Apartment,-1,1966,0
+4002190903,,,-1,-1,-1,-1,,-1,-1,0
+4002192271,"Langegasse 99,",4104 Oberwil BL,3.5,76.0,1915,6.25,Apartment,2014,1974,1
+4002192272,"Langegasse 97,",4104 Oberwil BL,3.5,75.0,1880,5.5,Apartment,2014,1974,1
+4002192314,"Lindenstrasse 33,",4102 Binningen,3.0,73.0,1610,4.0,Apartment,-1,1964,0
+4002194317,"Poststrasse 9,",4460 Gelterkinden,4.0,115.0,2095,4.0,Apartment,-1,-1,1
+4002194467,"Ettingerstrasse 51,",4106 Therwil,4.5,114.0,2730,5.5,Apartment,2025,-1,1
+4002194906,"Bergrebenweg 7,",4133 Pratteln,5.5,180.0,5800,8.75,Single house,-1,1959,0
+4002195381,"Wiesengrundstrasse 6,",4132 Muttenz,6.0,169.0,4300,4.25,Single house,-1,-1,1
+4002195817,"Neumattstrasse 22,",4147 Aesch,2.5,63.0,1880,3.75,Apartment,-1,2016,1
+4002195836,"Brunngasse 6,",4153 Reinach,3.5,86.0,2900,3.25,Attic flat,-1,2022,1
+4002197944,"Oberdorf 6,",4202 Duggingen,3.5,81.0,1360,6.5,Apartment,-1,1968,0
+4002198331,"Dalbenweg 16,",4416 Bubendorf,3.5,103.0,2195,5.0,Maisonette / Duplex,-1,2023,1
+4002198774,"Jurastrasse 1,",4242 Laufen,3.5,83.0,1595,13.25,Apartment,-1,-1,1
+4002199210,"Bahnhofplatz 2,",4133 Pratteln,2.5,68.0,1655,3.5,Apartment,-1,2014,0
+4002200092,"Birseckstrasse 8,",4142 Münchenstein,2.5,58.0,1790,5.5,Apartment,-1,2014,1
+4002200631,"Wuhrmattstrasse 29,",4103 Bottmingen,3.5,110.0,2950,6.0,Apartment,-1,2015,1
+4002200903,"Rosenmattstrasse 30,",4133 Pratteln,3.0,65.0,1865,7.25,Apartment,2024,-1,1
+4002201085,"Rosenmattstrasse 30,",4133 Pratteln,3.0,65.0,1675,7.25,Apartment,2024,-1,1
+4002201763,"Münchackerstrasse 35,",4133 Pratteln,4.5,110.0,2550,5.0,Apartment,-1,-1,1
+4002201778,"Joseph Feninger-Strasse 1,",4242 Laufen,3.5,88.0,1990,3.75,Apartment,-1,-1,0
+4002202080,"Tiergartenstrasse 52a,",4410 Liestal,4.5,113.0,2825,11.5,Apartment,-1,-1,1
+4002202754,"Sandgrubenweg 38,",4105 Biel-Benken,6.5,150.0,4850,9.0,Single house,-1,-1,1
+4002202968,"Heidenlochstr. 98i,",4410 Liestal,4.5,106.0,2300,10.75,Apartment,-1,2020,0
+4002203445,"Froburgstrasse 1,",4410 Liestal,-1,13.0,100,9.0,Hobby room,-1,-1,0
+4002204076,"Jurastrasse 3,",4242 Laufen,4.5,83.0,1664,13.25,Apartment,-1,1985,1
+4002204079,"Nelkenrain 5,",4104 Oberwil BL,4.0,152.0,3190,8.25,Bifamiliar house,2014,-1,1
+4002204425,"Ofenstrasse 36,",4123 Allschwil,3.5,97.0,2200,9.75,Apartment,-1,2010,0
+4002204814,"Mühlematten 6,",4455 Zunzgen,3.5,89.0,1948,8.5,Apartment,-1,-1,0
+4002205575,"Hauptstrasse 17,",4148 Pfeffingen,2.0,77.0,1669,6.0,Apartment,-1,-1,1
+4002205580,"Im Häslirain 81,",4147 Aesch BL,3.5,70.0,1870,5.25,Apartment,-1,1974,1
+4002208527,"Hauptstrasse 19,",4411 Seltisberg,4.0,95.0,2010,1.0,Apartment,-1,-1,1
+4002208809,,,4.5,113.0,3500,-1,Terrace flat,-1,2024,0
+4002209203,"Holderstüdeliweg 14,",4132 Muttenz,1.5,35.0,980,5.75,Apartment,-1,-1,1
+4002209204,"Holderstüdeliweg 14,",4132 Muttenz,1.0,29.0,758,5.75,Apartment,-1,-1,1
+4002209206,"Kurzelängeweg 4,",4123 Allschwil,3.0,75.0,1620,5.75,Apartment,2025,-1,1
+4002209207,"Gartenstrasse 5,",4104 Oberwil,5.0,134.0,2770,8.75,Maisonette / Duplex,-1,1971,1
+4002209209,"Seemättlistrasse 6,",4132 Muttenz,2.0,50.0,1320,6.5,Apartment,-1,-1,1
+4002210002,"Rieslingstrasse 9,",4107 Ettingen,4.5,116.0,2690,6.0,Apartment,-1,2016,1
+4002211648,"Hauptstrasse 23,",4142 Münchenstein,3.5,174.0,2490,10.0,Apartment,-1,1852,0
+4002211686,"Im Bruggrain 3b,",4147 Aesch,2.5,57.0,1670,8.5,Apartment,-1,-1,1
+4002211689,"Im Bruggrain 3a,",4147 Aesch,2.5,57.0,1650,8.5,Apartment,-1,-1,1
+4002213267,"Zehntenfreistrasse 11,",4103 Bottmingen,2.0,57.0,1690,11.0,Apartment,-1,1980,1
+4002213312,"Schanzenstrasse 10a,",4410 Liestal,4.5,93.0,2200,7.75,Apartment,-1,1995,1
+4002213474,"Rheinstrasse 4,",4127 Birsfelden,3.0,88.0,1600,4.0,Apartment,-1,-1,0
+4002213884,"Parkstrasse 36,",4102 Binningen,4.5,90.0,2090,5.0,Apartment,2006,-1,1
+4002214110,"Im Kugelfang 30,",4102 Binningen,3.5,64.0,1650,5.0,Apartment,-1,1969,1
+4002214148,"Rheinstrasse 4,",4127 Birsfelden,3.0,92.0,1640,4.0,Apartment,-1,-1,0
+4002214276,"Frenkenstrasse 12,",4410 Liestal,3.5,85.0,1780,5.75,Apartment,-1,1984,1
+4002215342,"Rohrhagstr. 16,",4104 Oberwil BL,4.5,94.0,2160,9.75,Apartment,2010,1983,1
+4002215386,"Rüttihardstrasse 11,",4127 Birsfelden,3.0,75.0,1570,7.5,Apartment,-1,-1,1
+4002215408,"Schafmattweg 67a/b,",4102 Binningen,4.0,101.0,2230,4.75,Apartment,-1,1998,1
+4002215756,"Emma Herwegh-Platz 1,",4410 Liestal,3.5,-1,2059,3.75,Apartment,-1,-1,1
+4002216986,"Bottmingerstrasse 78,",4104 Oberwil,4.5,108.0,2570,3.5,Apartment,-1,-1,1
+4002217089,"Curt Goetz-Strasse 20,",4102 Binningen,4.5,97.0,2270,3.25,Apartment,-1,-1,1
+4002217336,"Bodenmattstrasse 4,",4153 Reinach,4.5,90.0,1840,3.5,Apartment,-1,-1,1
+4002217632,"Langenhagweg 9,",4123 Allschwil,4.5,92.0,2785,7.0,Apartment,-1,2020,0
+4002218639,"Birsmatt 7,",4147 Aesch,3.5,89.0,2195,6.0,Apartment,-1,-1,0
+4002219142,"Hauptstrasse 6,",4127 Birsfelden,3.5,82.0,1990,5.25,Apartment,-1,-1,1
+4002219271,"Seemättlistrasse 6,",4132 Muttenz,1.0,31.0,758,6.5,Apartment,-1,-1,1
+4002219549,"Baslerstrasse 305,",4123 Allschwil,2.5,66.0,1420,4.0,Apartment,-1,-1,1
+4002219555,"Bettenstrasse 24,",4123 Allschwil,3.5,85.0,2200,7.25,Roof flat,2001,1967,1
+4002220833,"Im Albantal 9,",4147 Aesch BL,3.0,68.0,1590,5.25,Apartment,2003,1960,0
+4002220835,"Wiedenhubstrasse 45,",4410 Liestal,3.0,75.0,1600,9.0,Apartment,2009,1971,0
+4002221233,"Mausackerweg 71,",4153 Reinach BL,3.5,87.0,2200,7.25,Apartment,-1,-1,0
+4002221857,"Birsmatt 9,",4147 Aesch,4.5,107.0,2420,6.0,Apartment,-1,-1,0
+4002221859,"Birsmatt 4,",4147 Aesch,3.5,74.0,1885,6.25,Apartment,-1,-1,0
+4002222230,"Kesselweg 37,",4410 Liestal,3.5,70.0,1510,5.0,Apartment,2007,1973,0
+4002222235,"Sundgauerstrasse 74,",4106 Therwil,3.5,88.0,2080,8.25,Apartment,-1,1997,0
+4002222246,"Benzburweg 4,",4410 Liestal,3.5,85.0,1844,5.75,Apartment,2022,2003,0
+4002222256,"Therwilerstrasse 19,",4107 Ettingen,3.5,74.0,1620,5.75,Apartment,2022,1982,0
+4002222277,"Kulmackerweg 20,",4450 Sissach,3.5,86.0,1810,7.5,Roof flat,2015,1993,0
+4002222487,"Im Grund 1,",4223 Blauen,4.5,135.0,2650,-1,Maisonette / Duplex,-1,2025,1
+4002223414,"Am Stausee 23,",4127 Birsfelden,4.0,87.0,2050,6.0,Apartment,2016,1967,0
+4002224495,"Herrenweg 101,",4147 Aesch,5.5,150.0,3300,8.0,Row house,2025,1969,1
+4002225550,"Bahnweg 14,",4452 Itingen,1.0,14.0,713,-1,Apartment,-1,-1,0
+4002229325,"Neumattstrasse 35,",4142 Münchenstein,5.5,156.0,2820,4.5,Apartment,2013,1983,1
+4002229665,"Zwinglistrasse 4,",4127 Birsfelden,3.5,83.0,1896,4.5,Apartment,-1,-1,1
+4002230715,"Beundenstr. 13,",4103 Bottmingen,4.5,164.0,3995,5.75,Maisonette / Duplex,-1,2003,1
+4002230716,"Gartenstr. 12,",4102 Binningen,4.0,88.0,2260,3.0,Apartment,-1,1965,1
+4002230772,"Sevogelstrasse,",4132 Muttenz,2.5,50.0,1880,6.0,Apartment,-1,2025,0
+4002232304,"Baumgartenweg 2,",4492 Tecknau,3.5,95.0,2130,8.0,Apartment,-1,2025,1
+4002232455,"Holderstüdeliweg 12,",4132 Muttenz,2.0,50.0,1350,5.75,Apartment,-1,-1,1
+4002232565,"Wuhrmattstrasse 29,",4103 Bottmingen,3.5,108.0,2890,6.0,Apartment,-1,2015,1
+4002232642,"Probsteiholzweg 3,",4103 Bottmingen,6.0,170.0,7300,8.75,Attic flat,-1,2020,1
+4002232652,"Hofmattweg 1A,",4402 Frenkendorf,3.5,97.0,2190,8.0,Apartment,-1,-1,1
+4002232874,"Spitzwaldstrasse 211,",4123 Allschwil,3.0,77.0,1703,4.0,Apartment,2020,1968,0
+4002233615,"Obere Matten 5,7,9,",4431 Bennwil,4.5,105.0,1750,-1,Roof flat,-1,-1,1
+4002234799,"Neumattstrasse 77a,",4455 Zunzgen,4.5,103.0,1975,11.75,Apartment,-1,1988,1
+4002235116,"Untereggweg 7,",4147 Aesch BL,3.5,106.0,2000,8.5,Apartment,-1,1996,1
+4002235187,"Oberdorfstr. 42,",4244 Röschenz,2.0,48.0,990,3.5,Apartment,-1,-1,0
+4002235552,"Gasstrasse 22,",4410 Liestal,3.5,87.0,2024,4.75,Apartment,-1,2022,1
+4002235731,"Im Mooswasen 26,",4106 Therwil,3.5,103.0,2245,11.5,Roof flat,-1,1995,1
+4002235997,"Schlatthof 42,",4147 Aesch,7.0,244.0,5490,18.0,Villa,2011,1963,1
+4002236864,"Im Mooswasen 26,",4106 Therwil,4.0,120.0,2576,11.5,Apartment,-1,1995,1
+4002237063,"Grienmatt 14,",4410 Liestal,3.5,97.0,2290,4.0,Apartment,-1,-1,1
+4002237197,"Lachmattstrasse 27,",4132 Muttenz,4.5,94.0,1890,6.5,Apartment,-1,1969,0
+4002237521,"Bottmingerstrasse 35,",4142 Münchenstein,4.0,86.0,1900,3.25,Apartment,-1,1952,0
+4002237528,"Bottmingerstrasse 35,",4142 Münchenstein,3.0,75.0,1680,3.25,Apartment,-1,1952,0
+4002239851,"Mitteldorfstrasse 16,",4153 Reinach BL,4.0,101.0,1950,9.0,Apartment,-1,1969,1
+4002239854,"Mattweg 28,",4144 Arlesheim,4.5,105.0,2260,4.25,Maisonette / Duplex,-1,1977,1
+4002240579,"Kilchmattstrasse 100,",4132 Muttenz,3.0,74.0,1690,10.33,Apartment,1991,1963,0
+4002241926,"Gempenstr. 47,",4133 Pratteln,4.5,79.0,1870,6.0,Roof flat,-1,1955,1
+4002243258,"Sybillenhofweg 8,",4123 Allschwil,4.0,88.0,2150,5.5,Roof flat,2022,1850,0
+4002244595,"Thiersteinerstrasse 22,",4153 Reinach BL,3.5,95.0,1990,5.75,Apartment,2019,1973,1
+4002245054,"Grammetstrasse 8,",4410 Liestal,4.5,162.0,2980,6.0,Apartment,-1,2018,0
+4002245855,"Bahnhofstrasse 18,",4147 Aesch BL,3.0,81.0,1720,5.75,Apartment,-1,1995,1
+4002246089,"Rheinfelderstrasse 22,",4450 Sissach,3.5,79.0,1940,1.75,Apartment,-1,-1,1
+4002246358,"Brachmattstrasse 5,",4144 Arlesheim,4.5,110.0,2670,2.75,Maisonette / Duplex,-1,2006,1
+4002246928,"Laufenstrasse 38,",4246 Wahlen b. Laufen,3.5,72.0,1595,3.0,Apartment,-1,-1,1
+4002247433,"Ob dem Hügliacker 69,",4102 Binningen,4.5,126.0,4700,10.5,Single house,2016,-1,0
+4002247526,"Delsbergerstrasse 64,",4242 Laufen,5.5,170.0,2390,4.0,Roof flat,2025,1900,1
+4002250047,"Birsmattstrasse 44,",4106 Therwil,3.5,73.0,1606,8.25,Apartment,1998,1971,0
+4002250904,"Helvetierstrasse 21,",4106 Therwil,-1,-1,660,5.5,Hobby room,-1,-1,0
+4002251629,"Fraumattstrasse 5,",4410 Liestal,1.5,41.0,1430,9.75,Apartment,-1,2024,1
+4002251748,"Freilager-Platz 6,",4142 Münchenstein,2.5,106.0,1950,10.5,Apartment,-1,2016,0
+4002251938,"Ebnetstrasse 14,",4106 Therwil,4.5,107.0,2700,4.5,Apartment,-1,2010,1
+4002251953,"Kurzelängeweg 32,",4123 Allschwil,-1,15.0,199,7.75,Hobby room,-1,-1,0
+4002252001,"Weststrasse 17,",4242 Laufen,3.5,76.0,1780,5.25,Apartment,-1,2018,1
+4002252337,"Bottmingerstr. 119,",4102 Binningen,3.5,78.0,2090,5.25,Apartment,-1,1979,1
+4002252384,"Hauptstrasse 98,",4147 Aesch,4.5,154.0,2325,3.0,Apartment,-1,1961,1
+4002252390,"Baumgartenweg 3,",4416 Bubendorf,3.5,63.0,1910,7.5,Apartment,-1,2024,0
+4002252647,,,-1,-1,-1,-1,,-1,-1,0
+4002253099,"Oristalstrasse 44,",4410 Liestal,3.5,87.0,2080,4.75,Apartment,-1,2020,1
+4002253520,"Baslerstrasse 140,",4123 Allschwil,3.5,91.0,2030,4.25,Apartment,2009,-1,1
+4002254544,"Langenhagweg 9,",4123 Allschwil,2.5,56.0,1970,7.0,Apartment,-1,2020,0
+4002255509,"Unterm Stallen 15,",4104 Oberwil BL,2.5,73.0,1990,7.0,Apartment,-1,-1,0
+4002255540,"Muttenzerstr. 42,",4133 Pratteln,3.0,65.0,1505,6.25,Apartment,-1,-1,0
+4002255886,"Grienackerweg 17,",4442 Diepflingen,4.5,-1,2170,8.5,Apartment,-1,-1,1
+4002256343,"Jurastrasse 1,",4242 Laufen,4.5,84.0,1620,17.67,Apartment,2024,-1,1
+4002257458,"Hallenstrasse 16,",4104 Oberwil BL,4.5,105.0,2120,5.25,Apartment,-1,1983,1
+4002257771,"Hofackerstrasse 14,",4132 Muttenz,2.5,50.0,1520,10.0,Apartment,-1,2025,1
+4002257792,"Falkenstr. 10,",4103 Bottmingen,1.5,41.0,1350,10.0,Roof flat,2011,1969,1
+4002257869,"Margrethenstr. 16,",4103 Bottmingen,3.0,65.0,1620,5.25,Apartment,-1,2020,0
+4002257872,"Langegasse 44,",4104 Oberwil BL,3.5,70.0,1740,4.75,Apartment,-1,1964,0
+4002257875,"Spitzwaldstrasse 70,",4123 Allschwil,4.5,120.0,2855,7.5,Apartment,2006,1988,0
+4002258763,"Hauptstrasse 100,",4415 Lausen,3.0,82.0,1640,4.25,Apartment,-1,-1,0
+4002258804,"Baselmattweg 145,",4123 Allschwil,5.0,111.0,2800,8.25,Apartment,-1,1992,1
+4002259807,,,-1,-1,-1,-1,,-1,-1,0
+4002259835,"Mattweg 92,",4144 Arlesheim,3.5,66.0,1740,10.0,Apartment,-1,1971,0
+4002259836,"Mattweg 92,",4144 Arlesheim,3.5,66.0,1750,10.0,Apartment,-1,1971,0
+4002260003,"Im Schänzli 101-103,",4132 Muttenz,4.5,101.0,2140,7.75,Apartment,2014,1981,1
+4002260452,"Ruchholzstrasse 34,",4103 Bottmingen,5.5,162.0,3650,6.25,Apartment,-1,-1,1
+4002261274,"Auweg 13/15,",4450 Sissach,2.5,71.0,1790,9.75,Apartment,-1,1983,0
+4002261290,"Hauptstr. 4,",4102 Binningen,3.5,88.0,2525,3.5,Apartment,2017,1979,1
+4002261473,"Hauptstr. 4,",4102 Binningen,3.5,88.0,2565,3.5,Apartment,2017,1979,1
+4002262488,"Hauptstrasse 66,",4153 Reinach BL,3.0,85.0,1860,3.75,Apartment,-1,1987,0
+4002267049,"Tiergartenstrasse 50c,",4410 Liestal,3.5,92.0,2820,10.75,Attic flat,-1,2023,1
+4002267659,"Dornacherweg 100,",4153 Reinach BL,3.5,79.0,1780,7.5,Apartment,2023,-1,1
+4002268055,"Amthausgasse 35,",4242 Laufen,2.5,120.0,2360,4.75,Maisonette / Duplex,-1,-1,1
+4002268074,"Spitzwaldstrasse 209,",4123 Allschwil,3.5,79.0,1740,5.5,Apartment,2020,1968,0
+4002268079,"Bahnweg 16,",4415 Lausen,2.5,74.0,1689,5.25,Apartment,-1,2017,0
+4002268279,"Sevogelstrasse 59,",4132 Muttenz,5.5,159.0,4300,5.5,Single house,2023,1933,1
+4002268291,"Libellenstrasse 32,",4104 Oberwil,3.0,98.0,3290,7.75,Apartment,-1,-1,1
+4002268316,"Rankackerweg 3,",4133 Pratteln,5.0,130.0,2600,6.5,Apartment,-1,-1,1
+4002268794,"Hofmattweg 21,",4402 Frenkendorf,3.5,121.0,1895,9.0,Apartment,-1,-1,1
+4002268854,"Burggartenstrasse, 10,",4133 Pratteln,4.5,105.0,2692,2.25,Apartment,-1,2018,1
+4002268870,"Gustackerstrasse 10,",4103 Bottmingen,-1,16.0,264,5.5,Hobby room,1999,1970,0
+4002268981,"Binningerstrasse 8,",4123 Allschwil,3.0,70.0,1503,3.0,Apartment,2024,-1,1
+4002270049,"Kaspar-Pfeifferstrasse 21,",4142 Münchenstein,3.5,93.0,2029,2.75,Apartment,-1,-1,1
+4002270084,"Zollweidenstrasse 14,",4142 Münchenstein,3.5,90.0,1770,3.75,Apartment,-1,1985,1
+4002270242,"Sagiweg 5,",4457 Diegten,2.5,60.0,1640,7.0,Roof flat,-1,2024,0
+4002270255,"Rheinstrasse 23,",4127 Birsfelden,3.5,88.0,1990,4.5,Apartment,-1,-1,1
+4002270257,"Rheinstrasse 21,",4127 Birsfelden,3.5,86.0,1990,13.67,Apartment,-1,-1,1
+4002270481,"Seemättlistrasse 6,",4132 Muttenz,1.5,37.0,970,6.5,Apartment,-1,-1,1
+4002270650,"Frenkenstrasse 33,",4434 Hölstein,4.5,112.0,1880,12.67,Apartment,-1,-1,1
+4002270734,"Heuwinkelstrasse 1,",4123 Allschwil,4.0,90.0,1925,4.5,Apartment,2016,-1,1
+4002270738,,,4.5,147.0,4400,-1,Terrace house,-1,2018,1
+4002271049,"Schlossstr. 5b,",4133 Pratteln,3.5,95.0,2310,3.75,Apartment,-1,-1,1
+4002271141,"Gorenmattstrasse 25,",4102 Binningen,2.5,68.0,1760,3.0,Apartment,-1,-1,1
+4002271922,"Uf der Flue 6,",4254 Liesberg Dorf,3.5,82.0,1400,-1,Apartment,-1,-1,1
+4002272236,"Stallenmattstr. 23,",4104 Oberwil BL,3.5,143.0,2450,7.25,Apartment,-1,1986,1
+4002272572,"Im Margarethental 17,",4102 Binningen,4.0,90.0,2270,3.0,Apartment,1991,1962,0
+4002273301,"Binningerstrasse 55,",4104 Oberwil,2.0,51.0,1620,3.75,Apartment,-1,-1,0
+4002273303,"Kaspar-Pfeifferstrasse 5,",4142 Münchenstein,3.5,93.0,1900,2.25,Apartment,-1,-1,1
+4002273305,"Florastrasse 38,",4127 Birsfelden,3.5,65.0,1590,5.75,Apartment,1996,1966,1
+4002273306,"Rohrhagstrasse 2,",4104 Oberwil BL,4.5,100.0,2465,9.25,Apartment,2018,1982,1
+4002273649,"Grossmattstrasse 45,",4133 Pratteln,5.5,116.0,2200,3.5,Apartment,-1,-1,1
+4002274337,"Im Grossen Grien 2,",4242 Laufen,4.5,116.0,2200,5.5,Maisonette / Duplex,-1,-1,1
+4002274392,"Bäumliackerstrasse 1,",4103 Bottmingen,3.5,-1,1867,10.75,Apartment,-1,-1,0
+4002275091,,,-1,-1,-1,-1,,-1,-1,0
+4002275842,"Baslerstr. 26,",4127 Birsfelden,4.0,73.0,1630,5.5,Apartment,1997,1952,1
+4002276383,"Jakob Christen-Strasse 10,",4132 Muttenz,5.5,130.0,3450,8.75,Single house,2025,-1,0
+4002276770,"Im Bruggrain 4b,",4147 Aesch,4.5,89.0,2480,9.75,Apartment,-1,-1,1
+4002276787,"Burgfeldermattweg 49,",4123 Allschwil,4.5,105.0,2724,7.0,Apartment,-1,-1,1
+4002277121,"Bölchenstrasse 3,",4153 Reinach BL,4.5,105.0,2800,4.75,Single house,2017,1961,1
+4002278319,"Tiergartenstrasse 50b,",4410 Liestal,3.5,95.0,2529,10.75,Apartment,-1,-1,1
+4002278341,,,5.5,133.0,4400,-1,Bifamiliar house,2024,1997,0
+4002278393,"Ergolzstrasse 29,",4410 Liestal,3.0,62.0,1780,7.5,Apartment,2025,1969,1
+4002278404,"Ergolzstrasse 29,",4410 Liestal,2.5,59.0,1540,7.5,Apartment,2025,1969,0
+4002279100,"Hinterleymenweg 1,",4246 Wahlen,3.5,71.0,1870,5.0,Apartment,-1,2025,1
+4002279309,"Schützenweg 5,",4242 Laufen,2.0,50.0,1222,6.5,Apartment,-1,-1,1
+4002279355,"Hauptstrasse 50,",4102 Binningen,3.5,80.0,2050,8.5,Roof flat,2024,1986,1
+4002280288,"Im Bruggrain 5c,",4153 Reinach,4.5,91.0,2460,9.5,Apartment,-1,-1,1
+4002285091,"Hauptstrasse 18,",4142 Münchenstein,2.5,98.0,1600,7.25,Roof flat,-1,-1,0
+4002285102,"Gustav Bay-Strasse 36,",4142 Münchenstein,4.5,118.0,3100,6.75,Apartment,-1,2017,1
+4002285323,"Oristalstrasse 24a,",4410 Liestal,-1,14.0,200,4.0,Hobby room,-1,1997,0
+4002285643,"Käppelibodenweg 40,",4132 Muttenz,3.5,95.0,2020,5.75,Apartment,2002,1981,0
+4002285857,"Therwilerstrasse 83,",4153 Reinach,4.5,121.0,2410,10.33,Apartment,-1,-1,1
+4002286031,"Heidenlochstr. 98i,",4410 Liestal,-1,23.0,260,10.75,Hobby room,-1,2020,0
+4002286048,"Bottmingerstr. 9,",4102 Binningen,1.5,32.0,1250,6.75,Apartment,-1,1981,0
+4002286099,"Frenkenstrasse 12,",4410 Liestal,3.5,72.0,1695,5.75,Apartment,-1,1984,0
+4002286131,"Weinbergstrasse 35,",4102 Binningen,6.5,222.0,6610,6.75,Single house,-1,-1,1
+4002286403,"Heidenlochstrasse 84,",4410 Liestal,4.0,73.0,1850,10.5,Apartment,-1,-1,1
+4002287085,"Bahnhofstr. 11,",4133 Pratteln,6.0,168.0,3050,2.5,Maisonette / Duplex,2007,1986,1
+4002287095,"Baselmattweg 66,",4123 Allschwil,3.5,107.0,2090,7.0,Apartment,-1,-1,1
+4002287100,"Baselstrasse 4,",4144 Arlesheim,3.5,100.0,2370,4.5,Maisonette / Duplex,2011,1991,1
+4002287104,"Im Bruggrain 4c,",4147 Aesch,5.5,131.0,3065,9.75,Maisonette / Duplex,-1,-1,1
+4002287105,"Im Bruggrain 5b,",4153 Reinach,5.5,131.0,3065,9.5,Maisonette / Duplex,-1,-1,1
+4002287132,"Hauptstrasse 66,",4153 Reinach BL,4.0,125.0,2590,3.75,Apartment,-1,1987,0
+4002287326,"Hauptstrasse 36,",4434 Hölstein,1.5,23.0,990,9.0,Studio,2023,-1,0
+4002287552,"Hauptstrasse 16,",4431 Bennwil,4.5,97.0,1750,-1,Apartment,-1,-1,1
+4002288329,,,4.5,107.0,1900,-1,Apartment,2025,1975,0
+4002288334,"St. Jakobstrasse 46,",4147 Aesch BL,3.5,78.0,1640,6.5,Apartment,-1,1982,1
+4002288978,,,4.0,141.0,3490,-1,Single house,2025,1922,1
+4002289763,"Lerchenstrasse 15,",4132 Muttenz,4.0,71.0,1820,3.0,Apartment,-1,1962,1
+4002289850,"Oristalstr. 47 A,",4410 Liestal,5.5,128.0,2760,6.5,Apartment,-1,2006,1
+4002290370,"Eggstrasse 51,",4402 Frenkendorf,4.0,76.0,1790,11.0,Apartment,-1,-1,1
+4002290400,"Frenkenstr. 28,",4410 Liestal,3.5,72.0,1725,6.25,Apartment,-1,-1,1
+4002290664,"Im Lee 7,",4144 Arlesheim,4.5,-1,2190,6.25,Apartment,-1,1968,1
+4002291086,"Rauracherstrasse 8,",4106 Therwil,4.0,118.0,2500,4.5,Roof flat,2025,-1,1
+4002291355,"Blauenstrasse 6,",4103 Bottmingen,4.5,94.0,1990,5.0,Roof flat,-1,1938,1
+4002291536,"Bruderholzstrasse 32,",4102 Binningen,4.5,116.0,2697,8.25,Apartment,-1,1994,1
+4002292639,"Gestadeckplatz 6,",4410 Liestal,3.5,116.0,2170,2.5,Loft,-1,-1,1
+4002293861,"Hauptstrasse 72,",4450 Sissach,4.5,96.0,1920,3.0,Apartment,2025,-1,1
+4002293901,"Laufenweg 5,",4225 Brislach,3.5,82.0,1880,9.0,Roof flat,-1,2019,1
+4002293903,"Hauptstrasse 10,",4450 Sissach,3.5,93.0,2330,4.25,Apartment,-1,2017,1
+4002294586,"Farnsburgerstrasse 1,",4133 Pratteln,3.5,78.0,1890,2.75,Apartment,2009,1984,0
+4002294588,"Spitzwaldstrasse 205,",4123 Allschwil,3.5,73.0,1770,4.5,Apartment,2020,1968,0
+4002294590,"Benzburweg 2,",4410 Liestal,4.5,115.0,2190,5.75,Apartment,2022,2003,0
+4002294594,"Bahnweg 12,",4415 Lausen,3.5,95.0,2060,5.25,Apartment,-1,2017,0
+4002294742,"Fliederweg 6,",4452 Itingen,2.5,64.0,1740,-1,Apartment,-1,2018,1
+4002294829,"Burenweg 56,",4132 Muttenz,3.5,74.0,2290,7.5,Apartment,-1,2023,1
+4002295428,"Bahnweg 12,",4402 Frenkendorf,3.5,70.0,1880,6.5,Apartment,-1,-1,0
+4002295532,"Grabenring 21,",4123 Allschwil,2.5,46.0,1440,5.75,Apartment,-1,-1,0
+4002296071,"Hinderdorf 20,",4424 Arboldswil,3.5,124.0,2490,3.67,Maisonette / Duplex,-1,2021,1
+4002296074,"Oberwilerstrasse 65,",4102 Binningen,3.5,84.0,2390,4.0,Apartment,-1,2008,1
+4002296098,"Rheinstrasse 91 A,",4402 Frenkendorf,3.0,58.0,1500,10.25,Apartment,2000,1971,1
+4002296112,"Unterm Stallen 15,",4104 Oberwil BL,2.5,62.0,1721,7.0,Apartment,-1,-1,0
+4002296113,"Unterm Stallen 15,",4104 Oberwil BL,3.5,93.0,2450,7.0,Apartment,-1,-1,0
+4002296114,"Unterm Stallen 15,",4104 Oberwil BL,3.5,92.0,2195,7.0,Apartment,-1,-1,0
+4002296115,"Eggstrasse 55,",4402 Frenkendorf,4.0,90.0,1830,11.75,Apartment,-1,-1,0
+4002296456,"Trottenstrasse 11,",4402 Frenkendorf,3.5,69.0,1830,5.75,Apartment,-1,-1,1
+4002296457,"Wölferstrasse 31,",4414 Füllinsdorf,2.0,78.0,1400,9.5,Retail,-1,2003,0
+4002297205,"Rainweg 8,",4415 Lausen,4.5,120.0,2176,9.5,Apartment,-1,-1,0
+4002297207,"Ostenbergstrasse 9,",4410 Liestal,3.5,90.0,2100,14.5,Apartment,-1,-1,0
+4002297220,"Bollwerkstrasse 48 / 50 / 52,",4102 Binningen,4.5,95.0,2050,8.0,Apartment,1990,-1,0
+4002297352,"Hauptstrasse 28,",4105 Biel-Benken BL,3.5,114.0,2580,6.0,Maisonette / Duplex,-1,2025,1
+4002297459,"Heuwinkelstrasse 15,",4123 Allschwil,3.5,76.0,2025,5.0,Apartment,-1,2021,1
+4002297658,,,2.5,60.0,2100,-1,Apartment,-1,2025,1
+4002297931,"Güterstrasse 9,",4133 Pratteln,4.5,110.0,2320,3.75,Apartment,-1,-1,1
+4002298036,"Gempenstrasse 2,",4104 Oberwil,3.5,85.0,3170,8.25,Attic flat,-1,2022,1
+4002298038,"Liedertswilerstr. 1,",4436 Oberdorf BL,4.0,132.0,2200,3.5,Apartment,-1,-1,1
+4002298324,"Stallenstrasse 15,",4104 Oberwil BL,3.5,75.0,2295,8.0,Apartment,2022,-1,1
+4002298342,"Hohle Gasse 31,",4102 Binningen,5.0,152.0,3340,-1,Maisonette / Duplex,-1,1985,0
+4002300146,"Alemannenweg 6,",4148 Pfeffingen,3.5,-1,2870,13.67,Apartment,-1,2020,1
+4002301669,"Brunngasse 66,",4153 Reinach BL,3.5,91.0,2995,9.0,Apartment,-1,2019,1
+4002301689,"Arboldswilerstrasse 7,",4435 Niederdorf,-1,-1,1225,2.5,Apartment,-1,-1,0
+4002301911,"Waldeckweg 27,",4102 Binningen,2.5,71.0,1340,4.0,Roof flat,-1,-1,1
+4002301939,"Im Steinenmüller 17,",4142 Münchenstein,3.0,71.0,1600,4.75,Apartment,-1,-1,0
+4002301940,"Zollweidenstrasse 27,",4142 Münchenstein,3.5,111.0,2100,4.0,Apartment,2014,1983,1
+4002302071,"Joachimsackerstrasse 36,",4103 Bottmingen,3.5,141.0,3970,13.0,Apartment,-1,2016,0
+4002302376,"Hauptstrasse 10,",4450 Sissach,3.5,93.0,2240,4.25,Apartment,-1,2017,1
+4002303485,"Schafmattweg 90,",4102 Binningen,4.0,94.0,1950,3.75,Apartment,-1,-1,1
+4002303642,"Mattenweg 4,",4133 Pratteln,3.5,69.0,1560,6.5,Apartment,-1,1901,0
+4002303659,"Schulgasse 6,",4106 Therwil,5.5,154.0,3430,2.25,Apartment,-1,2011,1
+4002304161,"Kirchgasse 15,",4105 Biel-Benken BL,3.0,82.0,1590,4.0,Apartment,-1,-1,1
+4002304596,"Heuwinkelstrasse 14,",4123 Allschwil,3.5,63.0,1560,4.5,Apartment,-1,-1,1
+4002304650,"Lerchenstrasse 48,",4103 Bottmingen,5.5,142.0,3850,10.0,Apartment,-1,2018,1
+4002304977,"Fichtenstrasse 16,",4410 Liestal,2.5,52.0,1300,10.25,Apartment,-1,-1,1
+4002304978,"Bahnhofstrasse 20,",4402 Frenkendorf,3.5,64.0,1500,4.75,Apartment,-1,-1,1
+4002305636,"Neuweg 14,",4434 Hölstein,4.5,107.0,2250,6.0,Apartment,-1,2018,1
+4002305959,"Birseckstrasse 42,",4142 Münchenstein,3.0,64.0,1520,3.25,Apartment,-1,-1,0
+4002305967,"Gehrenstrasse 4,",4153 Reinach BL,4.5,112.0,2650,6.0,Apartment,1993,1955,0
+4002307044,"Im Gwidem 2,",4147 Aesch BL,3.0,75.0,1680,8.0,Apartment,-1,-1,0
+4002307051,"Spitzwaldstrasse 211,",4123 Allschwil,3.5,79.0,1768,4.0,Apartment,2020,1968,0
+4002307054,"Freilager-Platz 5,",4142 Münchenstein,2.5,105.0,1950,10.5,Apartment,-1,2016,0
+4002307931,"Blauenstrasse 1,",4127 Birsfelden,2.5,56.0,1385,5.75,Apartment,-1,1961,1
+4002308076,"Hinterweg 1,",4106 Therwil,4.5,111.0,2891,3.0,Apartment,-1,2024,1
+4002308940,"Joseph Feninger-Strasse 7,",4242 Laufen,3.5,82.0,1990,4.0,Apartment,-1,-1,1
+4002309472,"Hauptstrasse 21,",4304 Giebenach,4.5,97.0,1907,-1,Apartment,-1,-1,1
+4002309479,"Hardstrasse 11,",4127 Birsfelden,2.5,52.0,1650,2.25,Apartment,2017,1957,1
+4002309911,"Im Reinacherhof 181-189,",4153 Reinach BL,3.5,96.0,2237,4.75,Maisonette / Duplex,-1,-1,1
+4002309923,"Farnsburgerstr. 4,",4133 Pratteln,3.0,68.0,1600,2.0,Apartment,-1,1953,0
+4002310035,"Liestalerstrasse 29,",4414 Füllinsdorf,6.5,221.0,6600,6.0,Single house,2020,1973,1
+4002310462,,,4.5,80.0,1300,-1,Apartment,-1,-1,0
+4002310468,,,5.0,199.0,3200,-1,Attic flat,2021,-1,1
+4002310479,,,3.0,80.0,1980,-1,Apartment,-1,-1,1
+4002310800,"Bruderholzstrasse 19,",4102 Binningen,3.0,75.0,1700,6.25,Apartment,-1,1963,1
+4002310839,"Fleischbachstr. 30,",4153 Reinach BL,3.5,85.0,2070,7.0,Apartment,-1,-1,1
+4002310846,"Wartenbergstrasse 70,",4133 Pratteln,3.5,66.0,1592,6.0,Apartment,-1,-1,1
+4002311300,"Rheinstrasse 65,",4410 Liestal,2.0,58.0,1590,8.0,Apartment,-1,-1,1
+4002311886,"Am Rüschelbach 4,",4418 Reigoldswil,4.5,105.0,1775,2.67,Apartment,-1,1998,0
+4002311985,"Kesselweg 30,",4410 Liestal,3.5,71.0,1440,4.75,Apartment,2017,1968,0
+4002312537,"Frenkenstrasse 27,",4434 Hölstein,2.5,63.0,1410,11.0,Apartment,-1,-1,1
+4002312680,,,-1,-1,-1,-1,,-1,-1,0
+4002312694,"Freilager-Platz 7,",4142 Münchenstein,3.5,121.0,3080,11.0,Apartment,-1,-1,1
+4002312804,"Langackerstr. 4,",4142 Münchenstein,4.0,83.0,1621,2.75,Apartment,-1,-1,0
+4002312886,"Im Wilacker 12,",4106 Therwil,4.0,93.0,1870,6.5,Apartment,2002,1971,0
+4002312896,"Rottmannsbodenstrasse 4,",4102 Binningen,2.0,62.0,1620,2.5,Apartment,-1,1985,0
+4002313137,"Mühleweg 17,",4133 Pratteln,3.5,68.0,1610,4.5,Apartment,-1,1965,1
+4002313434,,,5.0,128.0,2000,-1,Maisonette / Duplex,-1,-1,1
+4002313467,,,3.5,93.0,1790,-1,Apartment,2025,-1,0
+4002313723,"Egertenstrasse 9,",4153 Reinach,2.5,67.0,2335,5.75,Apartment,-1,-1,1
+4002313753,,,-1,-1,-1,-1,,-1,-1,0
+4002313965,"Allschwilerstrasse 12,",4142 Münchenstein,4.0,100.0,2230,4.75,Apartment,-1,1963,0
+4002313967,"Hohenrainstr. 24a,",4133 Pratteln,2.5,46.0,1690,5.75,Apartment,-1,2017,1
+4002313968,"Sonnenbergstr. 28,",4127 Birsfelden,4.0,76.0,1835,4.75,Apartment,2001,1970,1
+4002314318,"Oberer Burghaldenweg 31,",4410 Liestal,4.5,133.0,3150,9.25,Terrace flat,2023,1972,1
+4002314616,"Lerchenstrasse 15,",4132 Muttenz,3.0,58.0,1540,3.0,Apartment,-1,1962,1
+4002314617,"Ergolzstrasse 24,",4414 Füllinsdorf,2.5,59.0,1490,5.5,Apartment,-1,1973,1
+4002314791,"Zelgwasserweg 37,",4460 Gelterkinden,3.0,72.0,1495,8.75,Apartment,-1,1984,1
+4002314997,"Amthausgasse 37,",4242 Laufen,4.5,112.0,2257,4.25,Apartment,-1,2017,1
+4002315698,"Rheinstrasse 9,",4127 Birsfelden,3.0,73.0,1455,3.75,Apartment,-1,1956,1
+4002316036,"Rheinstrasse 8,",4127 Birsfelden,2.0,72.0,1720,3.75,Apartment,2014,1983,1
+4002316069,"Bahnhofstrasse 10,",4106 Therwil,2.0,58.0,1360,1.75,Apartment,-1,-1,1
+4002316107,"Birseckstrasse 50,",4142 Münchenstein,3.0,64.0,1570,6.0,Apartment,-1,-1,0
+4002316112,"Im Schänzli 101-103,",4132 Muttenz,3.5,76.0,1820,7.75,Apartment,2014,1981,0
+4002316355,"Einschlagweg 10,",4153 Reinach BL,4.5,153.0,2860,5.75,Maisonette / Duplex,2024,2001,1
+4002316697,,,3.5,99.0,2150,-1,Roof flat,-1,2025,1
+4002316700,,,6.5,188.0,4200,-1,Maisonette / Duplex,-1,2016,1
+4002316703,,,4.5,115.0,2850,-1,Bifamiliar house,2015,-1,1
+4002317062,"Rohrhagstr. 16,",4104 Oberwil BL,4.5,94.0,2080,9.75,Apartment,2010,1983,1
+4002317248,"Fasanenstrasse 4,",4402 Frenkendorf,3.5,70.0,1730,9.25,Apartment,-1,-1,1
+4002318024,"Binningerstr. 64,",4123 Allschwil,2.0,50.0,1345,3.75,Apartment,1999,1966,1
+4002318225,,,3.5,85.0,2070,-1,Apartment,-1,-1,1
+4002318656,"Hintere Gasse 15,",4436 Oberdorf BL,4.5,109.0,1630,3.5,Apartment,2025,1996,1
+4002319008,"Turnhallenstrasse 11,",4460 Gelterkinden,5.0,110.0,1950,4.75,Roof flat,2020,1924,0
+4002319931,"Burenweg 56,",4127 Birsfelden,3.5,74.0,2290,13.67,Apartment,-1,2023,1
+4002320013,"Baslerstrasse 31,",4102 Binningen,3.5,-1,1520,4.25,Apartment,-1,-1,0
+4002320027,"Gerbegässlein 2,",4450 Sissach,2.5,80.0,1390,3.0,Apartment,-1,1982,0
+4002320097,"Bruggfeldweg 2,",4147 Aesch,4.0,97.0,1990,8.5,Apartment,-1,-1,1
+4002320119,"Baselstrasse 57,",4144 Arlesheim,3.5,81.0,1790,7.75,Apartment,-1,1956,1
+4002320175,"Gerbegässlein 3,",4450 Sissach,3.5,108.0,2200,3.75,Apartment,-1,2015,1
+4002320265,"Hofackerstrasse 10,",4132 Muttenz,3.5,67.0,2190,6.25,Apartment,-1,2025,1
+4002320267,,,-1,-1,-1,-1,,-1,-1,0
+4002320270,"Hofackerstrasse 10,",4132 Muttenz,3.5,66.0,2150,6.25,Apartment,-1,2025,1
+4002320272,"Hofackerstrasse 10,",4132 Muttenz,3.5,67.0,1990,6.25,Apartment,-1,2025,1
+4002320596,"Klusstrasse 36,",4147 Aesch BL,3.0,75.0,1710,6.25,Apartment,2011,1981,0
+4002321114,"Brunngasse 66,",4153 Reinach BL,4.5,109.0,3696,9.0,Apartment,-1,2019,1
+4002321432,"Gerberstrasse 11,",4410 Liestal,4.5,115.0,2990,2.75,Roof flat,2022,-1,1
+4002321449,"Gerberstrasse 11,",4410 Liestal,4.5,121.0,2620,2.75,Apartment,2022,-1,1
+4002321551,"Kesselweg 37,",4410 Liestal,3.5,72.0,1560,5.0,Apartment,2007,1973,0
+4002321552,"Kesselweg 39A,",4410 Liestal,3.5,71.0,1540,5.0,Apartment,2007,1973,0
+4002321569,"Hofackerstrasse 15,",4132 Muttenz,2.5,49.0,1590,6.5,Apartment,-1,2017,1
+4002322185,"Langegasse 125,",4104 Oberwil BL,3.5,93.0,2510,7.0,Apartment,-1,2015,1
+4002322189,"Hammerstrasse 6,",4414 Füllinsdorf,4.5,85.0,1924,6.75,Apartment,-1,-1,1
+4002322718,"Bruggstrasse 12a,",4153 Reinach BL,2.5,72.0,2120,5.75,Attic flat,-1,2016,1
+4002322740,"Stollenrain 9,",4144 Arlesheim,4.5,-1,3600,5.25,Attic flat,-1,2020,1
+4002322750,"Augsterstrasse 41,",4133 Pratteln,5.5,-1,2780,3.33,Apartment,-1,2024,1
+4002322766,"Schützenweg 31,",4242 Laufen,3.5,80.0,1850,8.25,Apartment,-1,2011,1
+4002322791,"Schützenweg 29,",4242 Laufen,3.5,102.0,2190,8.25,Apartment,-1,2011,1
+4002322792,"Augsterstrasse 41,",4133 Pratteln,2.5,-1,1650,3.33,Apartment,-1,2024,1
+4002322794,"Münchackerstrasse 31,",4133 Pratteln,4.5,110.0,2520,4.75,Apartment,-1,2014,1
+4002323566,"Melchior Berri-Strasse 6,",4142 Münchenstein,3.5,89.0,1785,4.25,Apartment,2022,1986,0
+4002323621,"Emil Frey-Strasse 151,",4142 Münchenstein,4.5,123.0,2950,3.75,Apartment,2024,1941,1
+4002323626,"Milcherweg 16,",4436 Oberdorf BL,2.5,66.0,1370,6.0,Apartment,2023,-1,1
+4002323742,"Lindenstrasse 14,",4410 Liestal,1.0,65.0,1190,2.5,Apartment,2018,1950,0
+4002323756,"Strengenfeldweg 21,",4222 Zwingen,4.5,117.0,2890,5.33,Apartment,-1,2018,1
+4002323978,"Gottesackerstrasse 19,",4133 Pratteln,3.5,78.0,1700,4.5,Apartment,-1,-1,1
+4002324049,"Mittelgasse 5,",4402 Frenkendorf,4.5,134.0,2920,8.0,Apartment,-1,-1,0
+4002324194,"Bruggstrasse 17,",4153 Reinach BL,3.5,88.0,2190,6.0,Apartment,-1,2017,1
+4002324196,"Grabenring 21,",4123 Allschwil,2.5,46.0,1480,5.75,Apartment,-1,-1,0
+4002325242,"Rheinfelderstrasse 59,",4450 Sissach,3.5,84.0,2160,4.0,Apartment,-1,-1,1
+4002325256,"Im Hauel 13,",4147 Aesch BL,2.5,90.0,1980,10.75,Apartment,2021,1985,1
+4002325369,"Oberwilerstrasse 89,",4102 Binningen,2.5,61.0,1600,3.25,Apartment,2024,-1,1
+4002325372,"Tramstrasse 20/22/24,",4133 Pratteln,3.5,80.0,1640,3.0,Apartment,-1,-1,1
+4002325651,"Aumattstrasse 71A,",4153 Reinach BL,3.5,91.0,2605,3.0,Apartment,-1,2021,1
+4002325844,"Rennimattstrasse 14,",4242 Laufen,2.5,70.0,1630,3.5,Apartment,-1,-1,1
+4002326355,"Rheinstrasse 5,",4127 Birsfelden,3.0,65.0,1330,4.0,Apartment,-1,1956,1
+4002326356,"Christoph Merian-Strasse 4,",4142 Münchenstein,4.0,89.0,2200,7.5,Apartment,-1,1971,1
+4002326361,"In der Schappe 2,",4144 Arlesheim,3.0,94.0,2110,4.0,Roof flat,-1,1998,1
+4002326364,"Christop Merian-Strasse 3,",4142 Münchenstein,3.0,73.0,1900,8.25,Roof flat,-1,1971,1
+4002326365,"Rheinstrasse 9,",4127 Birsfelden,4.0,88.0,1720,3.75,Apartment,-1,1956,1
+4002326368,"Teichweg 17,",4142 Münchenstein,3.0,66.0,1760,8.0,Apartment,2021,1971,1
+4002326369,"Teichweg 17,",4142 Münchenstein,3.0,66.0,1900,8.0,Roof flat,2021,1971,1
+4002326376,"Teichweg 17,",4142 Münchenstein,4.0,89.0,2310,8.0,Roof flat,2021,1971,1
+4002326444,"Benkenstrasse 28,",4153 Reinach BL,3.0,-1,1920,9.0,Apartment,-1,-1,0
+4002326695,"Delsbergerstrasse 52,",4242 Laufen,4.0,114.0,2115,4.25,Maisonette / Duplex,2015,-1,1
+4002326985,"Fasanenstrasse 35,",4402 Frenkendorf,3.0,70.0,1790,13.75,Apartment,2025,1971,1
+4002327007,"Dorfstrasse 20,",4423 Hersberg,4.5,142.0,2790,-1,Apartment,-1,2022,1
+4002327129,"Kornackerstr. 8,",4402 Frenkendorf,4.0,90.0,1670,9.75,Apartment,-1,-1,1
+4002327298,"Weidmattstrasse 41,",4415 Lausen,4.5,110.0,2155,7.25,Apartment,-1,2020,0
+4002327353,"Spitzwaldstrasse 211,",4123 Allschwil,6.0,176.0,4200,4.0,Apartment,2020,1968,0
+4002327364,"Freilager-Platz 2,",4142 Münchenstein,4.5,185.0,3950,7.5,Apartment,-1,2016,0
+4002327697,,,3.5,80.0,1710,-1,Apartment,2020,1986,0
+4002328207,"Mühlackerstr. 5,",4402 Frenkendorf,4.5,84.0,1690,6.25,Apartment,-1,1975,1
+4002328254,"Heidenlochstr. 98b,",4410 Liestal,2.5,64.0,1730,10.5,Apartment,-1,2020,0
+4002328272,,,3.5,80.0,1750,-1,Apartment,2020,1986,1
+4002328545,"Käppelibodenweg 42,",4132 Muttenz,3.5,86.0,2115,4.75,Apartment,2002,1981,0
+4002328607,"Hohenrainstr. 24a,",4133 Pratteln,3.5,94.0,2690,5.75,Apartment,-1,2017,1
+4002328636,"St.Jakobstr. 58,",4147 Aesch,4.5,109.0,2150,-1,Apartment,-1,1996,1
+4002329006,"Baselstrasse 3,",4203 Grellingen,2.5,95.0,1940,6.33,Apartment,-1,-1,1
+4002329008,"Delsbergstrasse 2,",4203 Grellingen,2.5,83.0,1890,5.0,Apartment,-1,-1,1
+4002329034,,,4.0,96.0,2150,-1,Apartment,2017,-1,1
+4002329348,"Mausackerweg 15,",4153 Reinach BL,3.5,84.0,2045,6.25,Apartment,-1,-1,1
+4002330208,"Mühlstett 7,",4460 Gelterkinden,3.5,57.0,1420,7.33,Apartment,-1,-1,1
+4002330265,"Gartenstrasse 1,",4153 Reinach BL,2.5,65.0,1590,4.0,Apartment,-1,1981,1
+4002330494,,,4.5,110.0,2320,-1,Apartment,-1,1980,1
+4002330523,"Hohenrainstr. 24a,",4133 Pratteln,2.5,39.0,1572,5.75,Apartment,-1,2017,1
+4002330539,"Gestadeckplatz 6,",4410 Liestal,2.5,70.0,1860,2.5,Apartment,2012,1938,0
+4002330541,"Hammerstr. 4,",4414 Füllinsdorf,3.5,85.0,1880,6.75,Apartment,-1,1993,1
+4002330545,"Steinbühlweg 15,",4123 Allschwil,3.0,76.0,1770,3.75,Apartment,2005,1967,1
+4002330556,"St.Jakobstr. 56,",4147 Aesch,4.5,126.0,2470,-1,Apartment,-1,1996,1
+4002330666,"Bahnhofplatz 2,",4133 Pratteln,2.5,68.0,1735,3.5,Apartment,-1,2014,0
+4002330667,"Bahnhofplatz 2,",4133 Pratteln,2.5,68.0,1760,3.5,Apartment,-1,2014,0
+4002330710,"Strengenfeldweg 31,",4222 Zwingen,2.5,57.0,1720,4.67,Attic flat,-1,2017,1
+4002330807,"Brunngasse 29,",4153 Kanton Reinach,4.0,110.0,2240,5.0,Apartment,-1,-1,1
+4002330826,"Baselstrasse 62,",4132 Muttenz,6.0,223.0,3500,5.0,Single house,-1,-1,1
+4002330967,"Lärchenstrasse 11,",4142 Münchenstein,2.5,56.0,1780,5.0,Apartment,-1,2008,1
+4002331319,"Fluhblick 10,",4452 Itingen,4.5,-1,1920,-1,Apartment,-1,1993,0
+4002331543,"Stutzrain 5,",4107 Ettingen,4.5,-1,1990,8.0,Apartment,2016,-1,0
+4002331664,"Delsbergerstrasse 132,",4242 Laufen,3.5,73.0,1550,7.75,Apartment,-1,-1,1
+4002332196,"Zehntenfreistrasse 41,",4103 Bottmingen,7.5,210.0,5250,13.5,Single house,2002,1973,1
+4002332239,,,3.5,-1,3320,-1,Apartment,-1,2025,0
+4002332273,,,4.5,108.0,3100,-1,Apartment,-1,2025,0
+4002332561,"Florastrasse 36,",4127 Birsfelden,3.5,63.0,1590,5.75,Apartment,1996,1966,1
+4002332564,"Gottesackerstrasse 2,",4133 Pratteln,2.5,71.0,1900,4.25,Apartment,-1,-1,0
+4002332610,"Im Bruggrain 3a,",4147 Aesch,4.5,111.0,2590,8.5,Apartment,-1,-1,1
+4002332612,"Im Bruggrain 3a,",4147 Aesch,4.5,111.0,2640,8.5,Apartment,-1,-1,1
+4002332613,"Im Bruggrain 3b,",4147 Aesch,4.5,113.0,2670,8.5,Apartment,-1,-1,1
+4002332614,"Im Bruggrain 3b,",4147 Aesch,4.5,113.0,2640,8.5,Apartment,-1,-1,1
+4002332618,"Rüttihardstrasse 7,",4127 Birsfelden,3.5,77.0,1630,7.5,Apartment,-1,-1,1
+4002332844,"Wasserturmplatz 4,",4410 Liestal,3.5,175.0,2430,2.0,Maisonette / Duplex,-1,-1,1
+4002332933,"Kilchmattweg 8/10,",4441 Thürnen,3.5,61.0,1460,10.0,Apartment,-1,-1,1
+4002332956,"Dornacherstrasse 93,",4147 Aesch BL,3.0,75.0,1650,7.75,Apartment,-1,-1,1
+4002333078,"Bleihollenweg 2,",4242 Laufen,5.0,96.0,1650,12.75,Apartment,2023,-1,1
+4002333254,"Delsbergstrasse 2,",4203 Grellingen,2.5,56.0,1600,5.0,Apartment,-1,-1,0
+4002333483,"In der Schappe 2,",4144 Arlesheim,2.0,74.0,1700,4.0,Apartment,-1,1998,1
+4002333580,"Erglzstrasse 52,",4414 Füllinsdorf,3.5,-1,1510,5.0,Apartment,-1,-1,1
+4002333832,"Untereggweg 13,",4147 Aesch,3.0,76.0,1870,7.25,Apartment,-1,1996,1
+4002334042,"Im Thal 1,",4104 Oberwil BL,3.5,90.0,2385,10.0,Apartment,2016,-1,1
+4002335400,"Bielstrasse 31,",4153 Reinach,3.5,80.0,1950,8.0,Apartment,-1,-1,1
+4002335401,"Akazienweg 9,",4147 Aesch,3.5,78.0,1700,9.75,Apartment,2017,1970,1
+4002335403,"Mühleweg 17,",4133 Pratteln,3.5,82.0,1640,4.5,Apartment,-1,1965,1
+4002336287,"Joh. Brüderlin-Str. 10,",4132 Muttenz,3.0,65.0,1500,5.0,Apartment,-1,-1,1
+4002336288,"Häslirainweg 6,",4147 Aesch BL,3.5,91.0,2350,5.75,Apartment,-1,-1,1
+4002336542,"Bottmingerstr. 9,",4102 Binningen,1.5,32.0,1250,6.75,Apartment,-1,1981,0
+4002338669,,,2.5,62.0,1900,-1,Apartment,-1,2023,1
+4002338934,"Marchbachstrasse 13,",4107 Ettingen,4.5,90.0,1940,7.5,Apartment,-1,-1,1
+4002338935,"Tschäpperliring 2,",4153 Reinach,4.0,79.0,1940,6.75,Apartment,-1,-1,1
+4002339310,"Baslerstrasse 54,",4103 Bottmingen,3.5,91.0,2490,5.0,Apartment,-1,2015,1
+4002339337,"Baslerstrasse 53,",4133 Pratteln,3.5,62.0,1470,6.0,Apartment,-1,-1,0
+4002339874,"Im Spiegelfeld 30,",4102 Binningen,5.5,227.0,5995,6.0,Apartment,-1,2003,1
+4002340021,"Hauptstrasse 37,",4105 Biel-Benken,7.0,180.0,3500,3.5,Maisonette / Duplex,-1,1875,1
+4002340609,"Schlossgasse 1,",4456 Tenniken,4.5,130.0,1790,3.0,Apartment,-1,-1,0
+4002340818,"Baselmattweg 137a,",4123 Allschwil,3.5,-1,2650,8.0,Apartment,-1,2017,1
+4002340827,"Baslerstrasse 178,",4123 Allschwil,4.0,83.0,1610,3.5,Apartment,-1,-1,1
+4002341220,"Frenkenstrasse 14,",4410 Liestal,3.5,72.0,1610,6.0,Apartment,-1,1984,1
+4002341227,"Baselstrasse 94a+b / 98c+d,",4153 Reinach,3.0,-1,1690,5.0,Apartment,-1,-1,0
+4002341284,"Klinkerweg 15,",4123 Allschwil,3.5,76.0,1703,8.75,Apartment,-1,2009,0
+4002342167,"Ettingerstrasse 47,",4153 Reinach BL,3.0,-1,1697,7.0,Apartment,-1,-1,1
+4002342193,"Ramlinsburgerstr. 4,",4410 Liestal,2.5,54.0,1455,7.25,Apartment,-1,-1,1
+4002342224,"Burenweg 39,",4127 Birsfelden,4.5,89.0,2035,5.5,Apartment,-1,1982,0
+4002342225,"Weststrasse 13,",4242 Laufen,4.5,93.0,2035,5.5,Apartment,-1,2018,1
+4002342365,"Weiherweg 8,",4123 Allschwil,3.0,70.0,1600,6.0,Apartment,-1,-1,1
+4002342377,"Baslerstrasse 194,",4123 Allschwil,3.0,70.0,1520,3.5,Apartment,-1,-1,1
+4002342477,"Hammerstr. 4,",4414 Füllinsdorf,2.5,54.0,1390,6.75,Apartment,-1,1993,1
+4002342483,"Untereggweg 19,",4147 Aesch BL,3.5,106.0,2295,8.25,Maisonette / Duplex,-1,1996,1
+4002342551,"Kurzelängeweg 17,",4123 Allschwil,4.5,125.0,2770,7.5,Attic flat,-1,-1,1
+4002342835,"Haldenweg 2,",4133 Pratteln,2.5,52.0,1490,5.5,Apartment,-1,-1,1
+4002342840,"Fraumattstrasse 27,",4410 Liestal,2.5,58.0,1450,5.5,Apartment,-1,-1,1
+4002343134,"Grienweg 5,",4242 Laufen,4.0,96.0,1650,10.5,Apartment,-1,-1,1
+4002343408,"Bahnhofstrasse 3,",4142 Münchenstein,2.5,55.0,1780,12.25,Apartment,-1,2023,1
+4002343488,"Bruggstrasse 1b,",4153 Reinach BL,2.5,59.0,1600,4.75,Apartment,-1,2022,0
+4002343491,"Hauptstrasse 123,",4102 Binningen,3.5,56.0,1600,3.0,Apartment,1992,1957,0
+4002343493,"Birseckstrasse 25,",4142 Münchenstein,3.0,64.0,1520,4.25,Apartment,-1,-1,0
+4002343496,"Melchior Berri-Strasse 18,",4142 Münchenstein,2.5,83.0,1580,6.0,Apartment,2022,1986,0
+4002343633,"Güterstrasse 11,",4133 Pratteln,4.5,111.0,2420,3.75,Apartment,-1,-1,1
+4002343692,"Pappelstrasse 51,",4123 Allschwil,3.0,63.0,1620,5.25,Apartment,2025,1954,1
+4002344537,"Helvetierstrasse 23,",4106 Therwil,-1,-1,410,6.25,Hobby room,-1,-1,0
+4002344965,"Gansacherweg 32,",4460 Gelterkinden,4.5,-1,2130,8.75,Apartment,-1,-1,0
+4002345010,"Delsbergerstrasse 37,",4242 Laufen,3.5,87.0,1650,3.75,Roof flat,2023,1901,0
+4002345174,,,5.5,200.0,2050,-1,Apartment,2019,-1,0
+4002345176,,,6.5,186.0,3500,-1,Attic flat,-1,-1,1
+4002345202,,,3.5,90.0,1900,-1,Apartment,-1,-1,1
+4002345275,"Ergolzstrasse 31,",4414 Füllinsdorf,4.5,128.0,2980,6.0,Attic flat,-1,2017,1
+4002345446,"Karl Loeliger-Strasse 16,",4142 Münchenstein,3.5,74.0,1995,5.5,Apartment,-1,2019,1
+4002345456,"Baselstrasse 5,",4203 Grellingen,1.5,30.0,540,5.0,Apartment,-1,1908,0
+4002345461,"Bleihollenweg 6,",4242 Laufen,3.5,70.0,1360,13.25,Apartment,-1,1967,1
+4002345683,"Laufenstrasse 40,",4246 Wahlen b. Laufen,2.5,55.0,1240,3.0,Apartment,-1,-1,1
+4002345778,"Nunningerstrasse 9,",4203 Grellingen,2.5,46.0,1200,9.0,Apartment,-1,-1,0
+4002345953,"Haldenweg 2,",4133 Pratteln,3.0,62.0,1590,5.5,Apartment,-1,-1,1
+4002346146,"Lehengasse 35,",4142 Münchenstein,4.0,95.0,1940,5.5,Apartment,2025,1985,1
+4002346169,"Nunningerstrasse 5,",4203 Grellingen,2.5,62.0,1510,13.0,Apartment,-1,-1,1
+4002346270,"Bennwilerstrasse 6,",4436 Oberdorf BL,4.5,160.0,2000,3.75,Single house,-1,-1,0
+4002346394,"Austrasse 17,",4106 Therwil,1.0,-1,750,4.75,Studio,-1,1972,0
+4002346620,,,-1,-1,-1,-1,,-1,-1,0
+4002346626,"Melchior Berri-Strasse 11,",4142 Münchenstein,3.5,90.0,1850,5.75,Apartment,2022,1986,0
+4002347011,"Bruderholzstrasse 9b,",4103 Bottmingen,4.5,150.0,3700,3.75,Single house,2012,-1,0
+4002347245,"Ausmattstrasse 8,",4132 Muttenz,3.0,72.0,1865,6.25,Apartment,-1,1963,1
+4002347299,"Hauptstrasse 76,",4148 Pfeffingen,4.5,144.0,2850,4.5,Apartment,-1,2008,1
+4002347468,"Stutzstrasse 4,",4415 Lausen,3.5,82.0,2180,8.0,Apartment,-1,2020,0
+4002347469,"Stutzstrasse 8,",4415 Lausen,3.5,90.0,2120,8.0,Apartment,-1,2020,1
+4002347681,"Melchior Berri-Strasse 13,",4142 Münchenstein,3.5,90.0,1850,5.5,Apartment,2022,1986,0
+4002347682,"Auf den Fiechten 8,",4147 Aesch BL,3.5,83.0,1940,8.75,Apartment,-1,-1,0
+4002347786,,,4.5,110.0,2800,-1,Row house,-1,1972,0
+4002347865,"Mühleweg 17,",4133 Pratteln,4.5,88.0,1950,4.5,Apartment,-1,1965,1
+4002347874,"Augsterstrasse 41,",4133 Pratteln,5.5,-1,2900,3.33,Apartment,-1,2024,1
+4002348149,,,3.5,90.0,1700,-1,Maisonette / Duplex,-1,-1,0
+4002348164,,,5.0,105.0,2500,-1,Bifamiliar house,2024,-1,0
+4002348508,"Vereinshausstrasse 24,",4133 Pratteln,2.0,75.0,1750,4.75,Apartment,-1,1872,1
+4002348510,"Oerinstr. 2,",4153 Reinach BL,3.5,91.0,2140,7.5,Apartment,-1,-1,1
+4002348511,"Binningerstr. 55,",4123 Allschwil,3.0,70.0,1570,4.75,Apartment,-1,-1,1
+4002348759,"Bottmingerstr. 9,",4102 Binningen,4.5,143.0,3550,6.75,Apartment,-1,1981,0
+4002348772,"Frenkenstrasse 27,",4434 Hölstein,3.5,83.0,1645,11.0,Apartment,-1,-1,1
+4002348921,"Mattenstrasse 7,",4153 Reinach,3.0,70.0,1720,4.25,Apartment,-1,-1,0
+4002348988,"Schanzstrasse 24,",4437 Waldenburg,4.5,121.0,2370,7.5,Apartment,-1,2021,1
+4002349017,"Emil Frey-Strasse 149,",4142 Münchenstein,3.0,79.0,1650,4.25,Apartment,-1,-1,1
+4002349244,"Herrenweg 52,",4123 Allschwil,4.0,100.0,2300,8.5,Apartment,-1,1926,0
+4002349815,"Oberwilerstrasse 82,",4102 Binningen,4.5,81.0,1695,3.25,Apartment,-1,1955,1
+4002349842,"Schweissbergweg 15,",4102 Binningen,5.0,105.0,1890,8.75,Apartment,-1,1957,0
+4002349849,"Römerweg 10,",4132 Muttenz,3.0,72.0,1830,5.25,Apartment,-1,1972,1
+4002349889,"Längistrasse 15,",4133 Pratteln,3.0,68.0,1650,3.0,Apartment,-1,-1,0
+4002349890,"Sonnmattweg 45,",4410 Liestal,2.0,65.0,1670,11.75,Apartment,-1,-1,0
+4002349891,"Arisdörferstrasse 64a,",4410 Liestal,4.5,115.0,2550,11.0,Apartment,-1,-1,0
+4002349892,"Arisdörferstrasse 64c,",4410 Liestal,2.5,66.0,1720,11.0,Apartment,-1,-1,0
+4002350466,"Ergolzstrasse 24,",4414 Füllinsdorf,3.5,87.0,2250,5.5,Apartment,-1,1973,1
+4002350865,"Alemannenstrasse 8,",4153 Reinach,3.5,86.0,2140,5.5,Terrace flat,-1,2022,1
+4002351166,"Kernmattstrasse 6,",4102 Binningen,2.0,54.0,1453,3.0,Apartment,2016,1973,0
+4002351358,"Hofackerstrasse 10,",4132 Muttenz,2.5,51.0,1630,6.25,Apartment,-1,2025,1
+4002351732,,,5.0,180.0,2700,-1,Maisonette / Duplex,2022,-1,1
+4002351954,"Zollweidenstrasse 21,",4142 Münchenstein,3.5,89.0,2050,3.5,Apartment,1999,1982,1
+4002351974,"Frenkenstr. 24,",4410 Liestal,3.5,82.0,1930,6.0,Apartment,-1,-1,1
+4002352031,"Mischelistrasse 59,",4153 Reinach BL,3.0,67.0,1355,5.5,Apartment,-1,1968,1
+4002352457,"Mattenweg 2,",4415 Lausen,3.0,53.0,1420,5.25,Apartment,2011,1954,1
+4002352974,"Hauptstrasse 72,",4450 Sissach,1.0,-1,170,3.0,Cellar compartment,-1,-1,0
+4002353035,"Hohlegasse 41,",4102 Binningen,2.5,66.0,1968,4.25,Apartment,-1,-1,1
+4002353169,"Hemmikerstrasse 19,",4466 Ormalingen,4.0,78.0,1545,2.5,Apartment,-1,1963,1
+4002353221,"Wiedenweg 1,",4153 Reinach BL,4.0,113.0,2110,7.25,Apartment,-1,1996,1
+4002353388,"Furlenbodenstrasse 1,",4415 Lausen,4.5,106.0,2420,8.5,Apartment,-1,-1,0
+4002353390,"Im Wilacker 10,",4106 Therwil,3.5,75.0,1610,6.75,Apartment,2002,1971,0
+4002354025,"Hauptstrasse 28,",4127 Birsfelden,4.5,83.0,2114,3.5,Apartment,-1,-1,1
+4002354285,"Rainenweg 39c,",4153 Reinach BL,5.5,141.0,3950,6.25,Bifamiliar house,-1,1999,1
+4002354331,"Unterwartweg 17,",4132 Muttenz,3.0,80.0,2015,8.75,Apartment,2020,1974,1
+4002354409,"Baselmattweg 49,",4123 Allschwil,2.5,66.0,1630,7.0,Apartment,-1,-1,0
+4002355383,"Schanzweg 1,",4132 Muttenz,4.0,86.0,1970,5.75,Apartment,-1,1972,1
+4002355384,"Brachmattstr. 4a,",4144 Arlesheim,2.0,97.0,2400,3.0,Roof flat,-1,2002,1
+4002355419,"Schlossstrasse 1,",4133 Pratteln,2.5,62.0,1635,2.75,Apartment,-1,2016,1
+4002355796,,,4.5,89.0,2050,-1,Apartment,2025,-1,1
+4002355806,,,4.5,95.0,1950,-1,Apartment,2121,-1,0
+4002356151,"Baslerstrasse 274,",4123 Allschwil,4.5,125.0,3100,4.25,Apartment,-1,2012,1
+4002356178,"Fasanenstrasse 26,",4402 Frenkendorf,4.0,76.0,1580,10.25,Apartment,-1,-1,1
+4002356179,"Angensteinerstrasse 22,",4153 Reinach BL,3.5,85.0,1820,5.75,Apartment,1987,1987,1
+4002356188,"Bleihollenweg 8,",4242 Laufen,3.5,70.0,1290,13.25,Apartment,-1,1967,1
+4002356191,"Gempenstr. 4,",4127 Birsfelden,3.0,73.0,1560,5.75,Apartment,-1,-1,1
+4002358017,"Kirchgasse 3,",4124 Schönenbuch,3.5,130.0,1860,3.0,Apartment,-1,-1,0
+4002358196,"Kirchgasse 5,",4105 Biel-Benken BL,4.5,110.0,2050,5.5,Apartment,-1,-1,0
+4002358726,"Burgstrasse 6,",4410 Liestal,2.5,55.0,1600,2.0,Apartment,2025,-1,1
+4002359046,,,2.0,55.0,920,-1,Apartment,-1,-1,0
+4002359894,"Hauptstrasse 55,",4147 Aesch,3.5,107.0,1950,5.25,Maisonette / Duplex,-1,-1,1
+4002359911,"Im Reinacherhof 101,",4153 Reinach,4.5,135.0,2835,6.0,Maisonette / Duplex,-1,1996,1
+4002360098,,,-1,-1,-1,-1,,-1,-1,0
+4002360151,"Benkenstrasse 19,",4153 Reinach,3.0,90.0,2127,8.0,Apartment,-1,2018,1
+4002360164,"Gempenstr. 53,",4133 Pratteln,4.5,80.0,1880,6.25,Apartment,-1,1955,1
+4002360734,"Ettingerstrasse 4,",4153 Reinach BL,3.5,91.0,2700,8.0,Attic flat,2025,-1,1
+4002360776,"Schneidergasse 3,",4153 Reinach,4.5,152.0,3800,4.75,Apartment,-1,2022,1
+4002360788,"Oristalstrasse 42,",4410 Liestal,2.5,67.0,1680,4.25,Apartment,-1,2020,1
+4002361065,"Herrenweg 2,",4153 Reinach BL,2.5,77.0,2750,3.0,Attic flat,-1,2022,1
+4002361156,,,3.5,101.0,1930,-1,Apartment,2023,-1,1
+4002361238,"Holeeholzweg 63,",4102 Binningen,4.0,94.0,1390,10.25,Apartment,-1,-1,1
+4002361248,"Holeeholzweg 61,",4102 Binningen,3.0,79.0,1390,9.5,Apartment,-1,-1,1
+4002361255,"Holeeholzweg 61,",4102 Binningen,3.0,79.0,1190,9.5,Apartment,-1,-1,1
+4002361384,"Trottenstrasse 19,",4402 Frenkendorf,3.5,69.0,1830,6.75,Apartment,-1,-1,1
+4002361447,"Therwilerstrasse 47,",4103 Bottmingen,3.0,63.0,1330,6.0,Apartment,-1,1957,0
+4002361470,"Oristalstrasse 58,",4410 Liestal,4.5,91.0,2310,6.5,Apartment,-1,2020,1
+4002361508,"Muttenzerstr. 78,",4133 Pratteln,4.5,86.0,1833,5.75,Apartment,2005,1972,1
+4002361700,"Eggstrasse 24b,",4402 Frenkendorf,3.5,100.0,2510,9.5,Apartment,-1,-1,0
+4002361701,"Eggstrasse 24b,",4402 Frenkendorf,4.5,128.0,3090,9.5,Apartment,-1,-1,0
+4002362117,,,3.5,97.0,2130,-1,Apartment,-1,2019,1
+4002362131,,,6.5,175.0,5100,-1,Single house,2025,-1,0
+4002362517,"Langegasse 54,",4104 Oberwil BL,4.0,74.0,1750,5.0,Apartment,-1,-1,1
+4002363206,"Hauptstrasse 61,",4415 Lausen,5.5,184.0,2380,3.75,Maisonette / Duplex,2020,-1,1
+4002363291,"Reinacherstrasse 41,",4142 Münchenstein,3.5,67.0,1750,-1,Apartment,2022,-1,1
+4002363293,"Reinacherstrasse 41,",4142 Münchenstein,3.5,67.0,1750,6.0,Apartment,2025,1956,1
+4002363345,,,-1,-1,-1,-1,,-1,-1,0
+4002363446,"Therwilerstrasse 21,",4142 Münchenstein,1.0,32.0,970,7.75,Apartment,-1,-1,1
+4002363606,"Ziegelweg 18,",4102 Binningen,3.5,-1,2170,4.0,Apartment,-1,2023,0
+4002364795,"Baselstrasse 1,",4203 Grellingen,2.5,72.0,1790,5.0,Apartment,-1,-1,1
+4002365059,"Gründenstrasse 60,",4132 Muttenz,2.5,61.0,1700,2.5,Apartment,2019,1980,0
+4002365199,"Birkenstrasse 5,",4123 Allschwil,2.0,52.0,1490,7.0,Apartment,-1,-1,1
+4002365243,,,-1,-1,-1,-1,,-1,-1,0
+4002366101,"Eremitagestrasse 5,",4153 Reinach,5.5,122.0,2190,9.0,Apartment,-1,-1,1
+4002366121,"Baslerstrasse 345,",4123 Allschwil,3.5,96.0,2570,4.0,Apartment,-1,2016,1
+4002367005,"Fabrikstrasse 24,",4123 Allschwil,3.0,60.0,1475,4.25,Apartment,-1,-1,0
+4002367161,,,-1,-1,-1,-1,,-1,-1,0
+4002367235,,,5.5,160.0,3450,-1,Row house,-1,1997,0
+4002367330,"Kesselweg 43 B,",4410 Liestal,3.5,66.0,1400,5.25,Apartment,-1,1971,1
+4002367332,"Kesselweg 43 B,",4410 Liestal,3.5,66.0,1430,5.25,Apartment,-1,1971,1
+4002367425,"Hemmikerstrasse 15,",4466 Ormalingen,2.0,45.0,915,1.0,Apartment,-1,1963,0
+4002367426,"Oristalstrasse 51,",4410 Liestal,4.5,87.0,1810,7.5,Apartment,1997,1973,0
+4002367428,"Oristalstrasse 56,",4410 Liestal,2.5,67.0,1660,6.5,Apartment,-1,2020,1
+4002367429,"Oristalstrasse 46,",4410 Liestal,3.5,84.0,2060,4.5,Apartment,-1,2020,1
+4002367431,"Gustackerstrasse 3,",4103 Bottmingen,-1,30.0,410,5.75,Hobby room,1999,1970,0
+4002367461,"Kleine Allmend 3a,",4450 Sissach,3.5,76.0,1435,4.25,Apartment,-1,-1,1
+4002367538,"Birkenstrasse 5,",4123 Allschwil,3.0,72.0,1680,7.0,Apartment,-1,-1,1
+4002367925,"Falkenstrasse 111,",4106 Therwil,3.5,79.0,1990,10.0,Apartment,-1,-1,1
+4002367967,"Birkenstrasse 2,",4123 Allschwil,3.0,69.0,1690,5.0,Apartment,-1,-1,0
+4002368364,"Baselstrasse 5,",4144 Arlesheim,1.5,80.0,1590,3.25,Studio,-1,2017,0
+4002368480,"Birkenstrasse 9,",4123 Allschwil,3.0,65.0,1580,6.0,Apartment,-1,-1,0
+4002368481,"Birkenstrasse 9,",4123 Allschwil,3.0,65.0,1580,6.0,Apartment,-1,-1,1
+4002368503,"Krummeneichstrasse 56,",4133 Pratteln,4.0,79.0,1790,6.75,Apartment,-1,-1,1
+4002368508,"Römerstrasse 25,",4153 Reinach,3.0,65.0,1750,5.0,Apartment,-1,-1,1
+4002368509,"Baslerstrasse 1,",4127 Birsfelden,4.5,115.0,2450,4.0,Maisonette / Duplex,-1,-1,1
+4002368511,"Tramstrasse 28,",4142 Münchenstein,2.0,-1,1290,2.5,Apartment,-1,-1,0
+4002368541,"Tulpenweg 14,",4153 Reinach BL,4.5,85.0,1840,8.0,Apartment,-1,-1,1
+4002368564,"Im Krummacker,",4417 Ziefen,3.5,90.0,2060,8.0,Apartment,-1,2025,1
+4002368592,"Beundenstr. 8,",4103 Bottmingen,3.5,135.0,3515,6.5,Apartment,-1,2003,1
+4002368613,"Im Krummacker,",4417 Ziefen,3.5,90.0,2135,8.0,Apartment,-1,2025,1
+4002368813,"Erlenstrasse 12,",4410 Liestal,3.5,70.0,1640,10.5,Apartment,-1,-1,0
+4002368899,"Oberwilerstrasse 72,",4102 Binningen,3.5,85.0,2185,3.75,Apartment,2022,1980,1
+4002368900,"Oristalstrasse 54,",4410 Liestal,3.5,86.0,2090,6.0,Apartment,-1,2020,0
+4002369299,"Hangematt 105,",4425 Titterten,4.5,120.0,2020,-1,Apartment,2024,1753,1
+4002369394,"Burggartenstrasse 1,",4133 Pratteln,3.0,60.0,1525,2.5,Apartment,2017,1948,0
+4002369399,"Zehntenstrasse 8,",4133 Pratteln,3.0,60.0,1470,2.5,Apartment,2017,1948,0
+4002369400,"Im Birspark 1,",4147 Aesch BL,5.5,113.0,2180,8.25,Apartment,2001,1987,1
+4002369402,"Mittlerer Kreis 25,",4106 Therwil,4.0,87.0,1792,3.5,Apartment,1998,1965,1
+4002369415,"Mausackerweg 13,",4153 Reinach BL,3.5,80.0,2015,6.25,Apartment,-1,-1,1
+4002369738,"Frenkenstrasse 31,",4434 Hölstein,3.5,63.0,1500,12.0,Apartment,-1,-1,1
+4002370116,"Römerstrasse 7,",4148 Pfeffingen,3.5,97.0,2470,8.33,Apartment,-1,2015,1
+4002370365,"Rössligasse 31,",4467 Rothenfluh,7.5,230.0,2900,3.5,Maisonette / Duplex,-1,-1,1
+4002370429,"Zelgwasserweg 25,",4460 Gelterkinden,3.5,75.0,1352,8.25,Apartment,2023,1960,1
+4002370523,"Im Margarethental 17,",4102 Binningen,3.0,75.0,1970,3.0,Apartment,1991,1962,1
+4002370569,"Hauptstr. 7,",4102 Binningen,3.0,93.0,1908,2.25,Apartment,-1,1968,0
+4002370612,"Bachgrabenweg 16,",4123 Allschwil,3.5,90.0,2550,8.75,Apartment,-1,-1,1
+4002370613,"Bachgrabenweg 16,",4123 Allschwil,-1,15.0,150,8.75,Hobby room,-1,-1,0
+4002370635,"Heissgländstrasse 40,",4132 Muttenz,3.0,71.0,1450,5.5,Apartment,1991,1962,0
+4002370636,"Bottmingerstrasse 62,",4104 Oberwil,3.0,70.0,1570,5.0,Apartment,-1,1965,0
+4002370918,"Augsterheglistrasse 27,",4133 Pratteln,3.0,68.0,1600,3.0,Apartment,-1,-1,0
+4002370919,"Augsterheglistrasse 27,",4133 Pratteln,3.0,68.0,1620,3.0,Apartment,-1,-1,0
+4002370921,"Hauptstrasse 30,",4415 Lausen,2.0,51.0,1280,5.25,Apartment,-1,-1,0
+4002370926,"Benzburweg 2,",4410 Liestal,3.5,91.0,1964,5.75,Apartment,2022,2003,0
+4002370929,"Bahnweg 14,",4415 Lausen,3.5,82.0,1880,5.25,Apartment,-1,2017,0
+4002370953,"Holeeholzweg 63,",4102 Binningen,4.0,94.0,1390,10.25,Apartment,-1,-1,1
+4002371093,"Sonnmattstr. 5,",4142 Münchenstein,2.5,65.0,1750,7.75,Apartment,-1,-1,0
+4002371100,"Gründenstrasse 20,",4132 Muttenz,3.5,73.0,1720,5.5,Apartment,-1,-1,1
+4002371135,"Neuweilerstrasse 8A,",4124 Schönenbuch,3.5,128.0,2600,3.0,Roof flat,2007,1800,1
+4002371252,"Neumattstrasse 2/2a,",4144 Arlesheim,2.0,45.0,1100,2.5,Apartment,2013,1904,0
+4002371273,"Hauptstrasse 60,",4142 Münchenstein,3.0,68.0,1640,4.0,Apartment,2024,1956,0
+4002371354,"Im Steinenmüller 17,",4142 Münchenstein,4.0,82.0,1820,4.75,Apartment,-1,-1,1
+4002371415,"In der Schappe 24,",4144 Arlesheim,4.0,125.0,2640,6.0,Maisonette / Duplex,-1,1998,1
+4002371475,"Marchbachstrasse 13,",4107 Ettingen,4.5,90.0,1960,7.5,Apartment,-1,-1,1
+4002371683,"Hauptstrasse 37,",4147 Aesch,2.5,115.0,2495,6.25,Apartment,-1,-1,1
+4002371685,"Hauptstrasse 37,",4147 Aesch,3.5,99.0,2290,6.25,Apartment,-1,-1,0
+4002372046,"Rainenweg 52-156,",4153 Reinach BL,4.5,120.0,3390,6.5,Single house,2024,1994,1
+4002372107,"Holeeholzweg 65,",4102 Binningen,4.0,94.0,1490,10.5,Apartment,-1,-1,1
+4002373062,"Birsmatt 3,",4147 Aesch,3.5,89.0,2145,6.0,Apartment,-1,-1,0
+4002373063,"Birsmatt 9,",4147 Aesch,3.5,89.0,2280,6.0,Apartment,-1,-1,1
+4002373064,"Birsmatt 7,",4147 Aesch,3.5,89.0,2070,6.0,Apartment,-1,-1,0
+4002373066,"Eremitagestrasse 5,",4153 Reinach,3.5,92.0,1637,9.0,Apartment,-1,-1,0
+4002373187,"Baslerstrasse,",4123 Allschwil,5.5,130.0,2850,3.5,Single house,-1,-1,1
+4002373393,"Neumattring 2,",4147 Aesch BL,3.0,80.0,2060,5.0,Roof flat,-1,-1,1
+4002373549,"Im Noll 9,",4148 Pfeffingen,4.5,145.0,3880,9.67,Apartment,-1,-1,0
+4002373550,"Im Noll 9,",4148 Pfeffingen,4.5,118.0,3120,9.67,Apartment,-1,2025,1
+4002373551,,,4.5,145.0,3780,-1,Apartment,-1,-1,0
+4002373602,"Ringstrasse 11,",4414 Füllinsdorf,2.5,-1,1290,11.25,Apartment,-1,-1,1
+4002373875,"Im Tal 12,",4144 Arlesheim,4.0,73.0,1480,4.25,Apartment,2021,1964,1
+4002373901,"Drosselstrasse 5,",4103 Bottmingen,3.5,95.0,2100,9.0,Apartment,-1,1966,1
+4002374222,"Oristalstrasse 50,",4410 Liestal,4.5,110.0,2650,5.5,Apartment,-1,2020,0
+4002374345,"St. Jakobsstrasse 37,",4133 Pratteln,3.5,-1,-1,6.25,Apartment,-1,2025,1
+4002374350,"Bahnweg 12,",4402 Frenkendorf,3.5,75.0,2250,6.5,Apartment,-1,-1,0
+4002374353,"Burenweg 23,",4127 Birsfelden,3.0,62.0,1395,7.5,Apartment,1999,1961,0
+4002374354,"Baselstrasse 30,",4142 Münchenstein,4.0,74.0,1620,4.25,Apartment,-1,-1,0
+4002374404,"Schauenburgerstrasse 18,",4133 Pratteln,4.0,100.0,1860,6.25,Apartment,-1,-1,0
+4002374451,"Rufsteinweg 2,",4410 Liestal,4.5,102.0,2170,4.5,Apartment,-1,-1,1
+4002374465,"Schliffweg 3,",4242 Laufen,2.0,58.0,1190,5.5,Apartment,-1,-1,0
+4002374481,"Rufsteinweg 4,",4410 Liestal,2.5,50.0,1450,4.25,Apartment,-1,-1,1
+4002374543,"Rufsteinweg 2,",4410 Liestal,3.0,67.0,1570,4.5,Apartment,-1,-1,0
+4002374579,"Güterstrasse 17,",4133 Pratteln,3.5,82.0,2030,4.0,Apartment,-1,-1,1
+4002375246,"Hof Gisiberg 101,",4456 Tenniken,8.0,225.0,2995,22.5,Farm house,2005,1852,0
+4002375556,"Holeeholzweg 61,",4102 Binningen,3.0,79.0,1390,9.5,Apartment,-1,-1,1
+4002375990,"Holeeholzweg 63,",4102 Binningen,4.0,94.0,1490,10.25,Apartment,-1,-1,1
+4002376041,"Sternenhofweg 4,",4147 Aesch,-1,-1,1290,7.75,Apartment,-1,-1,0
+4002376042,,,-1,-1,-1,-1,,-1,-1,0
+4002376045,"Baselstrasse 128,",4242 Laufen,-1,-1,1890,8.75,Apartment,-1,-1,1
+4002376047,"Akazienweg 15,",4147 Aesch,-1,-1,1590,9.25,Apartment,-1,-1,1
+4002376159,"Kirchstrasse 11,",4127 Birsfelden,3.5,76.0,1804,3.0,Apartment,-1,-1,1
+4002376217,"Sternenhofweg 4,",4147 Aesch,-1,-1,1290,7.75,Apartment,-1,-1,0
+4002376223,"Norimatt 3,",4242 Laufen,-1,72.0,1790,7.75,Apartment,-1,-1,1
+4002376247,,,-1,-1,-1,-1,,-1,-1,0
+4002376261,"Akazienweg 15,",4147 Aesch,-1,-1,1590,9.25,Apartment,-1,-1,1
+4002376392,,,4.5,109.0,2340,-1,Apartment,2021,-1,1
+4002376406,,,4.5,120.0,2980,-1,Apartment,-1,-1,1
+4002376654,"Hauptstrasse 81,",4415 Lausen,1.5,81.0,1754,4.25,Roof flat,-1,1825,0
+4002376736,"Alemannenstrasse 12,",4106 Therwil,-1,37.0,360,5.25,Hobby room,-1,1971,0
+4002376769,"Hofmattstrasse 3,",4415 Lausen,4.0,76.0,1820,7.5,Apartment,-1,-1,1
+4002376770,"Eremitagestrasse 3,",4153 Reinach,4.5,110.0,2015,9.5,Apartment,-1,-1,1
+4002376772,"Gelterkinderstr. 9,",4450 Sissach,3.0,69.0,1388,5.0,Apartment,-1,-1,0
+4002376809,"Weststrasse 13,",4242 Laufen,4.5,93.0,2070,5.5,Apartment,-1,2018,1
+4002376987,"Bachgasse 2,",4105 Biel-Benken BL,2.5,133.0,2570,3.5,Apartment,-1,2012,1
+4002377074,"Eggstrasse 51,",4402 Frenkendorf,4.0,76.0,1770,11.0,Apartment,2025,-1,1
+4002377951,,,4.5,119.0,2590,-1,Maisonette / Duplex,2015,-1,1
+4002377955,,,5.5,154.0,3200,-1,Apartment,-1,-1,1
+4002378111,"Ostenbergstrasse 5,",4410 Liestal,2.5,82.0,1750,17.67,Maisonette / Duplex,2016,1995,1
+4002378428,"Hohlegasse 36,",4104 Oberwil BL,6.5,131.0,3450,8.0,Apartment,-1,2003,1
+4002378431,"Weichselmattstrasse 5,",4103 Bottmingen,4.0,100.0,2360,6.25,Apartment,-1,2000,0
+4002378551,"Dorfstrasse 9,",4243 Dittingen,4.5,103.0,1900,23.5,Apartment,-1,2011,1
+4002378954,"Burgstrasse 21,",4410 Liestal,2.5,52.0,1460,2.5,Apartment,2025,2000,0
+4002379067,"Waldeckweg 51,",4102 Binningen,3.5,90.0,2200,7.25,Apartment,-1,1986,1
+4002379188,,,4.5,100.0,2100,-1,Roof flat,-1,-1,1

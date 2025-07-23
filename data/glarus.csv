@@ -1,0 +1,99 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+4001209961,"Bruggli 5,",8754 Netstal,3.5,-1,1553,8.0,Apartment,-1,-1,1
+4001624076,,,4.5,132.0,1750,-1,Apartment,2018,1970,0
+4001863391,"Abläschstrasse 33,",8750 Glarus,2.5,-1,2150,4.25,Apartment,2023,-1,1
+4001876517,"Bahnhofstrasse 13,",8762 Glarus Süd,6.0,-1,1400,4.25,Apartment,-1,-1,0
+4001884955,"Dorf 38,",8767 Elm,3.5,-1,1350,-1,Apartment,-1,-1,0
+4001903397,,,4.5,78.0,2582,-1,Apartment,-1,2022,0
+4001910458,,,1.5,30.0,1230,-1,Apartment,-1,2023,0
+4001912602,,,4.5,79.0,2774,-1,Apartment,-1,2023,0
+4001912792,,,1.5,30.0,1178,-1,Apartment,-1,2022,0
+4001982249,"Zollhausstrasse 30,",8750 Glarus,3.5,91.0,1920,7.0,Apartment,-1,2015,1
+4002010864,,,14.0,335.0,5850,-1,Single house,-1,1945,1
+4002010989,,,5.5,150.0,2500,-1,Row house,2010,1888,0
+4002093093,"Ziegelbrückstrasse 105,",8866 Ziegelbrücke,-1,160.0,2950,6.0,Bifamiliar house,2015,-1,1
+4002100658,"Hauptstrasse 131,",8762 Glarus Süd,4.5,-1,1650,4.25,Single house,2025,-1,0
+4002135904,"Letz 12,",8752 Näfels,4.5,110.0,1949,3.0,Maisonette / Duplex,-1,-1,0
+4002140395,"Kalkofen 3,",8782 Rüti GL,4.5,80.0,1280,6.0,Apartment,2025,-1,1
+4002140454,"Kalkofen 3,",8782 Rüti GL,3.5,57.0,1100,6.0,Apartment,2025,-1,1
+4002152694,"Obere Allmeind 3,",8755 Ennenda,6.0,-1,2700,8.75,Apartment,2018,-1,1
+4002186505,"Achern 10,",8775 Luchsingen,4.5,88.0,1090,-1,Apartment,-1,-1,0
+4002210619,"Plattenaustrasse 37,",8762 Schwanden GL,3.5,78.0,1510,7.5,Apartment,2015,-1,1
+4002210697,"Gemeindehausplatz 2,",8750 Glarus,3.5,58.0,1060,2.75,Apartment,2010,-1,1
+4002214100,"Kerenzerbergstrasse,",8874 Mühlehorn,4.5,250.0,-1,-1,Attic flat,-1,2019,1
+4002216580,"Abläschstrasse 33,",8750 Glarus,2.5,-1,1880,4.25,Apartment,-1,-1,1
+4002219068,"Saatengüetli 1,",8762 Schwanden GL,3.0,65.0,1100,4.25,Apartment,-1,-1,1
+4002241194,,,3.5,71.0,1560,-1,Apartment,-1,1990,0
+4002260503,"Hauptstr. 47,",8865 Bilten,3.5,73.0,1440,9.75,Apartment,-1,-1,0
+4002263079,,,-1,-1,850,-1,Single Room,-1,-1,0
+4002265985,"Bruch 2,",8750 Riedern,2.5,57.0,990,12.33,Apartment,-1,-1,0
+4002267089,"Hauptstrasse 24,",8750 Glarus,2.5,-1,1350,2.75,Apartment,-1,-1,0
+4002270440,"Ziegelbrückstrasse 31,",8867 Niederurnen,1.0,-1,1420,-1,Studio,-1,-1,1
+4002274838,"Ziegelbrückstrasse 31,",8867 Niederurnen,2.5,-1,1660,-1,Apartment,-1,-1,1
+4002274934,"Ziegelbrückstrasse 31,",8867 Niederurnen,3.5,-1,1890,-1,Apartment,-1,-1,1
+4002282407,"Autschachenpark 2,",8752 Näfels,2.5,54.0,1660,7.5,Apartment,-1,2021,1
+4002292073,"Mollis,",8753 Mollis,5.5,180.0,4000,-1,Single house,-1,-1,0
+4002296373,"Reimen 1,",8775 Luchsingen-Hätzingen,4.5,-1,1240,5.33,Apartment,-1,1960,1
+4002296385,"Asylstrasse 12,",8750 Glarus,3.5,109.0,2140,6.25,Apartment,-1,2025,1
+4002305430,"Güterstrasse 6,",8868 Oberurnen,3.5,-1,1270,10.0,Apartment,-1,-1,1
+4002306926,"Im Hof 3,",8866 Ziegelbrücke,3.0,64.0,1184,7.0,Apartment,-1,1973,1
+4002308146,"Landstrasse 12,",8750 Glarus,5.5,138.0,1850,7.5,Apartment,-1,-1,0
+4002308877,"Bahnhofstrasse 10,",8750 Glarus,2.5,-1,1350,3.25,Apartment,-1,-1,0
+4002308878,"Hauptstrasse 17,",8750 Riedern,2.0,-1,815,5.0,Apartment,-1,-1,0
+4002312074,"Unterdorf 25,",8752 Näfels,3.5,70.0,1635,-1,Apartment,2025,-1,1
+4002313650,"Linthgut 1,",8782 Glarus Süd,3.5,70.0,1099,2.5,Roof flat,2015,-1,1
+4002313655,"Linthgut 1 + 2,",8782 Glarus Süd,3.5,70.0,1099,1.5,Apartment,2015,-1,1
+4002314166,"Alte Wiese 15,",8755 Ennenda,5.5,-1,2250,9.0,Single house,-1,-1,0
+4002314167,"Hohlensteinstrasse 2,",8755 Ennenda,3.5,-1,1285,7.67,Apartment,-1,-1,0
+4002318266,"Linthgut 1,",8782 Glarus Süd,2.5,60.0,1049,1.5,Roof flat,2015,-1,1
+4002320405,"Panoramastrasse 10,",8868 Oberurnen,3.5,100.0,1910,7.0,Apartment,-1,-1,1
+4002320406,"Speerstrasse 4,",8865 Bilten,4.5,102.0,2250,7.75,Apartment,-1,2017,1
+4002322874,,,4.5,-1,1570,-1,Apartment,-1,-1,0
+4002322976,"Hauptstrasse 49,",8756 Mitlödi,1.5,40.0,850,2.33,Apartment,2025,-1,1
+4002323642,"Erlenstrasse 12,",8753 Glarus Nord,4.5,125.0,2500,9.5,Apartment,-1,-1,1
+4002325718,"Letz 12,",8752 Näfels,4.0,93.0,1800,3.0,Apartment,-1,-1,0
+4002326605,"Herrenweg 34,",8752 Näfels,4.0,97.0,1650,5.0,Apartment,-1,-1,0
+4002330194,"Schlhausstrasse 3,",8783 Linthal,3.0,87.0,1465,2.33,Apartment,2025,1970,1
+4002331378,"Aeugstenstrasse 4,",8755 Ennenda,5.5,131.0,2100,8.0,Apartment,2025,1968,1
+4002333837,"Rosenhofstrasse 47,",8753 Mollis,3.5,87.0,1750,8.25,Apartment,-1,2008,0
+4002333871,"Fuhr 5,",8756 Mitlödi,4.5,95.0,1380,4.0,Apartment,-1,-1,1
+4002334274,"Espenstrasse 21,",8867 Niederurnen,4.5,122.0,2450,7.25,Apartment,-1,2020,1
+4002334928,"Letz 16 d,",8752 Näfels,3.5,81.0,1870,3.25,Apartment,-1,2015,1
+4002335239,"Rosenhofstrasse 53,",8753 Mollis,3.5,90.0,1745,8.0,Apartment,-1,2008,0
+4002336487,"Linthgut 1 + 2,",8782 Glarus Süd,4.0,70.0,1149,2.5,Apartment,2015,-1,1
+4002340349,"Ennetlintherstrasse 2,",8783 Linthal,4.5,-1,1875,6.67,Apartment,-1,2023,1
+4002340371,"Sandstrasse 5,",8750 Glarus,2.5,-1,1050,3.0,Apartment,-1,-1,0
+4002340868,"Schiltstrasse 34,",8750 Glarus,1.5,32.0,890,8.0,Apartment,-1,-1,0
+4002342790,,,-1,58.0,1390,-1,Maisonette / Duplex,-1,2020,0
+4002343882,"Hauptstrasse 28,",8777 Betschwanden,1.5,30.0,560,2.0,Apartment,-1,-1,0
+4002343945,"Leuzingenweg 32,",8754 Netstal,4.0,-1,1900,10.0,Single house,-1,-1,0
+4002344808,"Winkelstrasse 19,",8750 Glarus,4.5,112.0,2490,5.5,Apartment,-1,2025,1
+4002346357,"Dr. Joachim Heerstr. 16,",8750 Glarus,1.5,31.0,930,-1,Apartment,-1,-1,1
+4002346968,"Bahnhofstr. 15,",8762 Schwändi b. Schwanden,4.5,95.0,1700,-1,Apartment,-1,-1,0
+4002348490,,,-1,-1,-1,-1,,-1,-1,0
+4002348985,"Bifängli 7,",8757 Glarus Nord,5.5,-1,1495,-1,Apartment,-1,-1,1
+4002349242,"Molliserstrasse 11a,",8754 Glarus,2.5,-1,1300,5.5,Apartment,-1,-1,1
+4002349310,"Hauptstrasse 107,",8762 Glarus Süd,1.5,-1,856,3.75,Apartment,-1,-1,0
+4002350283,"Abläschstrasse 33,",8750 Glarus,2.5,56.0,1700,4.25,Apartment,-1,-1,0
+4002350341,"Plattenaustrasse 9,",8762 Schwändi b. Schwanden,2.5,56.0,910,4.25,Apartment,-1,-1,0
+4002352802,"Sustweg 13,",8866 Ziegelbrücke,-1,176.0,2150,7.0,Bifamiliar house,-1,1920,0
+4002353454,"Schlatt 1448,",8753 Mollis,-1,-1,12000,-1,Farm house,-1,-1,0
+4002353716,"Untere Erlenstrasse 32,",8750 Glarus,4.5,96.0,1970,3.75,Apartment,-1,-1,0
+4002353720,"Hauptstrasse 31,",8775 Hätzingen,5.5,150.0,980,-1,Apartment,-1,-1,0
+4002353764,,,5.5,153.0,2100,-1,Row house,2022,-1,1
+4002358083,"Landstrasse 44,",8754 Netstal,1.5,42.0,890,5.25,Apartment,-1,-1,0
+4002359425,"Rüteli 6,",8762 Schwanden GL,4.5,91.0,1477,6.75,Apartment,-1,2017,1
+4002359427,"Rüteli 6,",8762 Schwanden GL,3.5,65.0,1264,6.75,Apartment,-1,2017,1
+4002359428,"Sändlistrasse 4,",8783 Linthal,4.0,91.0,1520,5.67,Apartment,2013,1972,1
+4002363725,"Schiltstrasse 36,",8750 Glarus,2.0,40.0,1010,6.75,Apartment,-1,-1,0
+4002365005,"Britternstrasse 3,",8753 Glarus Nord,4.0,-1,-1,-1,Single house,-1,-1,1
+4002368086,"Hauptstrasse 28,",8777 Betschwanden,1.0,10.0,490,2.0,Apartment,-1,-1,0
+4002368668,"Auf Anfrage 1,",8755 Ennenda,6.0,174.0,3100,-1,Apartment,-1,1820,0
+4002370219,"Unterdorf 42,",8752 Näfels,2.5,73.0,1620,6.25,Apartment,-1,2021,1
+4002370319,"Dorfstrasse 111,",8773 Haslen GL,-1,-1,1700,-1,Single house,-1,-1,0
+4002370321,"Lindengut 6c,",8750 Glarus,3.5,-1,1820,5.67,Apartment,-1,-1,1
+4002371602,,,3.5,-1,1765,-1,Apartment,-1,-1,1
+4002373569,"Hauptstrasse 107,",8762 Glarus Süd,2.5,-1,1050,3.75,Apartment,-1,-1,0
+4002374766,"Büntgasse 16,",8752 Näfels,2.0,-1,1400,4.75,Apartment,-1,-1,0
+4002377452,"Bergstrasse 5,",8755 Ennenda,3.5,-1,1090,8.33,Apartment,-1,-1,0
+4002379582,"Winkelstrasse 17,",8750 Glarus,-1,96.0,2090,6.25,Apartment,-1,2025,1

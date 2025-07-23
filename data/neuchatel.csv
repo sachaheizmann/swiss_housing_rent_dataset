@@ -1,0 +1,1001 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+3002848437,"Crêt-Vaillant 21,",2400 Le Locle,2.0,46.0,760,4.25,Apartment,-1,-1,0
+3003194949,"Midi 19,",2400 Le Locle,4.0,-1,1225,6.0,Apartment,-1,-1,1
+3003492004,"Paix 61,",2300 La Chaux-de-Fonds,2.0,-1,930,3.75,Apartment,-1,-1,0
+4000299457,"Route de Sachet,",2016 Cortaillod,5.5,171.0,3820,-1,Villa,-1,2026,1
+4000772281,"Tourelles 8,",2300 La Chaux-de-Fonds,4.0,-1,1190,8.25,Apartment,-1,-1,0
+4000892715,"Rue Chapeau-Rable 22,",2300 La Chaux-de-Fonds,3.0,65.0,970,9.0,Apartment,-1,-1,1
+4000958517,"Jardinière 93,",2300 La Chaux-de-Fonds,3.5,-1,1005,4.25,Apartment,-1,-1,0
+4001026898,"Rue du Marais 36,",2400 Le Locle,2.0,46.0,830,3.5,Apartment,2024,-1,0
+4001063438,"Jardinière 93,",2300 La Chaux-de-Fonds,4.5,-1,1370,4.25,Apartment,-1,-1,0
+4001073252,"Beau-Site 1,",2300 La Chaux-de-Fonds,4.0,-1,1220,4.75,Apartment,-1,-1,0
+4001087020,"Jardinière 81,",2300 La Chaux-de-Fonds,3.0,-1,1000,4.0,Apartment,-1,-1,0
+4001202825,"Rue de la Cure 7,",2300 La Chaux-de-Fonds,3.0,-1,1075,3.5,Apartment,-1,-1,0
+4001274436,"Rue Girardet 22,",2400 Le Locle,3.5,-1,980,7.0,Apartment,2012,-1,0
+4001277827,"Route du Raya 9,",2400 Le Locle,4.0,80.0,1150,6.75,Apartment,-1,-1,1
+4001293782,"J.-F.-Houriet 5,",2400 Le Locle,4.5,-1,1090,6.25,Apartment,-1,-1,0
+4001334047,"Col 6,",2400 Le Locle,5.0,-1,990,-1,Apartment,-1,-1,0
+4001334066,"Numa-Droz 77,",2300 La Chaux-de-Fonds,4.0,-1,1220,4.25,Apartment,-1,-1,0
+4001334079,"Rue du Marais 13,",2400 Le Locle,4.0,100.0,1095,5.0,Apartment,-1,-1,0
+4001336190,"Rue Louis Favre 40,",2017 Boudry,5.5,-1,1900,4.75,Apartment,-1,-1,0
+4001416966,"J.-F.-Houriet 5,",2400 Le Locle,5.0,-1,1200,6.25,Apartment,-1,-1,0
+4001427848,"Rue de Buttes 7,",2114 Fleurier,4.0,100.0,1140,17.25,Apartment,2025,-1,0
+4001432352,"Rue Ami-Girard 5,",2054 Chézard-St-Martin,2.5,-1,1460,6.5,Apartment,-1,2020,0
+4001432851,"Guinand l'Opticien 4,",2416 Les Brenets,5.5,-1,1390,2.5,Apartment,-1,-1,0
+4001454385,"Rue du Parc,",2300 La Chaux-de-Fonds,4.0,106.0,1310,-1,Apartment,-1,-1,0
+4001513020,"Guinand l'Opticien 4,",2416 Les Brenets,3.5,-1,960,2.5,Apartment,2024,-1,0
+4001513021,"Guinand l'Opticien 4,",2416 Les Brenets,4.5,-1,1130,2.5,Apartment,2024,-1,0
+4001542324,"Bellevue 25,",2400 Le Locle,4.0,107.0,1450,4.75,Apartment,-1,-1,0
+4001544796,"Avenue de la Gare 14,",2114 Fleurier,6.0,-1,1780,3.5,Apartment,-1,-1,0
+4001583584,"Tourelles 10,",2300 La Chaux-de-Fonds,4.0,70.0,1110,8.5,Apartment,-1,-1,1
+4001583586,"Numa-Droz 115,",2300 La Chaux-de-Fonds,4.0,-1,1090,4.0,Apartment,-1,-1,0
+4001583588,"Bel-Air 20,",2300 La Chaux-de-Fonds,-1,96.0,990,4.5,Apartment,-1,-1,0
+4001587417,"Temple-Allemand 63,",2300 La Chaux-de-Fonds,4.0,83.0,1360,4.75,Apartment,-1,-1,0
+4001587418,"Temple-Allemand 63,",2300 La Chaux-de-Fonds,4.0,-1,1340,4.75,Apartment,-1,-1,1
+4001587419,"Pl. Hôtel-de-Ville 5,",2300 La Chaux-de-Fonds,5.0,-1,1610,3.0,Apartment,-1,-1,0
+4001587421,"Progrès 121,",2300 La Chaux-de-Fonds,3.0,80.0,1150,4.75,Apartment,-1,-1,1
+4001614708,"Rue de la Place-d'Armes 9,",2114 Val-de-Travers,4.5,-1,1480,4.0,Apartment,-1,-1,0
+4001642199,"Rue du Nord 54,",2300 La Chaux-de-Fonds,3.5,-1,1100,4.0,Apartment,-1,-1,1
+4001654194,"Rue des Granges 8,",2034 Peseux,3.5,-1,1590,2.75,Apartment,2023,-1,0
+4001662189,"Rue des Musées 58,",2300 La Chaux-de-Fonds,2.5,-1,980,3.5,Apartment,-1,-1,1
+4001666879,"Rue du Verger 3,",2017 Boudry,3.0,63.0,1550,4.25,Apartment,-1,-1,0
+4001667738,"Chemin des Charrières 6,",2024 St-Aubin-Sauges,3.5,65.0,2220,4.75,Attic flat,2023,1993,1
+4001668532,"Rue de Champréveyres 14,",2000 Neuchâtel,3.0,67.0,1716,6.75,Apartment,2006,1965,1
+4001668533,"Rue de Champréveyres 14,",2000 Neuchâtel,5.5,130.0,2986,6.75,Attic flat,2006,1965,0
+4001668551,"Rue de Champréveyres 16,",2000 Neuchâtel,3.0,67.0,1590,6.5,Apartment,2006,1965,1
+4001668561,"Rue Auguste-Bachelin 15,",2000 Neuchâtel,5.5,115.0,2260,4.0,Apartment,2017,1972,1
+4001668871,"Rue du Musée 9,",2000 Neuchâtel,-1,-1,-1,2.25,Hobby room,-1,1902,0
+4001670367,"Avenue Charles-Naine 14,",2300 La Chaux-de-Fonds,3.0,-1,1180,4.25,Apartment,2024,-1,1
+4001671690,"Hôtel de ville 55,",2300 La Chaux-de-Fonds,4.5,-1,1290,6.5,Apartment,2023,-1,0
+4001671695,"Chemin de Planeyse 2-A,",2013 Colombier NE,4.5,113.0,2340,5.75,Roof flat,2024,-1,0
+4001671700,"Rue des Poteaux 8,",2000 Neuchâtel,4.5,-1,3140,2.0,Apartment,-1,-1,0
+4001671718,"Rue des Racherelles 16,",2012 Auvernier,5.5,123.0,2960,7.0,Apartment,-1,-1,1
+4001671730,"Grand rue 25,",2035 Corcelles NE,3.5,-1,1360,6.75,Apartment,-1,-1,0
+4001678129,"stavay-Mollondin 19,",2300 La Chaux-de-Fonds,3.5,-1,1170,6.0,Apartment,-1,-1,0
+4001678132,"Primevères 2,",2400 Le Locle,3.5,72.0,1130,8.25,Apartment,-1,-1,1
+4001678138,"Tuilerie 20,",2300 La Chaux-de-Fonds,4.0,95.0,1405,5.5,Apartment,-1,-1,1
+4001678139,"Rue des Jeannerets 17,",2400 Le Locle,3.5,62.0,1010,5.5,Apartment,-1,-1,1
+4001678140,"Neuve 6,",2300 La Chaux-de-Fonds,3.0,77.0,1330,2.75,Apartment,-1,-1,0
+4001678517,"Vieux-Patriotes 48,",2300 La Chaux-de-Fonds,3.5,75.0,1135,8.5,Apartment,-1,-1,1
+4001678520,"Cardamines 26,",2400 Le Locle,3.5,90.0,980,9.0,Apartment,-1,-1,1
+4001678522,"Neuve 10,",2300 La Chaux-de-Fonds,3.0,-1,1065,3.0,Apartment,-1,-1,0
+4001678529,"Jeanneret 19,",2400 Le Locle,3.5,-1,1135,5.75,Apartment,-1,-1,1
+4001678534,"Parc 71,",2300 La Chaux-de-Fonds,1.0,-1,730,4.25,Studio,-1,-1,0
+4001678535,"Combe-Grieurin 37b,",2300 La Chaux-de-Fonds,2.5,73.0,1080,7.25,Apartment,-1,-1,0
+4001685148,"Rue du Cygne 4,",2300 LA CHAUX-DE-FONDS,4.5,126.0,2030,3.0,Apartment,-1,-1,0
+4001685149,"Rue du Cygne 8,",2300 LA CHAUX-DE-FONDS,4.5,115.0,2023,2.75,Apartment,-1,-1,0
+4001687243,"Rue du Quarre 22,",2108 Val-de-Travers,3.5,-1,1430,6.25,Apartment,-1,-1,0
+4001693304,"Route des Gouttes-d'Or 90,",2000 Neuchâtel,3.0,-1,1490,6.75,Apartment,2024,-1,1
+4001721392,"Rue Cernil-Antoine 11,",2300 La Chaux-de-Fonds,3.0,-1,1160,5.0,Apartment,2022,-1,0
+4001721393,"Rue Cernil-Antoine 11,",2300 La Chaux-de-Fonds,4.0,-1,1360,5.0,Apartment,-1,-1,0
+4001721397,"Rue Cernil-Antoine 9,",2300 La Chaux-de-Fonds,2.0,-1,950,4.25,Apartment,-1,-1,0
+4001723698,"Rocher 20,",2300 La Chaux-de-Fonds,4.0,-1,1150,4.25,Apartment,-1,-1,0
+4001724742,"Route des Gouttes d'Or 20B,",2000 Neuchâtel,3.5,85.0,3100,6.0,Apartment,-1,-1,1
+4001724752,"Vy-d'Etra 44,",2000 Neuchâtel,3.5,69.0,3500,8.0,Apartment,-1,-1,1
+4001724772,"Place Pury 13,",2000 Neuchâtel,2.5,-1,2950,1.75,Apartment,2021,-1,0
+4001726120,"Place Pury 13,",2000 Neuchâtel,2.5,-1,2500,1.75,Apartment,-1,2021,0
+4001726424,"Place Pury 13,",2000 Neuchâtel,2.5,71.0,3000,1.75,Apartment,-1,2021,0
+4001726455,"Place Pury 13,",2000 Neuchâtel,2.5,-1,2850,1.75,Apartment,-1,2021,0
+4001728112,"Fritz-Courvoisier 24,",2300 La Chaux-de-Fonds,3.0,52.0,1030,3.25,Apartment,-1,-1,1
+4001729926,"Rue Paul-Bouvier 3,",2000 Neuchâtel,3.5,74.0,1665,4.0,Apartment,-1,1964,0
+4001732069,"Rue de la Treille 7,",2000 Neuchâtel,2.0,45.0,2300,1.75,Apartment,-1,-1,0
+4001732114,"Rue Auguste-Bachelin 15,",2000 Neuchâtel,3.5,85.0,1850,3.75,Apartment,2017,1972,1
+4001742340,"Impasse des Arêtes 9,",2300 La Chaux-de-Fonds,2.0,50.0,990,8.5,Apartment,2024,-1,0
+4001751164,"Crêt du Mont d'Amin 1,",2053 Cernier,4.0,-1,1450,4.0,Apartment,-1,-1,0
+4001752824,"Rue Bournot 17b,",2400 Le Locle,2.0,-1,820,3.0,Apartment,2015,-1,0
+4001761494,"chemin des Sauges 16,",2015 Areuse,3.5,-1,1600,13.5,Apartment,2024,-1,1
+4001766225,"Rue Cernil-Antoine 9,",2300 La Chaux-de-Fonds,3.0,80.0,1050,4.25,Apartment,2020,-1,1
+4001768277,"Rue des Cardamines 17,",2400 LE LOCLE,3.5,76.0,1195,9.25,Apartment,-1,1970,1
+4001768278,"Route de la Jaluse 5,",2400 Le Locle,4.0,88.0,1260,9.0,Apartment,-1,1970,1
+4001768280,"Avenue du Locle 44,",2300 La Chaux-de-Fonds,5.0,94.0,1275,5.5,Apartment,-1,-1,0
+4001772737,"Rue du Marais 20,",2400 Le Locle,3.0,70.0,990,4.75,Apartment,-1,-1,0
+4001773423,"Rue du Cygne 8,",2300 LA CHAUX-DE-FONDS,4.5,141.0,2275,3.0,Apartment,-1,-1,0
+4001773780,"Rue des Vignolants 6,",2000 Neuchâtel,3.5,90.0,1800,6.5,Apartment,2008,1976,1
+4001780770,"Le Grand-Pont 3,",2087 Cornaux NE,2.5,75.0,1290,7.0,Apartment,-1,-1,0
+4001791516,"Rue des Musées 32,",2300 La Chaux-de-Fonds,4.0,-1,1100,4.75,Apartment,-1,-1,0
+4001801313,"Rue du jura 10,",2525 Le Landeron,3.5,-1,1450,9.0,Apartment,-1,-1,1
+4001810534,"Avenue de la Gare 10,",2114 Fleurier,4.0,-1,1120,3.0,Apartment,-1,-1,0
+4001811560,"Rue de Vauseyon 29,",2000 Neuchâtel,3.0,71.0,1440,4.75,Apartment,-1,1988,0
+4001819033,"Rue des Epancheurs 11,",2000 Neuchâtel,2.5,65.0,1690,1.5,Apartment,-1,1989,0
+4001820080,"Grand-Rue 41,",2036 Cormondrèche,3.0,-1,1240,6.67,Apartment,-1,1902,0
+4001821116,"Rue Fritz-Courvoisier 66,",2300 La Chaux-de-Fonds,2.0,-1,900,6.75,Apartment,-1,-1,0
+4001829183,"Rue de la Charrière 64,",2300 La Chaux-de-Fonds,2.5,53.0,1110,4.0,Apartment,-1,-1,1
+4001835453,"Rue des Sorbiers 25,",2300 La Chaux-de-Fonds,3.0,-1,1450,4.0,Apartment,-1,-1,0
+4001836565,"Rue des Vignolants 25,",2000 Neuchâtel,4.5,127.0,3060,8.5,Maisonette / Duplex,-1,2020,1
+4001837601,"Rue des Parcs 86,",2000 Neuchâtel,3.5,87.0,1790,2.75,Apartment,-1,1985,0
+4001840936,"Léopold-Robert 76,",2300 La Chaux-de-Fonds,3.5,82.0,1320,3.75,Apartment,-1,-1,0
+4001841367,"Rue Louis-Favre 30,",2017 Boudry,3.0,80.0,1490,4.25,Apartment,2020,-1,0
+4001844923,"Numa-Droz 88,",2300 La Chaux-de-Fonds,3.0,-1,990,4.5,Apartment,-1,-1,0
+4001848519,"Avenue Charles-Naine 16,",2300 La Chaux-de-Fonds,4.0,71.0,1390,3.5,Apartment,2025,1953,0
+4001849816,"Parc 85,",2300 La Chaux-de-Fonds,2.5,-1,1180,3.75,Apartment,-1,-1,0
+4001855956,"Rue Jaquet-Droz 6,",2300 La Chaux-de-Fonds,4.5,-1,1500,3.5,Apartment,-1,-1,0
+4001858631,"Rue de Bel-Air 14,",2300 La Chaux-de-Fonds,2.0,-1,810,4.25,Apartment,-1,-1,0
+4001861138,"Rue du Collège 12,",2114 Fleurier,5.5,120.0,1810,3.5,Apartment,-1,-1,1
+4001863811,"Rue des Fahys 69,",2000 Neuchâtel,2.0,55.0,1405,6.5,Apartment,-1,1937,1
+4001865066,"Rue du Chalet 18,",2300 La Chaux-de-Fonds,4.5,84.0,1330,10.0,Apartment,-1,1978,1
+4001865174,"Rue des Parcs 86,",2000 Neuchâtel,3.5,87.0,1810,2.75,Apartment,-1,1985,0
+4001867848,"Chemin des Grands-Pins 2,",2000 Neuchâtel,3.5,74.0,1770,2.25,Apartment,2023,1974,0
+4001871118,"Rue des Parcs 46,",2000 Neuchâtel,3.5,79.0,1640,3.75,Apartment,-1,1992,1
+4001885960,"Buttes 16,",2114 Fleurier,4.5,-1,1195,8.5,Apartment,-1,-1,1
+4001885964,"Rue du Chasselas 20A,",2034 Peseux,4.5,-1,1800,5.5,Apartment,-1,-1,1
+4001887600,"Eroges-Dessus 5,",2400 Le Locle,4.5,100.0,1170,11.0,Apartment,-1,-1,0
+4001897986,"Numa-Droz 11,",2300 La Chaux-de-Fonds,2.5,160.0,1600,3.0,Maisonette / Duplex,-1,-1,0
+4001898163,"Rue du Nord 54,",2300 La Chaux-de-Fonds,2.5,-1,920,4.0,Apartment,-1,-1,1
+4001898357,"usines 9,",2000 Neuchâtel,4.5,-1,1900,6.0,Apartment,-1,-1,0
+4001899402,"Rue du Vieux-Moulin 1,",2013 Colombier NE,2.5,-1,1630,5.25,Apartment,-1,-1,0
+4001900838,"Rue des Crêtets 118,",2300 La Chaux-de-Fonds,3.5,73.0,1300,8.0,Apartment,-1,-1,0
+4001901483,"Grand-Rue 2,",2105 Travers,3.5,-1,1200,2.33,Apartment,2022,-1,0
+4001902948,"Rue Jean-de-la-Grange 10,",2000 Neuchâtel,4.5,-1,1630,7.75,Apartment,-1,-1,0
+4001903137,"Rue Girardet 22,",2400 Le Locle,4.5,-1,1200,7.5,Apartment,2012,-1,1
+4001903222,"Rue Girardet 15,",2400 Le Locle,2.5,55.0,960,6.75,Apartment,2023,-1,1
+4001917422,"Numa-Droz 115,",2300 La Chaux-de-Fonds,4.5,-1,1250,4.0,Apartment,-1,-1,0
+4001919128,"Rue des Uttins 27,",2034 Neuchâtel,3.5,-1,1590,3.75,Apartment,-1,-1,1
+4001919357,"Rue de la Serre 4,",2300 La Chaux-de-Fonds,2.5,-1,920,2.75,Apartment,-1,-1,0
+4001919383,"Rue des Vieux-Patriotes 51,",2300 La Chaux-de-Fonds,3.5,-1,1320,8.5,Apartment,-1,-1,1
+4001919955,"Promenade-Noire 1,",2000 Neuchâtel,3.0,165.0,3150,3.0,Roof flat,-1,1874,0
+4001922921,"Rue Jardinière 101,",2300 La Chaux-de-Fonds,2.5,-1,1350,4.5,Apartment,-1,-1,1
+4001927268,"Route des Falaises 68,",2000 Neuchâtel,2.5,-1,2600,7.5,Apartment,-1,-1,1
+4001927727,"Rue du Crêt 1,",2300 La Chaux-de-Fonds,4.0,-1,1300,4.25,Apartment,-1,-1,1
+4001927752,"Rue Abraham Robert 39,",2300 La Chaux-de-Fonds,3.0,-1,980,9.75,Apartment,-1,-1,0
+4001927757,"Rue des Jeanneret 21,",2400 Le Locle,4.0,-1,1300,7.5,Apartment,-1,-1,1
+4001927777,"Rue des Envers 59,",2400 Le Locle,1.0,-1,600,4.25,Studio,-1,-1,0
+4001927781,"Rue du Crêt 1,",2300 La Chaux-de-Fonds,1.5,-1,690,4.25,Apartment,-1,-1,1
+4001927783,"Rue de la Balance 12,",2300 La Chaux-de-Fonds,5.0,140.0,1270,3.5,Apartment,-1,1902,0
+4001927792,"Rue de la Balance 12,",2300 La Chaux-de-Fonds,5.0,140.0,1530,3.5,Apartment,-1,1902,0
+4001927952,"Rue Paul-Bouvier 5,",2000 Neuchâtel,3.5,77.0,1750,6.0,Apartment,-1,1964,0
+4001930114,"Rue Combe-Grieurin 39A,",2300 La Chaux-de-Fonds,2.5,-1,950,7.25,Apartment,-1,-1,0
+4001931047,"Faubourg Philippe-Suchard 42,",2017 Boudry,5.5,-1,2170,8.0,Apartment,-1,-1,0
+4001931050,"Faubourg Philippe-Suchard 42,",2017 Boudry,5.5,-1,2170,8.0,Apartment,-1,-1,0
+4001931581,"Rue des Sablons 39,",2000 Neuchâtel,3.5,81.0,1860,3.0,Apartment,2011,1997,0
+4001934093,"Saars 2,",2000 Neuchâtel,2.5,71.0,1527,5.5,Apartment,-1,-1,0
+4001936358,"Chemin de la Grassilière 12,",2016 Cortaillod,3.5,100.0,1990,3.5,Apartment,2024,2024,1
+4001936683,"Route de la Jaluse 5A,",2400 LE LOCLE,5.5,108.0,1440,8.75,Apartment,-1,1970,1
+4001937114,"Bois-Noir 62,",2300 La Chaux-de-Fonds,3.0,63.0,1070,4.75,Apartment,-1,-1,1
+4001937117,"Numa-Droz 126,",2300 La Chaux-de-Fonds,3.0,-1,960,4.25,Apartment,-1,-1,0
+4001940513,,,2.5,48.0,910,-1,Apartment,-1,1960,0
+4001947304,"Rue Jean-Jacques-Huguenin 35,",2400 Le Locle,3.0,60.0,750,7.25,Apartment,-1,1919,0
+4001953064,,,-1,-1,-1,-1,,-1,-1,0
+4001954852,"Rue de l'Evole 56-58,",2000 Neuchâtel,3.0,67.0,1570,7.5,Apartment,-1,-1,0
+4001954853,"Rue de l'Evole 56-58,",2000 Neuchâtel,3.5,80.0,1690,7.5,Apartment,-1,-1,0
+4001957418,"Rue des Saars 16,",2000 Neuchâtel,4.5,80.0,1900,10.0,Apartment,2019,1934,1
+4001957470,"Rue de la Gare 20/22,",2074 Marin-Epagnier,3.5,87.0,1860,6.75,Apartment,1987,1987,1
+4001957891,"Etangs 26,",2400 Le Locle,3.0,-1,930,7.25,Apartment,-1,-1,0
+4001960213,"Rue de l'Hôtel-de-Ville 109,",2300 La Chaux-de-Fonds,5.0,-1,1690,13.5,Apartment,-1,-1,0
+4001962192,"Rue du Locle 38,",2300 La Chaux-de-Fonds,4.0,-1,1540,4.0,Apartment,-1,-1,0
+4001962194,"Rue du Locle 38,",2300 La Chaux-de-Fonds,4.0,-1,1560,4.0,Apartment,-1,-1,0
+4001962196,"Rue du Locle 38,",2300 La Chaux-de-Fonds,3.0,-1,1215,4.0,Apartment,-1,-1,0
+4001962198,"Rue de Jolimont 6,",2000 Neuchâtel,4.0,80.0,1510,9.5,Apartment,-1,-1,0
+4001964018,"Rue Daniel-Jeanrichard 37,",2400 Le Locle,4.0,96.0,1121,2.75,Apartment,-1,1919,0
+4001964066,"Rue Daniel-Jeanrichard 37,",2400 Le Locle,3.0,75.0,970,2.75,Apartment,-1,1919,0
+4001964382,"Rue du Cygne 8,",2300 LA CHAUX-DE-FONDS,5.5,108.0,2418,3.0,Apartment,-1,-1,0
+4001964383,"Route de la Jaluse 5A,",2400 LE LOCLE,3.0,75.0,1115,8.75,Apartment,-1,1970,1
+4001974203,"Charrière 97,",2300 La Chaux-de-Fonds,2.5,90.0,1190,7.75,Apartment,-1,-1,0
+4001976053,"Rue du Progrès 4,",2300 La Chaux-de-Fonds,4.5,89.0,1450,3.75,Apartment,-1,-1,0
+4001983149,"Rue Fritz-Courvoisier 21,",2300 La Chaux-de-Fonds,4.5,-1,1350,3.25,Apartment,-1,-1,0
+4001986028,"Rue des Musées,",2300 La Chaux-de-Fonds,4.0,99.0,1420,-1,Apartment,-1,-1,0
+4001988891,"Route de Raya 10,",2400 Le Locle,2.0,-1,920,6.75,Apartment,-1,-1,0
+4001989314,"Rue de la Société 5,",2013 Colombier,-1,-1,1045,3.5,Apartment,-1,-1,0
+4001991903,"Rue Numa-Droz 13,",2300 La Chaux-de-Fonds,4.0,92.0,1200,3.5,Apartment,-1,-1,0
+4001992949,"Etangs 26,",2400 Le Locle,3.0,-1,950,7.25,Apartment,-1,-1,0
+4001997181,"Rue Daniel-Jeanrichard,",2300 La Chaux-de-Fonds,4.0,89.0,1520,-1,Apartment,-1,-1,0
+4001997182,"Rue Daniel-Jeanrichard,",2300 La Chaux-de-Fonds,2.0,53.0,810,-1,Apartment,-1,-1,0
+4002000449,"Chemin des Charrières 6,",2024 St-Aubin-Sauges,3.5,72.0,1740,4.75,Apartment,2023,1993,1
+4002000768,"Rue du Cygne 8,",2300 LA CHAUX-DE-FONDS,4.5,142.0,2280,3.0,Apartment,-1,-1,0
+4002005826,"Route de Boudry 10,",2016 Cortaillod,4.0,94.0,1630,2.75,Apartment,-1,-1,1
+4002005914,"Rue de la Perriere 11,",2000 Neuchâtel,1.5,34.0,970,8.5,Apartment,-1,-1,0
+4002012241,"Rue Pierre-de-Vingle 24,",2000 Neuchâtel,4.0,80.0,1650,8.0,Apartment,-1,-1,0
+4002013438,"Léopold-Robert 126,",2300 La Chaux-de-Fonds,2.0,-1,860,3.75,Apartment,-1,-1,1
+4002013440,"Léopold-Robert 61,",2300 La Chaux-de-Fonds,-1,90.0,1050,3.5,Apartment,-1,-1,0
+4002016919,"Fbg de la Gare 21,",2000 Neuchâtel,4.5,-1,1690,3.25,Apartment,-1,-1,0
+4002018259,"Petit-Pontarlier 3,",2000 Neuchâtel,3.5,88.0,2295,5.75,Apartment,2013,1996,0
+4002020028,"Rue des Chavannes 8,",2000 Neuchâtel,3.0,-1,1600,2.25,Attic flat,-1,-1,0
+4002024136,"Rue des Parcs 46,",2000 Neuchâtel,3.5,75.0,1700,3.75,Apartment,-1,1992,1
+4002024338,"Rue Jardinière 101,",2300 La Chaux-de-Fonds,3.5,-1,1120,4.5,Apartment,-1,-1,1
+4002029555,"ARC-EN-CIEL 7,",2300 La Chaux-de-Fonds,5.5,-1,1485,4.75,Apartment,-1,-1,1
+4002030297,"Rue du Commerce 95,",2300 La Chaux-de-Fonds,3.5,84.0,1300,9.0,Apartment,-1,-1,0
+4002031393,"Murgiers 11,",2016 Cortaillod,3.5,-1,1350,5.0,Apartment,-1,-1,1
+4002031457,"Clos-de-Serrières 18,",2000 Neuchâtel,1.0,29.0,865,5.75,Apartment,-1,1957,0
+4002031597,"Rue de Bellevue 12,",2052 Fontainemelon,3.0,69.0,1330,4.75,Apartment,-1,-1,1
+4002040191,"Paix 79,",2300 La Chaux-de-Fonds,2.0,-1,745,4.25,Apartment,-1,-1,0
+4002041010,"Rue des Crêtets 116,",2300 La Chaux-de-Fonds,2.0,46.0,900,7.5,Apartment,-1,-1,0
+4002042108,"Numa Droz 199,",2300 La Chaux-de-Fonds,3.0,-1,1280,2.75,Apartment,-1,-1,1
+4002043129,,,4.0,115.0,1370,-1,Apartment,2023,-1,0
+4002045427,"Rue de la Cassarde 34,",2000 Neuchâtel,2.0,52.0,1245,6.5,Apartment,2017,1970,0
+4002046051,"Rue des Charmettes 38,",2000 Neuchâtel,3.5,66.0,1495,5.25,Apartment,-1,-1,0
+4002048619,"Tombet 34,",2034 Peseux,3.0,-1,1740,6.0,Apartment,-1,-1,0
+4002049387,"Rue François-Jaques 4,",2114 Fleurier,2.0,-1,890,7.25,Apartment,-1,-1,1
+4002052410,"Rue du Locle 28,",2300 La Chaux-de-Fonds,3.0,66.0,-1,5.75,Apartment,-1,-1,0
+4002053458,"Rue Fritz-Courvoisier 46,",2300 La Chaux-de-Fonds,3.0,70.0,1000,5.25,Apartment,2025,-1,1
+4002054699,"Rue des Musées 58,",2300 La Chaux-de-Fonds,3.5,-1,1190,3.5,Apartment,-1,-1,1
+4002054708,"Rue des Vignolants 29,",2000 Neuchâtel,4.5,110.0,2285,7.25,Apartment,2010,1976,1
+4002058008,"Progrès 3,",2300 La Chaux-de-Fonds,3.0,85.0,950,3.5,Apartment,-1,-1,0
+4002058010,"Numa-Droz 43,",2300 La Chaux-de-Fonds,3.0,-1,910,3.5,Apartment,-1,-1,0
+4002058935,"Rue de Neuchâtel 6,",2034 Peseux,4.5,80.0,1580,2.5,Apartment,-1,-1,0
+4002059767,"Temple-Allemand 97,",2300 La Chaux-de-Fonds,3.0,75.0,940,4.5,Apartment,-1,-1,0
+4002059768,"Commerce 17,",2300 La Chaux-de-Fonds,4.0,110.0,1236,6.75,Apartment,-1,-1,0
+4002063085,"XXII Cantons 30a,",2300 La Chaux-de-Fonds,-1,-1,1975,10.75,Villa,-1,-1,0
+4002064557,"Rue du Levant 1,",2114 Fleurier,2.0,-1,1000,8.75,Apartment,2022,-1,1
+4002065348,"Avenue de Neuchâtel 12,",2024 St-Aubin NE,2.5,51.0,1591,5.5,Apartment,-1,-1,0
+4002069982,"Rte du Communal 8,",2400 Le Locle,4.0,79.0,1230,8.0,Apartment,-1,1963,1
+4002072247,"Rue du Locle 28,",2300 La Chaux-de-Fonds,4.0,83.0,-1,5.75,Apartment,-1,-1,0
+4002073533,"Espacité 4,",2300 La Chaux-de-Fonds,3.5,81.0,1430,2.5,Apartment,-1,1993,1
+4002074070,"Rue du Marché 3,",2300 La Chaux-de-Fonds,5.0,-1,1695,2.75,Apartment,-1,-1,0
+4002074071,"Rue de la Gare 5,",2400 Le Locle,2.0,-1,790,2.75,Apartment,-1,-1,0
+4002074715,"Rue Champey 1,",2057 Val-de-Ruz,3.0,-1,1100,8.33,Roof flat,-1,-1,0
+4002074850,"Rue de Dîme 56,",2000 Neuchâtel,3.5,71.0,1505,7.5,Apartment,-1,1961,1
+4002074886,,,20.0,-1,999999,-1,Apartment,-1,-1,0
+4002078354,,,-1,-1,-1,-1,,-1,-1,0
+4002078765,"Avenue Léopold-Robert 143,",2300 La Chaux-de-Fonds,4.5,104.0,1830,6.0,Apartment,-1,2019,1
+4002078900,"Route de la Gare 40,",2012 Milvignes,3.0,66.0,1480,8.5,Apartment,-1,-1,0
+4002079957,"Draizes 3,",2016 Cortaillod,3.5,-1,1455,4.5,Apartment,-1,-1,1
+4002080721,"Rue du Progrès 13,",2108 Couvet,3.0,68.0,1090,6.25,Apartment,-1,-1,0
+4002080723,"Rue du Progrès 17,",2108 Couvet,3.0,68.0,1090,6.0,Apartment,-1,-1,0
+4002081677,"Sorbiers 21,",2300 La Chaux-de-Fonds,2.0,44.0,845,4.5,Apartment,-1,-1,0
+4002081678,"Saules 7,",2013 Colombier NE,2.0,61.0,1410,10.0,Apartment,-1,1967,1
+4002082734,"Rue Daniel-Jeanrichard 37,",2400 Le Locle,6.0,-1,2250,2.75,Apartment,-1,-1,0
+4002083226,"Charles-Naine 8,",2300 La Chaux-de-Fonds,3.5,68.0,970,2.5,Apartment,-1,-1,0
+4002083844,"Rue du Locle 38,",2300 La Chaux-de-Fonds,4.5,-1,1610,4.0,Apartment,-1,-1,0
+4002086374,"Chemin des Ecoliers 2,",2112 Môtiers NE,3.0,60.0,1010,1.5,Apartment,2021,-1,1
+4002086773,"Epargne 12,",2300 La Chaux-de-Fonds,2.0,58.0,980,5.75,Apartment,-1,-1,0
+4002086774,"Léopold-Robert 126,",2300 La Chaux-de-Fonds,2.0,-1,910,3.75,Apartment,-1,-1,0
+4002086778,"Numa-Droz 45,",2300 La Chaux-de-Fonds,2.5,-1,1200,3.5,Apartment,-1,-1,0
+4002086779,"Grenier 26,",2300 La Chaux-de-Fonds,4.5,80.0,1110,4.75,Apartment,-1,-1,1
+4002087689,"Rue de Champréveyres 7,",2000 Neuchâtel,2.0,50.0,1340,6.0,Apartment,-1,1973,0
+4002090376,"Helvétie 77,",2300 La Chaux-de-Fonds,4.5,87.0,1587,9.25,Apartment,-1,1986,1
+4002090377,"Helvétie 77,",2300 La Chaux-de-Fonds,4.5,87.0,1580,9.25,Apartment,-1,1986,1
+4002090772,"Numa-Droz 92,",2300 La Chaux-de-Fonds,3.0,-1,880,4.5,Apartment,-1,-1,1
+4002092578,"Avenue Charles-Naine 12-28,",2300 La Chaux-de-Fonds,3.0,-1,1180,4.25,Apartment,-1,-1,0
+4002093853,"Rue de l'Hôpital 26,",2114 Fleurier,3.0,72.0,1000,4.25,Apartment,-1,-1,0
+4002095988,"Grand'Rue 16,",2034 Peseux,4.5,-1,1770,2.25,Apartment,-1,-1,0
+4002096319,"Bois-des-Creux 6,",2017 Boudry,3.0,-1,1330,-1,Apartment,-1,-1,0
+4002096501,"Rue Pain-Blanc 15,",2000 Neuchâtel,3.5,64.0,1470,8.25,Apartment,-1,1957,0
+4002096509,"Clos-de-Serrières 20,",2000 Neuchâtel,1.0,29.0,865,5.5,Apartment,-1,1957,0
+4002096879,"Chemin des Carabiniers 3,",2400 Le Locle,5.5,103.0,1550,12.25,Apartment,-1,-1,1
+4002096953,"Rue du Progrès 90,",2300 La Chaux-de-Fonds,3.5,117.0,1670,4.5,Maisonette / Duplex,-1,-1,0
+4002099079,"Bouleaux 11,",2300 La Chaux-de-Fonds,2.5,-1,999,4.0,Apartment,-1,-1,0
+4002099080,"Bouleaux 11,",2300 La Chaux-de-Fonds,2.5,-1,999,4.0,Apartment,-1,-1,0
+4002100191,"Rue de la Perriere 11,",2000 Neuchâtel,3.5,87.0,1760,8.5,Apartment,-1,-1,1
+4002100212,"Helvétie 79,",2300 La Chaux-de-Fonds,2.5,53.0,995,11.0,Apartment,-1,1986,0
+4002104729,"Rue du Doubs 75-77,",2300 La Chaux-de-Fonds,4.0,-1,1150,4.75,Apartment,-1,-1,0
+4002106110,"Rue du Locle 38,",2300 La Chaux-de-Fonds,4.0,-1,1490,4.0,Apartment,-1,-1,0
+4002108122,"Rue Arnold-Guyot 3,",2000 Neuchâtel,3.5,79.0,1840,4.25,Apartment,-1,1995,0
+4002108341,"Rue du Grenier 1,",2316 Les Ponts-de-Martel,5.5,-1,1480,2.33,Apartment,-1,-1,0
+4002108805,"Jardinière 81,",2300 La Chaux-de-Fonds,3.0,-1,1100,4.0,Apartment,-1,-1,0
+4002108807,"Numa-Droz 43,",2300 La Chaux-de-Fonds,3.0,-1,1060,3.5,Apartment,-1,-1,0
+4002108808,"Daniel-Jeanrichard 7,",2300 La Chaux-de-Fonds,2.5,82.0,1250,3.25,Apartment,-1,-1,0
+4002111062,"Rue Numa-Droz 133,",2300 La Chaux-de-Fonds,2.5,64.0,1160,4.25,Apartment,2025,-1,0
+4002111422,"Impasse des Saules 2,",2053 Cernier,4.0,-1,1610,7.25,Apartment,-1,-1,0
+4002113177,"Rue de la Côte 19,",2052 Fontainemelon,4.0,79.0,1480,7.0,Apartment,-1,-1,1
+4002114614,"Rue du Grenier 24,",2300 La Chaux-de-Fonds,3.5,-1,1218,4.5,Apartment,-1,-1,0
+4002115719,"Maigroge 12 - côté Ouest,",2072 St-Blaise,1.0,20.0,825,-1,Apartment,-1,-1,0
+4002115723,"Charles-Naine 18,",2300 La Chaux-de-Fonds,3.0,54.0,1150,4.25,Apartment,-1,-1,0
+4002115728,"Rue Mi-Côte 19a,",2400 Le Locle,2.5,66.0,850,8.75,Apartment,-1,-1,0
+4002115732,"Rue de la Tuilerie 28,",2300 La Chaux-de-Fonds,4.0,80.0,1315,5.5,Apartment,-1,-1,1
+4002115736,"Charles-Naine 16,",2300 La Chaux-de-Fonds,4.0,67.0,1390,3.25,Apartment,-1,-1,0
+4002115739,"Rue Combe-Grieurin 41,",2300 La Chaux-de-Fonds,4.0,160.0,1310,6.75,Apartment,-1,-1,1
+4002115741,"Rue Alexis-Marie-Piaget 19,",2300 La Chaux-de-Fonds,3.0,79.0,800,5.5,Apartment,-1,-1,1
+4002115742,"Rue Cernil-Antoine 10,",2300 La Chaux-de-Fonds,3.0,68.0,935,5.0,Apartment,-1,-1,0
+4002115743,"Rue Cernil-Antoine 10,",2300 La Chaux-de-Fonds,3.0,70.0,1120,5.0,Apartment,-1,-1,0
+4002115744,"Rue Alexis-Marie-Piaget 19,",2300 La Chaux-de-Fonds,3.0,80.0,791,5.5,Apartment,-1,-1,0
+4002115748,"Hôtel-de-Ville 7,",2300 La Chaux-de-Fonds,2.5,-1,795,3.75,Apartment,-1,-1,0
+4002115750,"Léopold-Robert 12,",2300 La Chaux-de-Fonds,2.0,-1,1100,2.5,Apartment,-1,-1,0
+4002115752,"Boulevard des Eplatures 68,",2300 La Chaux-de-Fonds,-1,-1,2600,14.0,Single house,-1,-1,0
+4002115753,"Rue de la Paix 19 Siggen,",2300 La Chaux-de-Fonds,3.5,93.0,1450,3.25,Apartment,-1,-1,1
+4002115754,"Tourelles 3,",2300 La Chaux-de-Fonds,7.0,211.0,2200,7.5,Single house,-1,-1,0
+4002115755,"Rue Fritz-Courvoisier 5,",2300 La Chaux-de-Fonds,3.0,85.0,1100,3.75,Apartment,-1,-1,0
+4002115762,"Locle 24,",2300 La Chaux-de-Fonds,3.0,63.0,1070,4.25,Apartment,-1,-1,0
+4002115765,"Malakoff 22,",2400 Le Locle,2.0,37.0,790,7.0,Apartment,-1,-1,0
+4002115766,,,-1,-1,-1,-1,,-1,-1,0
+4002115768,"Rue Blaise-Cendrars 7,",2300 La Chaux-de-Fonds,3.0,60.0,1080,4.25,Apartment,-1,-1,1
+4002115772,"Cernil-Antoine 3,",2300 La Chaux-de-Fonds,4.5,105.0,1570,5.0,Apartment,-1,-1,0
+4002115773,"Rue de la Tuilerie 28,",2300 La Chaux-de-Fonds,4.0,79.0,1240,5.5,Apartment,-1,-1,1
+4002115775,"Rue du Doubs 29,",2300 La Chaux-de-Fonds,1.5,20.0,690,3.5,Apartment,-1,-1,0
+4002115777,"Rue du Progrès 43,",2400 Le Locle,3.0,-1,1090,6.5,Apartment,-1,-1,1
+4002115780,"Doubs 123,",2300 La Chaux-de-Fonds,4.0,102.0,1350,5.25,Apartment,-1,-1,0
+4002115782,"Numa-Droz 127,",2300 La Chaux-de-Fonds,2.5,59.0,980,4.5,Apartment,-1,-1,0
+4002115786,"Biaufond 18,",2300 La Chaux-de-Fonds,3.0,-1,1120,8.5,Apartment,-1,-1,0
+4002115788,"Rue Jacob-Brandt 81,",2300 La Chaux-de-Fonds,3.5,120.0,1290,6.5,Apartment,-1,-1,0
+4002115789,"Biaufond 18,",2300 La Chaux-de-Fonds,2.0,-1,820,8.5,Apartment,-1,-1,0
+4002115791,"Rue du Crêt 24 (Raminhos),",2300 La Chaux-de-Fonds,4.5,90.0,1350,3.25,Apartment,-1,-1,0
+4002115796,"Rue du Temple-Allemand 27,",2300 La Chaux-de-Fonds,3.5,76.0,1050,4.0,Apartment,-1,-1,0
+4002115799,"Rue Blaise-Cendrars 2,",2300 La Chaux-de-Fonds,3.0,61.0,1085,3.25,Apartment,-1,-1,0
+4002115802,"Biaufond 18,",2300 La Chaux-de-Fonds,2.0,-1,810,8.5,Apartment,-1,-1,0
+4002115804,"Rue de la Serre 45,",2300 La Chaux-de-Fonds,3.0,88.0,1270,2.75,Apartment,-1,-1,1
+4002115806,,,-1,-1,-1,-1,,-1,-1,0
+4002115809,"Arêtes 9,",2300 La Chaux-de-Fonds,2.0,50.0,990,9.0,Apartment,-1,-1,0
+4002115810,"Arêtes 7,",2300 La Chaux-de-Fonds,2.0,50.0,1000,8.5,Apartment,-1,-1,0
+4002115811,"Malakoff 24,",2400 Le Locle,3.5,50.0,800,6.75,Apartment,-1,-1,0
+4002115812,"Malakoff 24,",2400 Le Locle,2.5,31.0,750,6.75,Apartment,-1,-1,0
+4002115813,"Numa-Droz 129,",2300 La Chaux-de-Fonds,3.0,85.0,1323,4.5,Apartment,-1,-1,0
+4002115814,"Nord 168,",2300 La Chaux-de-Fonds,3.0,75.0,935,6.25,Apartment,-1,-1,0
+4002115817,"Billodes 27,",2400 Le Locle,5.5,130.0,1600,5.0,Apartment,-1,-1,0
+4002115822,"Fontaine 2,",2022 Bevaix,3.5,77.0,1750,3.0,Apartment,-1,-1,0
+4002115823,"Jacob-Brandt 80,",2300 La Chaux-de-Fonds,3.0,80.0,1220,6.5,Apartment,-1,-1,0
+4002115824,"Rue du Parc 8,",2300 La Chaux-de-Fonds,4.5,150.0,1900,3.0,Apartment,-1,-1,0
+4002115825,"Hôtel-de-Ville 7,",2300 La Chaux-de-Fonds,4.0,-1,1320,3.75,Apartment,-1,-1,0
+4002115826,"Paix 73,",2300 La Chaux-de-Fonds,3.0,60.0,990,4.25,Apartment,-1,-1,0
+4002115829,"Eclair 8a,",2300 La Chaux-de-Fonds,2.0,46.0,815,4.0,Apartment,-1,-1,0
+4002115830,"Pont 24 - appartements,",2300 La Chaux-de-Fonds,4.0,-1,1300,-1,Apartment,-1,-1,1
+4002115831,"Rue Bournot 33,",2400 Le Locle,2.0,41.0,970,4.25,Apartment,-1,-1,0
+4002115832,"Rue Bournot 33,",2400 Le Locle,1.5,41.0,990,4.25,Apartment,-1,-1,0
+4002115833,"Rue Bournot 33,",2400 Le Locle,2.0,41.0,970,4.25,Apartment,-1,-1,0
+4002115834,"Rue Bournot 33,",2400 Le Locle,1.5,41.0,990,4.25,Apartment,-1,-1,0
+4002115835,"Rue Bournot 33,",2400 Le Locle,2.0,41.0,970,4.25,Apartment,-1,-1,0
+4002115836,"Rue Bournot 33,",2400 Le Locle,1.5,41.0,990,4.25,Apartment,-1,-1,0
+4002115839,"Av. L.-Robert 118,",2300 La Chaux-de-Fonds,3.5,92.0,1038,4.0,Apartment,-1,-1,0
+4002115842,"Rue du Doubs 29,",2300 La Chaux-de-Fonds,4.0,80.0,1325,3.5,Apartment,-1,-1,0
+4002115843,"Rue Jacob-Brandt 87,",2300 La Chaux-de-Fonds,3.0,79.0,1265,7.75,Apartment,-1,-1,1
+4002115844,"Numa-Droz 129,",2300 La Chaux-de-Fonds,2.5,59.0,890,4.5,Apartment,-1,-1,0
+4002115846,"Nord 60,",2300 La Chaux-de-Fonds,4.0,90.0,1220,5.25,Apartment,-1,-1,0
+4002115847,"Neuve 12,",2300 La Chaux-de-Fonds,3.5,-1,985,2.5,Apartment,-1,-1,0
+4002115848,"Neuve 12,",2300 La Chaux-de-Fonds,3.0,74.0,1065,2.5,Apartment,-1,-1,0
+4002115849,"Neuve 5,",2300 La Chaux-de-Fonds,4.5,92.0,1311,3.25,Apartment,-1,-1,0
+4002115851,"Rue du Crêt 22,",2300 La Chaux-de-Fonds,3.0,80.0,1040,3.5,Apartment,-1,-1,0
+4002115854,"Rue Bournot 33,",2400 Le Locle,3.5,73.0,1220,4.25,Apartment,-1,-1,0
+4002115855,"Numa-Droz 127,",2300 La Chaux-de-Fonds,3.5,82.0,1530,4.5,Apartment,-1,-1,0
+4002115856,"Av. L.-Robert 118,",2300 La Chaux-de-Fonds,3.0,75.0,1080,4.0,Apartment,-1,-1,0
+4002115858,"Neuve 7,",2300 La Chaux-de-Fonds,3.5,76.0,1370,3.25,Apartment,-1,-1,0
+4002115859,"Neuve 5,",2300 La Chaux-de-Fonds,3.5,120.0,1295,3.25,Apartment,-1,-1,0
+4002115860,"Neuve 5,",2300 La Chaux-de-Fonds,4.5,92.0,1475,3.25,Apartment,-1,-1,0
+4002115861,"Neuve 5,",2300 La Chaux-de-Fonds,3.5,98.0,1330,3.25,Apartment,-1,-1,0
+4002115863,"Rue de la Serre 32,",2300 La Chaux-de-Fonds,4.0,77.0,1100,3.0,Apartment,-1,-1,0
+4002115865,"Hôtel-de-Ville 13,",2300 La Chaux-de-Fonds,4.0,110.0,1540,3.5,Apartment,-1,-1,1
+4002115867,"Rue du Crêt-Vaillant 9,",2400 Le Locle,3.5,90.0,1100,5.0,Apartment,-1,-1,0
+4002115868,"Rue Bournot 33,",2400 Le Locle,3.5,73.0,1240,4.25,Apartment,-1,-1,0
+4002116606,"Serre 9,",2300 La Chaux-de-Fonds,3.0,-1,1150,2.75,Apartment,-1,-1,0
+4002116715,"Rue des Fahys 129,",2000 Neuchâtel,2.5,-1,2350,7.75,Apartment,-1,-1,0
+4002118538,"Avenue Léopold-Robert 83,",2300 La Chaux-de-Fonds,3.5,85.0,1150,5.25,Apartment,-1,-1,1
+4002118539,"Rue des Jeanneret 49,",2400 Le Locle,3.0,50.0,895,9.0,Apartment,-1,-1,1
+4002118646,"Passage Blaise Cendrars 17,",2017 Boudry,4.5,102.0,1956,7.5,Apartment,-1,2013,0
+4002129258,"Rue des Parcs 84,",2000 Neuchâtel,1.5,42.0,1140,3.75,Apartment,-1,1985,0
+4002129540,"Rue du Locle 38,",2300 La Chaux-de-Fonds,3.0,-1,1130,4.0,Apartment,-1,-1,0
+4002131189,"Chaussée de la Boine 2,",2000 Neuchâtel,2.5,58.0,1310,3.5,Apartment,-1,1960,0
+4002131192,"Rue de Champréveyres 7,",2000 Neuchâtel,3.0,78.0,1768,6.0,Apartment,-1,1973,0
+4002131870,"Rue de France 8,",2400 Le Locle,4.5,100.0,1590,3.5,Apartment,2025,-1,1
+4002132769,"Rue des Parcs 86,",2000 Neuchâtel,-1,12.0,150,2.75,Hobby room,-1,1985,0
+4002134826,"Col 6,",2400 Le Locle,3.0,-1,835,-1,Apartment,-1,-1,0
+4002135770,"césar d'ivernois 7,",2013 Colombier,3.5,-1,1945,-1,Apartment,-1,-1,1
+4002136635,"Rue de Prébarreau 5,",2000 Neuchâtel,2.5,54.0,1270,2.5,Apartment,-1,-1,0
+4002136636,"Rte de Gouttes d'Or 19,",2000 Neuchâtel,4.5,96.0,2008,-1,Apartment,-1,-1,1
+4002136637,"Rue Henry-Grandjean 3,",2400 Le Locle,4.0,90.0,1200,2.75,Apartment,-1,-1,0
+4002136661,"Rue Numa-Droz 98,",2300 La Chaux-de-Fonds,3.0,70.0,895,4.5,Apartment,-1,-1,0
+4002136788,"Rue Jardinière 137,",2300 La Chaux-de-Fonds,3.0,70.0,1050,3.5,Apartment,-1,1952,0
+4002136793,"Rue de l' Industrie 34,",2300 La Chaux-de-Fonds,3.0,-1,1030,3.5,Apartment,-1,1902,0
+4002136794,"rue des Billodes 59-61,",2400 Le Locle,-1,70.0,890,8.25,Apartment,-1,-1,0
+4002136796,"Rue Jardinière 137,",2300 La Chaux-de-Fonds,3.0,70.0,1050,3.5,Apartment,-1,1952,0
+4002136807,"Numa-Droz 111,",2300 La Chaux-de-Fonds,3.0,75.0,960,4.0,Apartment,-1,-1,0
+4002136825,"rue du Temple 23,",2400 Le Locle,4.0,90.0,1200,2.75,Apartment,-1,-1,0
+4002136847,"Rue Jardinière 137,",2300 La Chaux-de-Fonds,3.0,70.0,1050,3.5,Apartment,-1,1952,0
+4002136854,"rue Numa-Droz 75,",2300 La Chaux-de-Fonds,3.0,-1,940,4.0,Apartment,-1,1902,0
+4002136859,"rue Daniel-Jeanrichard 19,",2400 Le Locle,4.0,75.0,1050,2.75,Apartment,-1,1902,0
+4002136860,"Rue Daniel-Jeanrichard 19,",2400 Le Locle,2.0,55.0,798,2.75,Apartment,-1,1902,0
+4002136899,"rue des Billodes 59,",2400 Le Locle,3.0,70.0,890,8.25,Apartment,-1,-1,0
+4002137491,"Landions 6,",2016 Cortaillod,3.5,70.0,1518,13.5,Apartment,-1,1972,1
+4002139127,"Rue de la Paix 85,",2300 La Chaux-de-Fonds,3.0,75.0,1290,4.5,Apartment,2025,-1,0
+4002140025,"Rue de l'Industrie 30,",2300 La Chaux-de-Fonds,5.5,110.0,1570,3.5,Apartment,-1,-1,0
+4002140026,"Rue Cernil-Antoine 8,",2300 La Chaux-de-Fonds,4.5,114.0,1670,5.0,Apartment,-1,-1,0
+4002140028,"Rue Philippe-Henri-Mathey 19,",2300 La Chaux-de-Fonds,6.0,140.0,1890,6.0,Apartment,-1,-1,0
+4002140029,"Rue des Bassets 72,",2300 La Chaux-de-Fonds,4.0,-1,1560,7.75,Apartment,-1,-1,0
+4002140860,"Rue Frédéric-Carl-de-Marval 3,",2000 Neuchâtel,1.0,32.0,1000,5.0,Apartment,-1,1954,0
+4002141063,"Rue Neuve 10,",2300 La Chaux-de-Fonds,2.5,-1,1000,3.0,Apartment,-1,-1,0
+4002142801,"Rue des Champs 6,",2300 La Chaux-de-Fonds,4.5,103.0,1745,7.5,Apartment,-1,1994,0
+4002145962,"Rue de la Coquemène 11,",2000 Neuchâtel,2.0,53.0,1340,5.0,Apartment,1997,1953,0
+4002146199,"Rue de Neuchâtel 34,",2034 Peseux,3.5,95.0,1920,5.75,Apartment,-1,-1,1
+4002146802,"Rue des Fahys 113,",2000 Neuchâtel,3.0,-1,1450,7.5,Apartment,-1,1966,1
+4002148028,"Rue Auguste-Lambelet 6,",2400 Le Locle,1.5,-1,1080,8.0,Apartment,-1,-1,0
+4002150585,"Balance 8,",2300 La Chaux-de-Fonds,4.5,96.0,1740,3.0,Apartment,-1,-1,1
+4002152054,,,5.5,126.0,2310,-1,Apartment,-1,2017,1
+4002153938,"Rue Frederic Soguel 6,",2053 Cernier,4.5,-1,1600,2.75,Apartment,-1,-1,0
+4002154381,"Rue de l'Evole 51,",2000 Neuchâtel,5.5,146.0,2810,5.75,Apartment,-1,1961,0
+4002160919,"Rue de la Serre 130,",2300 La Chaux-de-Fonds,4.0,99.0,1800,3.75,Apartment,-1,-1,0
+4002160920,"Rue de la Serre 130,",2300 La Chaux-de-Fonds,4.0,111.0,1940,3.75,Apartment,-1,-1,0
+4002161781,"Fleurs 26,",2300 La Chaux-de-Fonds,4.0,-1,1060,4.0,Apartment,-1,-1,0
+4002161782,"Numa-Droz 45,",2300 La Chaux-de-Fonds,3.5,80.0,990,3.5,Apartment,-1,-1,0
+4002162331,"Rue des Crêtets 82,",2300 La Chaux-de-Fonds,4.0,-1,1590,6.25,Apartment,-1,-1,0
+4002164371,"Avenue Léopold-Robert 11 A,",2300 La Chaux-de-Fonds,4.5,115.0,1795,3.75,Apartment,-1,-1,0
+4002164792,"Rue de Fontaine-André 16,",2000 Neuchâtel,3.0,-1,1750,6.25,Apartment,-1,-1,1
+4002165205,"Rue des Sablons 39,",2000 Neuchâtel,4.5,104.0,2373,3.0,Apartment,2011,1997,0
+4002165977,"Rue Neuve 14,",2300 La Chaux-de-Fonds,2.5,60.0,1290,3.0,Apartment,2023,-1,0
+4002167123,"Rue du Progrès 2,",2300 La Chaux-de-Fonds,3.5,80.0,1320,3.75,Apartment,-1,-1,0
+4002168881,"Crêt 20,",2300 La Chaux-de-Fonds,3.0,-1,990,3.5,Apartment,-1,-1,0
+4002169135,"Rue des Fahys 59,",2000 Neuchâtel,3.0,74.0,1470,6.75,Apartment,-1,-1,0
+4002169339,"Rue du Cygne 6,",2300 LA CHAUX-DE-FONDS,4.5,99.0,1895,3.0,Apartment,-1,-1,0
+4002169340,"Avenue du Locle 44,",2300 La Chaux-de-Fonds,4.0,88.0,1290,5.5,Apartment,-1,-1,1
+4002169774,"Rue Numa-Droz 15,",2300 La Chaux-de-Fonds,3.5,96.0,1390,3.5,Apartment,-1,-1,0
+4002169911,"Rue du Marché 2-4,",2300 La Chaux-de-Fonds,-1,-1,240,2.5,Cellar compartment,-1,-1,0
+4002170180,"Passage Léopold-Robert 6,",2300 La Chaux-de-Fonds,3.0,75.0,1140,3.5,Apartment,-1,-1,1
+4002171866,"Rouges-Terres 15A,",2068 Hauterive NE,4.5,-1,2850,6.0,Apartment,-1,-1,1
+4002172009,"Av. L.-Robert 118,",2300 La Chaux-de-Fonds,3.5,-1,1070,4.0,Apartment,-1,-1,0
+4002172467,"Rue de la Paix 83,",2300 La Chaux-de-Fonds,2.0,45.0,840,4.0,Apartment,-1,-1,0
+4002174008,"Rue de la Balance 2,",2300 La Chaux-de-Fonds,4.5,-1,2090,3.25,Apartment,-1,-1,0
+4002174567,"Chaussée de la Boine 22,",2000 Neuchâtel,4.0,91.0,1979,3.5,Apartment,-1,1951,0
+4002174762,"Rue Jaquet-Droz 6,",2300 La Chaux-de-Fonds,3.5,-1,1290,3.5,Apartment,-1,-1,0
+4002175457,"Rue du Ruisseau 9,",2115 Buttes,3.5,100.0,1260,2.0,Apartment,2025,-1,0
+4002175518,"Rue de l'Hôtel-de-Ville 40,",2300 La Chaux-de-Fonds,3.5,-1,980,6.0,Apartment,-1,-1,0
+4002175524,"Route de Boudry 10,",2016 Cortaillod,2.0,56.0,1120,2.75,Apartment,-1,-1,1
+4002177024,"Rue Louis-Favre 24,",2017 BOUDRY,4.0,-1,1590,4.5,Maisonette / Duplex,-1,-1,0
+4002177027,"Rue de la Flamme 12,",2108 COUVET,3.0,-1,1090,5.75,Apartment,-1,-1,0
+4002177076,"Rue de la Dîme 51,",2000 Neuchâtel,3.0,69.0,1390,6.25,Apartment,2003,1955,1
+4002180033,"Chemin Fantaisie 4,",2300 La Chaux-de-Fonds,4.5,106.0,1970,5.5,Apartment,-1,2025,1
+4002180034,"Chemin Fantaisie 2,",2300 La Chaux-de-Fonds,4.5,121.0,2450,5.5,Apartment,-1,2025,1
+4002180035,"Chemin Fantaisie 4,",2300 La Chaux-de-Fonds,3.5,83.0,1785,5.5,Apartment,-1,2025,1
+4002180059,"Chemin Fantaisie 4,",2300 La Chaux-de-Fonds,2.5,64.0,1370,5.5,Apartment,-1,2025,0
+4002180340,"Rue des Parcs 36,",2000 Neuchâtel,3.5,66.0,1540,4.25,Apartment,-1,-1,1
+4002180530,"Rue des Crêtets 143,",2300 La Chaux-de-Fonds,2.0,44.0,845,9.5,Apartment,-1,1964,1
+4002181096,"Faubourg Philippe-Suchard 18B,",2017 Boudry,3.5,80.0,1695,5.75,Apartment,-1,2017,1
+4002181605,"Chemin des Argilles 20,",2088 Cressier,4.5,103.0,2260,10.75,Apartment,-1,-1,0
+4002181897,"Rue Fritz-Courvoisier 66,",2300 La Chaux-de-Fonds,3.0,-1,873,6.75,Apartment,-1,-1,0
+4002181899,"Rue de la Perrière 28,",2000 Neuchâtel,3.0,66.0,1340,9.25,Apartment,-1,-1,0
+4002182666,"Combe-Grieurin 31,",2300 La Chaux-de-Fonds,2.0,55.0,795,6.5,Apartment,-1,-1,0
+4002183849,"Temple-Allemand 105,",2300 La Chaux-de-Fonds,3.0,-1,960,4.0,Apartment,-1,-1,0
+4002183850,"Temple-Allemand 107,",2300 La Chaux-de-Fonds,3.0,-1,960,5.75,Apartment,-1,-1,0
+4002185581,"Paix 85,",2300 La Chaux-de-Fonds,3.0,75.0,1290,4.5,Apartment,-1,-1,0
+4002185635,"Chemin Montant 4,",2017 Boudry,4.5,116.0,2550,5.75,Apartment,-1,2017,1
+4002185995,"Rue de la Paix 89,",2300 La Chaux-de-Fonds,3.5,84.0,1440,4.75,Apartment,-1,-1,0
+4002187328,"Rue du Lac 34,",2525 Le Landeron,3.0,-1,1400,5.0,Apartment,-1,-1,0
+4002187493,"Rue Numa-Droz 16,",2300 La Chaux-de-Fonds,3.0,76.0,1030,3.25,Apartment,-1,-1,0
+4002190067,"rue du Nord 89,",2300 La Chaux-de-Fonds,5.5,-1,1495,5.25,Apartment,-1,-1,1
+4002190086,"Rue Abram-Louis-Breguet 19,",2300 La Chaux-de-Fonds,3.0,-1,1095,2.75,Apartment,2020,1954,1
+4002190088,"Le Chemin Perdu 8,",2300 La Chaux-de-Fonds,4.0,-1,1585,8.25,Apartment,-1,1994,1
+4002190089,"Rue des Musées 20,",2300 La Chaux-de-Fonds,5.0,-1,1495,3.5,Apartment,-1,1902,0
+4002190092,"Rue des Sorbiers 19,",2300 La Chaux-de-Fonds,3.5,-1,1095,4.5,Apartment,-1,1932,0
+4002190094,"Champ-du-Noud 80,",2416 Les Brenets,4.0,-1,1045,3.5,Apartment,-1,-1,1
+4002190710,"Rue Jardinière 49,",2300 La Chaux-de-Fonds,4.0,97.0,1350,3.5,Roof flat,-1,1919,0
+4002191042,"Grand'Rue 9,",2416 Les Brenets,3.5,115.0,1490,1.0,Apartment,-1,-1,0
+4002191648,"Rue Arnold-Guyot 3,",2000 Neuchâtel,4.5,98.0,2315,4.25,Apartment,-1,1995,1
+4002192425,"Rue Numa-Droz 159,",2300 La Chaux-de-Fonds,3.0,78.0,1075,4.75,Apartment,-1,-1,0
+4002194474,"Rue de l'Ecluse 38,",2000 Neuchâtel,1.0,29.0,995,2.0,Apartment,-1,2018,1
+4002194577,"Primevères 9,",2400 Le Locle,4.0,-1,1145,8.5,Apartment,-1,-1,1
+4002196404,"Jeanneret 63,",2400 Le Locle,2.5,-1,850,11.5,Apartment,-1,-1,0
+4002196405,"Tourelles 5,",2400 Le Locle,4.0,-1,1260,5.25,Apartment,-1,-1,1
+4002196406,"Jeanneret 26,",2400 Le Locle,2.0,-1,805,10.5,Apartment,-1,-1,1
+4002196409,"Jeanneret 26,",2400 Le Locle,5.0,-1,1900,10.5,Apartment,-1,-1,1
+4002196414,"France 14,",2400 Le Locle,4.5,-1,1500,8.25,Apartment,-1,-1,0
+4002196415,"Marie-Anne-Calame 12,",2400 Le Locle,3.5,-1,1100,3.0,Apartment,-1,-1,0
+4002196417,"Numa-Droz 195,",2400 Le Locle,3.0,-1,1150,3.0,Apartment,-1,-1,0
+4002196418,"Avenir 11,",2400 Le Locle,2.5,-1,750,8.25,Apartment,-1,-1,0
+4002196419,"Avenue de l'Hôtel de Ville 21,",2400 Le Locle,3.0,-1,1100,5.0,Apartment,-1,-1,1
+4002196420,"Foule 21,",2400 Le Locle,3.0,-1,1080,4.75,Apartment,-1,-1,0
+4002196421,"Hotel-de-Ville 23,",2400 Le Locle,3.5,-1,1100,2.25,Apartment,2023,-1,1
+4002196459,"Pont 8,",2400 Le Locle,3.0,-1,1020,8.25,Apartment,-1,-1,0
+4002196460,"Marie Anne Calame 14,",2400 Le Locle,3.5,-1,990,2.5,Apartment,-1,-1,0
+4002196462,"Avenue de l'Hôtel de Ville 21,",2400 Le Locle,5.5,-1,1628,5.0,Apartment,-1,-1,0
+4002196464,,,-1,-1,-1,-1,,-1,-1,0
+4002196466,"Grand Rue 8,",2416 Les Brenets,4.5,-1,800,1.5,Apartment,-1,-1,0
+4002196909,"Rue Clos-Brochet 35,",2000 Neuchâtel,3.0,79.0,1650,5.75,Apartment,2024,-1,1
+4002196910,"Chemin des Brandards 28,",2000 Neuchâtel,4.0,84.0,1575,7.75,Apartment,-1,-1,0
+4002197926,"Rue de la Serre 95,",2300 La Chaux-de-Fonds,2.5,60.0,870,3.5,Apartment,-1,-1,0
+4002198169,"Rue Jaquet-Droz 6,",2300 La Chaux-de-Fonds,1.5,43.0,1030,3.5,Apartment,-1,-1,0
+4002199055,"Rue du Closel 6,",2074 Marin,3.5,78.0,1630,7.5,Apartment,-1,-1,0
+4002200210,"Rue des Crêtets 139,",2300 La Chaux-de-Fonds,3.0,75.0,1245,8.75,Apartment,-1,1964,1
+4002202012,"Rue de la Ruche 44,",2300 La Chaux-de-Fonds,3.0,-1,1090,7.75,Apartment,-1,-1,0
+4002203320,"Henry-Grandjean 7,",2400 Le Locle,2.5,-1,825,3.5,Apartment,-1,-1,0
+4002203321,"Progrès 99,",2300 La Chaux-de-Fonds,3.5,-1,1190,4.0,Apartment,-1,-1,0
+4002203322,"Henry-Grandjean 7,",2400 Le Locle,2.5,-1,830,3.5,Apartment,-1,-1,0
+4002203649,"Rue Ernest-Roulet 5,",2034 Neuchâtel,3.5,-1,1840,2.5,Apartment,-1,-1,0
+4002204266,"Rue Philippe-Henri-Mathey 20,",2300 La Chaux-de-Fonds,3.5,-1,1250,6.25,Apartment,-1,-1,1
+4002205984,"Rue Champey 4A,",2057 Val-de-Ruz,3.5,75.0,1625,8.33,Apartment,2018,2018,1
+4002207810,"Alexis-Marie-Piaget 47,",2300 La Chaux-de-Fonds,2.0,-1,750,4.5,Apartment,-1,-1,0
+4002208958,"Rue du Port 2,",2025 Chez-le-Bart,1.5,-1,980,5.75,Apartment,-1,-1,0
+4002209188,"Rue de la Croix-Fédérale 27A,",2300 La Chaux-de-Fonds,3.5,-1,1130,8.5,Apartment,-1,-1,0
+4002209386,"Rue du Parc,",2300 La Chaux-de-Fonds,3.0,80.0,1260,-1,Apartment,-1,-1,0
+4002209792,"Rue Cernil-Antoine 10,",2300 La Chaux-de-Fonds,2.0,-1,870,5.0,Apartment,-1,-1,0
+4002210048,"Chemin des Brandards 66,",2000 Neuchâtel,3.5,109.0,2096,5.5,Apartment,-1,2017,1
+4002210324,"Rue des Rochettes 94,",2300 La Chaux-de-Fonds,4.5,-1,1700,7.33,Apartment,2014,-1,1
+4002210444,"Oratoire 3 - Raffinerie 4,",2000 Neuchâtel,3.5,80.0,1962,-1,Apartment,-1,-1,0
+4002212883,"Les Condémines 18,",2525 Le Landeron,4.5,-1,1900,6.5,Apartment,-1,-1,0
+4002212885,"Arc-en-Ciel 7,",2300 La Chaux-de-Fonds,4.5,-1,1280,4.75,Apartment,-1,-1,1
+4002214280,"Rue du Vully 20,",2000 Neuchâtel,4.5,102.0,1800,7.75,Apartment,2003,1988,1
+4002214524,"Rue des Prises 13,",2023 GORGIER,-1,-1,1850,6.75,Loft,-1,-1,0
+4002214533,"Temple-Allemand 63,",2300 La Chaux-de-Fonds,4.5,96.0,1430,4.75,Apartment,-1,-1,1
+4002216200,"Rue du Puits 25,",2300 La Chaux-de-Fonds,4.0,82.0,1450,3.5,Apartment,-1,-1,0
+4002216201,"Rue Alexis-Marie-Piaget 12-14,",2400 Le Locle,2.0,127.0,1650,4.5,Apartment,-1,-1,0
+4002216685,"Rue Frédéric-Carl-de-Marval 34,",2000 Neuchâtel,3.0,64.0,1492,5.5,Apartment,-1,1954,0
+4002217337,"Rue Jean d'Aarberg 10,",2400 Le Locle,3.5,-1,1120,5.0,Apartment,-1,-1,0
+4002217349,"Rue des Bouleaux 13,",2300 La Chaux de Fonds,2.5,75.0,1010,3.5,Apartment,2022,-1,0
+4002217516,"Rue de l'Ecluse 61,",2000 Neuchâtel,4.0,-1,1590,5.0,Apartment,-1,1928,0
+4002217517,"Rue de l'Ecluse 61,",2000 Neuchâtel,4.0,-1,1590,5.0,Apartment,-1,1928,0
+4002217928,"Rue de la Fiaz 40,",2300 La Chaux-de-Fonds,2.0,-1,950,4.5,Apartment,2025,-1,1
+4002217929,"Rue de la Fiaz 40,",2300 La Chaux-de-Fonds,3.0,-1,1090,4.5,Apartment,2025,-1,1
+4002219154,"Carrels 7,",2034 Peseux,4.5,90.0,1620,5.75,Apartment,-1,1910,0
+4002219745,"Helvétie 77,",2300 La Chaux-de-Fonds,4.5,87.0,1615,9.25,Apartment,-1,1986,1
+4002219851,"Rue des Sablons 43,",2000 Neuchâtel,2.5,56.0,1538,2.0,Apartment,2023,1974,0
+4002220210,"Rue des Fosseaux 1,",2123 St-Sulpice NE,4.5,120.0,1390,4.33,Apartment,-1,-1,1
+4002220374,"Rue du Numa-Droz 173,",2300 La Chaux-de-Fonds,5.5,-1,1650,4.25,Apartment,-1,-1,1
+4002221141,"Sous-les-Vignes 5,",2072 ST-BLAISE,3.0,-1,1310,4.0,Apartment,-1,-1,0
+4002222438,"Rue des Fahys 93,",2000 Neuchâtel,6.5,-1,2452,7.25,Apartment,-1,-1,1
+4002224292,"Sous le Chêne 5b,",2043 Boudevilliers,4.5,124.0,2650,4.5,Apartment,-1,2024,1
+4002224293,"Rue des Crêtets 100,",2300 La Chaux-de-Fonds,2.5,56.0,850,7.5,Apartment,-1,-1,1
+4002224588,"Rue Pain-Blanc 21,",2000 Neuchâtel,2.5,53.0,1260,9.25,Apartment,-1,1957,0
+4002225309,"Prébarreau 1,",2000 Neuchâtel,-1,-1,800,2.0,Apartment,-1,-1,0
+4002230721,"Rue de la Maladière 4,",2000 Neuchâtel,1.5,25.0,937,2.75,Studio,-1,2018,0
+4002231611,"Rue du Locle 28,",2300 La Chaux-de-Fonds,1.0,34.0,570,5.75,Apartment,-1,-1,0
+4002232648,"Beaux-Arts 5,",2000 Neuchâtel,3.0,-1,1850,4.0,Apartment,-1,-1,0
+4002232649,"Bel-Air 3,",2000 Neuchâtel,2.0,-1,1080,7.0,Apartment,-1,-1,1
+4002232744,"Espacité 2,",2300 La Chaux-de-Fonds,3.5,81.0,1430,2.5,Apartment,-1,1993,0
+4002232964,"Numa-Droz 1,",2300 La Chaux-de-Fonds,3.5,75.0,1290,2.75,Apartment,-1,-1,0
+4002233894,"Grande-Rue 23,",2400 Le Locle,3.0,-1,1030,2.25,Apartment,-1,-1,0
+4002233965,"Rue du Littoral 23,",2025 Chez-le-Bart,5.5,150.0,2180,8.0,Maisonette / Duplex,2024,2008,1
+4002234012,"Malakoff 24,",2400 Le Locle,1.0,12.0,600,6.75,Apartment,-1,-1,0
+4002234014,"Rue Blaise-Cendrars 2,",2300 La Chaux-de-Fonds,4.0,65.0,1079,3.25,Apartment,-1,-1,0
+4002235095,"Rue des Essertons 12,",2074 Neuchâtel,1.0,-1,550,8.75,Single Room,-1,-1,1
+4002235885,"Crêt-Taconnet 32,",2000 Neuchâtel,4.5,153.0,2990,5.5,Apartment,-1,1960,1
+4002236023,"Rue des Fahys 59,",2000 Neuchâtel,3.0,74.0,1534,6.75,Apartment,-1,-1,0
+4002237284,"Rue de la Serre 96,",2300 La Chaux-de-Fonds,3.5,-1,1250,4.0,Apartment,-1,-1,0
+4002237505,"Paix 77,",2300 La Chaux-de-Fonds,2.5,64.0,1105,4.25,Apartment,-1,-1,0
+4002237769,"Rue Numa-Droz 4,",2300 La Chaux-de-Fonds,3.5,98.0,930,2.5,Apartment,-1,-1,0
+4002237854,"Fbg de la Gare 23,",2000 Neuchâtel,5.5,-1,1990,3.5,Apartment,-1,-1,0
+4002238083,"Rue des Crêtets 116,",2300 La Chaux-de-Fonds,2.0,46.0,800,7.5,Apartment,-1,-1,0
+4002238288,"Rue du Progrès 17,",2108 Couvet,3.0,68.0,1190,6.0,Apartment,-1,-1,0
+4002238449,"Rue Chapeau-Rable 22,",2300 La Chaux-de-Fonds,3.0,65.0,1070,9.0,Apartment,-1,-1,1
+4002239458,"Grand-Rue 4,",2035 Corcelles NE,4.5,130.0,1680,5.0,Apartment,-1,-1,0
+4002242560,"Passage Blaise-Cendrars 9,",2017 Boudry,5.5,156.0,2840,5.75,Apartment,-1,2015,0
+4002243380,"Combe-Grieurin 31,",2300 La Chaux-de-Fonds,2.0,55.0,785,6.5,Apartment,-1,-1,0
+4002243382,"Paix 63,",2300 La Chaux-de-Fonds,3.0,-1,1038,3.75,Apartment,-1,-1,0
+4002244501,"Numa-Droz 139,",2300 La Chaux-de-Fonds,-1,-1,1300,5.0,Apartment,-1,-1,0
+4002245909,"Rue des Sablons 47,",2000 Neuchâtel,5.0,110.0,2120,2.25,Apartment,2009,1898,0
+4002248056,"Rue des Parcs 137,",2000 Neuchâtel,2.5,55.0,1200,5.0,Apartment,-1,1958,0
+4002249357,"Chemin de la Carrière 6,",2014 Bôle,5.5,126.0,2250,-1,Apartment,-1,-1,1
+4002249636,"Mulets 7-9,",2000 Neuchâtel,4.5,-1,2490,6.5,Apartment,-1,-1,1
+4002250191,"Les Condémines 18,",2525 Le Landeron,4.5,-1,1720,6.5,Apartment,-1,-1,0
+4002250200,"Cèdres 6,",2013 Colombier NE,6.0,140.0,3400,7.5,Single house,-1,-1,0
+4002250852,"Route des Gouttes d'Or 20a,",2000 Neuchâtel,4.5,116.0,2925,-1,Apartment,-1,2016,0
+4002250900,"Rue de Dîme 56,",2000 Neuchâtel,4.0,82.0,1585,7.5,Apartment,-1,1961,0
+4002251986,"Rue des Cèdres 4,",2000 Neuchâtel,2.0,47.0,1285,5.0,Apartment,-1,-1,1
+4002251989,"Rue des Cèdres 2,",2000 Neuchâtel,2.5,52.0,1330,5.25,Apartment,-1,-1,1
+4002251991,"Rue des Cèdres 4,",2000 Neuchâtel,3.5,70.0,1610,5.0,Apartment,-1,-1,1
+4002253014,"Allée des Peupliers 2A,",2056 Dombresson,3.0,-1,1290,-1,Apartment,-1,-1,1
+4002254521,"Rue Auguste-Bachelin 15,",2000 Neuchâtel,3.0,65.0,1570,4.0,Apartment,2017,1972,1
+4002254535,"Ch. des Sources 16 a,",2013 Colombier NE,4.5,106.0,2400,5.0,Apartment,-1,1988,1
+4002256169,"Rue de la Charrière 87,",2300 La Chaux-de-Fonds,1.0,-1,780,8.5,Apartment,-1,2025,0
+4002256170,"Rue de la Charrière 87,",2300 La Chaux-de-Fonds,1.0,-1,830,8.5,Apartment,-1,2025,1
+4002256171,"Rue de la Charrière 87,",2300 La Chaux-de-Fonds,2.0,-1,1070,8.5,Apartment,-1,2025,1
+4002256682,"Rue des Sablons 45,",2000 Neuchâtel,3.0,81.0,1880,3.0,Apartment,2023,1974,0
+4002256993,"Rue Numa-Droz 74,",2300 La Chaux-de-Fonds,3.0,-1,1050,3.75,Apartment,-1,-1,0
+4002257047,"Rue Major-Benoît 1,",2316 Les Ponts-de-Martel,2.5,-1,700,8.33,Apartment,-1,-1,0
+4002257106,"Route des Monts 66,",2400 Le Locle,4.5,-1,1800,10.5,Apartment,-1,-1,1
+4002257476,"Rue des Parcs 111,",2000 Neuchâtel,3.5,70.0,1400,2.75,Apartment,-1,-1,1
+4002257496,"Rue Alexis-Marie-Piaget 16,",2400 Le Locle,4.0,-1,1100,4.5,Apartment,-1,-1,0
+4002257876,"Rue de l'Evole 56-58,",2000 Neuchâtel,4.5,94.0,1970,7.5,Apartment,-1,-1,0
+4002258785,"Rue de Champréveyres 7,",2000 Neuchâtel,2.5,60.0,1355,6.0,Apartment,-1,1973,0
+4002259394,"Rue Jardinière 71,",2300 La Chaux-de-Fonds,4.5,104.0,1300,4.5,Apartment,-1,-1,1
+4002259577,"Route de Boudevilliers 1a,",2042 Valangin,5.5,-1,2000,6.0,Apartment,-1,-1,1
+4002259578,"Rue Numa-Droz 197,",2300 La Chaux-de-Fonds,3.5,-1,990,3.0,Apartment,-1,-1,1
+4002259579,,,-1,-1,-1,-1,,-1,-1,0
+4002259727,"Temple-Allemand 109,",2300 La Chaux-de-Fonds,4.5,-1,1260,5.5,Apartment,-1,-1,1
+4002261066,"Grand-Rue 30,",2416 Les Brenets,3.5,-1,1290,4.5,Apartment,-1,-1,1
+4002261067,"Grand-Rue 30,",2416 Les Brenets,2.5,-1,800,4.5,Apartment,-1,-1,0
+4002261664,"Chemin des Carrels 11G,",2034 Peseux,3.5,85.0,1640,6.75,Apartment,2025,-1,1
+4002261761,"Passage Marval 1,",2000 Neuchâtel,2.5,-1,1450,2.5,Apartment,-1,-1,0
+4002261762,"Passage Marval 1,",2000 Neuchâtel,5.5,-1,3150,2.5,Apartment,-1,-1,0
+4002261773,"Passage Marval 1,",2000 Neuchâtel,3.5,-1,2150,2.5,Apartment,-1,-1,0
+4002262476,"Rue de l'Evole 51,",2000 Neuchâtel,4.5,135.0,3080,5.75,Apartment,-1,1961,0
+4002262898,"Rue de Champréveyres 16,",2000 Neuchâtel,2.5,58.0,1330,6.5,Apartment,2006,1965,0
+4002265833,"Rue des Jeanneret 4,",2400 Le Locle,3.5,-1,750,5.5,Apartment,-1,-1,1
+4002267738,"Rue du Nord 174,",2300 La Chaux-de-Fonds,3.5,82.0,1060,6.5,Apartment,-1,-1,1
+4002269822,"Rue Georges-Auguste-Matile 51,",2000 Neuchâtel,3.5,-1,1760,6.0,Apartment,-1,-1,1
+4002270082,"Rue du Chasselas 13,",2000 Neuchâtel,3.0,87.0,1690,3.5,Apartment,-1,1972,0
+4002270307,"Rue du Nord 174,",2300 La Chaux-de-Fonds,3.0,79.0,1010,6.5,Apartment,-1,-1,0
+4002270394,"Avenue de la Gare 10A,",2114 Val-de-Travers,4.5,-1,1370,4.0,Apartment,2024,-1,0
+4002271147,"Impasse des Saules 10,",2053 Cernier,4.0,-1,1610,8.0,Apartment,-1,-1,1
+4002271152,"Buttes 16,",2114 Fleurier,3.5,-1,1050,8.5,Apartment,-1,-1,1
+4002271450,"Rue de la Côte 11,",2000 Neuchâtel,4.5,-1,2200,8.25,Apartment,-1,-1,1
+4002272603,"Rue des Uttins 11,",2034 Peseux,3.0,-1,1540,3.75,Apartment,-1,-1,0
+4002273712,"Route de Neuchâtel 12,",2525 Le Landeron,4.5,-1,1640,4.5,Apartment,-1,-1,1
+4002274004,"Maigroge 12 - côté Ouest,",2072 St-Blaise,1.0,15.0,825,-1,Apartment,-1,-1,0
+4002274188,"Rue du Progrès 10,",2108 Couvet,3.0,63.0,1130,6.5,Apartment,2025,-1,1
+4002274512,"Rue des Parcs 123,",2000 Neuchâtel,3.5,89.0,1960,3.75,Maisonette / Duplex,-1,-1,1
+4002274808,"Henry-Grandjean 7,",2400 Le Locle,3.5,-1,1090,3.5,Apartment,-1,-1,0
+4002274825,"Henry-Grandjean 7,",2400 Le Locle,3.5,-1,1090,3.5,Apartment,-1,-1,0
+4002275798,"Rue du Bois-Noir 39,",2300 La Chaux-de-Fonds,2.5,-1,830,3.5,Apartment,-1,-1,1
+4002275843,"Ruelle du Fornel 2,",2000 Neuchâtel,5.5,94.0,2190,3.75,Apartment,2006,1948,1
+4002276296,"Rue Arnold-Guyot 5,",2000 Neuchâtel,2.5,51.0,1570,6.25,Apartment,-1,1995,1
+4002276765,"Rue du Chasselas 15,",2000 Neuchâtel,2.0,47.0,1180,3.75,Apartment,-1,1970,0
+4002276986,"Rue de l'Etoile 1,",2300 La Chaux-de-Fonds,4.0,-1,1340,3.0,Apartment,-1,-1,0
+4002277174,"Rue de l'Ecluse 30,",2000 Neuchâtel,2.5,57.0,1430,2.0,Apartment,-1,-1,0
+4002277175,"Rue de l'Ecluse 38,",2000 Neuchâtel,1.0,42.0,1000,2.0,Apartment,-1,-1,0
+4002277176,"Rue de l'Ecluse 38,",2000 Neuchâtel,1.0,42.0,1055,2.0,Apartment,-1,-1,0
+4002278081,"Rue de la Côte 11,",2052 Fontainemelon,4.0,82.0,1350,5.0,Apartment,-1,-1,0
+4002278334,"Avenue du Locle 44,",2300 La Chaux-de-Fonds,3.0,61.0,1310,5.5,Apartment,-1,-1,1
+4002279349,"Rue de l'Ecluse 38,",2000 Neuchâtel,1.0,43.0,1060,2.0,Apartment,-1,-1,0
+4002279350,"Rue Cernil-Antoine 9,",2300 La Chaux-de-Fonds,3.0,77.0,1270,4.25,Apartment,-1,-1,0
+4002279351,"Rue de l'Ecluse 36D,",2000 Neuchâtel,3.0,90.0,1848,2.0,Apartment,-1,-1,0
+4002279368,"Rue du Commerce 103,",2300 La Chaux-de-Fonds,3.5,74.0,1320,8.25,Apartment,-1,-1,0
+4002282346,"Rue de la Serre 130,",2300 La Chaux-de-Fonds,4.5,85.0,1920,3.75,Apartment,-1,-1,0
+4002282348,"Rue de la Serre 130,",2300 La Chaux-de-Fonds,5.0,112.0,1890,3.75,Apartment,-1,-1,0
+4002282542,"Rue Pierre-Beau 7A,",2015 Areuse,5.5,250.0,2850,13.75,Villa,-1,-1,1
+4002283049,"Le Corbusier 14,",2400 Le Locle,3.0,62.0,900,9.75,Apartment,-1,-1,1
+4002283050,"Fritz-Courvoisier 24,",2300 La Chaux-de-Fonds,3.0,52.0,1010,3.25,Apartment,-1,-1,1
+4002284564,"Le Bourg 11,",2042 Neuchâtel,1.5,-1,980,2.5,Apartment,-1,-1,0
+4002285238,"Rue du Castel 23,",2024 St-Aubin-Sauges,3.0,64.0,1360,5.75,Apartment,-1,-1,0
+4002285759,"Rue des Bassets 72,",2300 La Chaux-de-Fonds,3.0,-1,1125,7.75,Apartment,-1,-1,0
+4002286885,"Rue du Commerce 83,",2300 La Chaux-de-Fonds,3.0,85.0,1430,6.0,Apartment,-1,-1,0
+4002288294,"Rue Blaise-Cendrars 2,",2300 La Chaux-de-Fonds,4.0,65.0,1175,3.25,Apartment,-1,-1,0
+4002288295,"Charles-Naine 16,",2300 La Chaux-de-Fonds,3.0,56.0,1180,3.25,Apartment,-1,-1,0
+4002288373,"Route de la Sauge 10,",2042 Valangin,1.0,-1,820,7.5,Single house,-1,-1,1
+4002288375,"Premiers-Mars 49,",2206 Les Geneveys-sur-Coffrane,4.0,-1,1640,4.5,Apartment,-1,-1,1
+4002288426,"Chemin des Etangs 10,",2400 Le Locle,1.0,20.0,450,6.25,Cellar compartment,-1,-1,0
+4002289204,"Rue de la Promenade 5,",2300 La Chaux-de-Fonds,4.5,146.0,2250,4.25,Apartment,-1,-1,1
+4002289439,"France 4,",2400 Le Locle,3.0,-1,990,3.0,Apartment,-1,-1,0
+4002289524,"Croix Fédérale 44,",2300 La Chaux-de-Fonds,4.5,83.0,1735,9.25,Apartment,2012,1972,0
+4002290139,"Primevères 2,",2400 Le Locle,3.5,72.0,1045,8.25,Apartment,-1,-1,0
+4002290140,"Primevères 2,",2400 Le Locle,3.5,72.0,1080,8.25,Apartment,-1,-1,0
+4002290208,"Faubourg de l'Hôpital 44,",2000 Neuchâtel,3.5,-1,1850,3.75,Apartment,-1,-1,0
+4002291359,"Rue de la Côte 12,",2400 Le Locle,4.0,-1,1280,2.25,Apartment,-1,-1,0
+4002291414,"Avenue des Alpes 78,",2000 Neuchâtel,3.0,-1,1765,4.5,Apartment,-1,-1,1
+4002292559,"Rue des Envers 73,",2400 Le Locle,4.5,88.0,1100,3.5,Apartment,-1,-1,1
+4002293172,"Rue du Nord 174,",2300 La Chaux-de-Fonds,3.5,82.0,1140,6.5,Apartment,-1,-1,0
+4002293553,"Rue des Bassets 42,",2300 La Chaux-de-Fonds,3.5,73.0,1280,6.75,Apartment,-1,-1,1
+4002294231,"Champ-du-Môtier 1,",2105 Travers,1.0,30.0,650,7.33,Apartment,-1,-1,1
+4002294248,"Rue du Rocher 24,",2000 Neuchâtel,-1,26.0,1070,4.5,Studio,-1,-1,0
+4002294263,"Rue François-Jaques 4,",2114 Val-de-Travers,3.0,-1,1060,7.25,Apartment,-1,-1,0
+4002294478,"Faubourg de l'Hôpital 44,",2000 Neuchâtel,3.5,-1,1850,3.25,Apartment,-1,-1,1
+4002294582,"Locle 24,",2300 La Chaux-de-Fonds,3.0,63.0,1070,4.25,Apartment,-1,-1,0
+4002294732,"Rue de la Côte 21,",2052 Fontainemelon,4.0,79.0,1390,7.0,Apartment,-1,-1,1
+4002295877,"rue des combes 4,",2034 Peseux,3.0,-1,1320,3.75,Apartment,-1,-1,1
+4002296222,"Avenue Léopold-Robert 146 - Entrée est,",2300 La Chaux-de-Fonds,4.5,104.0,1730,3.25,Apartment,-1,-1,0
+4002296379,"Route de Grandson 32,",2017 Boudry,3.0,64.0,1400,10.25,Apartment,-1,-1,1
+4002296599,"Rue de l'Hôpital 9A,",2114 Fleurier,3.5,-1,990,17.5,Apartment,-1,-1,0
+4002296968,"Rue du Tertre 10,",2000 Neuchâtel,4.5,-1,2545,3.5,Apartment,-1,-1,1
+4002296969,"Rue du Tertre 12,",2000 Neuchâtel,3.5,-1,2115,3.5,Apartment,-1,-1,1
+4002297457,"Faubourg Philippe-Suchard 22,",2017 Boudry,3.5,87.0,2180,5.5,Apartment,-1,-1,1
+4002297458,"Faubourg Philippe-Suchard 22,",2017 Boudry,3.5,87.0,2100,5.5,Apartment,-1,-1,1
+4002297555,"Rue des Bouleaux 13,",2300 La Chaux de Fonds,1.5,-1,750,3.5,Apartment,-1,-1,1
+4002297749,"Crêt-Perrelet 5,",2400 Le Prévoux,4.0,-1,1000,-1,Apartment,-1,-1,0
+4002298098,"Avenue du Technicum 11,",2400 Le Locle,1.0,35.0,895,2.5,Apartment,2024,-1,0
+4002298099,"Avenue du Technicum 11,",2400 Le Locle,2.5,48.0,1150,2.5,Apartment,2024,-1,0
+4002298101,"Avenue du Technicum 11,",2400 Le Locle,1.0,38.0,990,2.5,Apartment,2024,-1,0
+4002300628,,,5.5,150.0,2850,-1,Apartment,-1,-1,0
+4002301132,"Nord 127,",2300 La Chaux-de-Fonds,2.0,-1,790,6.0,Apartment,-1,-1,0
+4002301660,"Le Cerisier 3,",2300 La Chaux-de-Fonds,5.5,160.0,2450,-1,Terrace house,2025,-1,0
+4002302269,"Pré-Landry 3,",2017 Boudry,-1,-1,1100,3.0,Apartment,-1,-1,0
+4002302270,"Parcs 38,",2000 Neuchâtel,2.5,-1,1356,4.75,Apartment,-1,-1,0
+4002302441,"Rue des Moulins 3,",2000 Neuchâtel,1.0,-1,930,2.0,Studio,2024,-1,0
+4002302468,"Route des Buchilles 46,",2017 Boudry,2.5,38.0,1083,11.0,Apartment,-1,-1,0
+4002302819,"Rue des Parcs 86,",2000 Neuchâtel,3.5,90.0,1840,2.75,Apartment,-1,1985,1
+4002303443,"Rue des Billodes 44,",2400 Le Locle,5.5,150.0,1310,8.25,Apartment,-1,1945,0
+4002303836,"Rue Arnold-Guyot 1,",2000 Neuchâtel,2.5,53.0,1635,4.25,Apartment,-1,1995,0
+4002304635,"Rue des Crêtets 118,",2300 La Chaux-de-Fonds,3.5,70.0,-1,8.0,Apartment,-1,-1,0
+4002304636,"Rue Henry-Grandjean 1,",2400 Le Locle,1.0,28.0,590,2.25,Apartment,-1,-1,0
+4002304797,"Rue du Rocher 24,",2000 Neuchâtel,5.0,127.0,2900,4.5,Apartment,-1,-1,0
+4002304837,"Avenue de Neuchâtel 16,",2024 St-Aubin NE,2.5,45.0,1556,5.25,Apartment,-1,-1,0
+4002305079,"Route du Raya 3,",2400 Le Locle,3.0,67.0,940,6.75,Apartment,-1,-1,0
+4002305695,"Jolimont 6,",2525 Le Landeron,4.5,-1,1865,3.25,Apartment,-1,-1,0
+4002305798,"Faubourg de l'Hôpital 33,",2000 Neuchâtel,2.5,63.0,1710,4.25,Apartment,-1,1935,0
+4002305917,"Brévards 16-Ls-d'Orléans 41,NE,",2000 Neuchâtel,3.5,84.0,1890,4.5,Apartment,-1,-1,0
+4002306257,"Rue des Vignolants 31,",2000 Neuchâtel,2.5,63.0,1680,7.25,Apartment,2010,1976,0
+4002306259,"Rue des Parcs 86,",2000 Neuchâtel,3.5,96.0,1960,2.75,Apartment,-1,1985,0
+4002306955,"Espacité 3,",2300 La Chaux-de-Fonds,3.5,81.0,-1,2.5,Apartment,-1,1993,0
+4002307161,"Rue Jardinière 77,",2300 La Chaux-de-Fonds,3.0,65.0,1230,4.0,Apartment,-1,-1,0
+4002307233,"Rue de l'Industrie 30,",2300 La Chaux-de-Fonds,5.5,-1,1760,3.5,Apartment,-1,-1,0
+4002307305,"Place Coquillon 4,",2000 Neuchâtel,2.5,-1,1300,1.75,Apartment,-1,-1,0
+4002307921,"Avenue Léopold-Robert 83,",2300 La Chaux-de-Fonds,3.5,82.0,1300,5.25,Apartment,-1,-1,0
+4002308074,"Rue du débarcadère 21,",2024 La Gande-Béroche,2.5,61.0,1840,-1,Apartment,-1,2021,0
+4002308081,"Prairie 31,",2300 La Chaux-de-Fonds,2.5,66.0,1040,10.0,Apartment,-1,-1,0
+4002308594,"Rue Louis-Favre 76,",2017 Boudry,5.5,-1,1990,5.0,Apartment,-1,-1,0
+4002308885,"Rue du Doubs 117,",2300 La Chaux-de-Fonds,3.0,-1,850,5.25,Apartment,-1,-1,0
+4002308886,"Docteur Kern 5,",2300 La Chaux-de-Fonds,3.0,76.0,1400,5.25,Apartment,-1,-1,0
+4002309002,"Rue de la Croix-Fédérale 27B,",2300 La Chaux-de-Fonds,2.5,-1,930,10.0,Apartment,-1,-1,0
+4002309508,"Chemin de la Vy d'Etra 20,",2022 Bevaix,2.0,56.0,1235,11.25,Apartment,-1,-1,1
+4002309522,"Rue des Fahys 47,",2000 Neuchâtel,3.5,-1,1840,6.5,Apartment,-1,-1,0
+4002309568,"Chemin des Draizes 13,",2016 Cortaillod,3.5,70.0,1535,4.25,Apartment,-1,-1,1
+4002309660,"Chemin des Tilleuls 14,",2108 Couvet,2.5,-1,810,7.67,Apartment,-1,-1,1
+4002309955,"Chemin des Sources 8,",2013 Colombier NE,3.5,72.0,1503,4.75,Apartment,-1,1993,0
+4002309995,"Rue Louis- Bourguet 5,",2000 Neuchâtel,4.0,80.0,2050,4.25,Apartment,-1,-1,1
+4002310150,"Rue de la Maladière 4,",2000 Neuchâtel,1.5,23.0,867,2.75,Studio,-1,2018,0
+4002311068,"avenue du vignoble 4,",2000 Neuchâtel,4.5,130.0,3500,5.75,Attic flat,-1,-1,0
+4002311628,"Rue Ernest-Roulet 17,",2034 Peseux,4.0,90.0,1475,6.5,Apartment,-1,-1,1
+4002311692,"Rue du Progrès 14,",2300 La Chaux-de-Fonds,3.0,70.0,1330,3.25,Apartment,-1,-1,0
+4002311774,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,57.0,1450,3.0,Apartment,-1,-1,0
+4002311775,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,50.0,1350,3.0,Apartment,-1,-1,0
+4002311776,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,3.5,68.0,1620,3.0,Apartment,-1,-1,0
+4002311777,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,50.0,1350,3.0,Apartment,-1,-1,0
+4002311778,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,53.0,1370,3.0,Apartment,-1,-1,0
+4002311779,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,51.0,1350,3.0,Apartment,-1,-1,0
+4002311780,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,49.0,1350,3.0,Apartment,-1,-1,0
+4002311781,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,52.0,1370,3.0,Apartment,-1,-1,0
+4002311782,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,48.0,1350,3.0,Apartment,-1,-1,0
+4002311783,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,54.0,1370,3.0,Apartment,-1,-1,0
+4002311784,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,51.0,1350,3.0,Apartment,-1,-1,0
+4002311785,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,57.0,1450,3.0,Apartment,-1,-1,0
+4002311786,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,50.0,1350,3.0,Apartment,-1,-1,0
+4002311787,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,60.0,1450,3.0,Apartment,-1,-1,0
+4002311788,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,48.0,1350,3.0,Apartment,-1,-1,0
+4002311789,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,54.0,1370,3.0,Apartment,-1,-1,0
+4002311790,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,55.0,1420,3.0,Apartment,-1,-1,0
+4002311791,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,3.5,69.0,1620,3.0,Apartment,-1,-1,0
+4002311792,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,52.0,1350,3.0,Apartment,-1,-1,0
+4002311794,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,61.0,1450,3.0,Apartment,-1,-1,0
+4002311795,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,57.0,1450,3.0,Apartment,-1,-1,0
+4002311796,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,52.0,1370,3.0,Apartment,-1,-1,0
+4002311800,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,51.0,1350,3.0,Apartment,-1,-1,0
+4002311801,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,55.0,1370,3.0,Apartment,-1,-1,0
+4002311802,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,56.0,1450,3.0,Apartment,-1,-1,0
+4002311803,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,62.0,1550,3.0,Apartment,-1,-1,0
+4002311836,"Chemin d'Archessus 4,",2022 La Grande Béroche,3.0,65.0,1440,10.5,Apartment,-1,-1,1
+4002311971,"Rue Guillemette-de-Vergy 4,",2053 Cernier,3.0,73.0,1290,4.5,Apartment,-1,-1,1
+4002312142,"Rue Numa-Droz 58,",2300 La Chaux-de-Fonds,2.0,55.0,714,3.5,Apartment,-1,-1,0
+4002313340,"Avenue Léopold-Robert 145b,",2300 La Chaux-de-Fonds,2.5,48.0,1350,3.0,Apartment,-1,-1,0
+4002313481,,,3.5,90.0,1320,-1,Apartment,-1,-1,1
+4002313736,"Les Sources 5,",2014 Bôle,4.5,110.0,1970,-1,Apartment,-1,-1,1
+4002314810,"Rue du Doubs 93,",2300 La Chaux-de-Fonds,3.0,80.0,1300,4.75,Apartment,-1,-1,0
+4002314811,"Léopold-Robert 35,",2300 La Chaux-de-Fonds,3.0,64.0,990,4.25,Apartment,-1,-1,0
+4002314989,"Verger 4,",2105 Travers,4.5,130.0,1450,3.33,Maisonette / Duplex,2020,2000,0
+4002315211,"Fontaine 2,",2022 Bevaix,3.5,76.0,1600,3.0,Maisonette / Duplex,-1,-1,0
+4002315596,"Rue des Forgerons,",2065 Val-de-Ruz,6.0,200.0,2300,3.0,Bachelor flat,2025,-1,1
+4002315892,"Rue Daniel-Jeanrichard 19,",2400 Le Locle,2.0,55.0,850,2.75,Apartment,-1,1902,0
+4002315897,"Rue Winkelried 45,",2301 La Chaux-de-Fonds,4.0,80.0,1360,8.75,Apartment,-1,-1,0
+4002318201,"Champ-du-Môtier 7,",2105 Travers,4.5,105.0,1790,7.0,Apartment,-1,2019,1
+4002318223,,,4.5,90.0,1185,-1,Apartment,-1,-1,0
+4002318235,,,3.5,95.0,2200,-1,Apartment,-1,-1,0
+4002319918,"Rue de la Charrière 37,",2300 La Chaux-de-Fonds,1.0,-1,380,3.5,Single Room,-1,-1,0
+4002320187,"Belleroche 3,",2000 Neuchâtel,4.5,-1,1850,7.0,Apartment,2025,-1,1
+4002320553,"Rue de Bellevue 12,",2052 Fontainemelon,3.0,69.0,1260,4.75,Apartment,-1,-1,0
+4002321459,"rue du Collège 6a,",2043 Boudevilliers,2.5,-1,1290,2.0,Apartment,2018,-1,0
+4002321516,"Rue de la Gare 16/18,",2074 Marin-Epagnier,3.5,87.0,1930,7.75,Apartment,1987,1987,1
+4002321781,"Chemin de la Baume 18,",2016 Cortaillod,3.0,64.0,1420,13.0,Apartment,-1,-1,0
+4002321782,"Ch de la Baume 18,",2016 Cortaillod,1.0,20.0,725,13.0,Studio,-1,-1,0
+4002321876,"Les Motteresses 34,",2075 Wavre,3.5,-1,1900,5.5,Apartment,-1,-1,0
+4002322211,"Passage Blaise-Cendrars 5,",2017 Boudry,5.5,156.0,2859,7.5,Apartment,-1,2015,0
+4002322611,"Rue du Closel 28,",2074 Marin,3.5,78.0,1630,8.25,Apartment,-1,-1,0
+4002322956,"Rue des Musées 10,",2300 La Chaux-de-Fonds,6.0,200.0,1970,4.25,Apartment,-1,-1,0
+4002323367,"Rue du Réservoir 2a,",2034 Peseux,3.5,-1,1840,7.75,Apartment,-1,-1,0
+4002323798,"Rue du Grenier 3,",2300 La Chaux-de-Fonds,5.5,-1,2180,3.5,Apartment,-1,-1,0
+4002323963,"Rue du Patinage 21,",2114 Fleurier,3.0,-1,1125,8.0,Apartment,-1,-1,0
+4002324482,"Rue Neuve 9,",2300 La Chaux-de-Fonds,3.0,96.0,1300,3.0,Apartment,-1,-1,0
+4002324887,,,-1,-1,-1,-1,,-1,-1,0
+4002324891,"Grand-Rue 39,",2072 Saint-Blaise,2.0,-1,1280,3.0,Apartment,-1,-1,0
+4002324943,"Le Corbusier 14,",2400 Le Locle,3.0,62.0,960,9.75,Apartment,-1,-1,1
+4002325111,"Rue du Chasselas 13,",2000 Neuchâtel,4.5,98.0,1990,3.5,Apartment,-1,1972,0
+4002325777,,,-1,-1,-1,-1,,-1,-1,0
+4002325836,"Route de la Gare 37,",2017 Boudry,4.5,90.0,1700,20.0,Apartment,-1,-1,1
+4002326042,"Rue des Jeanneret 25,",2400 Le Locle,3.0,-1,890,7.0,Apartment,-1,-1,1
+4002326078,"Rue du Marais 15,",2400 Le Locle,5.0,-1,1390,4.75,Apartment,-1,-1,0
+4002326128,"Av. L.-Robert 118,",2300 La Chaux-de-Fonds,3.0,-1,881,4.0,Apartment,-1,-1,0
+4002326265,"Rue des Courtils 38,",2016 Cortaillod,5.5,177.0,2850,4.0,Maisonette / Duplex,-1,-1,1
+4002326439,"Rue Pierre-de-Vingle 18,",2000 Neuchâtel,1.0,44.0,1060,8.0,Studio,-1,-1,0
+4002326731,"Rue du Premier-Mars 40,",2206 Les Geneveys-sur-Coffrane,4.0,100.0,2400,3.75,Apartment,-1,-1,0
+4002326777,"Jaquet-Droz 2,",2000 Neuenburg,2.5,59.0,1950,-1,Apartment,-1,-1,0
+4002326956,"Rue Louis-Bourguet 5,",2000 Neuenburg,4.0,82.0,2050,4.25,Apartment,-1,-1,0
+4002327057,"Rue du Pâquier 5A,",2123 St-Sulpice NE,3.5,-1,1080,6.0,Terrace flat,-1,-1,1
+4002327204,"Chemin de Bel-Air 19,",2000 Neuchâtel,7.0,240.0,3990,6.75,Maisonette / Duplex,2020,1969,1
+4002327614,"Temple-Allemand 71,",2300 La Chaux-de-Fonds,3.0,-1,1060,4.75,Apartment,-1,-1,0
+4002327948,,,4.5,100.0,1010,-1,Apartment,1985,-1,0
+4002327998,,,3.5,95.0,1980,-1,Apartment,2000,-1,0
+4002328055,,,4.5,105.0,2360,-1,Apartment,2000,-1,1
+4002328082,,,6.0,200.0,2280,-1,Apartment,2019,2019,1
+4002328173,"Faubourg Philippe-Suchard 38,",2017 Boudry,4.5,105.0,2100,8.5,Apartment,-1,2017,1
+4002328624,"Helvétie 79,",2300 La Chaux-de-Fonds,4.5,88.0,1550,11.0,Apartment,-1,1986,1
+4002328924,"Rue de la Gare 12,",2400 Le Locle,3.0,53.0,760,2.75,Apartment,-1,-1,0
+4002328925,"Rue Jehan-droz 15,",2400 Le Locle,4.0,78.0,1070,3.75,Apartment,-1,-1,0
+4002328934,"Auguste Lambelet 5,",2400 Le Locle,3.5,-1,1550,9.0,Apartment,-1,-1,0
+4002328938,,,-1,-1,-1,-1,,-1,-1,0
+4002329246,"Rue des Fahys 129,",2000 Neuchâtel,2.5,-1,1080,7.75,Apartment,-1,-1,0
+4002329372,"Rue des Jeanneret 51,",2400 Le Locle,3.5,-1,875,10.5,Apartment,-1,-1,1
+4002329540,"Rue du Progrès 17,",2108 Couvet,2.0,47.0,890,6.0,Apartment,-1,-1,0
+4002329718,"Ruelle du Lac 6,",2072 St-Blaise,6.0,-1,1990,1.75,Apartment,-1,-1,1
+4002329763,"Beau-Site 2,",2208 Les Hauts-Geneveys,3.0,70.0,1230,-1,Apartment,-1,-1,0
+4002329807,"Rue de Chasseral 6,",2053 Cernier,3.0,66.0,1300,5.0,Apartment,-1,-1,1
+4002329821,"Rue du marais 36,",2400 Le Locle,1.0,30.0,550,3.5,Studio,2020,-1,1
+4002329953,"Rue du marais 36,",2400 Le Locle,2.5,46.0,880,3.75,Apartment,-1,-1,1
+4002330056,"Rue des Musées 58,",2300 La Chaux-de-Fonds,4.5,-1,1460,3.5,Apartment,-1,-1,1
+4002330203,"Rue de France 16,",2400 Le Locle,3.5,-1,1050,4.25,Apartment,-1,-1,0
+4002330223,"Rue de France 16,",2400 Le Locle,2.5,-1,790,4.25,Apartment,-1,-1,0
+4002330234,"Rue Jules-Baillods 3,",2108 Couvet,3.0,-1,970,6.0,Apartment,-1,-1,1
+4002330339,"Ruelle du Temple-Allemand,",2300 La Chaux-de-Fonds,2.0,-1,770,3.5,Apartment,-1,-1,0
+4002330460,"Reçues 20b,",2400 Le Locle,4.5,-1,1690,5.0,Apartment,-1,-1,1
+4002330463,"Rue Blaise-Cendrars 7,",2300 La Chaux-de-Fonds,2.0,45.0,865,4.25,Apartment,-1,-1,1
+4002330465,"Rue du Marais 5,",2400 Le Locle,2.0,50.0,795,5.75,Apartment,-1,-1,0
+4002330726,"Rue de la Croix-Fédérale 23c,",2300 La Chaux-de-Fonds,3.5,75.0,1330,7.5,Apartment,-1,-1,1
+4002330792,"Avenue Léopold-Robert 90,",2300 La Chaux-de-Fonds,1.0,-1,798,5.25,Apartment,2024,1971,1
+4002330895,"Rue du Cygne 4,",2300 LA CHAUX-DE-FONDS,4.5,126.0,2010,3.0,Apartment,-1,-1,0
+4002331436,"Rue de la Gare 12,",2105 Travers,2.0,-1,745,3.67,Apartment,2025,-1,1
+4002331594,"Rue St-Honoré 2,",2000 Neuchâtel,4.5,119.0,-1,1.75,Apartment,-1,1959,0
+4002331718,"Rue des Sablons 43,",2000 Neuchâtel,2.5,52.0,1383,2.0,Apartment,2023,1974,0
+4002331720,"Rue de la Coquemène 9,",2000 Neuchâtel,3.0,65.0,1521,5.25,Apartment,1997,1953,0
+4002331939,"Rue du Cygne 6,",2300 LA CHAUX-DE-FONDS,4.5,124.0,2064,3.0,Apartment,-1,-1,0
+4002332395,"Rue des Monts 3,",2053 Cernier,3.0,67.0,990,4.5,Apartment,-1,1974,1
+4002332810,"Rue Sous-le-Pré 6,",2014 Bôle,4.5,120.0,2050,8.75,Attic flat,-1,-1,0
+4002333057,"Avenue Léopold-Robert 134,",2300 La Chaux-de-Fonds,2.0,-1,762,3.75,Apartment,-1,-1,0
+4002333136,"Chemin des Carabiniers 5,",2400 Le Locle,3.5,-1,1190,12.25,Apartment,-1,-1,1
+4002333146,"Envers 22,",2400 Le Locle,5.0,118.0,1590,3.0,Apartment,-1,-1,0
+4002333340,"Rue des Deurres 19,",2034 Neuchâtel,3.5,85.0,1600,7.25,Apartment,-1,-1,1
+4002333626,"Chemin des Valangines,",2000 Neuchâtel,2.5,135.0,2170,5.75,Loft,-1,-1,0
+4002333747,"Rue du Closel 26,",2074 Marin,2.5,64.0,1345,8.25,Apartment,-1,-1,0
+4002333777,"Chemin des Malpierres 3,",2088 Cressier,2.0,55.0,1080,10.0,Apartment,-1,-1,1
+4002334194,"Chemin des Crêts 4,",2052 Fontainemelon,3.0,-1,1210,6.25,Apartment,-1,-1,1
+4002334215,"Avenue Léopold-Robert 11 A,",2300 La Chaux-de-Fonds,3.5,84.0,1370,3.75,Apartment,-1,-1,0
+4002334252,"Chemin des Trois-Portes 71,",2000 Neuchâtel,3.5,74.0,1470,4.75,Apartment,2025,-1,1
+4002334462,"La Marnière 57,",2068 Laténa,5.5,-1,2020,12.75,Apartment,-1,-1,0
+4002334596,"Route de l'Orée-du-Bois 4,",2300 La Chaux-de-Fonds,5.5,110.0,2150,15.33,Apartment,-1,-1,1
+4002334793,"Rue Arnold-Guyot 3,",2000 Neuchâtel,3.5,75.0,1860,4.25,Apartment,-1,1995,0
+4002334794,"Crêt-Taconnet 19,",2000 Neuchâtel,3.5,78.0,1860,6.5,Apartment,-1,2007,0
+4002334795,"Rue des Vignolants 31,",2000 Neuchâtel,4.5,104.0,2220,7.25,Apartment,2010,1976,0
+4002335161,"Rue du Closel 16,",2074 Marin,3.0,71.0,1565,7.25,Apartment,-1,-1,0
+4002335948,"Rue des Noyers 1,",2000 Neuchâtel,4.5,103.0,1910,8.0,Apartment,2025,-1,1
+4002335984,"port-roulant 30,",2000 Neuchâtel,3.5,-1,1700,6.75,Apartment,-1,-1,1
+4002336324,"Place du Marché 2,",2300 La Chaux-de-Fonds,4.5,127.0,1950,2.75,Apartment,-1,-1,0
+4002338290,"Jacob-Brandt 78,",2300 La Chaux-de-Fonds,1.0,49.0,890,6.0,Studio,-1,-1,0
+4002338291,"Cardamines 24,",2400 Le Locle,4.0,-1,1140,9.0,Apartment,-1,-1,0
+4002338466,"Mme de Charrière 5,",2013 Colombier NE,2.0,68.0,1650,8.5,Maisonette / Duplex,-1,1966,0
+4002338632,,,2.0,80.0,950,-1,Apartment,2025,-1,1
+4002338654,,,4.0,120.0,1350,-1,Apartment,2025,-1,1
+4002338665,,,3.0,95.0,1220,-1,Apartment,2025,-1,1
+4002338961,"Derrière-Cour 1,",2115 Val-de-Travers,4.0,-1,920,4.0,Roof flat,-1,-1,0
+4002339195,"Sous-l'Eglise 6,",2043 Boudevilliers,2.5,-1,980,-1,Apartment,2025,-1,0
+4002339324,"Eclair 8b,",2300 La Chaux-de-Fonds,4.0,74.0,1050,4.75,Apartment,-1,-1,0
+4002339326,"Eclair 8a,",2300 La Chaux-de-Fonds,3.0,58.0,1000,4.0,Apartment,-1,-1,0
+4002339331,"Eclair 8a,",2300 La Chaux-de-Fonds,3.0,58.0,1040,4.0,Apartment,-1,-1,0
+4002339333,"Eclair 8,",2300 La Chaux-de-Fonds,2.0,49.0,740,4.5,Apartment,-1,-1,0
+4002339763,"Polonais 20,",2016 Cortaillod,3.0,-1,1535,6.25,Apartment,-1,-1,1
+4002340342,"Les Pargots 14,",2416 Le Locle,4.5,-1,1180,6.5,Apartment,-1,-1,1
+4002340355,"Rue du Cygne 6,",2300 LA CHAUX-DE-FONDS,4.5,108.0,1802,3.0,Apartment,-1,-1,0
+4002340356,"Avenue Léopold-Robert 51,",2300 La Chaux-de-Fonds,2.0,47.0,1000,4.0,Apartment,-1,-1,0
+4002340475,"Place du 12 septembre 4,",2115 Buttes,2.5,-1,930,2.0,Apartment,-1,-1,0
+4002340573,"Rue du Parc 4,",2300 La Chaux-de-Fonds,7.0,-1,2390,3.25,Apartment,-1,-1,0
+4002340967,"Industrie 13,",2300 La Chaux-de-Fonds,3.0,-1,1090,2.5,Apartment,-1,-1,0
+4002340968,"Rue des Cardamines 13,",2400 Le Locle,3.5,69.0,840,10.5,Apartment,-1,-1,1
+4002341041,"Avenue de la Gare 1,",2114 Fleurier,1.5,-1,780,2.25,Apartment,-1,-1,0
+4002341286,,,-1,-1,-1,-1,,-1,-1,0
+4002341381,"Alpes 41,",2000 Neuchâtel,4.5,109.0,3850,8.5,Apartment,2024,2024,1
+4002341445,"Rue de l'Hôtel-de-Ville 26,",2300 La Chaux-de-Fonds,2.0,60.0,800,4.5,Apartment,2017,-1,0
+4002341815,"Cardamines 24,",2400 Le Locle,4.0,-1,1170,9.0,Apartment,-1,-1,0
+4002342196,"Rue des Cèdres 4,",2000 Neuchâtel,4.0,73.0,1655,5.0,Apartment,-1,-1,1
+4002342201,"Rue des Crêtets 116,",2300 La Chaux-de-Fonds,4.5,-1,1540,7.5,Apartment,-1,-1,0
+4002342451,"Chemin de la Plage 6b,",2072 St-Blaise,3.5,83.0,1630,5.5,Apartment,2013,1980,1
+4002342464,"Rue des Vignolants 25,",2000 Neuchâtel,3.5,81.0,2025,8.5,Apartment,-1,2020,0
+4002342472,"Croix Fédérale 44,",2300 La Chaux-de-Fonds,4.5,83.0,1590,9.25,Apartment,2012,1972,1
+4002342490,"Rue des Crêtets 139,",2300 La Chaux-de-Fonds,2.0,45.0,840,8.75,Apartment,-1,1964,1
+4002342833,"Georges-Perrenoud 36,",2400 Le Locle,1.0,-1,690,8.0,Apartment,-1,-1,0
+4002342904,"Rue du Commerce 96,",2300 La Chaux-de-Fonds,4.5,-1,2900,10.75,Apartment,-1,-1,1
+4002342949,"Charles-Naine 3,",2300 La Chaux-de-Fonds,3.0,-1,940,2.5,Apartment,-1,-1,1
+4002342956,"Rue de la Flamme 22,",2108 Couvet,3.0,-1,960,8.5,Apartment,-1,-1,1
+4002342957,"Av de l'Hopital 6,",2400 Le Locle,3.5,-1,1050,7.5,Apartment,-1,-1,0
+4002343177,"Rue Daniel Jeanrichard 33,",2400 Le Locle,3.5,-1,1100,3.0,Apartment,-1,-1,0
+4002343185,"Rue le Corbusier 23,",2400 Le Locle,4.0,-1,1050,11.25,Apartment,-1,-1,1
+4002343189,"Rue Jaquet-Droz 30,",2300 La Chaux-de-Fonds,1.0,-1,690,3.75,Apartment,-1,-1,0
+4002343201,"Charles-Naine 1,",2300 La Chaux-de-Fonds,3.5,-1,1070,2.5,Apartment,-1,-1,0
+4002343209,"Rue de la Flamme 22,",2108 Couvet,4.0,-1,1100,8.5,Apartment,-1,-1,0
+4002343211,"Av Leopold Robert 120,",2300 La Chaux-de-Fonds,3.5,-1,1120,3.75,Apartment,-1,-1,0
+4002343215,"Charles-Naine 5,",2300 La Chaux-de-Fonds,2.0,-1,890,2.5,Apartment,-1,-1,0
+4002343216,"Charles-Naine 3,",2300 La Chaux-de-Fonds,4.0,85.0,1090,2.5,Apartment,-1,-1,0
+4002343218,"Rue Numa-Droz 121,",2300 La Chaux-de-Fonds,3.0,-1,1040,4.0,Apartment,-1,-1,0
+4002343571,"Route de Bourgogne 12,",2019 Rochefort,4.5,-1,1760,5.5,Apartment,-1,-1,0
+4002343610,"Rue Henri Calame 1,",2053 Cernier,2.5,-1,1290,3.75,Apartment,-1,-1,1
+4002344228,"Rue de la Fleur-de-Lys 27,",2074 Laténa,4.0,78.0,1600,7.5,Apartment,-1,1965,1
+4002344239,"Rue de la Fleur-de-Lys 31,",2074 Laténa,4.0,79.0,1600,6.0,Apartment,-1,1965,1
+4002344244,"Rue de la Fleur-de-Lys 31,",2074 Laténa,3.0,68.0,1440,6.0,Apartment,-1,1965,1
+4002344504,"Rue de la Charrière 37,",2300 La Chaux-de-Fonds,5.0,140.0,2350,3.5,Apartment,-1,-1,0
+4002344826,"Rue des Sources 7,",2014 BOLE,2.0,-1,1000,-1,Apartment,-1,-1,0
+4002345135,,,4.5,105.0,1450,-1,Apartment,-1,-1,0
+4002345206,,,4.5,80.0,1650,-1,Apartment,-1,-1,0
+4002345210,"Route de Neuchâtel 2,",2088 Cressier NE,2.5,-1,1200,3.0,Apartment,-1,-1,0
+4002345437,"Rue des Crêtets 118,",2300 La Chaux-de-Fonds,3.5,70.0,1275,8.0,Apartment,-1,-1,0
+4002345438,"Rue du Locle 30,",2300 La Chaux-de-Fonds,6.0,145.0,1700,5.75,Apartment,-1,-1,0
+4002345439,"Rue du Locle 30,",2300 La Chaux-de-Fonds,4.0,84.0,1420,5.75,Apartment,-1,-1,0
+4002345440,"Rue du Locle 32,",2300 La Chaux-de-Fonds,3.5,81.0,1110,5.75,Apartment,-1,-1,0
+4002345441,"Rue des Crêtets 118,",2300 La Chaux-de-Fonds,4.0,86.0,1540,8.0,Apartment,-1,-1,0
+4002346093,"Rue de la Charrière 33,",2300 La Chaux-de-Fonds,3.5,-1,900,3.5,Apartment,-1,-1,0
+4002346094,"Rue des Bassets 72,",2300 La Chaux-de-Fonds,3.0,-1,925,7.75,Apartment,-1,-1,0
+4002346366,"Gouttes-d'Or 48,",2000 Neuchâtel,3.0,-1,1430,6.25,Apartment,-1,-1,0
+4002347204,"Rue des Préels 2,",2036 Cormondrèche,4.0,-1,1610,2.33,Apartment,-1,-1,0
+4002347882,"Rue de la Flamme 14,",2108 COUVET,2.0,-1,850,5.75,Apartment,-1,-1,0
+4002347928,"Jardinière 81,",2300 La Chaux-de-Fonds,3.0,-1,800,4.0,Apartment,-1,-1,0
+4002347929,"Promenade 19,",2300 La Chaux-de-Fonds,4.5,101.0,1170,4.25,Apartment,-1,-1,0
+4002348244,"Littoral 61,",2025 Chez-le-Bart,5.0,100.0,2250,-1,Apartment,-1,-1,0
+4002348245,"Littoral 61,",2025 Chez-le-Bart,2.5,-1,1450,-1,Apartment,-1,-1,0
+4002348522,"Rue de la Promenade 7,",2300 La Chaux-de-Fonds,2.0,70.0,810,4.25,Apartment,-1,1902,0
+4002348548,"Rue des Fahys 31,",2000 Neuchâtel,2.0,-1,1390,6.0,Apartment,-1,-1,0
+4002348912,"Le Crêt-de-l'Eau 5,",2108 Couvet,2.0,55.0,700,7.0,Apartment,-1,-1,0
+4002348966,"Rue du Progrès 19,",2300 La Chaux-de-Fonds,4.0,90.0,1130,3.25,Apartment,-1,-1,0
+4002348982,"Rue de la Charrière 21,",2300 La Chaux-de-Fonds,3.5,-1,1250,3.5,Apartment,-1,-1,0
+4002349498,"Grand-Rue 8,",2000 Neuchâtel,3.5,-1,2350,2.25,Apartment,2025,-1,1
+4002349524,"Avenue Léopold-Robert 138,",2300 La Chaux-de-Fonds,3.5,101.0,1390,1.75,Apartment,-1,-1,1
+4002349766,,,4.5,-1,2700,-1,Attic flat,-1,-1,1
+4002349768,,,4.5,-1,2700,-1,Attic flat,-1,-1,1
+4002349822,"Rue du Patinage 25,",2114 Fleurier,3.0,-1,1120,6.5,Apartment,2023,-1,1
+4002350082,"Route du Communal 12,",2400 Le Locle,1.0,-1,570,7.75,Apartment,-1,-1,1
+4002350181,"Rue des Charmettes 103,",2000 Neuchâtel,3.5,-1,1430,5.25,Apartment,-1,-1,0
+4002350231,"Rue des Fontenettes 12,",2012 Auvernier,4.0,-1,1800,8.33,Apartment,-1,-1,0
+4002351075,"Rue de Port-Roulant 34,",2000 Neuchâtel,1.0,32.0,925,6.5,Apartment,-1,1959,0
+4002351788,"Bas-de-Sachet 3,",2016 Cortaillod,5.0,-1,3000,10.5,Single house,-1,-1,0
+4002354065,"Manège 14,",2300 La Chaux-de-Fonds,5.0,112.0,1685,5.0,Apartment,-1,-1,0
+4002354346,"Rue du Grenier 8-10,",2300 La Chaux-de-Fonds,3.0,70.0,940,3.25,Apartment,-1,-1,0
+4002354348,"Rue Jeanneret 23,",2400 Le Locle,2.0,45.0,786,7.0,Apartment,-1,-1,1
+4002354349,"Rue Jeanneret 23,",2400 Le Locle,3.0,57.0,757,7.0,Apartment,-1,-1,1
+4002354352,"Numa-Droz 98,",2300 La Chaux-de-Fonds,3.0,70.0,900,4.5,Apartment,-1,-1,0
+4002354354,"Rue du Puits 19,",2300 La Chaux-de-Fonds,2.0,55.0,531,3.25,Apartment,-1,1902,0
+4002354355,"Rue du Tombet 23,",2034 Peseux,3.0,73.0,1271,6.5,Apartment,-1,1997,1
+4002355808,,,3.0,130.0,1800,-1,Apartment,-1,-1,1
+4002355812,,,3.0,90.0,1390,-1,Apartment,2025,-1,1
+4002355984,"Rouges-Terres 9a,",2068 Hauterive,3.5,-1,1490,6.5,Apartment,-1,-1,0
+4002356097,"Avenue des Cadolles 12D,",2000 Neuchâtel,4.5,107.0,2130,6.25,Apartment,-1,-1,1
+4002356414,"Parcs 54,",2000 Neuchâtel,3.0,-1,1420,3.5,Apartment,-1,-1,0
+4002356415,"Rue des Charmettes 36,",2000 Neuchâtel,3.5,72.0,1540,6.0,Apartment,-1,-1,0
+4002356697,"Rue de Beauregard 6,",2000 Neuchâtel,4.5,100.0,1780,4.75,Apartment,-1,-1,1
+4002357254,"Serre 10,",2300 La Chaux-de-Fonds,4.5,-1,1540,2.75,Maisonette / Duplex,-1,-1,0
+4002357385,,,2.0,49.0,1200,-1,Apartment,-1,-1,0
+4002357409,,,3.5,110.0,2190,-1,Apartment,-1,-1,1
+4002357452,,,2.5,68.0,1375,-1,Apartment,-1,-1,1
+4002358832,"Industrie 23,",2300 La Chaux-de-Fonds,3.0,-1,865,3.0,Apartment,-1,-1,0
+4002359743,"Rue du Rocher 24,",2000 Neuchâtel,2.5,66.0,1545,4.5,Apartment,-1,-1,1
+4002359756,"Rue de France 8,",2400 Le Locle,3.5,70.0,1350,3.5,Apartment,2025,-1,0
+4002359914,"Rue de la Sagne 1,",2114 Val-de-Travers,3.5,90.0,1340,3.5,Apartment,-1,-1,0
+4002360303,"Rue de l'Evole 60-62-64,",2000 Neuchâtel,3.0,66.0,1545,8.0,Apartment,-1,-1,0
+4002360881,"Raffinerie 5,",2000 Neuchâtel,3.5,-1,1775,3.25,Apartment,-1,-1,0
+4002361824,,,8.5,-1,4000,-1,Apartment,-1,-1,1
+4002361825,,,8.5,-1,4000,-1,Apartment,-1,-1,1
+4002361842,"Nord 39,",2300 La Chaux-de-Fonds,2.0,-1,860,4.0,Apartment,-1,-1,1
+4002361843,"Serre 90 - 94,",2300 La Chaux-de-Fonds,-1,47.0,365,3.75,Apartment,-1,-1,0
+4002361844,"Promenade 13,",2300 La Chaux-de-Fonds,2.5,62.0,995,4.0,Apartment,-1,-1,0
+4002362242,,,-1,-1,-1,-1,,-1,-1,0
+4002362243,"Verger l'Ecuyer 3,",2068 Hauterive,3.0,-1,1475,11.0,Apartment,-1,-1,1
+4002362271,,,-1,-1,-1,-1,,-1,-1,0
+4002363584,"Rue de la Charrière 89,",2300 La Chaux-de-Fonds,2.5,-1,1040,7.0,Apartment,-1,-1,0
+4002363585,"Rue Georges-Favre 2,",2400 Le Locle,2.5,-1,860,6.25,Apartment,-1,-1,1
+4002363587,"Rue Georges-Favre 2,",2400 Le Locle,3.5,-1,1170,6.25,Apartment,-1,-1,1
+4002363588,"Rue de la Charrière 89,",2300 La Chaux-de-Fonds,1.5,-1,710,7.0,Apartment,-1,-1,0
+4002363678,"Le Coude 2,",2116 Mont-de-Buttes,3.5,90.0,1100,-1,Apartment,2022,-1,1
+4002363863,,,-1,-1,-1,-1,,-1,-1,0
+4002363864,"Avenue de l'Hôpital 6,",2400 Le Locle,1.5,25.0,590,7.5,Apartment,-1,1953,0
+4002363947,"Croix Fédérale 44,",2300 La Chaux-de-Fonds,3.5,71.0,1255,9.25,Apartment,2012,1972,1
+4002364026,"Arc-en-Ciel 22,",2300 La Chaux-de-Fonds,4.0,76.0,1290,5.5,Apartment,-1,-1,1
+4002364038,"Rue du Château 8,",2013 Colombier NE,4.5,100.0,1900,5.75,Roof flat,2025,-1,0
+4002364435,"Verger Clottu 3,",2068 Hauterive NE,4.5,168.0,2970,5.33,Apartment,-1,-1,1
+4002364436,"Numa-droz 196,",2300 La Chaux-de-Fonds,3.5,-1,1080,3.0,Apartment,-1,-1,1
+4002364788,"Le Crêt-de-l'Eau 1,",2108 Couvet,3.0,60.0,990,7.0,Apartment,2025,-1,0
+4002364822,"Avenue de l'Hôpital 6,",2400 Le Locle,2.5,51.0,1390,7.5,Apartment,-1,1953,0
+4002364824,"Avenue Léopold-Robert 120,",2300 La Chaux-de-Fonds,3.5,70.0,1120,3.5,Apartment,-1,1988,0
+4002364847,"Chemin de Bel-Air 8,",2300 La Chaux-de-Fonds,4.0,75.0,1300,5.0,Apartment,2025,-1,0
+4002365032,"Route de Neuchâtel 2,",2088 Cressier NE,5.5,-1,2400,3.0,Apartment,-1,-1,0
+4002365510,"Rue de Vieux-Châtel 21,",2000 Neuchâtel,4.5,95.0,2050,4.25,Apartment,-1,-1,0
+4002366671,"Rue de la Charrière - Immeuble 65,",2300 La Chaux-de-Fonds,2.5,50.0,1045,4.25,Apartment,-1,-1,0
+4002366720,"Monruz 5,",2000 Neuchâtel,3.0,-1,1495,4.75,Apartment,-1,-1,0
+4002366721,"Rue des Préels 7 C,",2036 Cormondrèche,4.5,108.0,2250,5.0,Apartment,-1,-1,0
+4002368486,"Chapon des Prés 6,",2022 Bevaix,3.0,-1,1290,10.0,Apartment,-1,-1,1
+4002368496,"Grande-Rue 42,",2316 Les Ponts-de-Martel,2.5,-1,960,3.0,Apartment,-1,-1,0
+4002368510,"Georges-Perrenoud 36,",2400 Le Locle,2.0,-1,840,8.0,Apartment,-1,-1,0
+4002368571,"Rue de la Perriere 11,",2000 Neuchâtel,1.5,34.0,950,8.5,Apartment,-1,-1,0
+4002368684,"Rue des Sablons 45,",2000 Neuchâtel,1.0,33.0,1099,3.0,Apartment,2023,1974,0
+4002368980,"Rue de la Gare 5,",2400 Le Locle,4.0,-1,890,2.75,Apartment,-1,-1,0
+4002369203,,,3.5,124.0,1600,-1,Apartment,-1,-1,0
+4002369312,"Rue des Acacias 1,",2000 Neuchâtel,3.0,-1,1582,4.25,Apartment,-1,-1,0
+4002369313,"Place des Halles 8,",2000 Neuchâtel,4.5,-1,3140,2.5,Apartment,-1,-1,0
+4002369756,"Rue du Doubs 83,",2300 La Chaux-de-Fonds,3.5,90.0,1230,4.75,Apartment,-1,-1,1
+4002370402,"Rue de l'Etoile 3,",2300 La Chaux-de-Fonds,2.0,-1,860,3.0,Apartment,-1,-1,0
+4002370479,"Grand'Rue 16,",2108 Val-de-Travers,4.0,96.0,1110,5.5,Apartment,-1,-1,0
+4002370559,"Grande-Rue 42,",2316 Les Ponts-de-Martel,3.5,-1,1080,3.0,Apartment,-1,-1,0
+4002370560,"La Forge 112,",2405 La Chaux-du-Milieu,4.5,-1,1110,-1,Apartment,-1,-1,1
+4002370594,"Rue de l'Industrie 7,",2400 Le Locle,2.0,-1,860,8.0,Apartment,-1,-1,0
+4002370595,"Rue du Foyer 29,",2400 Le Locle,4.0,-1,1150,5.75,Apartment,-1,-1,0
+4002370596,"Rue Marie-Anne-Calame 5,",2400 Le Locle,1.0,-1,222,2.5,Hobby room,-1,-1,0
+4002371101,"Numa-Droz 1,",2300 La Chaux-de-Fonds,3.5,76.0,1480,2.75,Apartment,-1,-1,0
+4002371187,"Rue du Doubs 125,",2300 La Chaux-de-Fonds,2.0,-1,890,5.25,Apartment,-1,-1,1
+4002371344,"Crêt-Vaillant 2,",2400 Le Locle,4.0,-1,1230,4.25,Apartment,-1,-1,0
+4002371574,,,4.5,130.0,2780,-1,Attic flat,-1,-1,0
+4002371577,,,3.5,90.0,1540,-1,Apartment,-1,-1,0
+4002371579,,,3.0,70.0,1950,-1,Apartment,-1,-1,0
+4002371581,"Rue Frédéric Soguel 12,",2053 Cernier,4.0,80.0,1650,2.5,Apartment,-1,-1,0
+4002371999,"Route des Addoz 42,",2017 Boudry,3.5,63.0,1280,13.25,Apartment,-1,-1,0
+4002372736,,,2.5,45.0,800,-1,Apartment,-1,-1,0
+4002372783,"Rue des Champs 8,",2300 La Chaux-de-Fonds,4.5,103.0,1650,7.0,Apartment,-1,1994,1
+4002373340,"Petits Clos 39,",2114 Fleurier,2.0,59.0,1278,-1,Apartment,-1,-1,0
+4002373341,"Petits Clos 39,",2114 Fleurier,3.0,75.0,1517,-1,Apartment,-1,-1,0
+4002373342,"Petits-Clos 41,",2114 fleurier,4.0,96.0,1590,6.33,Apartment,-1,-1,0
+4002373608,"Rue Louis-Favre 30,",2017 Boudry,1.0,30.0,850,4.25,Studio,-1,-1,0
+4002373892,"Rue du Locle 21,",2300 La Chaux-de-Fonds,3.5,95.0,1190,4.75,Apartment,-1,2000,1
+4002374321,"Rue de la Charrière 13,",2300 La Chaux-de-Fonds,2.0,-1,860,4.0,Apartment,-1,-1,0
+4002374387,"Avenue de l'Hôtel-de-Ville 19,",2400 Le Locle,3.0,-1,1010,5.0,Apartment,-1,-1,0
+4002374461,"Avenue de la Gare 11,",2114 Val-de-Travers,4.0,100.0,1400,3.5,Apartment,-1,-1,1
+4002374475,"Rue Fritz-Courvoisier 6,",2300 La Chaux-de-Fonds,3.5,-1,1800,3.75,Apartment,-1,-1,0
+4002375021,"Chemine des Valangines,",2000 Neuenburg,2.5,135.0,1900,-1,Apartment,-1,-1,0
+4002375128,"Rue du Petit-Berne 5A,",2035 Corcelles NE,3.5,80.0,1490,16.5,Apartment,-1,-1,1
+4002376359,"Rue de Beau-Site 3,",2300 La Chaux-de-Fonds,3.0,73.0,1140,4.75,Apartment,-1,-1,0
+4002376612,"Rocher 7,",2000 Neuchâtel,5.0,-1,2000,4.5,Apartment,-1,-1,0
+4002376613,"Rue de l'Evole 35,",2000 Neuchâtel,3.0,75.0,1510,5.0,Apartment,2025,-1,1
+4002376803,"Rue de Champréveyres 7,",2000 Neuchâtel,5.5,120.0,3220,6.0,Attic flat,-1,1973,0
+4002377010,"Rue Neuve 9,",2314 La Sagne,3.0,-1,1040,6.5,Apartment,-1,-1,0
+4002377011,"Rue Pierre-de-Vingle 22,",2000 Neuchâtel,1.0,29.0,790,8.5,Studio,-1,-1,0
+4002377938,,,4.5,120.0,2800,-1,Apartment,-1,-1,0
+4002377984,"Ecluse 63,",2000 Neuchâtel,3.5,-1,1250,4.5,Apartment,2025,-1,1
+4002378838,"Quartier du Milieu 80,",2127 Val-de-Travers,2.0,50.0,950,-1,Apartment,2023,-1,0

@@ -1,0 +1,999 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+3002648036,"Franklinstrasse 12,",8050 Zürich,1.0,26.0,2850,3.0,Apartment,2023,-1,0
+4000495519,"Franklinstrasse 12,",8050 Zürich,1.5,36.0,3150,3.0,Apartment,2023,-1,0
+4000706591,"Zürcherstrasse 143,",8406 Winterthur,1.5,36.0,2100,2.25,Apartment,-1,-1,0
+4001053710,"Im Tubental 4,",8352 Elsau,1.0,18.0,320,10.0,Hobby room,-1,2024,0
+4001454300,"Franklinstrasse 12,",8050 Zürich,2.0,51.0,3900,3.0,Apartment,2023,-1,0
+4001626953,"Meier-Bosshard-Strasse 9,",8048 Zürich,2.5,57.0,2580,3.75,Apartment,-1,2024,1
+4001668648,,,-1,-1,-1,-1,,-1,-1,0
+4001694283,"Birchstrasse 180,",8050 Zürich,3.0,74.0,6900,3.0,Apartment,-1,2007,1
+4001694286,"Birchstrasse 180,",8050 Zürich,2.0,55.0,4870,2.75,Apartment,-1,2006,1
+4001749947,"Jungholzstrasse 20,",8050 Zürich,1.5,43.0,1846,3.75,Apartment,-1,1931,0
+4001782931,"Zürcherstrasse 71,",8903 Birmensdorf ZH,4.5,-1,3591,9.5,Apartment,-1,-1,1
+4001783149,"Tödistrasse 63,",8810 Horgen,2.0,57.0,3770,8.5,Roof flat,2024,2024,1
+4001783150,,,-1,-1,-1,-1,,-1,-1,0
+4001790468,"Länggenstrasse 3,",8184 Bachenbülach,4.5,159.0,2990,8.25,Apartment,-1,2002,0
+4001800254,"Badenerstrasse 54,",8953 Dietikon,2.0,-1,1740,4.75,Apartment,2024,-1,1
+4001800256,,,-1,-1,-1,-1,,-1,-1,0
+4001825603,,,-1,-1,-1,-1,,-1,-1,0
+4001869085,"Erlengutstrasse 8,",8703 Erlenbach ZH,2.5,73.0,3160,6.5,Apartment,-1,2025,1
+4001869086,"Erlengutstrasse 8,",8703 Erlenbach ZH,3.5,91.0,3790,6.5,Apartment,-1,2025,1
+4001869087,"Erlengutstrasse 6,",8703 Erlenbach ZH,4.5,110.0,4890,6.75,Apartment,-1,2025,1
+4001869088,"Rütiwiesenstr. 16,",8136 Gattikon,-1,143.0,750,6.75,Hobby room,-1,1961,0
+4001879895,"Rieterstrasse 11,",8002 Zürich,3.0,70.0,2850,4.5,Roof flat,2025,1894,0
+4001880640,"Steinhaldenstrasse 62,",8002 Zürich,3.0,88.0,3930,5.25,Apartment,2017,1913,0
+4001885004,"Schönholzweg 43,",8409 Winterthur,3.5,92.0,3260,9.25,Attic flat,-1,2023,1
+4001897256,"Schaffhauserstrasse 129,",8152 Glattbrugg,1.0,14.0,750,4.25,Single Room,-1,1960,1
+4001926348,,,-1,-1,-1,-1,,-1,-1,0
+4001927974,"Zwingliplatz 3,",8001 Zürich,3.5,172.0,5700,3.25,Apartment,-1,1927,0
+4001964303,"Dorfgasse 14,",8810 Horgen,2.5,83.0,2600,1.5,Apartment,-1,-1,0
+4001966608,"Buchholzstrasse 17,",8053 Zürich,2.5,57.0,2575,5.0,Apartment,-1,2025,1
+4001966783,"Mühlebachstr. 30a (Güggel),",8800 Thalwil,5.5,157.0,4950,-1,Apartment,-1,-1,1
+4001976122,"Forchstrasse 261,",8032 Zürich,2.5,78.0,3080,4.0,Apartment,-1,1961,1
+4001977900,"Maurstrasse 2,",8117 Fällanden,3.5,99.0,2940,4.5,Maisonette / Duplex,-1,-1,0
+4001979914,"Kappelerhof,",8926 Kappel am Albis,4.5,-1,3490,5.67,Apartment,-1,-1,0
+4001983884,"Sonneggstr. 41,",8006 Zürich,2.5,72.0,3420,4.25,Apartment,-1,2025,0
+4001986505,"Stapferstrasse 1,",8006 Zürich,3.5,-1,4190,2.5,Apartment,2025,1863,0
+4001986526,"Stapferstrasse 1,",8006 Zürich,2.5,-1,3290,2.5,Apartment,2025,1863,0
+4001990159,"Zürcherstrasse 100,",8800 Thalwil,2.5,49.0,2680,5.5,Apartment,-1,2025,1
+4001995103,"Emmerhofstrasse 13,",8192 Glattfelden,4.5,143.0,3150,3.67,Maisonette / Duplex,-1,2019,1
+4001996859,"Buchholzstrasse 15,",8053 Zürich,3.5,81.0,3990,4.5,Apartment,-1,2025,1
+4001999959,"Schöntalstrasse 18a,",8486 Rikon im Tösstal,4.5,153.0,2614,13.33,Attic flat,-1,2010,1
+4002000511,"Bucheggstrasse 130,",8057 Zürich,4.5,125.0,4950,5.25,Maisonette / Duplex,-1,2023,0
+4002002092,"Erlenwiesenstrasse 20,",8152 Opfikon,2.0,46.0,2990,5.0,Apartment,-1,-1,1
+4002002444,"Höglerstr. 44,",8600 Dübendorf,2.5,82.0,2065,5.75,Apartment,-1,1992,1
+4002003120,"Seestrasse 136-142,",8707 Uetikon am See,2.5,92.0,3630,7.25,Maisonette / Duplex,-1,-1,1
+4002003145,"Weinbergstrasse 161,",8006 Zürich,2.0,78.0,2990,3.0,Apartment,2021,1930,1
+4002004600,"Obergasse 3,",8180 Bülach,3.0,-1,1993,3.0,Apartment,-1,1967,0
+4002006204,"Wermatswilerstrasse,",8320 Fehraltorf,1.5,33.0,1690,8.0,Apartment,2025,-1,0
+4002017368,"Buckhauserstrasse 45,",8048 Zürich,2.5,75.0,2820,2.75,Apartment,-1,-1,0
+4002017696,"Seestrasse 261,",8038 Zürich,4.0,213.0,7960,6.5,Apartment,2017,-1,1
+4002021591,"Grüzenstrasse 44,",8400 Winterthur,3.5,82.0,2240,4.5,Apartment,2025,1876,1
+4002021605,"Töpferstrasse 15,",8400 Winterthur,5.5,140.0,3400,4.5,Apartment,2025,1876,0
+4002023792,"Buchholzstrasse 9,",8053 Zürich,2.5,54.0,2375,8.0,Apartment,-1,2025,1
+4002023847,"Buchholzstrasse 9,",8053 Zürich,3.5,90.0,3450,7.75,Apartment,-1,2025,1
+4002032198,"Hürstringstrasse 5,",8046 Zürich,3.5,90.0,2950,5.75,Roof flat,-1,2025,1
+4002039927,"Grabenwies 32,",8057 Zürich,4.5,110.0,4320,3.75,Apartment,1985,1941,0
+4002045085,"Sunneraistr. 18-56,",8634 Hombrechtikon,6.5,168.0,3565,10.0,Row house,-1,1998,1
+4002045115,"Renggerstrasse 19,",8038 Zürich,2.5,103.0,4100,4.75,Apartment,-1,-1,1
+4002046841,"Hofstrasse 53,",8032 Zürich,4.5,130.0,3450,4.25,Apartment,-1,1928,1
+4002047788,"Höglerstr. 36,",8600 Dübendorf,4.5,138.0,3609,6.25,Attic flat,-1,1992,0
+4002048339,"Hohlstrasse 27,",8004 Zürich,3.5,73.0,3410,4.0,Apartment,-1,-1,0
+4002048658,"Lerchenhalde 4,",8703 Erlenbach ZH,4.5,104.0,3420,7.5,Apartment,2024,2001,0
+4002049679,"Schönholzweg 45,",8409 Winterthur,4.5,107.0,3480,9.75,Attic flat,-1,2023,1
+4002050155,"Kornhausstrasse 36,",8006 Zürich,2.5,121.0,4319,5.5,Roof flat,-1,1911,1
+4002050973,"Altstetterstrasse 247 + 249,",8048 Zürich,2.0,44.0,2250,5.0,Apartment,-1,-1,0
+4002050974,"Altstetterstrasse 247 + 249,",8048 Zürich,1.5,48.0,2400,5.0,Apartment,-1,-1,0
+4002051424,"Altstetterstrasse 247 + 249,",8048 Zürich,2.0,48.0,2260,5.0,Apartment,-1,-1,1
+4002064564,"Technoparkstrasse 10,",8005 Zürich,2.0,122.0,3710,4.5,Loft,2024,2005,0
+4002064661,"Technoparkstrasse 10,",8005 Zürich,2.0,122.0,3710,4.5,Loft,2024,2005,0
+4002066467,"Meier-Bosshard-Strasse 9,",8048 Zürich,3.5,68.0,3040,3.75,Apartment,-1,2025,1
+4002071562,"Brunaustrasse 158,",8951 Fahrweid,3.5,84.0,2415,9.75,Apartment,-1,2015,0
+4002073537,"Am Giessenpark 5,",8600 Dübendorf,3.5,95.0,2820,4.5,Apartment,-1,2018,0
+4002073542,"Giessenplatz 8,",8600 Dübendorf,2.5,79.0,2480,4.5,Apartment,-1,-1,0
+4002074588,"Winkelweg 3,",8488 Turbenthal,2.5,-1,1640,3.75,Apartment,2022,-1,0
+4002074903,"Baslerstrasse 77,",8048 Zürich,2.0,70.0,3193,3.5,Apartment,-1,2020,0
+4002075292,"Bundtstrasse 21,",8127 Forch,3.5,79.0,2070,10.0,Apartment,-1,-1,0
+4002078610,,,-1,-1,-1,-1,,-1,-1,0
+4002085007,"Pflugstr. 20,",8006 Zürich,3.5,90.0,3480,3.0,Apartment,2010,1939,1
+4002085432,"Affolternstrasse 10,",8050 Zürich,1.5,40.0,2355,3.0,Apartment,-1,-1,1
+4002086032,"Viktoriastrasse 29,",8057 Zürich,1.5,23.0,1600,5.25,Apartment,2023,2019,1
+4002086101,"Hagenholzstrasse 59,",8050 Zürich,1.5,24.0,2185,6.25,Apartment,2023,2023,1
+4002086114,"Siewerdtstrasse 75,",8050 Zürich,1.5,24.0,1970,5.75,Apartment,2025,2025,1
+4002086117,"Siewerdtstrasse 75,",8050 Zürich,1.5,24.0,1970,7.0,Apartment,2025,2025,1
+4002086141,"Rotbuchstrasse 9,",8006 Zürich,1.0,17.0,1971,1.75,Apartment,2025,2025,0
+4002086198,"Militärstrasse 106,",8004 Zürich,1.5,24.0,2142,3.75,Apartment,2025,2025,0
+4002086457,"Bernerstrasse Süd 167-169,",8048 Zürich,1.5,23.0,1995,5.5,Apartment,2022,2022,0
+4002090813,"Brunaustrasse 156,",8951 Fahrweid,2.5,63.0,2200,8.5,Apartment,-1,2015,0
+4002093237,"Weststrasse 52,",8620 Wetzikon,5.5,150.0,3550,5.5,Apartment,-1,2021,0
+4002095771,"Dorfstrasse,",8483 Kollbrunn,1.0,-1,950,2.33,Single Room,-1,-1,0
+4002096040,"Rümikerstrasse 64,",8409 Hegi (Winterthur),6.0,150.0,3750,4.5,Bifamiliar house,2021,2003,1
+4002107534,"Bauherrenstrasse 28,",8049 Zürich,5.5,-1,4625,6.0,Apartment,-1,-1,1
+4002107546,"Haldensteinstrasse 19C,",8105 Watt,4.5,149.0,3750,7.0,Single house,-1,1997,1
+4002108408,"Zumikerstrasse 20,",8702 Zollikon,4.5,112.0,4300,6.25,Apartment,-1,1991,0
+4002110838,"Lächenstrasse 35,",8247 Flurlingen,5.0,205.0,5200,10.25,Terrace flat,-1,2016,1
+4002111117,"Affolternstr. 28,",8105 Regensdorf,4.5,140.0,3015,5.75,Maisonette / Duplex,-1,2006,1
+4002111619,"Huebstrasse 21,",8317 Tagelswangen,2.5,76.0,2390,6.25,Attic,-1,-1,0
+4002113547,"Badenerstrasse 94,",8952 Schlieren,7.5,181.0,5030,5.25,Apartment,-1,2020,1
+4002114080,"Alfred Comte-Strasse 9,",8953 Dietikon,3.5,97.0,2696,6.25,Maisonette / Duplex,-1,-1,0
+4002128853,"Buckhauserstrasse 45,",8048 Zürich,3.5,97.0,3617,2.75,Apartment,-1,-1,0
+4002128857,"Hochstrasse 137,",8330 Pfäffikon ZH,2.5,124.0,2570,10.25,Roof flat,-1,-1,0
+4002132732,"Birchstrasse 183B,",8050 Zürich,4.5,123.0,4320,3.75,Apartment,-1,2004,0
+4002133932,"Im Zentrum 8,",8634 Hombrechtikon,2.5,71.0,1930,2.5,Apartment,-1,1993,0
+4002136153,"Dienerstrasse 50,",8004 Zürich,3.5,-1,3390,2.25,Roof flat,2025,2025,1
+4002137002,"Eichelackerstrasse 20,",8106 Regensdorf,4.5,136.0,4490,10.33,Attic flat,-1,2025,1
+4002137065,"Eichelackerstrasse 22,",8106 Adlikon b. Regensdorf,3.5,104.0,3240,10.33,Apartment,-1,2025,1
+4002138666,"Riedthofstrasse 73,",8105 Regensdorf,4.5,83.0,2560,7.0,Apartment,-1,-1,1
+4002140756,"Wallisellerstrasse 8,",8152 Glattbrugg,3.5,84.0,2083,3.25,Apartment,2010,1969,0
+4002151638,"Lavaterstr. 63,",8002 Zürich,2.5,79.0,3885,4.5,Roof flat,2017,1894,0
+4002152508,"Neugasse 41,",8005 Zürich,3.0,63.0,2970,3.0,Apartment,2017,1895,0
+4002153184,"Rieterstrasse 48,",8002 Zürich,5.5,-1,5200,5.5,Maisonette / Duplex,1972,1969,1
+4002154320,"Birchlenstr. 37,",8600 Dübendorf,3.5,80.0,2610,-1,Maisonette / Duplex,1992,1992,1
+4002155117,"Dorfstrasse,",8483 Kollbrunn,1.0,-1,950,2.33,Single Room,-1,-1,0
+4002157267,"Forchstrasse 261,",8032 Zürich,2.5,109.0,3130,4.0,Apartment,2015,1961,0
+4002157761,"Taggenbergstrasse 53A,",8408 Winterthur,5.5,139.0,3350,12.0,Row house,2025,1971,1
+4002166320,"Haltbergstrasse 18,",8630 Rüti,3.5,53.0,1940,4.25,Apartment,2025,1871,1
+4002166870,"Forenackerstrasse 6,",8246 Langwiesen,4.5,95.0,1800,9.5,Apartment,2002,1970,0
+4002166884,"Steinstrasse 62,",8106 Adlikon,4.0,86.0,2300,11.0,Apartment,-1,-1,0
+4002166900,"Alte Landstrasse 85,",8803 Rüschlikon,4.5,-1,6990,6.25,Attic flat,-1,2014,0
+4002166920,"Kirchweg 108,",8246 Langwiesen,3.5,90.0,1730,9.25,Apartment,1997,1973,1
+4002166922,"Forenackerstrasse 6,",8246 Langwiesen,4.5,104.0,1850,9.25,Apartment,2002,1970,1
+4002167687,"Neugasse 31,",8005 Zürich,3.5,82.0,3880,3.5,Maisonette / Duplex,2015,1898,0
+4002168433,"Poststrasse 13,",8180 Bülach,4.5,125.0,3500,3.25,Apartment,-1,2026,1
+4002168436,"Poststrasse 13,",8180 Bülach,4.5,87.0,4035,3.25,Attic flat,-1,2026,1
+4002168438,"Spinnereistr. 2,",8192 Glattfelden,3.5,98.0,2370,4.33,Apartment,-1,2024,1
+4002168513,"Pfingstweidstrasse 98,",8005 Zürich,3.5,162.0,5250,5.5,Apartment,-1,2013,1
+4002169231,"Steinackerweg 12,",8304 Wallisellen,2.5,60.0,2355,8.25,Apartment,-1,-1,0
+4002170225,"Albisriederstrasse 172,",8003 Zürich,1.5,-1,1850,3.5,Apartment,-1,-1,0
+4002170259,"Stöckenstrasse 16,",8903 Birmensdorf ZH,1.5,40.0,2145,5.25,Apartment,2025,-1,1
+4002171795,"Thurgauerstrasse 107,",8152 Opfikon,2.5,-1,2790,3.5,Apartment,2025,2025,1
+4002179282,"Hochstr. 146,",8330 Pfäffikon ZH,4.5,97.0,1980,11.5,Apartment,-1,1971,1
+4002179697,"Thurgauerstrasse 107,",8152 Opfikon,1.0,-1,1990,3.5,Studio,2025,2025,1
+4002179706,"Thurgauerstrasse 107,",8152 Opfikon,3.5,80.0,3490,3.5,Apartment,2025,2025,1
+4002181640,"Bahnhofstrasse 44,",8305 Dietlikon,2.0,68.0,1900,1.75,Apartment,-1,1975,0
+4002182123,"Hambergersteig 19,",8008 Zürich,5.5,202.0,7950,6.0,Row house,2022,1986,1
+4002185409,"Guggerstrasse 2,",8702 Zollikon,4.5,146.0,6950,7.5,Apartment,-1,2006,1
+4002186983,"Holbeinstr. 35,",8008 Zürich,3.0,71.0,3755,2.75,Apartment,2006,1929,1
+4002186986,,,-1,-1,-1,-1,,-1,-1,0
+4002189309,"Seestrasse 129,",8712 Stäfa,3.5,141.0,7230,9.25,Apartment,-1,2025,1
+4002189928,"Wermatswilerstrasse,",8320 Fehraltorf,1.5,40.0,1730,8.0,Apartment,2025,-1,0
+4002194321,"Gütlistrasse 15,",8400 Winterthur,6.0,260.0,4380,7.5,Apartment,2022,-1,1
+4002194669,"Betpurstrasse 30,",8910 Affoltern am Albis,4.5,130.0,3200,5.25,Attic flat,2015,2008,1
+4002196511,"Wolfzangenstrasse 2e,",8413 Neftenbach,7.5,200.0,3900,7.33,Bifamiliar house,2025,2006,1
+4002196558,"Schärenmoosstr. 80,",8052 Zürich,1.5,69.0,2200,3.25,Loft,-1,1988,0
+4002196978,"Feldstrasse 39,",8004 Zürich,3.0,74.0,2900,3.25,Apartment,-1,2009,0
+4002198515,,,-1,-1,-1,-1,,-1,-1,0
+4002199073,"Forchstr. 26,",8008 Zürich,3.5,85.0,3650,2.5,Apartment,2012,1933,1
+4002199237,"Sankt-Georgen-Strasse 70,",8400 Winterthur,3.5,120.0,3950,5.25,Attic flat,2025,2001,1
+4002202810,"Roswiesenstrasse 122,",8051 Zürich,3.5,82.0,3650,6.0,Terrace flat,-1,2024,1
+4002202982,"Oerlikonerstr. 3,",8057 Zürich,3.5,75.0,2065,4.5,Apartment,-1,1981,0
+4002208867,,,-1,-1,-1,-1,,-1,-1,0
+4002208918,,,-1,-1,-1,-1,,-1,-1,0
+4002208931,"Seefeldstrasse 26,",8008 Zürich,3.5,106.0,5900,2.0,Roof flat,2025,2025,1
+4002208952,"Seefeldstrasse 26,",8008 Zürich,3.5,97.0,5500,7.25,Roof flat,2025,2025,1
+4002209010,"Seefeldstrasse 28,",8008 Zürich,3.5,96.0,5500,2.0,Roof flat,2025,2025,1
+4002209020,"Seefeldstrasse 28,",8008 Zürich,3.5,117.0,6400,2.0,Roof flat,2025,2025,1
+4002209192,"Dorfstrasse 125,",8912 Obfelden,5.5,115.0,3150,9.5,Bifamiliar house,-1,2014,1
+4002209530,"Wildenbühlstr. 14a,",8135 Langnau am Albis,5.5,128.0,3430,8.75,Apartment,-1,2008,0
+4002210620,"Fliederweg 3C,",8302 Kloten,4.0,95.0,3220,5.0,Row house,-1,2021,0
+4002210747,"Fliederweg 3C,",8302 Kloten,4.0,95.0,3220,5.0,Maisonette / Duplex,-1,2021,0
+4002211949,"Poststrasse 13,",8180 Bülach,3.5,112.0,3245,3.25,Apartment,-1,2026,1
+4002211950,"Poststrasse 13,",8180 Bülach,2.5,73.0,2915,3.25,Attic flat,-1,2026,1
+4002212231,"Birchlenstrasse 20-26,",8600 Dübendorf,3.5,87.0,3010,4.75,Apartment,-1,2025,0
+4002212232,"Birchlenstrasse 20-26,",8600 Dübendorf,2.5,49.0,2235,4.75,Apartment,-1,2025,0
+4002212501,"Sternenstrasse,",8002 Zürich,1.0,20.0,1200,4.5,Single Room,-1,-1,0
+4002212975,,,-1,-1,-1,-1,,-1,-1,0
+4002213119,"Hangenmoosstr. 3,",8820 Wädenswil,4.5,132.0,3350,10.25,Apartment,-1,2004,0
+4002214249,"Dorfstrasse 68,",8126 Zumikon,2.0,60.0,-1,4.5,Apartment,-1,1973,0
+4002215410,"Holderbachweg 61,",8046 Zürich,2.5,52.0,2530,5.0,Apartment,-1,1986,1
+4002216397,"Stauffacherstrasse 33b,",8004 Zürich,2.0,62.0,2955,3.5,Apartment,1956,1897,0
+4002217608,"Haldeneggsteig 7,",8006 Zürich,3.5,141.0,6930,4.0,Apartment,-1,1886,1
+4002217611,"Haldeneggsteig 7,",8006 Zürich,5.5,146.0,6460,4.0,Apartment,-1,1886,1
+4002217612,"Haldeneggsteig 7,",8006 Zürich,5.5,178.0,6180,4.0,Apartment,-1,1886,1
+4002219026,"Im Gsteig 2a,",8713 Uerikon,3.5,86.0,4820,4.67,Single house,-1,2025,1
+4002219653,"Kirchweg 106,",8246 Langwiesen,1.5,40.0,1105,8.75,Apartment,2002,1977,0
+4002219733,"Regensdorferstrasse 69,",8049 Zürich,2.5,58.0,2995,6.25,Apartment,-1,2023,1
+4002220590,"Buchholzstrasse 13,",8053 Zürich,5.5,122.0,4790,4.0,Apartment,-1,2025,1
+4002220599,"Buchholzstrasse 7,",8053 Zürich,4.5,106.0,4290,3.0,Apartment,-1,2025,1
+4002220901,"Staffelstrasse 3,",8045 Zürich,3.5,121.0,4180,5.0,Maisonette / Duplex,-1,2012,0
+4002221132,"Badenerstrasse 686,",8048 Zürich,1.5,53.0,2340,3.0,Apartment,-1,2025,0
+4002221144,"Badenerstrasse 682,",8048 Zürich,2.5,88.0,3580,3.5,Apartment,-1,2025,1
+4002221145,"Segnesstrasse 14,",8048 Zürich,2.5,74.0,3590,3.0,Apartment,-1,2024,1
+4002221151,"Segnesstrasse 14,",8048 Zürich,3.5,93.0,3760,3.0,Apartment,-1,2024,0
+4002222250,"Limmatquai 48,",8001 Zürich,3.5,80.0,3700,3.75,Apartment,-1,1984,0
+4002222276,"Triemlistrasse 153,",8047 Zürich,2.5,73.0,3190,4.25,Attic flat,1993,1980,0
+4002223381,"Rümlangstrasse 31,",8052 Zürich,3.5,80.0,2900,7.5,Apartment,-1,2020,1
+4002223471,,,-1,-1,-1,-1,,-1,-1,0
+4002223891,"Häldelistrasse 15d,",8712 Stäfa,5.5,134.0,4995,6.25,Apartment,-1,2022,1
+4002224603,"Hagenholzstrasse 55,",8050 Zürich,4.5,127.0,7640,5.75,Maisonette / Duplex,-1,2023,1
+4002224605,"Oerlikonerstr. 5,",8057 Zürich,5.0,126.0,2742,4.0,Apartment,-1,1981,0
+4002229524,,,-1,-1,-1,-1,,-1,-1,0
+4002229651,"Breitensteinstrasse 59,",8037 Zürich,3.0,70.0,2950,6.5,Apartment,-1,1968,0
+4002231971,"Im Sihlhof 29,",8134 Adliswil,4.5,122.0,3480,9.0,Apartment,2019,1994,0
+4002232553,"Culmannstrasse 10,",8006 Zürich,4.5,118.0,5583,4.0,Roof flat,-1,-1,1
+4002232880,"Im Brächli 35,",8053 Zürich,3.5,80.0,2400,6.25,Apartment,1990,1955,0
+4002233117,"Eichhölzlistrasse 14,",8192 Glattfelden,3.5,90.0,2570,4.0,Apartment,-1,2025,1
+4002233263,,,-1,-1,-1,-1,,-1,-1,0
+4002233474,,,3.5,-1,3935,-1,Apartment,-1,2025,0
+4002235555,,,-1,-1,-1,-1,,-1,-1,0
+4002235621,,,-1,-1,-1,-1,,-1,-1,0
+4002235875,,,-1,-1,-1,-1,,-1,-1,0
+4002236027,"Sulzbergstrasse 8,",8400 Winterthur,3.0,66.0,1802,4.25,Apartment,1983,1956,0
+4002236165,,,-1,-1,-1,-1,,-1,-1,0
+4002237187,"Neugutstrasse 4,",8450 Andelfingen,4.5,110.0,2300,6.0,Apartment,2021,1800,0
+4002237206,,,1.0,56.0,800,-1,Apartment,2015,2015,1
+4002238057,,,-1,-1,-1,-1,,-1,-1,0
+4002243057,"Dorfstr. 34,",8800 Thalwil,3.5,85.0,3490,5.25,Apartment,2015,1936,0
+4002244228,"Huebwiesenstrasse 36a,",8954 Geroldswil,3.5,96.0,3500,3.75,Attic flat,-1,-1,1
+4002245055,,,-1,-1,-1,-1,,-1,-1,0
+4002246866,,,-1,-1,-1,-1,,-1,-1,0
+4002248380,,,-1,-1,-1,-1,,-1,-1,0
+4002249843,"Rütistrasse 10,",8903 Birmensdorf,4.5,-1,3700,9.25,Apartment,2000,1974,1
+4002250209,"Altbergstrasse 2,",8953 Dietikon,2.5,50.0,2105,6.75,Apartment,-1,-1,0
+4002250590,"Margarethenstrasse 3,",8152 Opfikon,3.5,-1,3120,5.25,Apartment,-1,2025,1
+4002250596,"Margarethenstrasse 3,",8152 Opfikon,3.5,-1,3170,5.25,Apartment,-1,2025,1
+4002251759,"Südstrasse 3,",8008 Zürich,2.5,55.0,2986,4.5,Attic flat,2022,1972,0
+4002252700,"Weidächerstrasse 15,",8706 Meilen,7.5,177.0,4667,10.5,Apartment,-1,-1,0
+4002253385,"Jakob Bosshart-Strasse 4,",8424 Embrach,4.5,120.0,4999,2.75,Apartment,2024,2023,1
+4002254198,"Im Grundächer 2,",8907 Wettswil,4.5,122.0,5250,5.33,Apartment,-1,2016,1
+4002254892,"Sihlhallenstrasse 19,",8004 Zürich,2.5,63.0,2400,3.0,Apartment,2012,1974,0
+4002254897,"Kirchweg 110,",8246 Langwiesen,4.5,95.0,1760,9.25,Apartment,1997,1968,0
+4002255491,"Glatttalstrasse 63,",8052 Zürich,2.5,95.0,3500,4.5,Apartment,-1,2015,1
+4002255493,"Sonnenbergstrasse 90,",8610 Uster,3.0,57.0,1950,5.0,Apartment,-1,1950,1
+4002255929,,,4.5,140.0,3950,-1,Attic flat,2024,2024,1
+4002257893,"Waldstrasse/Gutstrasse 11+13/10,",8400 Winterthur,5.5,-1,3900,8.0,Maisonette / Duplex,-1,2025,0
+4002257894,"Waldstrasse/Gutstrasse 11+13/10,",8400 Winterthur,5.5,-1,3900,8.0,Single house,-1,2025,0
+4002259319,"Zeltweg 68,",8032 Zürich,2.5,80.0,4180,5.0,Apartment,-1,-1,0
+4002259320,"Zeltweg 68,",8032 Zürich,2.5,89.0,4610,5.0,Apartment,-1,-1,0
+4002259975,"Sennhauserweg 19,",8032 Zürich,5.0,-1,4550,3.25,Apartment,-1,1948,1
+4002260059,"Dorfstrasse 8,",8155 Niederhasli,4.0,186.0,3550,3.33,Apartment,-1,1999,1
+4002260336,"Zürichbergstrasse 46,",8044 Zürich,6.0,174.0,4200,4.75,Apartment,2012,1977,1
+4002261098,"Bahnhofstrasse 12,",8803 Rüschlikon,5.0,108.0,3443,7.25,Apartment,2013,1956,1
+4002261746,"Seestrasse 293C,",8804 Wädenswil,4.5,108.0,3350,5.67,Maisonette / Duplex,-1,2025,1
+4002262618,,,-1,-1,-1,-1,,-1,-1,0
+4002262624,"Zelgli 5,",8413 Neftenbach,4.5,103.0,2790,12.25,Apartment,-1,-1,1
+4002262625,"Bergstrasse 5,",8197 Rafz,4.5,115.0,2690,3.67,Apartment,-1,-1,0
+4002262788,,,6.5,-1,7500,-1,Apartment,2025,-1,0
+4002265556,,,-1,-1,-1,-1,,-1,-1,0
+4002266723,"Spyristrasse 20,",8044 Zürich,4.0,120.0,4250,3.75,Apartment,-1,1929,0
+4002266726,"Forchstrasse 24,",8008 Zürich,2.0,71.0,3160,2.75,Apartment,2024,1943,0
+4002266727,"Pfirsichstrasse 7,",8006 Zürich,3.0,102.0,3990,5.25,Roof flat,2019,1911,0
+4002266998,"Schwerzenbachstrasse 38,",8117 Fällanden,3.5,91.0,3240,4.75,Apartment,-1,2013,1
+4002267308,"Forchstrasse 275,",8008 Zürich,3.5,109.0,4190,4.0,Attic flat,2020,2020,1
+4002269227,"Buchzelgstr. 23,",8053 Zürich,4.5,110.0,2780,3.0,Apartment,-1,1973,1
+4002271476,"Eigenwasenstrasse 14,",8052 Zürich,2.5,65.0,2580,7.5,Apartment,-1,2025,1
+4002271523,"Dorfstrasse 7,",8483 Kollbrunn,1.0,-1,995,2.33,Single Room,-1,-1,0
+4002272089,"Im Grund 13,",8123 Ebmatingen,6.5,-1,3950,4.0,Row house,2025,-1,0
+4002273281,"Zollikerstrasse 203e,",8008 Zürich,2.5,-1,5400,9.25,Apartment,-1,-1,0
+4002273284,"Badenerstr. 531,",8048 Zürich,4.5,111.0,4485,6.25,Apartment,-1,-1,1
+4002274380,,,-1,-1,-1,-1,,-1,-1,0
+4002275547,"Scheuchzerstrasse 20,",8006 Zürich,6.0,203.0,5900,3.25,Apartment,-1,1908,1
+4002276018,"Guyer-Zeller-Strasse10,",8620 Wetzikon ZH,3.5,134.0,3960,5.25,Attic flat,2025,2024,1
+4002276181,"Karpfenstr. 6,",8942 Oberrieden,3.5,87.0,2750,7.75,Apartment,-1,1974,0
+4002276704,"Ida-Sträuli-Strasse 43,",8404 Winterthur,1.0,63.0,1860,3.75,Apartment,2018,2018,0
+4002276939,"Spinnereistr. 2,",8192 Glattfelden,3.5,90.0,2370,4.33,Apartment,-1,2024,1
+4002277505,"Rheinfallstrasse 3,",8447 Dachsen,4.5,141.0,2600,8.0,Apartment,2025,2007,1
+4002278390,"Steinligweg 15,",8303 Bassersdorf,5.0,145.0,4115,6.5,Single house,2025,1905,1
+4002279232,"Gussstrasse 6,",8180 Bülach,3.5,95.0,2424,5.25,Apartment,-1,2019,0
+4002279334,"Wolframplatz 1,",8045 Zurich,-1,33.0,3801,3.75,Apartment,-1,-1,0
+4002279666,,,-1,-1,-1,-1,,-1,-1,0
+4002280249,"Seefeldstr. 168,",8008 Zürich,4.5,89.0,4650,3.0,Apartment,1981,1981,1
+4002284090,"Breitacherstr. 6,",8142 Uitikon Waldegg,4.5,139.0,3639,7.0,Apartment,2011,1975,1
+4002286057,"Bahnhofstr. 6,",8353 Elgg,3.5,96.0,1990,6.5,Apartment,-1,1996,0
+4002286093,"Neptunstrasse 59,",8032 Zürich,1.5,25.0,1500,3.75,Apartment,2008,1879,0
+4002286174,"Blériot-Allee 4,",8152 Glattpark,2.5,108.0,3379,4.75,Maisonette / Duplex,-1,2014,0
+4002286489,"Bellerivestrasse 189,",8008 Zürich,2.0,64.0,2660,4.75,Apartment,1998,1939,0
+4002287131,"Chilenaustrasse 12,",8108 Dällikon,5.5,183.0,3580,2.33,Maisonette / Duplex,-1,2002,1
+4002288006,"Kirchstrasse 1,",8104 Weiningen,6.5,210.0,4500,6.0,Apartment,-1,2001,1
+4002288020,"Eichelackerstrasse 20,",8106 Adlikon b. Regensdorf,4.5,123.0,4050,10.33,Apartment,-1,2025,1
+4002288077,"Haldenweidstrasse 6,",8309 Nürensdorf,5.5,150.0,3400,7.0,Maisonette / Duplex,2025,2001,1
+4002288211,"Sihlquai 24,",8134 Adliswil,3.5,-1,3280,4.25,Maisonette / Duplex,2024,1911,1
+4002288453,,,-1,-1,-1,-1,,-1,-1,0
+4002288628,"Leimeneggstrasse 28,",8400 Winterthur,5.5,-1,4195,5.0,Apartment,-1,-1,0
+4002289158,"Grubenackerstrasse 71,",8052 Zürich,1.0,28.0,1780,6.75,Apartment,-1,-1,1
+4002289408,"Gräbligasse 12,",8001 Zürich,3.5,72.0,3630,4.25,Apartment,2025,-1,0
+4002289409,"Gräbligasse 12,",8001 Zürich,3.0,58.0,3220,4.25,Apartment,2025,-1,0
+4002289410,"Gräbligasse 12,",8001 Zürich,2.5,81.0,4425,4.25,Apartment,2025,-1,0
+4002289411,"Gräbligasse 12,",8001 Zürich,1.5,36.0,2385,4.25,Apartment,2025,-1,0
+4002289994,"Alte Landstrasse 149,",8804 Au ZH,2.5,81.0,2640,11.67,Apartment,-1,-1,0
+4002290391,"Pfarrhausstrasse 28,",8424 Embrach,4.5,137.0,2968,4.5,Apartment,-1,2017,0
+4002290837,"Im Talacher 26,",8306 Brüttisellen,2.5,70.0,1915,4.75,Attic,-1,-1,0
+4002290985,"Bodenackerstrasse 32,",8112 Otelfingen,4.5,92.0,2550,8.0,Apartment,-1,1985,1
+4002291339,"Untereichenstrasse 14,",8309 Nürensdorf,5.5,137.0,3950,5.0,Single house,2025,1967,1
+4002292649,"Im Sihlhof 28,",8134 Adliswil,4.5,125.0,3045,9.0,Apartment,-1,-1,0
+4002292943,"Bahnhofstrasse 82,",8001 Zürich,11.0,468.0,28333,3.5,Apartment,-1,-1,1
+4002293658,"Brandstrasse 10,",8340 Hinwil,4.5,83.0,1802,9.25,Apartment,-1,1970,1
+4002293977,"Wasserfurristrasse 37,",8406 Winterthur,4.5,74.0,2590,2.75,Apartment,2025,1966,1
+4002294309,"Herrligstrasse 7, 8048 Zürich,",8048 Zürich,1.5,36.0,1970,3.75,Apartment,-1,-1,1
+4002294461,"Speerstr. 1,",8820 Wädenswil,3.5,65.0,1760,7.25,Apartment,2002,1967,1
+4002294469,"Poststr. 3,",8610 Uster,3.5,101.0,3000,3.75,Apartment,-1,2008,1
+4002294589,"Haldenstrasse 61,",8708 Männedorf,3.5,84.0,2130,5.5,Apartment,2000,1974,0
+4002295117,"Sulzbergstrasse 5,",8400 Winterthur,3.5,105.0,2900,4.75,Apartment,-1,-1,0
+4002295247,"Weinmanngasse 10,",8700 Küsnacht ZH,2.5,96.0,2563,3.25,Roof flat,-1,1990,1
+4002295432,"Im Brächli 66,",8053 Zürich,2.0,50.0,1673,5.25,Apartment,1990,1955,0
+4002295436,"Forchstrasse 24,",8008 Zürich,2.0,72.0,3310,2.75,Apartment,2024,1943,0
+4002295553,"Wildenbühlstr. 14a,",8135 Langnau am Albis,5.5,152.0,3760,8.75,Apartment,-1,2008,0
+4002295638,"Witellikerstrasse 16,",8702 Zollikon,7.0,228.0,11551,8.67,Villa,-1,-1,1
+4002296259,"Kurfirstenstr. 70,",8002 Zürich,4.5,115.0,5100,7.5,Apartment,-1,2025,1
+4002296296,"Dorfstrasse 10,",8630 Rüti ZH,3.5,93.0,2510,2.0,Apartment,-1,2015,0
+4002296316,"Schübelstrasse 4,",8700 Küsnacht ZH,3.5,84.0,3830,9.75,Apartment,-1,1971,1
+4002296564,"Bisikonerstrasse 34,",8308 Illnau,3.5,-1,3650,7.25,Apartment,-1,2023,0
+4002296746,"Zollstrasse 57 - 61,",8005 Zürich,1.5,42.0,2398,4.0,Apartment,-1,2019,1
+4002296810,"Lindenstrasse 8,",8304 Wallisellen,3.5,75.0,2745,4.75,Apartment,2023,2023,0
+4002297154,"Poststrasse 14,",8620 Wetzikon ZH,5.5,145.0,3572,2.0,Apartment,-1,2007,1
+4002297513,"Klosterstrasse 30,",8406 Winterthur,-1,46.0,255,6.5,Hobby room,-1,-1,1
+4002297557,"Höflistrasse 65a,",8135 Langnau am Albis,2.5,50.0,2550,8.0,Apartment,-1,-1,0
+4002297940,"Etzbergstrasse,",8405 Winterthur,2.5,-1,1400,11.0,Roof flat,-1,1999,0
+4002298006,"Dörflistrasse 36 A,",8192 Zweidlen,5.5,158.0,3490,11.5,Apartment,-1,2027,1
+4002298007,"Dörflistrasse 36 A,",8192 Zweidlen,4.5,149.0,3290,11.5,Apartment,-1,2027,1
+4002298008,"Dörflistrasse 36 A,",8192 Zweidlen,2.5,88.0,2090,11.5,Roof flat,-1,2027,1
+4002298270,"Käferholzstrasse 42,",8057 Zürich,4.5,114.0,4032,4.0,Apartment,-1,-1,0
+4002298347,"Traubenweg 52,",8408 Winterthur,9.0,230.0,4000,8.0,Single house,-1,-1,1
+4002299026,"Parkring 45,",8002 Zürich,8.5,-1,-1,3.5,Maisonette / Duplex,-1,1876,0
+4002299087,"Besenrainstrasse 35,",8038 Zürich,2.5,69.0,3130,4.0,Apartment,-1,2024,0
+4002299366,"Kanalweg 4,",8610 Uster,4.5,104.0,2215,5.75,Apartment,1983,1982,0
+4002300127,"Wannwis 5,",8124 Maur,4.5,214.0,4480,11.0,Single house,2020,2020,1
+4002301837,"Wehntalerstrasse 49a,",8181 Höri,3.5,90.0,2610,3.67,Apartment,-1,-1,0
+4002301860,"Wehntalerstrasse 49a,",8181 Höri,4.5,110.0,3180,3.67,Apartment,-1,-1,0
+4002302218,"Lessingstrasse 45,",8002 Zürich,2.5,50.0,2980,8.5,Roof flat,2025,1980,1
+4002302238,"Hauptstrasse 36,",8545 Rickenbach ZH,3.5,-1,2650,3.67,Roof flat,-1,2023,1
+4002302239,,,-1,-1,-1,-1,,-1,-1,0
+4002302417,"Zürcherstrasse 117,",8953 Dietikon,1.0,-1,1350,8.25,Studio,-1,-1,0
+4002302796,,,-1,-1,-1,-1,,-1,-1,0
+4002302799,"Untere Schwandenstrasse 21,",8805 Richterswil,3.5,74.0,3390,5.0,Apartment,-1,2025,1
+4002302811,"Freihofstrasse 23,",8048 Zürich,1.5,47.0,2340,3.5,Apartment,-1,-1,0
+4002302953,"Freihofstrasse 23,",8048 Zürich,2.5,60.0,2990,3.5,Apartment,-1,-1,0
+4002303086,,,-1,-1,-1,-1,,-1,-1,0
+4002303389,"Freihofstrasse 23,",8048 Zürich,4.5,109.0,4800,3.5,Apartment,-1,-1,0
+4002303694,"Anemonenstrasse 40 G,",8047 Zürich,2.5,85.0,2790,5.0,Apartment,2011,2007,0
+4002304189,"Blumentalstrasse 16,",8707 Uetikon am See,1.0,18.0,1550,6.25,Single Room,-1,2008,1
+4002304252,"Einsiedlerstrasse 412,",8810 Horgen,4.5,110.0,3250,5.75,Apartment,2024,1995,1
+4002304574,,,-1,-1,-1,-1,,-1,-1,0
+4002304833,"Bahnhofstrasse 4,",8932 Mettmenstetten,4.5,109.0,3083,4.67,Apartment,-1,2025,1
+4002304971,"Chälenstrasse 2,",8187 Weiach,4.0,-1,2320,3.0,Apartment,-1,-1,0
+4002305086,"Grossackerstrasse 100,",8041 Zürich,3.0,155.0,2840,7.25,Apartment,2025,-1,0
+4002305610,"Schluhbachstrasse 19,",8342 Wernetshausen,7.5,230.0,3800,3.0,Maisonette / Duplex,-1,1995,0
+4002305849,"Hügelstr. 8,",8002 Zürich,3.5,80.0,3675,5.5,Apartment,-1,1963,1
+4002306587,"Weinbergstrasse 161,",8006 Zürich,2.0,78.0,2990,3.0,Apartment,2021,1930,1
+4002306641,"Sonnenbergstrasse 9,",8542 Wiesendangen,7.5,190.0,5400,6.25,Single house,-1,-1,0
+4002306757,"Jonenbachstrasse 20,",8911 Rifferswil,5.5,124.0,3550,4.33,Terrace flat,-1,2024,1
+4002306880,"Moosstrasse 35,",8134 Adliswil,2.5,74.0,2710,3.67,Apartment,-1,2025,1
+4002307240,,,-1,-1,-1,-1,,-1,-1,0
+4002307869,"Sulzerallee 83,",8404 Winterthur,4.5,119.0,2850,4.0,Apartment,2018,2018,0
+4002307887,"Reidholzstrasse 25,",8805 Richterswil,4.0,103.0,2132,6.0,Apartment,1994,1976,1
+4002308100,"Fähnlibrunnenstr. 3,",8700 Küsnacht ZH,2.5,70.0,3295,4.75,Apartment,2022,2022,0
+4002308152,,,9.5,300.0,-1,-1,Multi-family house,2019,1879,1
+4002308332,,,-1,-1,-1,-1,,-1,-1,0
+4002308488,,,-1,-1,-1,-1,,-1,-1,0
+4002309874,,,-1,-1,-1,-1,,-1,-1,0
+4002309956,,,-1,-1,-1,-1,,-1,-1,0
+4002309958,,,-1,-1,-1,-1,,-1,-1,0
+4002311337,"Hagackerstrasse 31,",8427 Freienstein,2.5,72.0,2300,5.67,Chalet,2023,1993,1
+4002311773,"Jungstrasse 4,",8050 Zürich,4.5,124.0,6410,4.0,Maisonette / Duplex,-1,2025,1
+4002311830,"Universitätstrasse 33,",8006 Zürich,3.5,77.0,4095,4.0,Apartment,2025,-1,1
+4002312039,,,-1,-1,-1,-1,,-1,-1,0
+4002312188,"Universitätstrasse 33,",8006 Zürich,2.5,106.0,4795,4.5,Maisonette / Duplex,2025,-1,1
+4002312189,"Universitätstrasse 33,",8006 Zürich,3.5,121.0,5830,4.0,Maisonette / Duplex,2025,-1,1
+4002312276,"Feldgüetliweg 112,",8706 Meilen,2.5,100.0,3490,10.25,Apartment,-1,2016,1
+4002312283,"Regensdorferstrasse 59,",8049 Zürich,3.0,61.0,2356,4.75,Apartment,-1,-1,1
+4002312388,,,-1,-1,-1,-1,,-1,-1,0
+4002312586,,,-1,-1,-1,-1,,-1,-1,0
+4002312805,"Fabrikgasse 15,",8810 Horgen,1.5,57.0,2390,8.0,Apartment,-1,-1,0
+4002312865,"Altwingertstrasse 17,",8426 Lufingen,4.5,-1,2950,12.0,Terrace flat,-1,2018,0
+4002312922,"Unterfeldstrasse 102, 8050 Zürich,",8050 Zürich,3.5,84.0,3430,3.25,Apartment,-1,-1,0
+4002313101,"Stadlerstrasse 160,",8404 Winterthur,3.5,79.0,1930,7.25,Apartment,2003,1974,1
+4002313625,"Adletshuserried-weg 4,",8627 Grüningen,3.5,120.0,2650,-1,Apartment,2020,2002,1
+4002313705,"Konradstrasse 71,",8005 Zürich,3.5,59.0,2990,3.0,Apartment,-1,-1,1
+4002313971,"Krummibuckweg 9,",8157 Dielsdorf,2.5,60.0,2000,4.25,Attic flat,-1,2011,0
+4002314339,"Zürcherstrasse 3,",8604 Volketswil,-1,-1,-1,7.5,Apartment,-1,2025,1
+4002314540,"Forchstrasse 261,",8032 Zürich,2.5,89.0,3230,4.0,Apartment,2015,1961,1
+4002314743,,,-1,-1,-1,-1,,-1,-1,0
+4002314899,"Schönenbergstrasse 2,",8820 Wädenswil,5.5,195.0,2890,1.25,Maisonette / Duplex,-1,1978,1
+4002315727,"Karstlernstrasse 14,",8048 Zürich,3.5,-1,1490,6.5,Single Room,-1,-1,0
+4002315990,"Karstlernstrasse 14,",8048 Zürich,3.5,-1,1490,6.5,Single Room,-1,-1,0
+4002316116,"Neugutstrasse 16,",8102 Oberengstringen,2.5,74.0,2110,7.25,Apartment,1995,1981,1
+4002317088,"Zürichstrasse 132,",8600 Dübendorf,2.0,82.0,2910,2.75,Loft,-1,2021,1
+4002317249,"Witellikerstrasse 16,",8702 Zollikon,7.0,228.0,11551,8.67,Villa,-1,-1,1
+4002317271,"Wängistr. 13,",8142 Uitikon Waldegg,4.5,143.0,3780,7.67,Apartment,2011,1975,1
+4002317274,"Oerlikonerstr. 5,",8057 Zürich,2.0,53.0,1329,4.0,Apartment,-1,1981,1
+4002318155,"Limmattalstrasse 57/59,",8954 Geroldswil,2.5,55.0,3000,4.0,Apartment,-1,2024,1
+4002318755,"Germaniastrasse 15,",8006 Zürich,5.5,145.0,5760,9.75,Apartment,2021,1981,1
+4002318780,"Germaniastrasse 15,",8006 Zürich,3.5,108.0,4490,4.5,Roof flat,2023,1981,1
+4002319856,"Seestrasse 135,",8700 Küsnacht ZH,3.0,-1,2930,4.25,Apartment,2025,1932,1
+4002319868,"Alte Fehraltorferstrasse 6,",8332 Rumlikon,4.5,-1,3570,-1,Maisonette / Duplex,-1,2022,0
+4002319871,"Seestrasse 135,",8700 Küsnacht ZH,2.0,-1,2810,4.25,Apartment,2025,1932,1
+4002320005,"Aubrigstrasse 5,",8635 Dürnten,4.5,110.0,2350,4.0,Maisonette / Duplex,-1,1961,1
+4002320052,"Hegi 34,",8197 Rafz,5.5,200.0,2696,8.0,Apartment,2018,-1,1
+4002320183,"Eichenweg 37,",8424 Embrach,4.5,111.0,2822,2.0,Apartment,-1,2015,1
+4002320585,,,-1,-1,-1,-1,,-1,-1,0
+4002320586,"Heusserstrasse 17,",8634 Hombrechtikon,4.5,94.0,2115,5.75,Apartment,1992,1972,0
+4002320589,"Maneggplatz 14,",8041 Zürich,3.5,92.0,2878,6.0,Apartment,-1,2018,0
+4002320597,"Aspacherstrasse 5+7,",8413 Neftenbach,3.0,93.0,1950,5.33,Apartment,2019,1990,0
+4002320599,"Lochäckerstrasse 10,",8302 Kloten,2.5,56.0,2300,7.25,Apartment,2004,2019,0
+4002320618,"Felsenrainstrasse 79,",8052 Zürich,4.5,116.0,3345,5.75,Attic flat,1999,1990,0
+4002320709,"Susenbergstrasse 90,",8044 Zürich,4.5,151.0,7990,5.0,Apartment,-1,2015,1
+4002320788,,,-1,-1,-1,-1,,-1,-1,0
+4002320961,"Rainstrasse 10,",8330 Pfäffikon ZH,3.5,76.0,1870,7.33,Apartment,2012,1970,0
+4002321333,"Ruebisbachstrasse 69,",8302 Kloten,5.0,130.0,2920,11.0,Apartment,2020,-1,1
+4002321557,"Baslerstrasse 77,",8048 Zürich,3.5,89.0,4390,3.5,Apartment,-1,2020,0
+4002321559,"Grundstrasse 18,",8320 Fehraltorf,5.5,156.0,3441,4.75,Attic flat,-1,2009,0
+4002322627,"Alte Forchstrasse 5,",8126 Zumikon,3.5,105.0,4300,5.75,Apartment,-1,2025,1
+4002322818,"Fierzgasse 22,",8005 Zürich,3.5,77.0,3050,2.5,Apartment,-1,-1,0
+4002322849,"Bruggwisstrasse 15,",8523 Hagenbuch ZH,4.5,90.0,1740,3.67,Apartment,-1,1998,1
+4002323270,"Gubelstrasse 64,",8050 Zürich,2.5,55.0,3100,3.0,Apartment,2023,-1,1
+4002323999,"Weiherstrasse 1,",8194 Hüntwangen,3.5,81.0,1850,4.33,Apartment,-1,2021,1
+4002324032,"Oberdorfstrasse 20,",8914 Aeugst am Albis,4.5,113.0,3690,3.33,Apartment,2025,-1,1
+4002324042,"Ausserdorfstrasse 46,",8933 Maschwanden,3.5,157.0,3690,4.0,Roof flat,-1,2024,1
+4002324046,"In der Breite 4a/b und 6,",8914 Aeugstertal,4.5,161.0,4450,-1,Maisonette / Duplex,-1,2025,1
+4002324052,"Im Weieracher 2a,",8914 Aeugst am Albis,4.5,118.0,4200,15.0,Apartment,-1,2025,1
+4002324053,"In der Breite 4a/b und 6,",8914 Aeugstertal,5.5,183.0,4970,-1,Maisonette / Duplex,-1,2025,1
+4002324073,"Im Weieracher 4,",8914 Aeugst am Albis,3.5,-1,2990,4.33,Apartment,-1,2025,1
+4002324360,,,-1,-1,-1,-1,,-1,-1,0
+4002324374,"Grünaustrasse 16,",8953 Dietikon,4.5,116.0,2760,4.25,Apartment,-1,2015,0
+4002324475,"Burgstrasse 94,",8706 Meilen,3.5,110.0,3854,4.75,Apartment,-1,2021,0
+4002324577,"Seestrasse 39,",8703 Erlenbach,3.5,125.0,4350,4.5,Apartment,-1,2011,0
+4002324597,"Fabrikstrasse 2 a,",8102 Oberengstringen,3.5,77.0,2230,8.25,Apartment,2021,2002,0
+4002325074,"Althardstr. 52C,",8105 Regensdorf,2.5,64.0,2257,6.75,Apartment,-1,-1,1
+4002325075,"Hint. Grundstr. 28,",8320 Fehraltorf,2.5,68.0,1990,5.25,Apartment,-1,1985,1
+4002325076,"Talackerstr. 28b,",8610 Uster,3.5,119.0,2440,5.0,Roof flat,2006,2006,0
+4002325444,"Neuhardstrasse,",8105 Regensdorf,3.5,75.0,2800,-1,Apartment,-1,2025,1
+4002325669,"Pumpwerkstrasse,",8105 Regensdorf,1.0,-1,1050,7.0,Single Room,-1,-1,0
+4002325675,"Dorfstrasse 7,",8483 Kollbrunn,1.0,-1,950,2.33,Single Room,-1,-1,0
+4002325737,"Schaffhauserplatz 10,",8006 Zürich,3.5,99.0,5400,2.5,Apartment,2025,1900,1
+4002325751,"Schwelliweg 9,",8712 Stäfa,1.5,49.0,1485,9.5,Apartment,2010,-1,1
+4002326008,"Gerbestrasse 2,",8820 Wädenswil,5.0,112.0,2917,1.5,Apartment,-1,-1,0
+4002326020,"Rebhaldenstrasse 4B,",8910 Affoltern am Albis,3.5,112.0,2800,6.5,Apartment,2025,1993,1
+4002326031,"Sonnentalstrasse 15,",8600 Dübendorf,4.5,-1,4190,5.5,Apartment,-1,2024,1
+4002326093,"Schaffhauserplatz 10,",8006 Zürich,4.5,110.0,4580,4.5,Apartment,2025,1900,1
+4002326095,"Holzwiesstrasse 7,",8704 Herrliberg,2.5,56.0,3030,12.75,Apartment,-1,1970,1
+4002326255,"Bächliwis 1,",8184 Bachenbülach,3.0,53.0,1590,7.75,Apartment,-1,-1,1
+4002326613,"Im Spitz 31,",8330 Pfäffikon,5.5,135.0,3960,6.0,Attic flat,2025,1970,1
+4002327117,,,-1,-1,-1,-1,,-1,-1,0
+4002327171,"Im Spitz 31,",8330 Pfäffikon,3.0,95.0,2500,6.0,Apartment,2025,1970,1
+4002327347,"Isenbachweg 8,",8906 Bonstetten,3.5,87.0,2363,7.25,Apartment,-1,2014,0
+4002327349,"Feldblumenweg 35,",8048 Zürich,5.5,98.0,3045,7.0,Apartment,2015,1947,0
+4002327374,"Renggerstrasse 86,",8038 Zürich,2.0,55.0,2550,3.5,Apartment,2013,1975,0
+4002327532,"Spranglenstr. 52,",8303 Bassersdorf,2.5,102.0,2210,7.25,Roof flat,-1,-1,1
+4002327817,"Badenerstrasse 250,",8004 Zürich,3.5,75.0,4100,2.5,Maisonette / Duplex,-1,2021,0
+4002328198,"Forchstr. 62,",8008 Zürich,6.0,-1,5270,3.0,Apartment,-1,-1,0
+4002328242,"Katharina Sulzer Platz 2,",8400 Winterthur,1.0,180.0,3510,-1,Loft,-1,2004,0
+4002328244,"Binzstr. 41,",8620 Wetzikon ZH,4.5,110.0,2550,5.0,Apartment,-1,2011,0
+4002328248,"Preyenstr. 27,",8623 Wetzikon ZH,3.5,76.0,1890,10.0,Apartment,2019,1975,1
+4002328252,"Überlandstr. 22,",8953 Dietikon,2.0,108.0,2520,4.5,Attic flat,-1,2011,1
+4002328274,"im Haufland 1,",8117 Fällanden,4.5,97.0,2080,4.25,Apartment,-1,1967,1
+4002328280,"Seuzacherstr. 13b,",8400 Winterthur,3.5,95.0,2460,3.75,Apartment,-1,2011,1
+4002328301,"Obere Leihofstr. 3,",8820 Wädenswil,4.5,97.0,2760,6.0,Apartment,2005,1974,1
+4002328310,"Dällikerstrasse 41,",8105 Regensdorf,4.5,126.0,2710,5.75,Roof flat,2010,1983,1
+4002328315,,,-1,-1,-1,-1,,-1,-1,0
+4002328316,,,-1,-1,-1,-1,,-1,-1,0
+4002328596,"Tösstalstr. 114,",8623 Wetzikon ZH,4.5,89.0,2160,8.0,Apartment,2019,1975,1
+4002328604,"Überlandstr. 26,",8953 Dietikon,2.0,100.0,2388,5.0,Apartment,-1,2011,1
+4002328619,"Zelgweg 5,",8135 Langnau am Albis,2.5,93.0,1970,10.0,Apartment,-1,1986,1
+4002328620,"Rümikerstrasse 34,",8409 Winterthur,3.5,83.0,1900,4.0,Apartment,-1,2006,1
+4002328625,,,-1,-1,-1,-1,,-1,-1,0
+4002328626,"Tödistr. 121,",8800 Thalwil,2.0,52.0,1960,5.5,Apartment,2020,1976,1
+4002328822,"Augustinergasse 10,",8001 Zürich,3.5,68.0,4081,4.0,Maisonette / Duplex,-1,-1,1
+4002328918,"Aubrigstrasse 23 a,",8800 Thalwil,3.5,107.0,3270,7.25,Apartment,2007,2005,0
+4002329312,"Neunbrunnenstr. 171,",8050 Zürich,5.5,144.0,3750,5.5,Maisonette / Duplex,2003,2003,1
+4002329341,"Sonnenbergstrasse 43,",8134 Adliswil,3.5,-1,2410,6.75,Apartment,-1,-1,1
+4002329380,"Im Stockenhof 12,",8105 Regensdorf,3.5,93.0,2720,5.0,Apartment,-1,-1,1
+4002329383,"Haldenstr. 29,",8134 Adliswil,3.5,74.0,2190,6.25,Apartment,-1,1969,1
+4002329756,,,-1,-1,-1,-1,,-1,-1,0
+4002329940,"Albisstrasse 31,",8915 Hausen am Albis,4.5,110.0,1995,7.0,Apartment,2023,-1,1
+4002330526,"Fritz Fleiner-Weg 11,",8044 Zürich,3.5,114.0,5300,6.0,Apartment,2007,1951,1
+4002330527,"Seefeldstr. 116,",8008 Zürich,3.5,111.0,5530,1.5,Apartment,2011,1954,0
+4002330552,"St.Jakobstrasse 57,",8004 Zürich,1.0,17.0,1160,-1,Apartment,-1,1876,0
+4002330619,"Pfingstweidstrasse 98,",8005 Zürich,2.5,96.0,3970,5.5,Apartment,-1,2013,1
+4002330659,"Schützenstrasse 40,",8400 Winterthur,3.5,70.0,2040,4.5,Apartment,-1,1959,0
+4002330689,"Limmatplatz 1,",8005 Zürich,3.5,93.0,3460,2.5,Apartment,-1,-1,0
+4002330698,"Ausserdorfstrasse 46,",8933 Maschwanden,6.5,176.0,4990,5.0,Single house,2025,1864,1
+4002330929,"Grütstrasse 29,",8134 Adliswil,3.5,89.0,2879,7.25,Apartment,-1,2011,1
+4002331314,"Sonnengartenstrasse 58,",8125 Zollikerberg,5.5,172.0,6760,5.25,Attic flat,-1,2018,1
+4002331576,"Letzacherstrasse 13,",8117 Fällanden,4.5,-1,3325,7.25,Apartment,-1,2002,0
+4002331580,"Waldstrasse 12,",8046 Zürich,2.5,55.0,2200,4.0,Apartment,-1,-1,0
+4002331613,"Vulkanstrasse 110b,",8048 Zürich,4.5,108.0,3940,4.0,Apartment,-1,-1,0
+4002331659,"Witikonerstrasse 517,",8053 Zürich,1.0,40.0,2100,7.75,Apartment,2022,-1,0
+4002331703,,,-1,-1,-1,-1,,-1,-1,0
+4002331716,"Unterhofen 3,",8625 Gossau ZH,4.5,89.0,1886,5.0,Apartment,1997,1965,0
+4002331717,,,-1,-1,-1,-1,,-1,-1,0
+4002331877,,,-1,-1,-1,-1,,-1,-1,0
+4002332004,"Würzwies 9,",8064 Zürich,2.0,53.0,2242,8.0,Apartment,-1,-1,0
+4002333018,"Langacherstrasse 18,",8932 Mettmenstetten,3.5,-1,2863,5.33,Attic flat,-1,-1,1
+4002333115,,,-1,-1,-1,-1,,-1,-1,0
+4002333467,"Vorbruggenstrasse 4c,",8422 Pfungen,3.5,72.0,1690,8.75,Apartment,-1,-1,0
+4002333515,"Kirchgasse 15,",8444 Henggart,4.5,148.0,2965,3.67,Attic flat,2025,1786,0
+4002333757,"Kirchstrasse 8,",8344 Bäretswil,3.5,86.0,2170,2.33,Apartment,-1,-1,1
+4002333810,"Ifangstrasse 73,",8153 Rümlang,5.5,104.0,2610,5.25,Apartment,2012,1978,1
+4002333817,,,-1,-1,-1,-1,,-1,-1,0
+4002333824,"Im Feld 10,",8180 Bülach,2.5,68.0,1900,6.75,Apartment,-1,2008,1
+4002333829,"Hardpüntstrasse 14,",8302 Kloten,5.0,120.0,2569,5.0,Apartment,-1,1958,0
+4002333834,"Obstgartenweg 15,",8708 Männedorf,3.5,80.0,2050,8.0,Apartment,-1,1994,1
+4002334010,"Gustav-Gull-Platz 11,",8004 Zürich,4.5,-1,6225,6.0,Apartment,-1,2018,1
+4002334107,"Im Weieracher 4,",8914 Aeugst am Albis,3.5,74.0,3530,4.0,Apartment,-1,2025,1
+4002334196,"Im Weieracher 2a,",8914 Aeugst am Albis,3.5,97.0,3560,13.33,Apartment,-1,2025,1
+4002334232,"In der Breite 6,",8914 Aeugstertal,3.5,109.0,3400,-1,Apartment,-1,2025,1
+4002334680,"Wehrlisteig 21,",8049 Zürich,4.5,153.0,5195,9.25,Apartment,-1,-1,1
+4002335007,"Rainweg 16,",8902 Urdorf,4.5,-1,2050,7.75,Apartment,-1,1962,1
+4002335084,"Dättnauerstrasse 7,",8406 Winterthur,4.5,118.0,2642,2.33,Apartment,-1,-1,0
+4002335236,"Hagenholzstrasse 55,",8050 Zürich,3.5,86.0,3530,5.75,Apartment,-1,2023,0
+4002335237,"Hagenholzstrasse 55,",8050 Zürich,2.5,67.0,2595,5.75,Apartment,-1,2023,0
+4002335404,,,-1,-1,-1,-1,,-1,-1,0
+4002335428,"Dörflistrasse 20,",8192 Zweidlen,3.5,95.0,1950,12.0,Apartment,-1,1945,0
+4002335775,"Bachtelstrasse 16,",8304 Wallisellen,5.5,138.0,7180,6.0,Attic flat,-1,2026,1
+4002336263,"Gsellstutz 6,",8306 Brüttisellen,3.5,97.0,2340,4.5,Apartment,-1,2005,0
+4002336314,"Tüfwisstrasse 17,",8185 Winkel,3.5,88.0,2220,6.25,Apartment,2021,1974,1
+4002336531,"Fabrikgasse 11,",8810 Horgen,2.5,57.0,2290,8.0,Apartment,-1,-1,1
+4002338331,,,6.5,180.0,4640,-1,Single house,-1,1978,1
+4002338369,"Wallrütistrasse 74,",8404 Winterthur,4.5,96.0,3300,9.0,Bifamiliar house,2025,-1,1
+4002338668,,,4.0,150.0,2900,-1,Maisonette / Duplex,2025,1992,1
+4002338986,"Tödistrasse 64a,",8810 Horgen,4.5,98.0,3550,8.5,Apartment,-1,2022,1
+4002339213,"Rebenweg 11,",8605 Gutenswil,5.5,120.0,3395,5.67,Maisonette / Duplex,-1,-1,1
+4002339309,"Zeughausstrasse 8a,",8910 Affoltern am Albis,2.5,-1,1890,6.75,Apartment,2025,-1,0
+4002339394,"Sonnenbergstrasse 40,",8800 Thalwil,4.5,109.0,3260,4.5,Apartment,-1,-1,1
+4002340029,"Mooswiesenweg 19,",8404 Winterthur,3.0,65.0,1750,6.0,Apartment,2002,1959,0
+4002340092,"Meier-Bosshard-Strasse 12,",8048 Zürich,4.5,96.0,3300,3.25,Apartment,2019,1984,0
+4002340097,"Felsenrainstrasse 79,",8052 Zürich,3.5,83.0,2446,5.75,Apartment,1999,1990,0
+4002340105,"Forchstrasse 22,",8008 Zürich,3.0,80.0,3780,2.5,Apartment,2024,1943,0
+4002340107,"Solarstrasse 1,",8404 Winterthur,3.5,101.0,2930,5.0,Attic flat,-1,-1,0
+4002340367,"Hintergass 15,",8424 Embrach,3.0,120.0,2650,5.75,Apartment,2023,2023,1
+4002340421,"Alte Landstrasse 154/156/158,",8700 Küsnacht,3.5,81.0,3710,3.0,Apartment,-1,2025,1
+4002340423,"Alte Landstrasse 154/156/158,",8700 Küsnacht,2.5,56.0,2530,3.0,Apartment,-1,2025,1
+4002340975,,,-1,-1,-1,-1,,-1,-1,0
+4002341043,,,-1,-1,-1,-1,,-1,-1,0
+4002341103,"Pestalozzistrasse 38,",8032 Zürich,2.0,-1,3195,5.75,Apartment,2025,-1,0
+4002341136,,,-1,-1,-1,-1,,-1,-1,0
+4002341186,"Hohlstr. 511,",8048 Zürich,1.5,83.0,2610,3.5,Apartment,-1,-1,1
+4002341283,"Im Brächli 37,",8053 Zürich,4.0,80.0,2416,7.0,Apartment,1990,1955,0
+4002341294,"Badenerstrasse 686,",8048 Zürich,3.5,98.0,3840,3.0,Apartment,-1,2024,1
+4002341301,"Badenerstrasse 686,",8048 Zürich,3.5,98.0,3840,3.0,Apartment,-1,2025,1
+4002341559,,,-1,-1,-1,-1,,-1,-1,0
+4002341568,"Moosbrunnenstrasse 7,",8426 Lufingen,3.5,74.0,1870,8.0,Apartment,-1,-1,0
+4002342367,"Im Hundsrücken 6,",8600 Dübendorf,4.5,108.0,3320,5.25,Apartment,2025,-1,1
+4002342446,"Richterwis 4/6,",8303 Bassersdorf,5.5,176.0,3540,6.67,Maisonette / Duplex,-1,2005,1
+4002342447,,,-1,-1,-1,-1,,-1,-1,0
+4002342460,"Else-Züblin-Strasse 73,",8404 Winterthur,3.5,96.0,2465,5.25,Apartment,-1,2015,1
+4002342462,"Else-Züblin-Strasse 73,",8404 Winterthur,3.5,94.0,2370,5.25,Apartment,-1,2015,1
+4002342545,,,-1,-1,-1,-1,,-1,-1,0
+4002342832,"Chofelstrasse 2,",8174 Stadel b. Niederglatt,7.5,200.0,3750,9.33,Single house,-1,-1,1
+4002342882,"Alte Gockhauserstrasse 6,",8044 Gockhausen,6.5,210.0,5450,2.67,Single house,2009,1980,1
+4002342917,"Untere Schwandenstrasse 41,",8805 Richterswil,4.5,102.0,3600,6.33,Apartment,-1,2025,1
+4002343093,"Langägertenstrasse 16,",8125 Zollikerberg,4.5,-1,5480,10.67,Apartment,2015,1992,1
+4002343150,"Brandschenkestrasse 78,",8002 Zürich,4.5,130.0,5750,6.75,Apartment,-1,-1,1
+4002343173,"Alfred-Escherstrasse 24,",8002 Zürich,2.0,70.0,2790,3.0,Terrace flat,-1,-1,1
+4002343245,"Austrasse 2,",8545 Rickenbach ZH,6.5,270.0,4300,1.67,Farm house,2010,-1,0
+4002343270,"Gartenstrasse 3,",8800 Thalwil,4.0,77.0,2829,6.0,Apartment,2021,-1,0
+4002343407,"Untere Schwandenstrasse 19,",8805 Richterswil,2.5,63.0,2350,4.33,Apartment,-1,2025,1
+4002343427,"Regensbergstrasse 175,",8050 Zürich,1.5,-1,2030,4.5,Apartment,-1,2025,1
+4002343434,"Wydäckerring 61,",8047 Zürich,1.5,39.0,2010,3.5,Apartment,-1,2023,1
+4002343441,"Wydäckerring 61,",8047 Zürich,1.5,39.0,2030,3.5,Apartment,-1,2023,1
+4002343844,"Allmendboden 30,",8700 Küsnacht ZH,2.5,67.0,2800,8.67,Apartment,-1,2020,1
+4002344389,,,-1,-1,-1,-1,,-1,-1,0
+4002344438,"Weststrasse 48,",8620 Wetzikon,4.5,113.0,2792,4.25,Apartment,-1,-1,0
+4002344590,"Im Heumoos 25,",8906 Bonstetten,3.5,91.0,2460,3.25,Maisonette / Duplex,-1,1995,1
+4002344591,"Stallikerstrasse 18,",8906 Bonstetten,4.5,128.0,3390,3.25,Apartment,-1,2022,0
+4002344593,"Farmanstr. 43,",8152 Glattpark (Opfikon),3.5,93.0,2977,3.75,Apartment,-1,2009,1
+4002344671,,,-1,-1,-1,-1,,-1,-1,0
+4002344675,,,-1,-1,-1,-1,,-1,-1,0
+4002344724,"Paulstrasse 9a,",8400 Winterthur,3.5,94.0,3250,3.0,Apartment,2023,1991,1
+4002344762,"Buchzelgstr. 25,",8053 Zürich,3.0,83.0,2385,3.0,Apartment,-1,1973,1
+4002344999,"In der Au 42,",8706 Meilen,5.5,105.0,2230,7.0,Apartment,-1,1973,0
+4002345005,"Bundtstrasse 21,",8127 Forch,3.5,79.0,2040,10.0,Apartment,-1,-1,0
+4002345419,,,-1,-1,-1,-1,,-1,-1,0
+4002345426,"Oetlisbergstrasse 9,",8053 Zürich,3.5,95.0,2730,4.75,Apartment,2005,1964,1
+4002345455,"Zürichstrasse 87,",8600 Dübendorf,3.5,79.0,2290,6.75,Apartment,-1,-1,1
+4002345741,"Rechweg 4,",8600 Dübendorf,3.5,-1,2750,5.5,Attic flat,2025,2025,1
+4002345748,"Am Giessenpark 3,",8600 Dübendorf,2.5,63.0,1885,4.5,Apartment,-1,2018,0
+4002345751,"Höglerstr. 46,",8600 Dübendorf,3.5,96.0,2146,6.0,Apartment,-1,1992,1
+4002345752,"Zipartenstr. 43,",8600 Dübendorf,3.5,74.0,2065,6.0,Apartment,2017,1986,0
+4002345771,"Karl-Stauffer-Strasse 8,",8008 Zürich,2.5,87.0,3738,4.5,Apartment,-1,-1,0
+4002345800,"Alte Landstrasse 127,",8800 Thalwil,2.5,72.0,2990,2.0,Apartment,2025,-1,1
+4002346067,"Gheidstrasse 2b,",8105 Watt,4.5,118.0,3676,11.67,Apartment,-1,2021,1
+4002346164,"Am Brunnenbächli 20,",8125 Zollikerberg,3.5,95.0,3300,9.25,Apartment,2022,2005,1
+4002346237,"Seefeldstrasse 26,",8008 Zürich,3.0,79.0,4000,7.25,Apartment,2025,2025,1
+4002346242,"Seefeldstrasse 28,",8008 Zürich,2.0,58.0,3650,2.0,Apartment,2025,2025,1
+4002346255,"Schweizäckerstrasse 12,",8955 Oetwil an der Limmat,3.0,63.0,2140,5.25,Apartment,-1,-1,1
+4002346300,"Forchstrasse 359,",8008 Zürich,3.0,99.0,3990,5.25,Apartment,2025,1834,0
+4002346302,"Forchstrasse 359,",8008 Zürich,4.0,140.0,4930,5.25,Apartment,2025,1834,1
+4002346446,"Neugutstrasse 6,",8450 Andelfingen,4.5,120.0,2010,6.0,Apartment,-1,1800,1
+4002346520,"Schulstrasse 12,",8330 Pfäffikon ZH,3.5,91.0,2540,2.5,Attic flat,-1,2021,1
+4002346616,"Haldengässli 10,",8706 Feldmeilen,3.5,70.0,3710,1.5,Apartment,-1,-1,0
+4002346635,"Heimstrasse 12,",8953 Dietikon,3.5,92.0,2415,4.25,Apartment,-1,2012,0
+4002346642,"Baslerstrasse 77,",8048 Zürich,3.0,91.0,4250,3.5,Apartment,-1,2020,0
+4002346684,"Burgstrasse 11,",8193 Eglisau,4.5,148.0,3203,6.25,Apartment,-1,2018,1
+4002346707,,,-1,-1,-1,-1,,-1,-1,0
+4002346813,,,-1,-1,-1,-1,,-1,-1,0
+4002346867,,,9.0,210.0,7500,-1,Apartment,2025,-1,1
+4002347019,"Oberdorfstrasse 2,",8934 Knonau,2.5,86.0,1970,3.33,Apartment,2025,-1,0
+4002347300,"Grosslättenstrasse 2,",8185 Winkel,5.5,182.0,4760,7.75,Apartment,-1,2020,1
+4002347318,"Triemlistrasse 25,",8047 Zürich,4.5,114.0,3830,3.5,Apartment,-1,-1,1
+4002347339,"Zielweg 80,",8055 Zürich,1.0,24.0,1790,8.25,Apartment,2018,-1,0
+4002347410,"Mörsburgstrasse 2A,",8545 Rickenbach-Sulz,4.5,-1,2300,5.67,Roof flat,2011,-1,1
+4002347460,"Seestrasse 457d,",8038 Zürich,1.0,-1,5500,8.25,Loft,2016,2000,0
+4002347680,"Heinrichstrasse 235,",8005 Zürich,1.0,108.0,2885,3.25,Apartment,2009,2002,0
+4002347686,"Schulstrasse 175,",8105 Regensdorf,5.5,203.0,3950,8.25,Attic flat,-1,-1,0
+4002347709,"Pfingstweidstrasse 98,",8005 Zürich,2.5,130.0,6000,5.25,Loft,2021,2013,0
+4002347730,"Am Oeliweiher 2,",8625 Gossau ZH,3.5,83.0,2320,6.5,Apartment,-1,2022,0
+4002347747,"Alte Landstrasse 98,",8800 Thalwil,4.5,160.0,4000,5.0,Maisonette / Duplex,-1,1835,1
+4002347767,,,-1,-1,-1,-1,,-1,-1,0
+4002347834,"Else-Züblin-Strasse 98,",8404 Winterthur,4.5,127.0,3445,5.25,Apartment,-1,2011,1
+4002347835,"Else-Züblin-Strasse 94,",8404 Winterthur,4.5,127.0,3445,5.25,Apartment,-1,2011,0
+4002347988,"Wassbergstrasse 43,",8127 Forch,3.5,77.0,1930,10.67,Apartment,1991,1973,0
+4002347999,"Im Grafenstein 64,",8408 Winterthur,5.5,174.0,4400,9.75,Terrace flat,-1,-1,0
+4002348502,"Waltersbachstr. 4,",8006 Zürich,2.5,103.0,3820,4.0,Maisonette / Duplex,-1,2020,1
+4002348773,"Brunnwiesenstrasse 46,",8049 Zürich,3.0,-1,3450,5.0,Apartment,2023,-1,1
+4002348792,"Körnerstrasse 10,",8004 Zürich,3.5,69.0,2450,3.5,Apartment,-1,-1,0
+4002348801,"Kelchweg 10,",8048 Zürich,2.5,94.0,2950,4.75,Apartment,-1,-1,0
+4002348970,"Uetlibergstrasse 29,",8045 Zürich,3.0,77.0,2600,4.0,Apartment,2025,-1,1
+4002348971,"Obere Schärerstrasse 2A,",8352 Elsau,4.5,124.0,2530,3.75,Apartment,2025,-1,1
+4002349534,"Kirchackerstrasse 34,",8405 Winterthur,4.5,123.0,3260,11.67,Attic flat,-1,2013,1
+4002349678,,,-1,-1,-1,-1,,-1,-1,0
+4002349734,"Glärnischstr. 56,",8618 Oetwil am See,4.5,96.0,1870,9.0,Apartment,-1,1986,1
+4002349782,"Kurfirstenstr. 70,",8002 Zürich,2.5,62.0,3150,7.5,Apartment,-1,2025,1
+4002349848,"Birmensdorferstr. 448,",8055 Zürich,2.5,64.0,2780,5.25,Apartment,-1,-1,1
+4002349852,"Gutstr. 1,",8055 Zürich,1.5,46.0,2530,1.5,Apartment,-1,-1,0
+4002349893,"Buchholzstrasse 112,",8053 Zürich,3.5,78.0,2020,5.25,Apartment,2012,1970,0
+4002349896,"Im Grünenhof 23,",8625 Gossau ZH,3.5,75.0,1740,4.75,Apartment,2019,1970,0
+4002349900,"Heusserstrasse 13,",8634 Hombrechtikon,3.5,80.0,1860,6.75,Apartment,1992,1972,0
+4002349902,"Hinwilerstrasse 10,",8623 Wetzikon ZH,3.5,81.0,2370,3.5,Apartment,-1,-1,0
+4002349904,"Riedthofstrasse 64,",8105 Regensdorf,4.5,99.0,2920,7.5,Apartment,-1,2022,0
+4002349911,"Streitholzstrasse 14,",8057 Zürich,3.5,99.0,4130,12.5,Roof flat,1985,1948,0
+4002349939,"Dorfstrasse 75,",8424 Embrach,3.5,131.0,2650,4.75,Apartment,-1,-1,1
+4002350078,"Seestrasse 135,",8700 Küsnacht ZH,-1,12.0,160,4.25,Storage room,2025,1932,0
+4002350133,"Schönholzweg 41,",8409 Winterthur,2.5,71.0,2140,9.25,Apartment,-1,2023,1
+4002350141,"Bahnhofstrasse 99H,",8620 Wetzikon,1.5,41.0,1690,3.75,Apartment,-1,-1,1
+4002350145,"Bahnhofstrasse 99A,",8620 Wetzikon,2.5,60.0,1980,3.75,Apartment,-1,-1,1
+4002350147,"Stiegstrasse 86,",8195 Wasterkingen,4.5,135.0,2690,2.0,Maisonette / Duplex,2025,-1,1
+4002350150,,,-1,-1,-1,-1,,-1,-1,0
+4002350163,"Bahnhofstrasse 99B,",8620 Wetzikon,4.5,101.0,2930,3.25,Apartment,-1,-1,1
+4002350166,"Bahnhofstrasse 99C,",8620 Wetzikon,3.5,86.0,2570,3.25,Apartment,-1,-1,1
+4002350228,"Bahnhofstrasse 99C,",8620 Wetzikon,5.5,120.0,3360,3.25,Apartment,-1,-1,1
+4002350738,"Schachenstrasse 27,",8618 Oetwil am See,3.5,94.0,2183,10.33,Apartment,2014,2014,1
+4002350770,"Loomattstrasse 18B,",8143 Stallikon,6.5,150.0,3990,4.0,Bifamiliar house,2023,1990,1
+4002350795,"Untergasse 5,",8353 Elgg,2.5,84.0,1765,3.5,Apartment,-1,2012,1
+4002350855,"Im Gatter 6,",8121 Benglen,4.5,95.0,2350,4.33,Apartment,-1,-1,1
+4002350869,,,-1,-1,-1,-1,,-1,-1,0
+4002351044,"Breitwiesstr. 15,",8135 Langnau am Albis,2.5,-1,1690,6.25,Apartment,2016,-1,1
+4002351047,"Kasernenstrasse 10A,",8600 Dübendorf,5.0,160.0,4009,5.75,Apartment,-1,-1,1
+4002351159,"Imbisbühlstrasse 162,",8049 Zürich,4.0,73.0,1925,7.75,Apartment,1998,1954,1
+4002351243,"Mönchbergstrasse 10,",8623 Wetzikon,3.0,62.0,2060,9.5,Apartment,-1,2020,0
+4002351355,"Chämletenweg 12,",8153 Rümlang,4.5,117.0,2775,5.25,Apartment,-1,2004,1
+4002351501,,,4.5,115.0,2950,-1,Maisonette / Duplex,2024,1968,0
+4002351614,,,5.5,-1,3950,-1,Roof flat,2019,-1,0
+4002351935,"Turnerstrasse 42,",8006 Zürich,2.5,100.0,4450,5.0,Apartment,2003,1960,0
+4002351964,,,-1,-1,-1,-1,,-1,-1,0
+4002352244,"Müllerwis 11,",8606 Greifensee,4.5,97.0,2263,4.75,Apartment,2008,1968,1
+4002352311,"Gustav-Gull-Platz 11,",8004 Zürich,2.5,-1,3137,4.75,Apartment,-1,2018,0
+4002352340,"Zürcherstrasse 191,",8953 Dietikon,3.5,98.0,3250,4.25,Apartment,-1,2024,1
+4002352376,"Im Grund 17,",8424 Embrach,3.5,113.0,2560,5.75,Maisonette / Duplex,2019,1985,1
+4002352382,,,-1,-1,-1,-1,,-1,-1,0
+4002352490,"Lägernstrasse 22,",8303 Bassersdorf,3.5,70.0,2390,6.0,Apartment,-1,2021,1
+4002352527,"Untergasse 5,",8353 Elgg,3.5,102.0,1965,3.5,Roof flat,-1,-1,1
+4002352789,"Toblerstrasse 54, 8044 Zürich,",8044 Zürich,3.5,90.0,4160,3.5,Apartment,-1,2016,1
+4002352819,"Girenbadstrasse 9,",8488 Turbenthal,4.5,110.0,2910,5.25,Apartment,-1,2019,1
+4002352821,,,-1,-1,-1,-1,,-1,-1,0
+4002352994,,,-1,-1,-1,-1,,-1,-1,0
+4002353209,"Dietlikerstrasse 39,",8302 Kloten,3.0,56.0,1860,4.75,Apartment,2025,-1,1
+4002353228,"stationstrasse 30,",8472 Seuzach,4.0,95.0,2550,2.5,Apartment,-1,1904,0
+4002353351,"Birmensdorferstrasse 315,",8055 Zürich,2.5,60.0,2990,2.0,Apartment,-1,2025,1
+4002353389,"Endlikerstrasse 69,",8400 Winterthur,3.5,86.0,2110,5.0,Apartment,-1,-1,0
+4002353400,"Forchstrasse 185,",8704 Herrliberg,2.5,73.0,2810,6.25,Apartment,2015,2015,1
+4002353409,"Im Berg 19,",8320 Fehraltorf,4.5,106.0,3162,5.75,Attic flat,-1,2017,1
+4002353667,"Tösstalstrasse 157,",8400 Winterthur,4.5,-1,1890,5.25,Apartment,-1,-1,1
+4002353689,"Karl-Stauffer-Strasse 6,",8008 Zürich,3.5,90.0,3160,4.75,Apartment,-1,-1,0
+4002353912,"Wybüelstrasse 14,",8702 Zollikon,7.0,170.0,8200,7.0,Single house,-1,1937,1
+4002354102,"Maurstrasse 6A,",8117 Fällanden,4.5,110.0,2450,5.0,Apartment,2010,1950,1
+4002354125,,,-1,-1,-1,-1,,-1,-1,0
+4002354404,"Armin-Bollinger-Weg 7,",8050 Zürich,2.5,161.0,2935,4.0,Apartment,2022,-1,1
+4002354410,"Schärenmoosstr. 80,",8052 Zürich,1.5,69.0,2170,3.25,Loft,-1,1988,0
+4002354415,"Wehntalerstr. 327,",8106 Adlikon b.Regensdorf,3.5,93.0,2225,7.33,Apartment,-1,2017,1
+4002354418,"Engenbüelstr. 6,",8304 Wallisellen,4.5,120.0,2556,8.0,Apartment,-1,1980,1
+4002354462,"Heimstrasse 12,",8953 Dietikon,3.5,92.0,2444,4.25,Apartment,-1,2012,0
+4002355328,"Kaffeestrasse 8C,",8180 Bülach,3.5,96.0,2440,7.0,Apartment,-1,2013,1
+4002355358,"Sumatrastrasse 1,",8006 Zürich,2.0,60.0,2670,4.0,Apartment,-1,-1,1
+4002355418,"Im Lindengut 7,",8803 Rüschlikon,4.0,92.0,2395,8.25,Apartment,2013,1956,1
+4002355809,,,4.5,134.0,4500,-1,Single house,2022,-1,1
+4002355811,,,4.5,135.0,2250,-1,Apartment,-1,-1,1
+4002356172,,,-1,-1,-1,-1,,-1,-1,0
+4002356187,"Glärnischstrasse 24,",8600 Dübendorf,3.0,65.0,2790,5.5,Maisonette / Duplex,-1,-1,1
+4002356198,"Badenerstrasse 112,",8952 Schlieren,4.5,100.0,3020,5.0,Apartment,-1,2020,1
+4002356439,,,-1,-1,-1,-1,,-1,-1,0
+4002356440,"Margrit Rainer-Str. 15,",8050 Zürich,1.0,161.0,3940,3.5,Maisonette / Duplex,-1,2000,1
+4002356441,"Stodolastr. 5,",8053 Zürich,3.0,80.0,2178,4.5,Apartment,1999,1965,0
+4002356477,"Buchenrain 1,",8634 Hombrechtikon,10.5,274.0,5750,10.5,Single house,2018,1975,1
+4002356686,"Giebeleichstr. 46,",8152 Glattbrugg,2.0,49.0,1937,4.0,Apartment,-1,-1,1
+4002356782,"Dorfstrasse 29b,",8311 Brütten,4.5,130.0,2800,4.0,Apartment,2025,1997,0
+4002357033,"Sankt Gallerstrasse 20,",8400 Winterthur,4.5,105.0,2600,6.25,Roof flat,2025,-1,1
+4002357283,"Schlossbergstrasse 16,",8702 Zollikon,4.0,126.0,5300,9.75,Apartment,2017,1898,1
+4002357968,"Müllerstrasse 57,",8004 Zürich,2.5,54.0,3980,4.25,Apartment,-1,-1,1
+4002358619,"Zelgstrasse 2,",8340 Hinwil,2.5,56.0,1890,3.0,Apartment,-1,2025,1
+4002359475,"Im Tobelacker 22,",8044 Gockhausen,2.5,-1,2890,11.67,Apartment,-1,-1,0
+4002359488,"Langackerstrasse  131b,",8704 Herrliberg,3.5,100.0,3750,9.0,Apartment,-1,-1,1
+4002359534,"Grosswiesenstrasse 147,",8051 Zürich,2.5,58.0,2141,3.25,Apartment,-1,2018,1
+4002359595,"Im Weierächer 8,",8907 Wettswil,5.0,-1,2850,4.67,Apartment,-1,-1,1
+4002359615,,,-1,-1,-1,-1,,-1,-1,0
+4002359625,"Meilenerstrasse 53,",8132 Egg b. Zürich,3.5,81.0,2190,5.25,Apartment,2025,1990,1
+4002359670,"Spitzengeerstrasse 4,",8606 Nänikon,4.5,-1,3078,7.5,Apartment,-1,-1,0
+4002360099,,,-1,-1,-1,-1,,-1,-1,0
+4002360132,,,-1,-1,-1,-1,,-1,-1,0
+4002360133,,,-1,-1,-1,-1,,-1,-1,0
+4002360246,"Fritz Fleiner-Weg 7,",8044 Zürich,3.5,94.0,4050,5.5,Apartment,2007,1951,0
+4002360248,"Bürglistr. 25,",8002 Zürich,3.5,105.0,5215,6.0,Apartment,2013,1934,1
+4002360249,"Bürglistr. 25,",8002 Zürich,3.5,103.0,5048,6.0,Apartment,2013,1934,1
+4002360250,"Kappenbühlweg 5,",8049 Zürich,2.0,56.0,1845,2.25,Apartment,-1,1959,0
+4002360258,"Altwiesenstrasse 346,",8051 Zürich,3.5,76.0,2185,4.5,Apartment,-1,2012,0
+4002360296,,,-1,-1,-1,-1,,-1,-1,0
+4002360300,,,-1,-1,-1,-1,,-1,-1,0
+4002360498,,,-1,-1,-1,-1,,-1,-1,0
+4002360523,,,-1,-1,-1,-1,,-1,-1,0
+4002360552,,,-1,-1,-1,-1,,-1,-1,0
+4002360556,"Maiacherstrasse 1,",8127 Forch,2.0,50.0,1680,7.67,Apartment,-1,-1,1
+4002360574,,,-1,-1,-1,-1,,-1,-1,0
+4002360604,,,-1,-1,-1,-1,,-1,-1,0
+4002360607,,,-1,-1,-1,-1,,-1,-1,0
+4002360615,,,-1,-1,-1,-1,,-1,-1,0
+4002360628,,,-1,-1,-1,-1,,-1,-1,0
+4002360640,,,-1,-1,-1,-1,,-1,-1,0
+4002360654,,,-1,-1,-1,-1,,-1,-1,0
+4002360676,,,-1,-1,-1,-1,,-1,-1,0
+4002360685,"Grundstrasse 2a,",8488 Turbenthal,4.5,106.0,2290,2.75,Apartment,-1,2011,1
+4002360789,"Alt-Ferrachstrasse 35b,",8630 Rüti ZH,3.5,77.0,2180,7.5,Apartment,-1,1986,1
+4002361094,"Renggerstrasse 57,",8038 Zürich,-1,-1,410,3.25,Multi-family house,2026,-1,0
+4002361220,,,-1,-1,-1,-1,,-1,-1,0
+4002361221,"Witikonerstrasse 515,",8053 Zürich,5.0,117.0,2655,7.5,Apartment,-1,-1,1
+4002361222,"Witikonerstrasse 499,",8053 Zürich,5.0,115.0,2610,8.0,Apartment,-1,-1,1
+4002361223,"Witikonerstrasse 497,",8053 Zürich,5.0,115.0,2610,7.75,Apartment,-1,-1,1
+4002361249,"Köschenrüti 75,",8052 Zürich,5.0,83.0,2390,-1,Apartment,-1,-1,1
+4002361277,"Zypressenstrasse 60,",8004 Zürich,-1,54.0,550,4.0,Hobby room,-1,-1,0
+4002361298,"Lindenhof 1,",8001 Zürich,1.0,-1,990,4.25,Single Room,-1,-1,0
+4002361472,"Pfingstweidstrasse 106a,",8005 Zürich,3.5,118.0,5295,5.5,Apartment,-1,2015,1
+4002361500,"Püntenweg 2,",8184 Bachenbülach,5.5,128.0,2600,7.75,Roof flat,-1,1995,1
+4002361520,"Soodstrasse 88,",8041 Zürich,3.5,95.0,2750,4.75,Apartment,-1,2013,1
+4002361541,"Werdstrasse 6,",8004 Zürich,3.5,102.0,2354,2.5,Apartment,2010,1992,0
+4002361543,"Tramstrasse 15,",8050 Zürich,1.5,42.0,1779,2.5,Apartment,-1,1943,0
+4002361546,"Rennweg 38,",8001 Zürich,4.0,127.0,5199,3.5,Apartment,2002,1800,0
+4002361549,"Solarstrasse 3,",8404 Winterthur,2.5,48.0,1600,5.0,Apartment,-1,-1,0
+4002361551,"Röntgenstrasse 6,",8005 Zürich,3.5,77.0,3790,3.5,Maisonette / Duplex,2019,1929,0
+4002361552,"Oberackerstrasse 6,",8309 Nürensdorf,4.5,125.0,3190,-1,Attic flat,2019,2008,0
+4002361553,"Solarstrasse 5,",8404 Winterthur,3.5,104.0,3000,5.0,Attic flat,-1,-1,0
+4002361746,"Restelbergstr. 18,",8044 Zürich,3.5,94.0,4910,3.75,Attic flat,-1,2016,1
+4002362488,"Kurfirstenstrasse 86,",8038 Zürich,2.0,52.0,2415,6.75,Apartment,2009,1949,0
+4002362525,"Kronenplatz 17,",8953 Dietikon,4.5,176.0,3380,4.75,Maisonette / Duplex,-1,-1,0
+4002363195,"Fabrikgasse 9,",8810 Horgen,3.5,89.0,3040,8.0,Apartment,-1,-1,1
+4002363240,"Sunnehaldenstrasse 18,",8311 Brütten,-1,-1,1900,5.0,Apartment,-1,-1,0
+4002363326,"Alte landstrasse 123,",8702 Zollikon,4.0,172.0,6200,10.0,Apartment,-1,2008,1
+4002363349,"Albisstrasse 88,",8134 Adliswil,4.5,-1,2390,4.0,Apartment,-1,-1,1
+4002363421,"Titlisstrasse 3,",8910 Affoltern am Albis,3.5,115.0,4115,7.0,Attic flat,-1,2023,1
+4002363590,"Wiedingstrasse 76,",8045 Zürich,3.5,81.0,4120,4.75,Apartment,-1,2025,1
+4002363616,"Wängirain 59,",8704 Herrliberg,3.5,90.0,3190,9.0,Apartment,-1,2020,1
+4002363668,"Robert-Stephenson-Weg 47,",8004 Zürich,4.5,148.0,6482,3.75,Apartment,-1,-1,1
+4002363671,"Industriestrasse 1a,",8600 Dübendorf,2.5,53.0,2250,5.25,Apartment,-1,2025,1
+4002363691,"Höflistrasse 35,",8135 Langnau am Albis,4.5,132.0,5750,9.25,Maisonette / Duplex,-1,2024,0
+4002363798,"Robert-Stephenson-Weg 47,",8004 Zürich,4.5,148.0,6731,3.75,Apartment,-1,-1,1
+4002363809,"Hohlstrasse 440a,",8048 Zürich,7.5,-1,5058,3.5,Apartment,-1,2022,1
+4002363999,"Alt-Ferrachstrasse 37,",8630 Rüti ZH,3.5,84.0,2175,6.75,Apartment,-1,1986,0
+4002364043,"Schönenbergstrasse 281,",8820 Wädenswil,4.5,-1,2870,6.5,Apartment,-1,-1,1
+4002364051,,,-1,-1,-1,-1,,-1,-1,0
+4002364054,"Riedthofstrasse 62,",8105 Regensdorf,3.5,75.0,2485,7.25,Apartment,-1,2022,0
+4002364115,"Sunneraistrasse 40,",8634 Hombrechtikon,6.5,168.0,3565,10.0,Row house,-1,-1,1
+4002364121,"Gustav-Gull-Platz 11,",8004 Zürich,4.5,-1,5106,4.75,Apartment,-1,2048,1
+4002364184,,,-1,-1,-1,-1,,-1,-1,0
+4002364201,,,-1,-1,-1,-1,,-1,-1,0
+4002364280,,,-1,-1,-1,-1,,-1,-1,0
+4002364373,"Rütistr. 32,",8134 Adliswil,2.5,63.0,1930,9.75,Apartment,-1,2019,0
+4002364375,"Austrasse 52,",8045 Zürich,4.5,105.0,4670,4.0,Apartment,-1,2024,1
+4002364383,"Sihlmatten 1,",8134 Adliswil,4.5,99.0,2170,11.25,Apartment,1989,1968,1
+4002364387,,,-1,-1,-1,-1,,-1,-1,0
+4002364393,"Jenatschstrasse 3,",8002 Zürich,2.5,62.0,2990,3.5,Apartment,-1,-1,0
+4002364394,"Bellariastrasse 13,",8002 Zürich,3.5,96.0,4260,5.25,Apartment,-1,2022,0
+4002364395,"Seestrasse 65,",8810 Horgen,3.5,92.0,2820,4.0,Apartment,-1,2010,1
+4002364398,"Wiedingstrasse 87d,",8045 Zürich,2.5,72.0,3150,4.25,Apartment,-1,2024,1
+4002364403,,,-1,-1,-1,-1,,-1,-1,0
+4002364406,"Jenatschstrasse 3,",8002 Zürich,2.5,75.0,3990,3.5,Apartment,-1,-1,1
+4002364410,"Wiedingstrasse 87c,",8045 Zürich,5.5,133.0,6210,4.5,Apartment,-1,2024,1
+4002364416,,,-1,-1,-1,-1,,-1,-1,0
+4002364419,"Tödistrasse 1,",8002 Zürich,4.5,194.0,10830,5.75,Maisonette / Duplex,-1,1892,1
+4002364423,"Gotthardstrasse 53,",8002 Zürich,4.5,144.0,6610,2.5,Maisonette / Duplex,-1,-1,0
+4002364424,"Gotthardstrasse 53,",8002 Zürich,4.5,130.0,6300,2.5,Maisonette / Duplex,-1,-1,0
+4002364715,"Robert-Stephenson-Weg 47,",8004 Zürich,2.5,51.0,3053,3.75,Apartment,-1,-1,0
+4002364738,"Cholenmoosweg 8,",8942 Oberrieden,3.5,93.0,2944,9.75,Apartment,-1,-1,1
+4002364778,"Robert-Stephenson-Weg 47,",8004 Zürich,2.5,67.0,2978,3.75,Apartment,-1,-1,1
+4002364797,,,-1,-1,-1,-1,,-1,-1,0
+4002364881,"Albisriederstrasse 20,",8003 Zürich,3.0,79.0,3080,3.25,Apartment,-1,1945,1
+4002364999,"Minervastrasse,",8032 Zürich,3.5,75.0,4500,3.0,Apartment,2023,1910,0
+4002365060,"Feldstrasse 46,",8004 Zürich,1.0,15.0,1375,3.25,Apartment,2005,1899,0
+4002365068,"Bellariastrasse 83,",8038 Zürich,2.5,66.0,3015,5.25,Apartment,-1,2014,0
+4002365261,"Seestrasse 69,",8810 Horgen,4.5,114.0,3400,3.25,Apartment,-1,2010,1
+4002365271,"Sillerwies 9,",8053 Zürich,8.0,-1,7345,8.5,Single house,-1,1957,1
+4002365272,"Huebwiesenstr. 23,",8954 Geroldswil,5.5,136.0,3650,3.75,Attic flat,-1,1981,1
+4002365365,,,-1,-1,-1,-1,,-1,-1,0
+4002365432,"Stettbacherrain 16,",8051 Zürich,2.0,67.0,2895,6.5,Maisonette / Duplex,-1,-1,0
+4002365462,"Breitiweg 3,",8465 Wildensbuch,5.5,156.0,3500,-1,Single house,-1,2025,0
+4002365507,"Billikon 32,",8314 Illnau-Effretikon,3.0,83.0,1850,13.67,Apartment,-1,-1,1
+4002366108,"Töpferstrasse 12,",8400 Winterthur,4.5,103.0,2830,5.5,Apartment,2017,2008,1
+4002366730,"Ettenhauserstrasse 34,",8620 Wetzikon ZH,3.0,76.0,1890,5.75,Apartment,-1,-1,1
+4002366757,"Kaffeestrasse 6B,",8180 Bülach,4.5,119.0,2870,7.0,Apartment,-1,2013,1
+4002366764,"Ackerstrasse 38,",8610 Uster,3.0,63.0,1690,4.5,Apartment,-1,1955,1
+4002366769,"Alvierstr. 24,",8804 Au ZH,2.5,64.0,1540,6.0,Apartment,2010,1971,1
+4002366772,"Ifangweg 3,",8610 Uster,2.0,47.0,1620,4.75,Apartment,2003,1968,1
+4002366780,"Oberlandstr. 75,",8610 Uster,4.5,96.0,2294,4.75,Apartment,2005,1976,1
+4002366785,"Thurtalstrasse 143,",8478 Thalheim an der Thur,4.5,161.0,2450,8.5,Roof flat,2025,1994,1
+4002366991,"Roswiesenstrasse 183,",8051 Zürich,3.0,76.0,2295,6.0,Apartment,-1,-1,1
+4002367046,"Altbachstrasse 10,",8305 Dietlikon,3.0,65.0,1790,7.0,Apartment,-1,-1,1
+4002367095,"Toblerstrasse 78,",8044 Zürich,3.5,130.0,5716,1.25,Apartment,2021,2013,1
+4002367227,,,-1,-1,-1,-1,,-1,-1,0
+4002367269,"Balgriststrasse 6,",8008 Zürich,3.0,65.0,2800,4.5,Apartment,2016,-1,1
+4002367432,"Talgartenstrasse 8,",8308 Illnau,5.5,124.0,2980,3.5,Apartment,-1,2011,1
+4002367459,"Brinerstrasse 17,",8003 Zürich,2.5,55.0,2670,2.75,Apartment,-1,-1,1
+4002367510,"Katharina Sulzer Platz 8,",8400 Winterthur,3.5,96.0,2670,-1,Apartment,-1,2004,1
+4002367584,"Waldeggweg 2a,",8302 Kloten,2.5,95.0,2530,6.75,Apartment,-1,2019,0
+4002367591,"Hechtstrasse 4,",8942 Oberrieden,2.5,54.0,1510,6.5,Apartment,1987,1971,1
+4002367603,"Caspar Wüst-Strasse 38,",8052 Zürich,3.0,59.0,2115,11.25,Apartment,1987,1958,1
+4002367617,"Dohlenweg 30,",8050 Zürich,4.5,97.0,3685,4.75,Apartment,2021,1977,0
+4002367627,"Imbisbühlsteig 10,",8049 Zürich,3.5,82.0,3085,6.5,Apartment,-1,1995,0
+4002367629,"Dohlenweg 30,",8050 Zürich,3.5,72.0,2845,4.75,Apartment,2021,1977,0
+4002367634,"Sandrainstrasse 6,",8156 Oberhasli,2.5,83.0,2105,4.33,Apartment,-1,2012,1
+4002367642,"Kinkelstrasse 38,",8006 Zürich,2.5,107.0,4630,4.25,Apartment,-1,-1,0
+4002367662,"Witellikerstr. 35,",8702 Zollikon,4.5,104.0,4430,11.25,Apartment,2006,1961,1
+4002367668,"Krähbühlstr. 55,",8044 Zürich,4.0,110.0,4335,5.0,Apartment,-1,-1,0
+4002367693,"Im Ahorn 11,",8125 Zollikerberg,4.5,109.0,3065,9.5,Apartment,1989,1971,0
+4002367726,"Breitwiesstr. 7,",8135 Langnau am Albis,4.5,93.0,2050,7.75,Maisonette / Duplex,1964,1960,1
+4002367764,"Seestrasse 342,",8810 Horgen,4.0,96.0,2880,10.25,Apartment,2014,1898,0
+4002367774,"Rehbühlstrasse 41,",8610 Uster,3.5,78.0,1974,9.25,Apartment,1991,1971,0
+4002367775,"Carl-Spitteler-Strasse 15,",8053 Zürich,5.5,121.0,3820,3.25,Maisonette / Duplex,2004,1950,0
+4002367807,"Ettenhauserstrasse 34,",8620 Wetzikon ZH,3.0,76.0,2090,5.75,Apartment,-1,-1,1
+4002367810,,,-1,-1,-1,-1,,-1,-1,0
+4002367811,,,-1,-1,-1,-1,,-1,-1,0
+4002367848,"Schärenmoosstrasse 76,",8050 Zürich,3.5,-1,3640,3.25,Apartment,-1,-1,0
+4002367862,"Geerenstrasse 30,",8302 Kloten,3.5,88.0,2855,4.0,Apartment,2022,2022,1
+4002367994,"Rietstrasse 39,",8103 Unterengstringen,4.5,158.0,3785,12.75,Terrace flat,-1,-1,1
+4002368125,,,-1,-1,-1,-1,,-1,-1,0
+4002368296,"Wartauweg 19,",8049 Zürich,3.5,85.0,4660,8.5,Apartment,2024,-1,1
+4002368329,,,-1,-1,-1,-1,,-1,-1,0
+4002368343,"Kirchstrasse 10,",8805 Richterswil,4.5,78.0,2155,5.25,Apartment,-1,-1,0
+4002368482,"Dorfstrasse 90,",8933 Maschwanden,2.0,50.0,1150,4.0,Roof flat,-1,-1,1
+4002368537,,,-1,-1,-1,-1,,-1,-1,0
+4002368573,,,-1,-1,-1,-1,,-1,-1,0
+4002368577,"Brandstrasse 47,",8952 Schlieren,3.5,85.0,2282,5.0,Maisonette / Duplex,-1,2013,1
+4002368590,"Eglistr. 7,",8942 Oberrieden,5.5,105.0,2670,7.5,Apartment,-1,1971,1
+4002368623,"Im Altried 3c,",8051 Zürich,3.5,94.0,2655,5.25,Maisonette / Duplex,2007,1983,0
+4002368677,"Uetlirain 6 A,",8143 Stallikon,4.5,126.0,2660,6.33,Apartment,-1,2006,0
+4002368685,"Zelgstrasse 41,",8003 Zürich,2.0,43.0,2725,2.75,Apartment,2023,1971,0
+4002368704,"Rainstr. 7,",8192 Glattfelden,3.0,-1,1950,4.0,Apartment,-1,-1,1
+4002368802,"Seestrasse 293C,",8820 Wädenswil,4.5,108.0,3350,4.33,Maisonette / Duplex,-1,2025,1
+4002369092,,,4.5,106.0,3200,-1,Apartment,2020,-1,1
+4002369136,"Köschenrüti 59,",8052 Zürich,5.0,83.0,2390,6.0,Apartment,-1,-1,1
+4002369406,"Chlirietstrasse 8,",8154 Oberglatt,2.5,67.0,1705,7.33,Apartment,-1,-1,1
+4002369534,"Grossmatt 1,",8910 Affoltern am Albis,3.0,-1,1840,5.75,Apartment,-1,-1,1
+4002369618,"Oskar-Bider-Strasse 33,",8600 Dübendorf,3.5,65.0,2250,6.25,Apartment,-1,1970,1
+4002369748,"Zürcherstrasse 24,",8908 Hedingen,3.5,85.0,1810,2.67,Apartment,2024,1973,1
+4002369749,"Hottingerstrasse 38,",8032 Zürich,2.0,-1,2890,3.5,Apartment,-1,-1,0
+4002370247,"Sonnenbergstrasse 25,",8488 Turbenthal,3.5,79.0,1760,7.5,Apartment,-1,-1,0
+4002370260,"Geiselweidstrasse 15,",8400 Winterthur,5.5,110.0,2860,6.25,Maisonette / Duplex,-1,-1,0
+4002370268,"Pfingstweidstrasse 98,",8005 Zürich,2.5,128.0,4950,5.5,Apartment,-1,2013,1
+4002370269,"Bühlwiesenstrasse 15,",8052 Zürich,2.5,80.0,4200,4.75,Apartment,-1,2025,1
+4002370288,"Feldwiesstrasse 17,",8181 Höri,2.5,-1,1934,4.0,Apartment,-1,2021,1
+4002370440,"Tumbelenstrasse 32d,",8330 Pfäffikon ZH,5.5,127.0,3310,7.5,Apartment,-1,-1,1
+4002370517,"Steinbrüchelstrasse 21,",8053 Zürich,5.0,118.0,3679,4.0,Apartment,-1,1959,1
+4002370567,"Mühlebachstrasse 30b,",8800 Thalwil,3.5,89.0,2990,3.5,Apartment,-1,-1,0
+4002370590,,,-1,-1,-1,-1,,-1,-1,0
+4002370599,"Rossbergstrasse 40,",8002 Zürich,3.5,106.0,4400,7.0,Maisonette / Duplex,-1,2012,1
+4002370611,"Erlengutstrasse 4,",8703 Erlenbach ZH,1.5,35.0,1970,6.0,Apartment,-1,2025,1
+4002370656,"Birmensdorferstr. 448,",8055 Zürich,2.5,56.0,2490,5.25,Apartment,-1,-1,1
+4002370804,"Ausserfeldstrasse 52,",8708 Männedorf,3.5,120.0,2480,10.5,Apartment,-1,-1,1
+4002370915,"Alte Winterthurerstr. 71,",8304 Wallisellen,3.5,80.0,1782,5.25,Apartment,-1,1965,0
+4002371069,"Schwerzgruebstrasse 2,",8180 Bülach,3.5,95.0,2150,5.75,Apartment,-1,-1,1
+4002371076,"Luegislandstrasse 265,",8051 Zürich,3.5,-1,3055,6.25,Apartment,2025,-1,0
+4002371089,"Luegislandstrasse 265,",8051 Zürich,3.5,-1,2925,6.25,Apartment,2025,-1,0
+4002371090,"Luegislandstrasse 265,",8051 Zürich,3.5,-1,2955,6.25,Terrace flat,2025,-1,0
+4002371091,"Luegislandstrasse 265,",8051 Zürich,3.5,-1,2955,6.25,Apartment,2025,-1,0
+4002371097,,,-1,-1,-1,-1,,-1,-1,0
+4002371469,"Gossauerstrasse 13,",8340 Hinwil,3.5,111.0,2164,4.25,Apartment,2015,1987,1
+4002371525,"Josefstrasse 200,",8005 Zürich,2.5,78.0,2640,5.0,Apartment,-1,-1,0
+4002371543,,,3.5,82.0,3950,-1,Attic flat,-1,-1,1
+4002371718,"Auf Anfrage 1,",8954 Geroldswil,3.5,89.0,4300,-1,Apartment,-1,2024,0
+4002371834,"Hofmannstrasse 15,",8405 Winterthur,4.0,155.0,2460,3.75,Roof flat,-1,-1,1
+4002371836,"Bernhofstr. 58,",8134 Adliswil,1.5,36.0,1269,6.75,Apartment,2000,1966,1
+4002371841,"Poststr. 3,",8610 Uster,3.5,101.0,2990,3.75,Apartment,-1,2008,1
+4002371863,"Zürichstrasse 81,",8910 Affoltern a. Albis,1.5,36.0,1490,4.75,Apartment,2024,-1,1
+4002371895,,,-1,-1,-1,-1,,-1,-1,0
+4002371897,"Pfruendhofstrasse 48,",8910 Affoltern am Albis,5.5,124.0,2738,6.0,Apartment,2018,1980,0
+4002371898,"Tannstrasse 6,",8800 Thalwil,4.0,75.0,2020,5.75,Apartment,1993,1958,0
+4002371899,"Turbinenstrasse 32,",8005 Zürich,2.5,73.0,3025,4.0,Apartment,-1,2013,0
+4002371919,"Seestrasse 200,",8810 Horgen,2.5,-1,1950,3.5,Apartment,2025,-1,1
+4002372044,"Signaustrasse 10,",8008 Zürich,7.0,218.0,-1,3.5,Attic flat,-1,-1,0
+4002372045,"Parkweg 2,",8800 Thalwil,2.0,92.0,3220,4.0,Apartment,-1,-1,1
+4002372047,"Birmensdorferstr. 450,",8055 Zürich,2.5,54.0,2600,4.5,Apartment,-1,-1,0
+4002372065,"Breitwiesstr. 7,",8135 Langnau am Albis,3.0,66.0,1595,7.75,Maisonette / Duplex,1964,1960,1
+4002372066,"Hanfackerstr. 19,",8155 Niederhasli,4.5,97.0,2190,3.67,Apartment,1999,1982,1
+4002372171,"Sellenbüren 57,",8143 Stallikon,3.5,-1,2400,4.0,Apartment,-1,2011,0
+4002372176,"Erbstrasse 2,",8700 Küsnacht ZH,2.5,81.0,2850,8.0,Apartment,2020,1925,0
+4002372185,"Bahnhofstrasse 100,",8803 Rüschlikon,2.5,65.0,2500,4.25,Roof flat,2025,-1,1
+4002372198,"Badenerstr. 134,",8004 Zürich,1.0,43.0,2080,1.5,Apartment,-1,1887,0
+4002372353,,,-1,-1,-1,-1,,-1,-1,0
+4002372711,,,7.5,-1,4700,-1,Bifamiliar house,2025,-1,1
+4002372753,"Waffenplatzstrasse 39a,",8002 Zürich,1.0,26.0,1790,4.5,Studio,-1,2025,1
+4002373037,"Renggerstrasse 19,",8038 Zürich,1.5,22.0,1881,4.75,Apartment,-1,-1,0
+4002373049,"Else-Züblin-Strasse 74,",8404 Winterthur,2.5,66.0,2065,5.0,Apartment,2018,2018,1
+4002373079,"Im Stockenhof 12,",8105 Regensdorf,3.5,92.0,2720,5.0,Apartment,-1,-1,1
+4002373095,"Rychenbergstr. 61,",8400 Winterthur,4.5,124.0,3219,7.75,Apartment,-1,2010,1
+4002373233,,,-1,-1,-1,-1,,-1,-1,0
+4002373234,"Im Hänsi 7,",8708 Männedorf,3.5,123.0,4300,6.75,Apartment,-1,2025,0
+4002373278,"Hauptstrasse 23,",8246 Langwiesen,3.5,95.0,1890,1.5,Apartment,-1,-1,1
+4002373398,"Richterwis 2,",8303 Bassersdorf,4.5,103.0,2480,6.33,Apartment,-1,2005,1
+4002373402,"Ackerstr. 25,",8604 Volketswil,2.5,58.0,1810,7.0,Apartment,-1,1985,1
+4002373403,"Maurstr. 48,",8117 Fällanden,4.5,97.0,2070,4.5,Apartment,-1,1967,1
+4002373406,"Unterdorfstr. 10,",8340 Hinwil,2.5,72.0,1750,6.75,Apartment,-1,2010,1
+4002373442,"Unterdorfstrasse 1B,",8340 Hinwil,2.5,64.0,1990,5.5,Apartment,-1,2018,1
+4002373511,"Aubrigstr. 9,",8804 Au ZH,4.5,128.0,3202,6.33,Attic flat,-1,1970,1
+4002373519,"Brunnenhof 3,",8910 Affoltern am Albis,3.5,65.0,1950,5.0,Apartment,-1,-1,1
+4002373566,,,-1,-1,-1,-1,,-1,-1,0
+4002373661,"Schifflände 16,",8001 Zürich,4.0,135.0,5490,2.75,Apartment,2005,1418,0
+4002373688,,,-1,-1,-1,-1,,-1,-1,0
+4002373787,"Chratzstrasse 2a,",8954 Geroldswil,4.5,114.0,3565,5.5,Apartment,-1,2025,1
+4002373905,"Im Bad 7,",8132 Hinteregg,8.0,-1,5800,10.5,Single house,-1,-1,1
+4002374077,,,-1,-1,-1,-1,,-1,-1,0
+4002374080,"Grosswiesenstrasse 153,",8051 Zürich,3.5,71.0,1980,2.75,Apartment,-1,-1,1
+4002374113,,,-1,-1,-1,-1,,-1,-1,0
+4002374182,,,-1,-1,-1,-1,,-1,-1,0
+4002374199,"Seuzacherstr. 13a,",8400 Winterthur,4.5,114.0,2840,3.25,Apartment,-1,2011,1
+4002374280,"Saumackerstrasse 75,",8048 Zürich,3.5,90.0,3425,5.25,Apartment,2023,2023,1
+4002374281,"Grimselstrasse 24,",8048 Zürich,2.5,72.0,2782,5.0,Apartment,2023,2023,1
+4002374283,"Kirchweg 20/22,",8102 Oberengstringen,5.0,112.0,2590,8.75,Apartment,-1,1960,0
+4002374352,"Triemlistrasse 153,",8047 Zürich,3.5,76.0,3020,4.25,Apartment,1993,1980,0
+4002374358,"Limmatquai 48,",8001 Zürich,2.5,70.0,3175,3.75,Apartment,-1,1984,0
+4002374388,"Stationsstrasse 8,",8352 Elsau,4.5,91.0,2125,6.0,Apartment,2024,-1,1
+4002374390,"Kirchackerstrasse 36,",8405 Winterthur,4.5,118.0,3188,9.5,Attic flat,-1,2012,1
+4002374474,"Schwamendingenstrasse 131,",8051 Schwamendingen,2.5,63.0,2590,8.5,Roof flat,2025,1990,1
+4002374476,"Tobelstrasse 4, 8127 Forch,",8127 Forch,3.5,80.0,2390,8.33,Apartment,-1,1870,1
+4002374508,,,-1,-1,-1,-1,,-1,-1,0
+4002374512,,,-1,-1,-1,-1,,-1,-1,0
+4002374518,"Sonnentalstrasse 4b,",8600 Dübendorf,4.5,113.0,4175,5.25,Apartment,-1,2025,1
+4002374549,"Laupenstrasse 43,",8636 Wald ZH,4.0,87.0,1612,9.0,Apartment,-1,-1,1
+4002375159,"Heizenholz 4,",8049 Zürich,4.5,120.0,5300,8.25,Apartment,-1,2022,1
+4002375203,"Neu Yorkstrasse 6D,",8630 Rüti ZH,4.5,91.0,2260,8.25,Apartment,-1,-1,1
+4002375328,,,-1,-1,-1,-1,,-1,-1,0
+4002375341,"Tiefenhofstrasse 20a,",8820 Wädenswil,2.5,87.0,2750,10.75,Attic flat,-1,2020,1
+4002375486,"Am Holbrig 2,",8049 Zürich,3.5,88.0,4202,3.75,Attic flat,2024,1977,1
+4002375549,"Albisstrasse 22,",8134 Adliswil,2.5,57.0,1680,4.25,Apartment,-1,-1,1
+4002375629,"Im Heumoos 25,",8906 Bonstetten,3.5,91.0,2520,3.25,Maisonette / Duplex,-1,1995,1
+4002375630,"Else-Züblin-Strasse 79,",8404 Winterthur,3.5,94.0,2430,5.25,Apartment,-1,2015,1
+4002375664,"Neudorfstrasse 38,",8820 Wädenswil,4.5,99.0,1980,6.5,Apartment,2011,1982,0
+4002375678,"Welchogasse 8,",8050 Zürich,3.5,68.0,3484,2.75,Apartment,-1,2025,1
+4002376025,"Maienstrasse 25,",8050 Zürich,-1,108.0,3560,3.75,Apartment,-1,-1,1
+4002376185,"Rehalpstrasse 90,",8008 Zürich,8.0,146.0,6400,7.25,Row house,2025,1920,1
+4002376230,,,-1,-1,-1,-1,,-1,-1,0
+4002376357,"Dolderstrasse 87,",8032 Zürich,4.5,174.0,7500,6.75,Apartment,-1,-1,1
+4002376375,,,2.0,108.0,2300,-1,Loft,-1,2015,0
+4002376401,,,-1,-1,-1,-1,,-1,-1,0
+4002376425,,,2.5,78.0,2300,-1,Apartment,-1,2023,1
+4002376758,"Neunbrunnenstr. 163,",8050 Zürich,3.5,84.0,2580,5.5,Apartment,2003,2003,1
+4002376761,"Scheuchzerstrasse 64,",8006 Zürich,3.5,71.0,3240,3.25,Apartment,1982,1907,1
+4002376778,"Chlirietstrasse 8,",8154 Oberglatt,3.5,84.0,2065,7.33,Apartment,-1,-1,1
+4002376788,"Cäcilienstr. 5,",8032 Zürich,6.5,212.0,8498,3.0,Apartment,2008,1903,0
+4002376789,,,-1,-1,-1,-1,,-1,-1,0
+4002377056,"Sonneggstr. 41,",8006 Zürich,3.5,98.0,4170,4.25,Apartment,-1,2025,0
+4002377601,"Stampfistrasse 7,",8193 Eglisau,4.5,135.0,3100,6.0,Apartment,-1,2009,1
+4002377861,"Auf Anfrage 1,",8954 Geroldswil,2.5,55.0,3000,-1,Apartment,-1,2024,0
+4002377947,,,4.5,152.0,3680,-1,Single house,2016,-1,1
+4002378329,"Gustav-Gull-Platz 4,",8004 Zürich,2.5,-1,7990,4.25,Apartment,2023,-1,1
+4002378332,"Baurstrasse 29,",8008 Zürich,1.5,30.0,3890,4.0,Apartment,2020,-1,1
+4002378333,"Geranienstrasse 14,",8008 Zürich,3.5,70.0,7490,3.25,Apartment,2022,-1,1
+4002378336,"Hammerstrasse 43,",8008 Zürich,3.5,120.0,7490,8.25,Apartment,2013,2000,1
+4002378338,"Engweg 8,",8006 Zürich,4.5,140.0,9290,6.75,Apartment,2021,2010,1
+4002378339,"Spindelstrasse 16,",8041 Zürich,4.5,140.0,7590,5.5,Apartment,2024,2023,1
+4002378340,"Helenastrasse 11,",8008 Zürich,3.0,78.0,5190,3.25,Apartment,2025,1894,1
+4002378341,"Hönggerstrasse 40,",8037 Zürich,2.5,55.0,4500,11.25,Apartment,2024,1990,1
+4002378344,"Schärenmoosstrasse 78,",8052 Zürich,2.5,78.0,5900,6.0,Apartment,2023,2016,1
+4002378357,"Bachtelstrasse 38,",8810 Horgen,6.5,210.0,7900,4.25,Apartment,2023,-1,1
+4002378363,"Etzelstrasse 35,",8038 Zürich,3.5,100.0,9900,3.75,Apartment,-1,-1,1
+4002378368,,,-1,-1,-1,-1,,-1,-1,0
+4002378798,"Hönggerstrasse,",8037 Zürich,2.0,60.0,2070,5.5,Apartment,-1,-1,0
+4002378804,"Riedenhaldenstrasse 110,",8046 Zürich,2.5,63.0,2800,5.5,Attic flat,2025,2018,1
+4002379128,,,3.5,107.0,2270,-1,Apartment,-1,2017,1
+4002379207,,,5.5,160.0,3750,-1,Maisonette / Duplex,2015,-1,1
+4002379497,,,-1,-1,-1,-1,,-1,-1,0
+4002379559,"Schwandelstr. 1,",8800 Thalwil,2.0,55.0,1920,1.5,Apartment,-1,1952,1
+4002379560,"Stationsstr. 55 C,",8424 Embrach,3.0,71.0,1990,6.0,Apartment,2024,1979,1
+4002379579,"Seerenstrasse 12,",8187 Weiach,2.5,57.0,1633,11.25,Apartment,-1,-1,1
+4002379613,"Dorfstrasse 12,",8484 Weisslingen,3.5,94.0,2340,2.67,Apartment,-1,-1,1
+4002379635,"Dorfstrasse 12,",8484 Weisslingen,4.5,131.0,2970,2.67,Apartment,-1,-1,1
+4002379674,"Badenerstrasse 843,",8048 Zürich,2.5,79.0,2540,8.25,Apartment,-1,2023,1
+4002379837,,,-1,-1,-1,-1,,-1,-1,0
+4002380029,,,-1,-1,-1,-1,,-1,-1,0
+4002380112,"Bachstrasse 33,",8106 Adlikon b. Regensdorf,4.5,115.0,2740,7.33,Apartment,-1,-1,0
+4002380254,"Wybergstrasse 35A,",8542 Wiesendangen,4.5,120.0,3470,5.75,Maisonette / Duplex,2025,1983,1
+4002380444,"Vulkanstrasse 110c,",8048 Zürich,2.5,58.0,2380,3.75,Apartment,-1,-1,0
+4002380445,"Nansenstrasse 7,",8050 Zürich,2.5,58.0,1900,1.75,Apartment,-1,1985,1
+4002380474,"Schaffhauserstrasse 230 A,",8057 Zürich,3.0,72.0,2699,3.75,Apartment,2009,1990,0
+4002380475,"Schaffhauserstrasse 230 B,",8057 Zürich,2.5,53.0,1920,3.75,Apartment,2009,1990,0
+4002380482,"Buttenaustrasse 15,",8134 Adliswil,3.5,76.0,1995,6.0,Apartment,1992,1971,0
+4002380483,"Neudorfstrasse 48,",8820 Wädenswil,4.5,97.0,1785,7.5,Apartment,2011,1982,0
+4002380484,"Lindenstrasse 42,",8302 Kloten,3.0,57.0,1720,5.0,Apartment,1993,1955,0
+4002380487,"Blaketen 7,",8620 Wetzikon ZH,2.5,91.0,2130,4.0,Apartment,2013,1964,0
+4002380489,,,-1,-1,-1,-1,,-1,-1,0
+4002380490,"Grünaustrasse 16,",8953 Dietikon,3.5,103.0,2525,4.25,Apartment,-1,2015,0
+4002380491,"Flurstrasse 51,",8048 Zürich,2.5,55.0,1425,3.25,Apartment,-1,-1,0
+4002380492,"Flurstrasse 51,",8048 Zürich,2.5,55.0,1524,3.25,Apartment,-1,-1,0
+4002380493,,,-1,-1,-1,-1,,-1,-1,0
+4002380495,"Sulzerallee 78,",8404 Winterthur,2.5,49.0,1600,3.75,Apartment,-1,-1,0
+4002380496,"Forchstrasse 24,",8008 Zürich,3.0,77.0,3790,2.75,Apartment,2024,1943,0

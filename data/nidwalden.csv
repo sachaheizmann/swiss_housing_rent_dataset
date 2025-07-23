@@ -1,0 +1,36 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+4000917579,"Breitenweg 10,",6370 Stans,2.0,66.0,2490,11.0,Apartment,2024,-1,1
+4000917580,"Breitenweg 10,",6370 Stans,2.0,46.0,2390,11.0,Apartment,2024,-1,1
+4000917585,"Breitenweg 10,",6370 Stans,2.0,33.0,2190,11.0,Apartment,2024,-1,1
+4001046790,"Breitenweg 10,",6370 Stans,2.0,47.0,2390,11.0,Apartment,2024,-1,1
+4001537188,"Seestrasse 20,",6052 Hergiswil NW,1.0,49.0,2590,4.5,Apartment,2023,1904,0
+4001705588,"Stanserstrasse 23,",6362 Stansstad,1.0,20.0,1890,2.67,Apartment,2017,-1,1
+4001705591,"Stanserstrasse 23,",6362 Stansstad,1.0,27.0,1980,2.67,Apartment,2017,-1,1
+4001843581,"Seestrasse 20,",6052 Hergiswil NW,1.0,40.0,2490,4.5,Apartment,2023,1904,0
+4001889140,"Buochserstrasse 39,",6370 Stans,5.5,162.0,3970,7.25,Single house,2025,1944,1
+4001966527,"Buochserstrasse 37,",6370 Stans,4.5,91.0,2410,7.75,Apartment,2025,1944,1
+4001972769,"Riedmatt 15,",6373 Ennetbürgen,4.5,121.0,3040,7.0,Apartment,-1,2011,1
+4002224863,"Seestrasse 20,",6052 Hergiswil NW,2.5,54.0,3410,4.5,Apartment,2023,1904,1
+4002249745,"Obermattweg 9,",6052 Hergiswil,-1,12.0,620,5.5,Single Room,-1,-1,0
+4002277996,,,4.5,90.0,1870,-1,Apartment,2019,1964,1
+4002290708,"Sonnenbergstrasse 35,",6052 Hergiswil NW,6.5,250.0,15000,-1,Apartment,2022,-1,0
+4002297165,"Hauptstrasse 17,",6386 Wolfenschiessen,2.5,80.0,1850,4.67,Apartment,2025,2025,1
+4002305026,"Widderfeld 4,",6386 Wolfenschiessen,4.5,118.0,2280,11.0,Apartment,-1,2025,1
+4002309020,"Sonnenbergstrasse 22,",6052 Hergiswil,4.0,80.0,3290,6.5,Apartment,-1,1959,0
+4002319827,"Büelstrasse 23,",6052 Hergiswil NW,4.5,109.0,3030,11.5,Apartment,-1,2004,1
+4002320232,,,3.0,65.0,1300,-1,Apartment,-1,1870,0
+4002326246,"Bitzistrasse 1C,",6370 Stans,4.5,137.0,2910,4.75,Apartment,-1,2013,1
+4002331299,,,-1,-1,-1,-1,,-1,-1,0
+4002331340,"Seestrasse 3,",6052 Hergiswil NW,1.0,25.0,1190,6.5,Apartment,2019,-1,0
+4002333358,"Ischenstrasse 7,",6376 Emmetten,4.5,135.0,3470,-1,Apartment,-1,2024,1
+4002334325,"Hurschlistrasse 3,",6383 Dallenwil,7.5,181.0,4300,10.67,Single house,2024,1984,1
+4002336543,"Büelstrasse 27,",6052 Hergiswil NW,4.5,108.0,3010,10.75,Apartment,-1,2004,1
+4002344553,"Schulhausstrasse 14,",6370 Stans,1.5,40.0,950,-1,Apartment,-1,-1,0
+4002359453,"Ennetbürgerstrasse 37a,",6374 Buochs,4.5,-1,3200,7.25,Apartment,-1,-1,1
+4002364491,,,1.5,29.0,910,-1,Apartment,-1,-1,0
+4002364492,,,3.5,96.0,1770,-1,Apartment,-1,-1,0
+4002371278,,,-1,-1,-1,-1,,-1,-1,0
+4002373405,"Riedmatt 15,",6373 Ennetbürgen,4.5,121.0,3040,7.0,Apartment,-1,2011,1
+4002374393,"Kilchliried 1,",6362 Stansstad,2.5,55.0,2420,3.33,Apartment,2024,2024,1
+4002377937,,,2.0,42.0,2200,-1,Apartment,2025,-1,1
+4002379844,"Sonnhaldenstrasse 27,",6052 Hergiswil NW,4.5,112.0,3150,-1,Apartment,-1,-1,1

@@ -1,0 +1,1001 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+109557177,"Quartiere Sagittario,",6512 Giubiasco,-1,35.0,900,-1,Apartment,-1,-1,1
+109559147,"Quartiere Sagittario,",6512 Giubiasco,2.5,68.0,1200,-1,Apartment,-1,-1,0
+109559241,"Quartiere Sagittario,",6512 Giubiasco,3.5,98.0,1400,1.5,Apartment,-1,-1,1
+109559317,"Quartiere Sagittario,",6512 Giubiasco,4.5,114.0,1570,-1,Apartment,-1,-1,1
+3001945696,"VIA CEREDA 7C,",6828 Balerna,3.0,90.0,1230,13.75,Apartment,-1,-1,0
+3001945724,"Via al Mulino 10,",6995 Molinazzo di Monteggio,4.5,-1,1140,-1,Apartment,-1,-1,0
+3002580124,,,2.5,91.0,1300,-1,Apartment,-1,-1,0
+3003050080,"Via Saleggi 1,",6512 Giubiasco,3.5,79.0,1490,2.25,Apartment,-1,-1,1
+3003136795,"Viale C. Olgiati 20,",6512 Giubiasco,2.5,68.0,1200,2.0,Apartment,-1,-1,1
+3003138579,"Via Motta 6 mendrisio,",6850 Mendrisio,2.5,55.0,1400,4.75,Apartment,-1,-1,1
+3003221874,"Via Antonio Brenni 4,",6850 Mendrisio,1.0,-1,650,4.0,Apartment,-1,2020,1
+3003221876,"Via Antonio Brenni 4,",6850 Mendrisio,1.0,-1,700,4.0,Apartment,-1,2020,1
+3003324284,"Via Stazione  51,",6987 Caslano,3.5,77.0,1550,4.0,Apartment,-1,-1,1
+3003522316,,,5.0,300.0,7000,-1,Villa,-1,-1,0
+4000121741,"Piazza Grande 13,",6600 Locarno,4.0,94.0,1490,2.25,Apartment,-1,1956,1
+4000203702,"Via Baldassarre Fontana 10,",6830 Chiasso,2.5,80.0,1120,3.5,Apartment,-1,-1,0
+4000237339,"strada Növa 3,",6968 Sonvico,5.5,200.0,3500,1.5,Apartment,-1,-1,0
+4000276014,"Via San Gottardo 41,",6500 Bellinzona,1.0,15.0,450,4.5,Single Room,-1,-1,1
+4000355858,"Viale Monte Verità 7,",6612 Ascona,1.0,29.0,1090,3.75,Apartment,2018,-1,1
+4000405379,"Via Lugano 16,",6710 Biasca,3.0,60.0,1050,7.75,Apartment,-1,-1,1
+4000412834,,,-1,-1,-1,-1,,-1,-1,0
+4000454917,,,-1,-1,-1,-1,,-1,-1,0
+4000488954,"Via San Gottardo 47,",6500 Bellinzona,4.5,80.0,1500,6.25,Apartment,-1,-1,1
+4000611086,"Via Stazione 51,",6987 Caslano,4.5,-1,1700,4.0,Apartment,-1,-1,1
+4000705769,"Via Angelo Nessi 38,",6600 Locarno,2.5,40.0,1020,5.25,Apartment,2020,1970,0
+4000726956,"Via della Pace 1A,",6600 Locarno,1.5,35.0,1000,4.0,Apartment,-1,-1,0
+4000798476,"Via Pusterla 6,",6828 Balerna,3.5,84.0,1550,2.25,Apartment,2024,-1,0
+4000798490,"Via Pusterla 6,",6828 Balerna,3.5,76.0,1450,2.25,Apartment,2024,-1,0
+4000799636,,,5.5,213.0,5800,-1,Single house,-1,1996,0
+4000838387,"Via Fiorita 4F,",6977 Ruvigliana,3.5,90.0,2180,15.0,Loft,1997,-1,1
+4000843983,"Piazza Grande 13,",6600 Locarno,3.5,74.0,1250,2.5,Apartment,-1,1956,1
+4000886225,"Via Quinta 47,",6710 Biasca,3.5,87.0,990,8.0,Apartment,-1,-1,1
+4000948012,"Via Ronco 2,",6883 Novazzano,3.5,-1,1300,4.33,Apartment,-1,-1,1
+4000966113,"Via Ronco 2,",6883 Novazzano,3.5,-1,1350,4.33,Apartment,-1,-1,1
+4000969467,"Via Sottobisio 12,",6828 Balerna,4.5,96.0,1350,8.25,Apartment,-1,-1,0
+4001022019,"Via Chiblee 39,",6514 Sementina,2.5,-1,1600,9.75,Apartment,2021,-1,0
+4001022020,"Via Chiblee 39,",6514 Sementina,2.5,-1,1600,9.75,Apartment,2021,-1,0
+4001074751,"Via Cava 5,",6855 Stabio,2.5,54.0,1150,5.5,Apartment,-1,-1,1
+4001089419,"In di Vign 10,",6705 Cresciano,2.5,54.0,1250,-1,Apartment,-1,-1,1
+4001114267,,,5.5,-1,3000,-1,Single house,-1,2022,0
+4001114284,"Via Canton Uri,",6775 Ambrì,4.0,-1,1050,-1,Apartment,-1,-1,0
+4001114300,,,3.5,91.0,1640,-1,Apartment,-1,-1,0
+4001126004,,,-1,-1,-1,-1,,-1,-1,0
+4001131845,,,2.5,-1,1340,-1,Apartment,-1,-1,0
+4001140230,,,-1,-1,-1,-1,,-1,-1,0
+4001158052,"Via Morella,",6900 Lugano,2.5,54.0,1540,4.25,Apartment,-1,2024,1
+4001167066,"In di Vign 10,",6705 Cresciano,3.5,90.0,1550,-1,Apartment,-1,-1,1
+4001193266,"Via Rogia 4,",6965 Cadro,6.5,125.0,2390,9.0,Apartment,-1,-1,1
+4001194334,"Via Dottor Pagani 3,",6826 Riva San Vitale,3.5,85.0,1430,6.75,Apartment,-1,-1,1
+4001232560,"Via Boscioro 18,",6962 Viganello,1.0,20.0,1070,4.5,Studio,-1,2024,1
+4001241432,"Via dell'Indipendenza 10,",6826 Riva San Vitale,2.5,60.0,1490,3.5,Apartment,2017,2017,0
+4001252485,,,6.0,222.0,10000,-1,Villa,-1,2003,0
+4001261733,"Via Volta 2 / 2 A,",6830 Chiasso,2.5,53.0,1000,6.25,Apartment,-1,-1,0
+4001262142,"Via Volta 2 / 2 A,",6830 Chiasso,3.5,100.0,1350,6.25,Apartment,-1,-1,1
+4001280673,"Via San Gottardo 58C,",6500 Bellinzona,4.5,85.0,1390,5.5,Apartment,-1,-1,1
+4001280943,"Lungolago Roncaioli 39,",6827 Brusino Arsizio,5.5,110.0,1150,3.0,Maisonette / Duplex,2024,-1,0
+4001299417,"Riva Paradiso,",6900 Paradiso,4.5,125.0,5170,5.75,Apartment,-1,2024,1
+4001336103,"Via Bolghetto 19,",6877 Coldrerio,3.5,129.0,2390,9.75,Apartment,2017,-1,1
+4001349642,"Via Quinta 59,",6710 Biasca,4.5,90.0,1340,8.25,Apartment,-1,-1,1
+4001350142,,,3.5,90.0,1600,-1,Single house,-1,-1,1
+4001354404,"Via Sottobisio 12,",6828 Balerna,3.5,83.0,1240,8.25,Apartment,-1,-1,0
+4001386970,"Via Carona (Paradiso),",6900 Paradiso,4.5,117.0,3200,4.0,Roof flat,2024,-1,1
+4001401555,,,1.0,70.0,3000,-1,Loft,-1,-1,0
+4001402725,"Via Circonvallazione 6,",6952 Canobbio,1.5,38.0,800,4.5,Apartment,-1,-1,0
+4001433655,"Via Ronco 28a,",6618 Arcegno,5.0,-1,2600,-1,Single house,-1,-1,0
+4001440736,"Via Cusolína 31,",6652 Terre di Pedemonte,1.5,36.0,1075,5.0,Apartment,2024,-1,0
+4001442139,"Via Montalbano 1,",6925 Gentilino,4.5,220.0,6900,9.75,Apartment,-1,2024,1
+4001445815,"Via G. Puccini 6,",6830 Chiasso,3.0,74.0,940,5.25,Apartment,-1,-1,1
+4001449513,"Via alla Perfetta 5,",6864 Mendrisio,3.5,80.0,1450,7.5,Roof flat,-1,-1,0
+4001449534,"Via Cantonale 71,",6838 Breggia,2.5,164.0,1550,-1,Apartment,-1,-1,1
+4001450633,"Lugano,",6900 Lugano,5.5,212.0,7000,-1,Apartment,-1,-1,0
+4001450697,"Gravesano,",6929 Lugano,2.5,65.0,1300,-1,Apartment,-1,-1,0
+4001450755,"Comano,",6949 Comano,3.5,118.0,3800,-1,Apartment,-1,-1,0
+4001450771,"Lugano,",6900 Lugano,6.5,300.0,7000,-1,Apartment,-1,-1,0
+4001463213,,,2.5,43.0,1200,-1,Apartment,-1,2025,0
+4001508291,"Piazza Giuseppe Buffi 4,",6500 Bellinzona,2.5,-1,2650,3.5,Loft,-1,-1,1
+4001508421,"Via Giovanni Serodine 12,",6612 Ascona,2.5,-1,1600,8.5,Apartment,-1,-1,1
+4001508422,"Via Monda 2,",6592 S. Antonino,-1,-1,180,6.0,Storage room,2022,-1,0
+4001508940,"Via Principale 4,",6914 Carona,4.5,-1,2450,-1,Apartment,2017,-1,1
+4001509152,,,3.5,80.0,1350,-1,Apartment,-1,2018,1
+4001512277,"Via Giuseppe Motta 4,",6648 Minusio,3.0,-1,1100,3.25,Apartment,-1,-1,0
+4001513240,"Via Luvee 11,",6855 Stabio,4.5,110.0,1800,7.25,Apartment,-1,2017,1
+4001520240,"Piazza Indipendenza 6,",6500 Bellinzona,4.5,110.0,1820,3.0,Apartment,-1,1993,1
+4001526245,,,6.0,562.0,27000,-1,Apartment,-1,-1,0
+4001527291,,,10.0,600.0,8000,-1,Villa,-1,-1,0
+4001532676,"Via San Gottardo 58c,",6500 Bellinzona,4.5,85.0,1380,5.5,Apartment,-1,-1,0
+4001532686,"Via Quinta 59,",6710 Biasca,4.0,87.0,1340,6.75,Apartment,2020,1983,0
+4001532689,"Via San Gottardo 47,",6500 Bellinzona,4.5,78.0,1500,4.25,Apartment,-1,-1,0
+4001532706,"Via Stazione 51,",6987 Caslano,3.5,77.0,1530,4.0,Apartment,-1,-1,0
+4001532708,"Via Stazione 51,",6987 Caslano,3.5,77.0,1600,4.0,Apartment,-1,-1,0
+4001532712,"In di Vign 10,",6705 Cresciano,2.5,41.0,1250,-1,Apartment,-1,-1,0
+4001539726,,,8.0,480.0,12000,-1,Villa,2017,2014,0
+4001557853,"Via Brenni 4,",6850 Mendrisio,1.5,13.0,650,4.5,Apartment,2021,1991,0
+4001557854,"Via Brenni 4,",6850 Mendrisio,1.5,14.0,700,4.5,Apartment,2021,1991,0
+4001557855,"Via Brenni 4,",6850 Mendrisio,1.5,15.0,650,4.5,Apartment,2021,1991,0
+4001557856,"Via Brenni 4,",6850 Mendrisio,1.5,15.0,700,4.5,Apartment,2021,1991,0
+4001557857,"Via Brenni 4,",6850 Mendrisio,1.5,15.0,750,4.5,Apartment,2021,1991,0
+4001557859,"Via Brenni 4,",6850 Mendrisio,2.5,64.0,1450,4.5,Apartment,2021,1991,0
+4001558283,"Via Giuseppe Motta 2,",6850 Mendrisio,3.5,72.0,1700,5.0,Apartment,-1,-1,0
+4001576247,"Via Roncone 22,",6927 Agra,3.5,-1,7700,15.0,Apartment,-1,2012,0
+4001576260,"Via Roncone 22,",6927 Agra,4.5,-1,12200,15.0,Apartment,-1,2012,0
+4001576261,"Via Roncone 22,",6927 Agra,4.5,-1,11000,15.0,Apartment,-1,2012,0
+4001583393,,,6.5,268.0,10000,-1,Single house,-1,2019,1
+4001593816,"Via Bolghetto 10,",6877 Coldrerio,3.5,87.0,1850,6.25,Apartment,2013,1700,0
+4001595073,"Via della Pace 20c,",6600 Locarno,4.5,118.0,1900,6.0,Apartment,-1,-1,0
+4001603368,"Melide,",6815 Melide,6.5,218.0,6800,-1,Apartment,-1,-1,0
+4001607229,"Via Valletta 4,",6516 Cugnasco-Gerra,3.5,82.0,1700,8.0,Apartment,-1,2023,1
+4001607239,"Via Valletta 4,",6516 Cugnasco-Gerra,4.5,127.0,2300,8.0,Maisonette / Duplex,-1,2023,1
+4001610502,"Via della Pace 20 C,",6600 Locarno,4.5,-1,1900,5.25,Apartment,-1,-1,1
+4001613670,"VIA P.L. CHIESA 3,",6830 Chiasso,4.5,83.0,1150,-1,Apartment,-1,-1,1
+4001613671,"VIA AGOSTINO MASPOLI 67,",6850 Mendrisio,3.0,64.0,1109,3.75,Apartment,-1,-1,1
+4001614193,"via Carlo Maderno 62,",6825 Capolago,6.5,272.0,5470,13.75,Attic flat,-1,2020,0
+4001625559,"via lungolago motta 20,",6815 Melide,3.5,85.0,1500,5.67,Apartment,-1,-1,1
+4001635900,"Via Piede Vigano 4,",6974 Aldesago,3.5,-1,2300,18.5,Apartment,-1,-1,1
+4001641127,"Via Angelo Nessi 13,",6600 Locarno,5.5,112.0,1820,4.75,Apartment,-1,1995,1
+4001642056,"Via della Gallinazza 6,",6600 Locarno,4.5,-1,1600,3.5,Apartment,2024,-1,0
+4001668412,"Via Monte Carmen 13,",6900 Lugano,3.5,80.0,1920,6.5,Apartment,2015,1974,1
+4001668529,"Via Sasso Corbaro 19,",6593 Cadenazzo,-1,25.0,460,5.0,Hobby room,-1,-1,0
+4001668530,"Via Sasso Corbaro 23,",6593 Cadenazzo,3.5,77.0,1657,5.0,Apartment,-1,-1,0
+4001668734,"Via F. Borromini 27,",6500 Bellinzona,3.5,90.0,1600,8.0,Apartment,-1,1985,1
+4001669010,"Corso San Gottardo 25,",6830 Chiasso,2.0,50.0,900,3.5,Apartment,-1,-1,0
+4001669229,"Via Borghese 15,",6600 Locarno,2.0,63.0,1320,3.0,Apartment,2018,1900,0
+4001670332,"Via Case Tinetti 8,",6710 Biasca,3.5,93.0,1455,8.33,Bifamiliar house,2017,1996,1
+4001696409,"Via Jaggli 5,",6500 Bellinzona,1.0,-1,1000,8.25,Apartment,-1,-1,0
+4001709140,"Via Vedeggi 40,",6983 Magliaso,3.5,93.0,2320,10.5,Apartment,-1,2019,1
+4001710404,"Via Caragne,",6900 Lugano,2.5,66.0,1450,2.75,Apartment,-1,2010,1
+4001713452,"Via Alighieri 22,",6830 Chiasso,5.0,150.0,1820,2.75,Apartment,-1,1965,1
+4001714208,"Corso San Gottardo 25,",6830 Chiasso,2.5,58.0,1070,3.5,Apartment,-1,-1,0
+4001714286,"Lugano,",6900 Lugano,3.5,80.0,2750,-1,Apartment,-1,-1,0
+4001722373,"Piazza Fontana 1,",6821 Rovio,5.0,163.0,2600,3.5,Apartment,2021,1864,1
+4001724492,"Via Brenno Bertoni,",6900 Lugano,3.5,85.0,2080,-1,Apartment,-1,-1,1
+4001732121,"Via Alighieri 22,",6830 Chiasso,3.0,80.0,1130,2.75,Apartment,-1,1965,1
+4001732426,"Via Carona 15,",6815 Melide,4.5,78.0,1530,3.67,Apartment,-1,-1,1
+4001741553,"Via Roncone 22,",6927 Collina d'Oro,5.5,238.0,12000,16.0,Apartment,-1,-1,1
+4001744063,,,2.0,-1,850,-1,Apartment,-1,-1,0
+4001750342,"Piazza Cioccaro,",6900 Lugano,4.5,120.0,2400,-1,Apartment,-1,-1,0
+4001751599,"Via San Gottardo 6,",6596 Gordola,2.5,-1,1150,7.75,Apartment,-1,-1,0
+4001756953,"Piazza Grande 28/Via Bossi 2,",6600 Locarno,4.5,121.0,1890,2.5,Apartment,1996,1963,1
+4001760800,"Via Rompeda 9,",6500 Bellinzona,3.5,-1,1250,5.5,Apartment,-1,-1,0
+4001761927,"Viale Serfontana,",6834 Morbio Inferiore,2.5,-1,1190,5.75,Apartment,-1,2024,1
+4001762406,"Viale Serfontana,",6834 Morbio Inferiore,3.5,-1,1540,5.75,Apartment,-1,2024,1
+4001764049,,,3.5,87.0,1850,-1,Apartment,2013,1700,0
+4001764056,,,3.5,87.0,1850,-1,Apartment,2013,1700,0
+4001789387,,,-1,-1,-1,-1,,-1,-1,0
+4001793303,"Via Mario Jaeggli 10,",6500 Bellinzona,3.5,67.0,1400,8.0,Apartment,2008,1976,1
+4001795878,"Via Bolghetto 10,",6877 Coldrerio,3.5,95.0,1590,6.25,Apartment,2013,1700,0
+4001795879,,,3.5,95.0,1590,-1,Apartment,2013,1700,0
+4001821886,"via Capelli 10,",6900 Lugano,3.0,80.0,1600,4.5,Apartment,-1,-1,1
+4001829496,"Via Pioda,",6600 Locarno,4.0,-1,2250,-1,Apartment,-1,-1,0
+4001831807,"Via Crocetta 25a,",6962 Lugano,1.5,31.0,1010,4.5,Apartment,-1,-1,1
+4001831832,"Via del Sole 5,",6987 Caslano,3.5,79.0,1590,4.75,Apartment,-1,1972,0
+4001837441,"Via Lugano 17,",6500 Bellinzona,2.5,48.0,1380,6.75,Apartment,-1,2017,0
+4001857876,,,4.5,210.0,2350,-1,Villa,-1,-1,0
+4001857882,,,5.5,300.0,8400,-1,Villa,-1,1996,0
+4001862435,"Via Mulino Rosso 8,",6517 Arbedo,3.0,69.0,1230,9.25,Apartment,1990,1961,0
+4001863491,"Via Lugano 6,",6710 Biasca,3.5,70.0,1130,9.75,Apartment,-1,-1,1
+4001866498,"Via Canonico Ghiringhelli 23e,",6500 Bellinzona,3.5,75.0,1600,7.5,Apartment,-1,1991,1
+4001869916,"Via Volta 2 / 2 A,",6830 Chiasso,2.5,53.0,1450,6.25,Apartment,-1,-1,0
+4001875489,"Piazza del Sole 7,",6500 Bellinzona,1.5,42.0,930,4.25,Apartment,-1,-1,0
+4001877090,"VIA CARONA 9,",6912 Pazzallo,2.5,-1,1420,8.0,Apartment,-1,-1,0
+4001878268,"Via San Nicolao 9,",6598 Tenero,4.5,-1,1600,4.0,Apartment,-1,-1,0
+4001881011,,,5.5,135.0,1800,-1,Maisonette / Duplex,-1,-1,0
+4001881455,"via pizzamiglio 21d,",6833 Vacallo,2.5,62.0,1320,8.0,Apartment,-1,2018,0
+4001883476,"Morcote,",6922 Morcote,4.5,125.0,4500,-1,Single house,-1,-1,0
+4001884403,"Via P. Vecchio 17,",6982 Agno,4.5,116.0,1950,8.0,Maisonette / Duplex,-1,1991,1
+4001886349,"Via San Gottardo 8,",6600 Muralto,3.5,-1,6120,6.5,Apartment,-1,-1,1
+4001888252,"Lugano,",6900 Lugano,4.5,193.0,6200,-1,Apartment,-1,-1,0
+4001889609,"Via San Gottardo 8,",6600 Muralto,2.5,-1,4980,6.5,Apartment,-1,-1,1
+4001889610,"Via San Gottardo 8,",6600 Muralto,2.5,-1,5530,6.5,Apartment,-1,-1,1
+4001889648,"Via San Gottardo 8,",6600 Muralto,3.5,-1,6020,6.5,Apartment,-1,-1,0
+4001889649,"Via San Gottardo 8,",6600 Muralto,2.5,-1,4520,6.5,Apartment,-1,-1,0
+4001889688,"Via San Gottardo 8,",6600 Muralto,3.5,-1,6500,6.5,Apartment,-1,-1,0
+4001896348,,,4.5,130.0,2400,-1,Apartment,-1,2022,1
+4001903248,"Via San Lorenzo 10,",6616 Losone,4.5,-1,1600,7.5,Apartment,2024,-1,0
+4001903324,"Via Carlo Frasca 12,",6900 Lugano,2.5,60.0,2900,3.5,Apartment,2021,2021,1
+4001903325,"Via Elsa Franconi-Poretti 4,",6900 Lugano,3.5,-1,4000,4.0,Apartment,2021,2021,1
+4001904292,"Via Fontana 8,",6830 Chiasso,3.0,80.0,1120,3.5,Apartment,-1,-1,0
+4001904514,"Via Sasso Corbaro 19,",6593 Cadenazzo,2.5,47.0,1351,5.0,Apartment,-1,-1,0
+4001906714,"Via Rovere 11,",6932 Breganzona,3.5,85.0,1590,4.75,Apartment,-1,-1,1
+4001906929,"Via Cantonale 35B,",6928 Manno,3.5,-1,1550,9.5,Apartment,-1,-1,1
+4001921501,,,3.5,64.0,1300,-1,Apartment,-1,-1,1
+4001922060,"Via San Gottardo 156,",6648 Minusio,2.5,73.0,1580,5.5,Apartment,-1,-1,0
+4001922061,"Via San Gottardo 156,",6648 Minusio,2.5,53.0,2520,5.5,Apartment,-1,-1,0
+4001922062,"Via San Gottardo,",6648 Minusio,3.5,86.0,2420,-1,Apartment,-1,-1,0
+4001922063,"Via San Gottardo,",6648 Minusio,3.5,76.0,2610,-1,Apartment,-1,-1,1
+4001923361,,,3.5,143.0,5600,-1,Apartment,-1,-1,0
+4001923383,,,3.5,75.0,3000,-1,Apartment,-1,-1,0
+4001923430,,,3.5,170.0,2500,-1,Attic flat,-1,1930,0
+4001923467,,,2.5,105.0,1700,-1,Row house,-1,-1,0
+4001925613,"via aldesago 28,",6974 Aldesago,3.5,120.0,2300,14.25,Apartment,-1,-1,0
+4001925637,"via cantonale,",6936 Cademario,17.0,2.584,7000,-1,Villa,-1,2008,0
+4001925889,"via Crevuglio 27A,",6932 Breganzona,1.0,30.0,800,5.5,Apartment,-1,-1,1
+4001927958,"Via Stazione 51,",6987 Caslano,4.5,93.0,1700,4.0,Apartment,-1,-1,0
+4001932030,,,10.5,393.0,12000,-1,Attic flat,-1,-1,1
+4001937020,"Strada di Gandria 54,",6976 Lugano,4.5,320.0,8000,6.0,Apartment,-1,-1,1
+4001937058,"Via Giuseppe Mazzini 2,",6900 Lugano,4.5,185.0,6350,8.25,Apartment,-1,-1,1
+4001937402,"Via Cadebrenno 1,",6935 Bosco Luganese,5.5,-1,4000,16.0,Villa,-1,-1,1
+4001937623,"Lugano,",6900 Lugano,2.0,60.0,2700,-1,Apartment,-1,-1,0
+4001938775,"via Castelletto 1,",6839 Sagno,3.5,77.0,1610,10.0,Maisonette / Duplex,-1,-1,0
+4001938980,"Via Castelletto 1,",6839 Sagno,2.5,43.0,1050,10.0,Apartment,-1,-1,0
+4001940870,"Via alla Perfetta,",6864 Mendrisio,3.5,80.0,1550,8.75,Apartment,-1,-1,0
+4001940918,"Via Pratocarasso 33a,",6500 Bellinzona,3.5,84.0,1825,6.0,Apartment,-1,2019,0
+4001942447,"Passaggio San Pietro 6,",6612 Ascona,1.0,27.0,810,5.25,Apartment,-1,-1,0
+4001942607,"Via Giuseppe Curti 6,",6900 Lugano,1.0,25.0,1050,3.75,Apartment,-1,-1,0
+4001944657,"Via al Colle,",6833 Vacallo,3.5,95.0,1550,9.75,Apartment,-1,-1,1
+4001945575,"Via Rovello 32F,",6942 Savosa,3.5,-1,2450,13.75,Apartment,-1,2015,1
+4001953136,,,3.5,170.0,3900,-1,Apartment,-1,2000,1
+4001953346,"Via Flora Ruchat-Roncati 4B,",6850 Mendrisio,1.5,35.0,990,6.75,Studio,-1,2016,1
+4001953347,"Via alle Cantine 1,",6862 Rancate,1.5,-1,760,18.5,Studio,2014,1954,1
+4001958085,"Via Castagnola,",6900 Lugano,6.5,300.0,8000,-1,Apartment,-1,-1,0
+4001958092,"Via Prevat,",6936 Cademario,5.5,250.0,2900,-1,Villa,-1,-1,0
+4001959564,"Via motta Lugano,",6900 Lugano,7.5,270.0,10000,-1,Apartment,-1,-1,0
+4001959732,"Via Lugano 8,",6710 Biasca,4.5,-1,1250,-1,Apartment,-1,-1,1
+4001959932,"Via Minigera 28,",6926 Collina d'Oro,5.5,170.0,4950,14.67,Single house,-1,-1,1
+4001960086,"Casa Laurenti,",6913 Carabbia,5.5,190.0,2650,19.0,Attic flat,-1,-1,1
+4001960114,"Lugano,",6900 Lugano,4.5,180.0,4500,-1,Apartment,-1,-1,0
+4001960330,"Viale Camillo Olgiati 20,",6512 Giubiasco,2.5,-1,1200,2.0,Apartment,-1,-1,0
+4001963591,"via motta lugano,",6900 Lugano,3.5,120.0,4700,-1,Apartment,-1,-1,0
+4001963592,"via motta lugano,",6900 Lugano,2.5,67.0,2700,-1,Apartment,-1,-1,0
+4001964110,"Via G. Brentani 16,",6900 Lugano,1.5,37.0,1350,4.5,Apartment,-1,-1,0
+4001970886,"Via San Gottardo 6,",6500 Bellinzona,1.0,15.0,620,4.25,Studio,2025,-1,0
+4001971428,"Via Nobreta 7,",6929 Gravesano,3.5,90.0,2300,5.25,Single house,-1,-1,1
+4001971661,"Via Crevuglio 25a,",6932 Breganzona,3.5,75.0,25,6.5,Apartment,-1,-1,0
+4001971773,"via stefano franscini 3,",6900 Lugano,4.5,126.0,3950,3.5,Apartment,-1,-1,1
+4001974173,"Via al Boschetto 4,",6900 Lugano,3.5,73.0,1790,6.75,Apartment,2020,1965,1
+4001976816,"Via del Sole 5,",6987 Caslano,4.5,100.0,1790,4.75,Apartment,-1,1972,1
+4001979018,"Via Sasso Corbaro 19,",6593 Cadenazzo,2.5,49.0,1240,5.0,Apartment,-1,-1,0
+4001980137,"Via Cantonale 4,",6949 Comano,3.5,106.0,2700,11.0,Apartment,-1,-1,1
+4001980280,"Viale Stazione 21,",6500 Bellinzona,4.5,133.0,2230,4.25,Apartment,-1,1910,0
+4001981117,"Via Landriani 1,",6900 Lugano,1.0,14.0,100,3.25,Apartment,-1,-1,0
+4001981333,"Via Guisan 19,",6900 Massagno,3.5,82.0,1380,5.0,Apartment,-1,1980,1
+4001981817,"Via dell'Indipendenza 10,",6826 Riva San Vitale,2.5,60.0,1290,3.5,Apartment,2017,2017,1
+4001983874,"Via S. Gottardo 119,",6596 Gordola,2.5,51.0,1340,7.67,Apartment,-1,2017,0
+4001985978,"Via F. Borromini 29,",6500 Bellinzona,5.5,161.0,2450,8.0,Attic flat,-1,1985,0
+4001988213,"Via Arbigo 64,",6616 Losone,2.5,-1,1300,10.5,Apartment,-1,-1,0
+4001989554,"Riva San Vitale,",6826 Riva San Vitale,6.5,268.0,10000,-1,Single house,-1,-1,0
+4001989556,"Lugano,",6900 Lugano,6.5,253.0,7500,-1,Apartment,-1,-1,0
+4001999934,"Via Roncone 22,",6927 Agra,5.5,276.0,-1,16.0,Apartment,-1,2012,1
+4002000617,"via Redondello 23,",6982 Agno,2.5,75.0,1330,15.0,Apartment,-1,-1,0
+4002000659,"Via San Nicolao 21,",6598 Tenero,4.5,-1,1570,5.25,Apartment,2025,-1,1
+4002000725,"Via San Nicolao 21,",6598 Tenero,3.5,-1,1400,5.25,Apartment,2025,-1,1
+4002001899,"Canobbio,",6952 Canobbio,2.5,50.0,1550,3.0,Apartment,-1,2025,1
+4002002213,,,5.5,323.0,6500,-1,Villa,-1,2011,1
+4002003200,"Via Giuseppe Motta 36A,",6500 Bellinzona,4.0,110.0,1950,7.0,Apartment,2025,1973,1
+4002004157,,,5.5,160.0,6000,-1,Apartment,-1,-1,0
+4002004667,"Via Tarchini 9,",6828 Balerna,3.5,72.0,1190,8.5,Apartment,-1,-1,0
+4002004943,"Via H. Dunant 13,",6900 Massagno,4.5,125.0,2240,2.75,Apartment,-1,1988,1
+4002005578,"Via Santi Pietro e Paolo 4,",6953 Lugaggia,4.5,300.0,2950,-1,Villa,-1,-1,1
+4002006916,"Via Vallone 1,",6500 Bellinzona,3.5,-1,1100,5.0,Apartment,-1,-1,0
+4002008743,"Via F. Zorzi 2A,",6512 Giubiasco,2.5,65.0,1253,3.5,Apartment,-1,-1,1
+4002010205,"Via Macello,",6710 Biasca,4.5,115.0,1550,8.0,Attic flat,-1,-1,1
+4002012677,"Via Canonico Ghiringhelli,",6500 Bellinzona,1.5,-1,1250,6.75,Apartment,-1,-1,1
+4002017293,"Via Pedemonte 2,",6962 Viganello,1.5,38.0,1170,5.75,Apartment,-1,1990,0
+4002018345,"Via San Gottardo 22,",6500 Bellinzona,3.5,80.0,1500,4.25,Apartment,-1,2013,1
+4002019926,"Via Campora,",6837 Caneggio,2.5,-1,1010,-1,Apartment,-1,-1,1
+4002022893,"via Carlo Maderno 62,",6825 Capolago,2.5,99.0,2005,13.75,Apartment,-1,2020,0
+4002028407,"Via al Ticino 30a,",6514 Bellinzona,2.5,58.0,1300,3.75,Apartment,-1,-1,1
+4002028630,"Via G. Brentani 16,",6900 Lugano,1.5,37.0,1320,4.5,Apartment,-1,-1,0
+4002028912,"Via Clemente Maraini 24/Via Giroggio 2,",6900 Lugano,1.0,55.0,800,7.75,Apartment,-1,-1,0
+4002028913,"Via Clemente Maraini 24/Via Giroggio 2,",6900 Lugano,2.5,64.0,1400,7.75,Apartment,-1,-1,0
+4002029605,"vicolo Tramontepiano 10,",6532 Arbedo Castione,3.5,81.0,1500,-1,Apartment,-1,-1,0
+4002032686,"Corso San Gottardo 92,",6830 Chiasso,4.5,-1,1420,2.75,Apartment,-1,-1,0
+4002038669,"Via Beltramina 10,",6900 Lugano,2.5,42.0,1242,3.5,Apartment,-1,-1,0
+4002038670,"Via Quinta 59,",6710 Biasca,3.0,72.0,1170,6.75,Apartment,2020,1983,0
+4002039431,"Via Rovello 32F,",6942 Savosa,3.5,107.0,2450,13.75,Apartment,-1,-1,1
+4002042706,"Via al Ponte 8,",6900 Lugano,3.5,80.0,1700,5.75,Apartment,2025,-1,1
+4002046131,,,5.5,218.0,11000,-1,Single house,-1,-1,0
+4002046163,,,14.0,416.0,6760,-1,Apartment,-1,-1,0
+4002046167,,,4.5,193.0,7350,-1,Apartment,-1,-1,0
+4002046169,"Via Gaggini da Bissone 4,",6900 Lugano,6.5,250.0,8000,7.0,Apartment,2023,1993,0
+4002046171,,,5.5,212.0,8350,-1,Apartment,-1,-1,0
+4002047940,"Via Cusolína 31,",6652 Terre di Pedemonte,2.0,58.0,2220,5.0,Apartment,2024,-1,1
+4002050158,"Via Stazione 12,",6592 S. Antonino,2.5,57.0,1350,9.0,Apartment,-1,-1,0
+4002051398,"Via Tesserete 33,",6900 Massagno,2.5,62.0,1580,7.75,Apartment,2022,1984,0
+4002053907,"Via Luigi Lavizzari 14,",6850 Mendrisio,2.5,-1,1350,2.5,Apartment,-1,-1,1
+4002055344,"Via Valle Maggia 13,",6600 Locarno,3.5,74.0,1845,4.0,Apartment,-1,2022,0
+4002055843,"Passaggio San Pietro 6,",6612 Ascona,2.0,51.0,1100,5.25,Apartment,-1,-1,0
+4002055907,,,2.5,70.0,970,-1,Maisonette / Duplex,-1,-1,0
+4002056329,"Via Stradone 38,",6872 Salorino,6.0,194.0,2005,7.25,Apartment,-1,1932,1
+4002056372,"Via Canvetto,",6900 Lugano,2.5,83.0,2000,-1,Apartment,-1,-1,0
+4002058431,,,2.5,60.0,1600,-1,Apartment,-1,-1,0
+4002059159,"Paradiso,",6900 Paradiso,2.5,60.0,1900,-1,Apartment,-1,-1,0
+4002059179,"vicolo di Caprino 10,",6823 Pugerna,4.0,70.0,1300,-1,Apartment,2024,-1,0
+4002059361,"Via Beltramina 10,",6900 Lugano,2.5,44.0,1210,3.5,Apartment,-1,-1,1
+4002059364,"Via San Gottardo 41,",6500 Bellinzona,4.5,93.0,1795,6.25,Apartment,-1,-1,1
+4002061685,,,5.0,200.0,7500,-1,Villa,-1,-1,0
+4002062018,"Sentiero Buetti 47,",6579 Gambarogno,4.5,-1,2050,-1,Apartment,-1,2004,1
+4002064044,,,8.5,350.0,7000,-1,Single house,-1,-1,0
+4002064181,"Via Castausio 2b,",6900 Lugano,1.5,43.0,1310,4.25,Apartment,2014,1970,1
+4002065856,"Via San Nicolao 38 & 40,",6598 Tenero-Contra,4.5,100.0,2440,5.75,Apartment,2025,-1,1
+4002065857,"Via San Nicolao 38 & 40,",6598 Tenero-Contra,3.5,77.0,1770,5.75,Apartment,2025,-1,1
+4002065859,"Via San Nicolao 38 & 40,",6598 Tenero-Contra,2.5,53.0,1360,5.75,Apartment,2025,-1,1
+4002065860,"Via San Nicolao 38 & 40,",6598 Tenero-Contra,1.5,30.0,1040,5.75,Apartment,2025,-1,1
+4002066458,"Via San Nicolao 38 & 40,",6598 Tenero-Contra,5.5,116.0,2840,5.75,Apartment,2025,-1,1
+4002068017,"Via Arbigo 64,",6616 Losone,3.5,-1,1400,10.5,Apartment,-1,-1,0
+4002068922,"Via Canvetto 1,",6900 Lugano,2.0,82.0,1800,3.25,Apartment,-1,2013,1
+4002069785,"Via Morena 8,",6900 Massagno,2.5,60.0,1500,3.25,Apartment,-1,2018,0
+4002072083,"via pizzamiglio 21d,",6833 Vacallo,4.5,127.0,2000,8.0,Apartment,-1,2018,1
+4002072858,"Via alla Chiesa 1,",6818 Val Mara,3.5,80.0,1500,4.25,Apartment,2019,-1,0
+4002074501,"Via alle Scuole 6,",6814 Cadempino,4.5,-1,2300,9.67,Apartment,2024,-1,1
+4002074647,"Via Rampighetta 1,",6533 Lumino,3.5,76.0,1580,8.33,Apartment,-1,-1,1
+4002074679,"Via Rampighetta 1,",6533 Lumino,2.5,51.0,1315,8.33,Apartment,-1,-1,1
+4002074831,"Via F. Borromini 27,",6500 Bellinzona,3.5,94.0,1600,8.0,Apartment,-1,1985,0
+4002075266,"Via A. Nessi 42,",6605 Locarno,2.5,54.0,1115,5.5,Apartment,-1,1969,1
+4002075965,"Via San Carlo 25,",6600 Muralto,1.5,30.0,700,6.0,Apartment,-1,-1,0
+4002077470,,,4.5,-1,2700,-1,Apartment,2023,-1,1
+4002078884,"Via Nosedo 10,",6900 Massagno,3.5,102.0,1950,4.0,Apartment,-1,-1,1
+4002079389,"Via campagna 39,",6926 Montagnola,4.5,143.0,5600,15.67,Apartment,-1,2023,0
+4002079600,,,4.5,145.0,3300,-1,Apartment,-1,-1,0
+4002080511,"Via Stramonte 8,",6855 Stabio,2.5,-1,1050,6.75,Apartment,-1,-1,0
+4002081238,"Via Minigera 30,",6926 Montagnola,11.0,500.0,29000,14.67,Villa,2021,2012,1
+4002081847,,,3.5,90.0,2250,-1,Apartment,-1,-1,0
+4002082996,"Via Bolghetto 10,",6877 Coldrerio,3.5,87.0,1850,6.25,Apartment,2013,1700,0
+4002085003,"Via Molinazzo 8b,",6900 Lugano,1.5,31.0,1230,3.25,Apartment,2021,-1,0
+4002086380,"Via Lucerna 1,",6900 Lugano,1.5,23.0,1071,5.5,Apartment,2022,2020,1
+4002088669,"Via Soreréi 2,",6702 Claro,3.0,105.0,1650,-1,Maisonette / Duplex,-1,2022,1
+4002089140,"Corso San Gottardo 98,",6828 Balerna,3.5,96.0,990,2.5,Apartment,-1,-1,0
+4002089178,"Via Olgiati 20B,",6512 Giubiasco,1.5,50.0,914,1.5,Apartment,2020,1970,0
+4002091038,,,5.5,350.0,2800,-1,Single house,-1,2015,0
+4002093405,"Via Clemente Maraini 1,",6900 Lugano,4.5,160.0,5000,6.5,Apartment,-1,-1,1
+4002094431,"VIA DELLE SCUOLE 17/17A,",6900 Lugano,2.0,50.0,1430,4.0,Apartment,-1,-1,1
+4002095987,"Via Rinaldo Simen 78B,",6648 Minusio,3.5,-1,2880,6.25,Apartment,-1,2009,1
+4002101605,"Via Monte Ceneri 74,",6593 Cadenazzo,3.5,75.0,1300,7.25,Apartment,-1,1995,0
+4002102563,"Via berna,",6900 Lugano,2.5,80.0,2500,-1,Apartment,-1,-1,0
+4002108060,"Barbengo, nucleo di Garaverio,",6900 Lugano,5.0,-1,1700,-1,Apartment,-1,-1,0
+4002112023,"Via Perdaglie 15,",6527 Lodrino,3.5,-1,1320,5.33,Apartment,-1,1980,1
+4002112024,"Via Perdaglie 15,",6527 Lodrino,4.5,-1,1540,5.33,Apartment,-1,1980,1
+4002112318,"Sentiero Cureggia 8,",6974 Aldesago,3.5,92.0,1700,20.25,Apartment,2023,1968,1
+4002114356,,,4.5,-1,4050,-1,Apartment,2025,-1,1
+4002114520,,,5.0,200.0,9500,-1,Single house,-1,1985,0
+4002114576,"Via Bolghetto 19,",6877 Coldrerio,2.5,67.0,1550,8.25,Maisonette / Duplex,2017,-1,1
+4002114922,"Via Sasso Corbaro 17,",6593 Cadenazzo,4.5,96.0,1960,5.0,Apartment,-1,2019,0
+4002114936,"Viale Stazione 19,",6500 Bellinzona,2.5,69.0,1340,3.25,Apartment,-1,1993,0
+4002115280,"SORENGO,",6924 Sorengo,2.5,55.0,1950,-1,Apartment,-1,-1,0
+4002115905,"Via Montalbano 1,",6925 Gentilino,2.5,72.0,2000,9.75,Apartment,-1,2024,0
+4002115933,"Via Montalbano 1,",6925 Gentilino,7.0,313.0,8900,9.75,Villa,-1,2024,1
+4002117602,"Via H. Dunant 13,",6900 Massagno,2.5,83.0,1620,2.75,Apartment,-1,1988,1
+4002118187,"Via alla Chiesa 9,",6962 Viganello,7.5,-1,3950,3.0,Apartment,-1,-1,1
+4002118494,"Via alla Bozzoreda 39,",6963 Pregassona,4.5,104.0,2265,3.5,Apartment,2012,2012,0
+4002118890,,,4.5,110.0,1800,-1,Apartment,-1,-1,1
+4002119494,"Via Carlo Maderno 30,",6825 Capolago,4.5,100.0,1700,-1,Apartment,2024,-1,0
+4002123021,"Via Ponte Vecchio 4,",6807 Taverne,3.5,65.0,1440,5.33,Apartment,-1,1985,0
+4002129361,"Via al Chioso 10,",6930 Bedano,4.5,-1,1950,12.75,Terrace flat,-1,-1,1
+4002131002,"via Carlo Maderno 62,",6825 Capolago,3.5,149.0,2670,13.75,Apartment,-1,2020,0
+4002131003,"via Carlo Maderno 62,",6825 Capolago,4.5,189.0,4060,13.75,Apartment,-1,2020,0
+4002131546,"Corso San Gottardo 12,",6830 Chiasso,1.0,-1,570,4.25,Apartment,2023,-1,0
+4002135360,"Via Giuseppe Cattori 5,",6600 Locarno,1.5,25.0,955,5.0,Apartment,2024,-1,1
+4002135629,"Via al Boschetto 4,",6900 Lugano,2.5,65.0,1520,6.75,Apartment,-1,1970,1
+4002139404,"Viale Attilio Tarchini 15,",6828 Balerna,4.0,103.0,1570,7.5,Apartment,-1,1990,1
+4002139523,"Viale Attilio Tarchini 15,",6828 Balerna,3.0,103.0,1570,7.5,Apartment,-1,1990,1
+4002139956,"via San Gottardo 80A,",6648 Minusio,5.5,147.0,2685,3.25,Apartment,-1,2006,1
+4002146843,"Via Cantonale 66,",6574 Vira (Gambarogno),3.5,54.0,1300,-1,Maisonette / Duplex,2021,-1,1
+4002146989,"Via Roncobello 12,",6963 Pregassona,1.5,22.0,950,5.25,Apartment,-1,2022,0
+4002147409,,,4.5,135.0,1800,-1,Apartment,-1,2018,0
+4002149076,"Via Tesserete 66,",6900 Lugano,5.5,390.0,7500,17.0,Bifamiliar house,-1,-1,1
+4002149129,,,-1,-1,-1,-1,,-1,-1,0
+4002149237,"Via degli Albrici 3A,",6830 Chiasso,2.0,51.0,1115,5.25,Apartment,-1,2019,0
+4002150182,"Via F. Soldati 3,",6830 Chiasso,2.0,60.0,950,4.75,Apartment,-1,-1,1
+4002150207,"Via F. Soldati 3,",6830 Chiasso,3.0,77.0,1150,4.75,Apartment,-1,-1,1
+4002150459,"Via Ceresio,",6963 Lugano,3.5,-1,2350,2.25,Apartment,-1,2008,1
+4002150879,"Paradiso,",6900 Paradiso,4.5,150.0,6000,-1,Apartment,-1,-1,0
+4002150884,"Via Aldesago Lugano,",6900 Lugano,4.5,230.0,11000,-1,Apartment,-1,-1,0
+4002152356,"Via Giovanni Antonio Orelli 8,",6600 Locarno,2.5,60.0,1390,5.0,Apartment,-1,2008,0
+4002152652,"Motto d'Arbino 18,",6517 Arbedo,3.0,-1,1340,-1,Apartment,-1,-1,1
+4002152653,"Vicolo Valscesa 5,",6517 Arbedo,4.0,-1,1560,-1,Apartment,-1,-1,1
+4002153197,"Via Cantonale 30,",6949 Comano,4.0,135.0,2650,10.5,Apartment,-1,-1,1
+4002154351,"Lungolago Motta,",6815 Melide,3.5,138.0,6800,-1,Apartment,-1,-1,0
+4002154410,"Via dei Faggi 25,",6912 Pazzallo,4.5,101.0,2075,11.0,Apartment,-1,-1,1
+4002154412,"Via dei Faggi 25,",6912 Pazzallo,4.5,105.0,2095,11.0,Apartment,-1,-1,0
+4002154413,"Via dei Faggi 27,",6912 Pazzallo,3.5,88.0,1770,10.75,Apartment,-1,-1,0
+4002158238,"Via Borghese 15,",6600 Locarno,2.5,60.0,1280,3.0,Apartment,2018,1900,0
+4002158355,"Via Guidino,",6900 Paradiso,4.5,227.0,12000,7.5,Apartment,2025,2017,1
+4002158538,,,6.5,250.0,11000,-1,Single house,-1,2021,0
+4002158540,,,6.5,250.0,11000,-1,Single house,-1,2021,0
+4002159713,"Via Giovanni Serodine 2,",6500 Bellinzona,4.5,-1,1750,7.0,Single house,-1,-1,1
+4002159875,"Via Marco da Carona 9,",6900 Lugano,1.5,56.0,1350,5.25,Studio,2025,2007,1
+4002160706,"Via Trivelli 5,",6821 Rovio,5.5,200.0,2500,6.5,Apartment,-1,-1,0
+4002160708,"Via Tesserete 3,",6900 Massagno,4.5,105.0,2050,7.5,Apartment,-1,-1,1
+4002163358,"Via R. Leoncavallo 37,",6614 Brissago,3.0,110.0,2300,-1,Apartment,2017,-1,1
+4002164202,"Via del Recinto 5,",6600 Muralto,3.5,90.0,1850,4.25,Apartment,2024,-1,1
+4002166093,"Via Lugano 2,",6500 Bellinzona,2.5,57.0,1180,3.75,Apartment,-1,1993,0
+4002166999,"Via Emilio Maraini 4,",6900 Massagno,2.5,65.0,1500,3.75,Apartment,2025,-1,1
+4002167097,,,2.5,30.0,700,-1,Roof flat,-1,-1,0
+4002167106,"Via Giuseppe Lanz 11,",6850 Mendrisio,3.5,-1,1390,5.0,Attic flat,2015,-1,1
+4002167193,"Viale Castagnola,",6900 Lugano,6.5,250.0,8500,-1,Apartment,-1,-1,0
+4002168151,"via Taddei 12,",6962 Viganello,1.0,25.0,1010,3.75,Apartment,-1,2023,0
+4002168904,"Via Cantonale 62,",6652 Tegna,-1,80.0,1900,6.0,Apartment,-1,-1,1
+4002169754,,,4.5,-1,2500,-1,Apartment,-1,-1,1
+4002170315,"via alla Costa 1,",6877 Coldrerio,3.5,-1,1600,6.0,Apartment,-1,-1,0
+4002171446,,,2.5,54.0,1320,-1,Apartment,-1,-1,0
+4002171799,"Via Delta 3,",6612 Ascona,1.5,40.0,1190,7.25,Apartment,-1,-1,0
+4002171800,"Via Delta 3,",6612 Ascona,4.5,96.0,1890,11.33,Apartment,-1,-1,1
+4002172354,"Lungolago Giuseppe Motta,",6815 Melide,3.5,70.0,2650,-1,Apartment,-1,2011,0
+4002173525,"Via alla Costa 1,",6877 Coldrerio,4.5,-1,1800,6.0,Single house,-1,-1,0
+4002175290,"Lugano,",6900 Lugano,2.5,70.0,1600,-1,Apartment,-1,-1,0
+4002176527,,,4.5,-1,2800,-1,Apartment,-1,-1,0
+4002176836,,,-1,-1,6700,-1,Attic flat,-1,-1,1
+4002177550,"via colombera 32C,",6984 Pura,3.5,96.0,1610,8.5,Apartment,-1,-1,0
+4002177972,"Via Cugnoli,",6594 Contone,3.5,90.0,1600,-1,Apartment,-1,-1,0
+4002178256,"Via Mercole 2,",6877 Coldrerio,2.5,-1,950,3.25,Apartment,2023,1980,1
+4002180414,"Via Vincenzo Vela 1,",6862 Mendrisio,5.5,173.0,1750,5.25,Apartment,-1,-1,1
+4002182179,,,6.5,250.0,7000,-1,Attic flat,2023,-1,0
+4002182773,,,5.5,160.0,4400,-1,Attic flat,-1,-1,1
+4002184969,"Via Ceresio di Suvigliana 15,",6977 Ruvigliana,4.5,-1,1950,12.0,Apartment,-1,-1,0
+4002185485,"Viale Moesa 48,",6517 Arbedo,4.5,125.0,1850,-1,Apartment,-1,-1,1
+4002185720,"Via Ghiringhelli 27 a,",6500 Bellinzona,4.5,88.0,1575,7.5,Apartment,2020,-1,0
+4002187110,"Via Zorzi 2a,",6512 Giubiasco,2.5,65.0,1253,3.0,Apartment,2020,1970,0
+4002187997,"Piazza grande,",6826 Riva San Vitale,6.5,335.0,10000,-1,Villa,-1,2018,0
+4002188005,"via Carona,",6900 Lugano,1.0,40.0,1100,-1,Apartment,-1,-1,0
+4002188011,"riva caccia,",6900 Lugano,3.5,140.0,5000,-1,Apartment,-1,2012,0
+4002188023,"Via Carlo Maderno 62,",6825 Mendrisio,3.0,99.0,2030,13.75,Apartment,-1,2021,0
+4002188025,"Via Zorzi,",6900 Paradiso,5.5,260.0,7650,-1,Apartment,-1,2014,0
+4002188040,"Via Luvee 11,",6855 Stabio,4.5,120.0,1700,7.25,Apartment,-1,2017,0
+4002188102,,,6.5,335.0,8500,-1,Villa,-1,2024,0
+4002188114,"Via Rubiana,",6926 Montagnola,10.0,486.0,-1,-1,Villa,-1,1950,0
+4002188115,"Via Cureglia,",6949 Comano,3.5,150.0,3800,-1,Apartment,-1,2021,0
+4002188118,"Via Marianda,",6926 Montagnola,8.5,374.0,9000,-1,Villa,-1,1980,0
+4002188143,"Via Fontana,",6977 Ruvigliana,2.5,83.0,1950,-1,Apartment,-1,1972,1
+4002188152,"Via Ceresio di Suvigliana,",6900 Lugano,8.5,420.0,12000,-1,Attic flat,-1,-1,0
+4002188181,"Corso San Gottardo 96,",6830 Chiasso,6.0,192.0,1700,2.75,Apartment,-1,-1,0
+4002188198,"Via Senago,",6912 Pazzallo,3.5,100.0,1700,-1,Apartment,-1,2020,0
+4002188212,"Riva Paradiso,",6900 Paradiso,3.5,90.0,9600,-1,Apartment,-1,2024,0
+4002188294,"Via Ponte Vecchio 8,",6807 Taverne,2.5,45.0,1080,6.0,Apartment,-1,1985,0
+4002189694,"Piazza Borromini 9,",6816 Bissone,4.5,-1,1950,2.67,Single house,-1,-1,1
+4002190910,"Lugano,",6900 Lugano,5.5,285.0,7200,-1,Apartment,-1,-1,0
+4002190912,"Pregassona,",6963 Pregassona,4.5,165.0,5200,-1,Apartment,-1,-1,0
+4002191005,"Melide,",6815 Melide,3.5,140.0,6800,-1,Apartment,-1,-1,0
+4002191668,,,4.5,220.0,3250,-1,Apartment,-1,2023,1
+4002191669,"Via Campagnola 22/b,",6852 Genestrerio,4.5,220.0,3750,12.0,Apartment,-1,2023,1
+4002191672,"Via Campagnola 22/b,",6852 Genestrerio,4.5,220.0,3250,12.0,Apartment,-1,2023,1
+4002191673,,,4.5,220.0,3250,-1,Apartment,-1,2023,1
+4002191674,,,4.5,220.0,3250,-1,Apartment,-1,2023,1
+4002191964,"Via Franscini 15,",6815 Melide,4.5,130.0,3450,4.0,Apartment,-1,2016,0
+4002194128,"Via Remorino 14,",6648 Minusio,2.5,70.0,1600,6.0,Apartment,-1,-1,1
+4002194256,"Via San Gottardo 119b,",6596 Gordola,1.5,31.0,1055,10.0,Apartment,-1,2017,1
+4002194980,"Via Lanz 21,",6850 Mendrisio,5.0,110.0,1700,5.75,Apartment,-1,-1,0
+4002196354,,,5.5,287.0,3900,-1,Single house,-1,2008,1
+4002196898,"Via Ressiga 10G,",6512 Giubiasco,5.5,108.0,1950,6.25,Apartment,-1,1993,1
+4002196900,"Via Ressiga 10G,",6512 Giubiasco,3.5,79.0,1530,6.25,Apartment,-1,1993,1
+4002197952,"Via San Gottardo,",6648 Minusio,3.5,91.0,2820,-1,Apartment,-1,-1,1
+4002199181,"Strada Regina 11,",6832 Pedrinate,4.5,110.0,1850,15.5,Apartment,-1,-1,0
+4002200260,"Via Francesca 6b,",6596 Gordola,3.5,100.0,1450,10.67,Apartment,-1,-1,0
+4002200306,"Via San Gottardo 58c,",6500 Bellinzona,4.5,85.0,1410,5.5,Apartment,-1,-1,0
+4002200307,"Via San Gottardo 58c,",6500 Bellinzona,4.5,85.0,1480,5.5,Apartment,-1,-1,0
+4002202374,"Via Canonico Ghiringhelli 27A,",6500 Bellinzona,4.5,-1,1575,7.5,Apartment,-1,-1,1
+4002202406,"Via Giuseppe Bagutti 26,",6900 Lugano,3.5,-1,1550,3.5,Apartment,-1,-1,1
+4002202885,"Via Ceresio,",6963 Lugano,2.5,-1,1540,2.25,Apartment,-1,2025,1
+4002202886,"Via Ceresio,",6963 Lugano,3.5,-1,1850,2.25,Apartment,-1,2025,1
+4002203219,"Via F. Soldati 3,",6830 Chiasso,3.0,77.0,1150,4.75,Apartment,-1,-1,1
+4002204350,"Via agli Orti 22,",6900 Lugano,2.5,53.0,1700,4.5,Apartment,-1,2020,0
+4002204374,,,-1,-1,-1,-1,,-1,-1,0
+4002204731,"Lugano,",6900 Lugano,4.5,300.0,6700,-1,Apartment,-1,-1,0
+4002205011,"Via Chiblée 13a,",6514 Sementina,3.5,80.0,1300,6.75,Apartment,-1,-1,1
+4002205336,"Via delle Scuole,",6900 Lugano,2.5,50.0,1180,-1,Apartment,-1,-1,0
+4002208477,"Via Ronco 2,",6883 Novazzano,4.5,115.0,1720,4.33,Maisonette / Duplex,2015,1991,1
+4002210333,,,2.5,-1,2700,-1,Apartment,-1,-1,1
+4002210645,"Via Luini 1,",6830 Chiasso,3.0,80.0,1190,2.75,Apartment,-1,1965,1
+4002210810,"Via Pietro Bernasconi 2,",6883 Novazzano,3.5,112.0,1750,4.33,Apartment,-1,2017,0
+4002210899,"Via Restabbio 4,",6925 Collina d'Oro,3.5,88.0,2300,12.25,Apartment,-1,2000,1
+4002215025,"via Motta,",6900 Lugano,4.5,220.0,5250,-1,Apartment,-1,-1,0
+4002215026,"Via Carlo Maderno 62,",6825 Mendrisio,4.5,189.0,4310,13.75,Apartment,-1,2021,0
+4002216033,"Via Clemente Maraini 4,",6900 Lugano,10.0,580.0,12000,8.25,Villa,2021,1908,1
+4002216845,,,4.5,165.0,3350,-1,Apartment,-1,1983,0
+4002216981,"Paradiso,",6900 Paradiso,4.5,168.0,6500,-1,Apartment,-1,-1,0
+4002217302,"Vicolo Canturio 3,",6834 Morbio Inferiore,5.5,145.0,2050,6.5,Apartment,-1,-1,1
+4002217370,"La Stráda d'Indéman 12,",6574 Vira (Gambarogno),4.5,137.0,3600,-1,Apartment,-1,2019,0
+4002217388,"La Stráda d'Indéman 12,",6574 Vira (Gambarogno),3.5,69.0,1600,-1,Apartment,-1,2019,0
+4002217792,"via Trevano 27,",6900 Lugano,2.5,61.0,2230,4.25,Apartment,-1,-1,1
+4002218039,"Via Vedeggi 40a,",6983 Magliaso,2.5,49.0,1370,10.5,Apartment,-1,2019,1
+4002218705,,,3.5,91.0,1800,-1,Apartment,-1,-1,0
+4002221346,,,3.5,110.0,1300,-1,Single house,-1,-1,0
+4002221439,"Contrada Vecchia,",6962 Viganello,3.5,70.0,1700,-1,Apartment,-1,-1,0
+4002221440,"Via Clemente Maraini,",6900 Lugano,3.5,100.0,2400,-1,Apartment,-1,-1,0
+4002221441,"via Bosco,",6974 Aldesago,3.5,100.0,2250,-1,Apartment,-1,-1,0
+4002221714,"via vedò 9,",6963 Pregassona,4.5,141.0,3550,6.5,Apartment,-1,-1,1
+4002221913,,,2.0,-1,1550,-1,Apartment,-1,-1,0
+4002222098,"via Fontanella 1,",6932 Breganzona,-1,99.0,1900,7.0,Apartment,2015,-1,0
+4002222709,"Viale C. Olgiati 3,",6512 Bellinzona,2.5,-1,1200,4.25,Apartment,-1,-1,1
+4002222717,"Via ai Boschetti 55,",6928 Manno,4.5,-1,1900,7.5,Apartment,-1,-1,1
+4002223087,,,2.0,35.0,980,-1,Apartment,2012,1600,0
+4002223089,"Via ai Portici, 2,",6930 Bedano,2.0,35.0,980,12.25,Apartment,2012,1600,0
+4002224106,,,2.0,35.0,980,-1,Apartment,2012,1600,0
+4002224995,,,2.0,35.0,980,-1,Apartment,2012,1600,0
+4002229268,"Via Roigo,",6965 Lugano,3.5,85.0,2850,14.25,Apartment,2023,-1,1
+4002230328,"Via Dante Alighieri 5,",6830 Chiasso,5.5,-1,1800,2.25,Maisonette / Duplex,-1,-1,0
+4002230467,"Via Lischedo 3,",6802 Rivera,2.5,52.0,1380,4.0,Apartment,-1,-1,0
+4002230469,"Via Valle Maggia 13,",6600 Locarno,2.5,56.0,1521,4.0,Apartment,-1,2022,0
+4002230473,"Via Prà di Vizi 8,",6612 Ascona,2.0,48.0,1390,6.0,Apartment,-1,2017,0
+4002230712,,,5.5,271.0,7100,-1,Apartment,2015,2006,0
+4002231249,"Via Carlo Maderno 56,",6825 Capolago,5.5,730.0,7500,14.75,Villa,-1,-1,1
+4002231632,"Via Orgnana,",6573 Magadino,2.5,85.0,1750,-1,Apartment,-1,-1,0
+4002232440,"Via alla Torre 14,",6850 Mendrisio,1.5,35.0,750,3.75,Studio,-1,-1,1
+4002232524,"Vicolo Bena 4D,",6850 Mendrisio,2.5,40.0,1350,7.25,Apartment,-1,-1,0
+4002234535,"Via alla Bozzareda 14F,",6963 Pregassona,3.5,145.0,2950,5.25,Apartment,-1,-1,0
+4002235154,"Vicolo Bena 4D,",6850 Mendrisio,3.5,75.0,1800,7.25,Apartment,-1,-1,0
+4002235585,"Via Rovello 32 B,",6942 Savosa,3.5,107.0,2500,12.75,Apartment,-1,-1,1
+4002236520,"Via Sasso Piatto 17A,",6512 Giubiasco,4.5,-1,2600,4.75,Roof flat,2025,-1,1
+4002236848,"Vicolo Bena 4D,",6850 Mendrisio,4.5,120.0,2300,7.25,Apartment,-1,-1,0
+4002237077,"Via Clemente Maraini,",6900 Lugano,4.5,-1,5500,8.25,Apartment,-1,-1,1
+4002237845,"Via alle Caragne,",6900 Lugano,2.5,72.0,1450,-1,Apartment,-1,2010,1
+4002240583,"Via Lepori 18,",6900 Massagno,2.5,68.0,1575,3.75,Apartment,-1,2020,0
+4002242388,"via Massago,",6977 Lugano,3.5,90.0,3000,-1,Apartment,-1,-1,0
+4002245520,"Via Lecch 8,",6862 Rancate,5.5,-1,1860,8.25,Apartment,-1,-1,1
+4002245734,"Via Clemente Maraini 1,",6900 Lugano,4.5,160.0,6100,6.5,Apartment,-1,-1,1
+4002245758,"In Tirada 1,",6528 Bellinzona,4.5,130.0,2480,6.0,Roof flat,-1,-1,1
+4002245920,"In di Vign 10,",6705 Cresciano,3.5,90.0,1550,-1,Apartment,-1,-1,0
+4002247388,"Via Sasso Corbaro 33,",6593 Cadenazzo,5.5,152.0,1950,4.25,Apartment,-1,-1,1
+4002248572,,,-1,-1,-1,-1,,-1,-1,0
+4002249361,"Via Canonico Ghiringhelli 23c,",6500 Bellinzona,3.5,75.0,1470,7.5,Apartment,-1,1991,1
+4002249813,"Via Rodari,",6500 Bellinzona,3.5,108.0,1917,-1,Apartment,-1,-1,0
+4002250106,,,3.5,115.0,3400,-1,Apartment,2020,1990,1
+4002250204,"Via Dragonato 11 A/B/C/D,",6500 Bellinzona,4.5,-1,1640,5.0,Apartment,-1,-1,1
+4002250872,"Via Ramogna 8,",6600 Locarno,3.0,69.0,1335,3.25,Apartment,2016,1899,1
+4002250913,"Via Ciseri 2B,",6600 Locarno,2.5,43.0,1300,3.5,Apartment,1984,1896,0
+4002251732,"Via del Tiglio 5,",6592 S. Antonino,1.5,39.0,790,11.33,Apartment,1997,1972,0
+4002251754,"Via Bagutti 26,",6900 Lugano,3.5,65.0,1530,3.5,Apartment,-1,-1,0
+4002252010,"Via Clemente Maraini,",6900 Lugano,4.5,158.0,5500,-1,Apartment,-1,2007,0
+4002252299,,,-1,-1,-1,-1,,-1,-1,0
+4002252301,"Riva Paradiso 18,",6900 Paradiso,3.5,87.0,2920,4.5,Apartment,-1,2024,0
+4002253121,"Via Sorengo,",6900 Lugano,2.5,-1,1600,6.75,Apartment,-1,-1,1
+4002253256,"Via la Santa 7,",6962 Viganello,1.5,41.0,950,3.0,Apartment,2021,1990,0
+4002253259,"Via del Tiglio 5,",6592 S. Antonino,4.0,90.0,1480,11.33,Apartment,1997,1972,0
+4002253260,"Via del Tiglio 3,",6592 S. Antonino,1.5,36.0,790,10.67,Apartment,1997,1972,0
+4002253261,"Via del Tiglio 3a,",6592 S. Antonino,2.5,56.0,1100,10.67,Apartment,1997,1972,0
+4002253274,"Via Nassa 29,",6900 Lugano,5.0,123.0,3300,5.75,Apartment,2001,1909,0
+4002254226,"Via Monte Generoso 32a,",6874 Castel San Pietro,3.5,70.0,1600,10.0,Attic flat,-1,2016,1
+4002254719,,,3.5,127.0,3400,-1,Apartment,2024,1963,0
+4002254875,"VIA A.CHIESA 2,",6830 Chiasso,5.5,110.0,1550,7.0,Apartment,-1,-1,1
+4002255507,"Via San Giobbe 15a,",6512 Giubiasco,2.5,56.0,1430,3.75,Apartment,-1,-1,1
+4002256331,"Ruvigliana,",6977 Lugano,8.0,393.0,12000,-1,Apartment,-1,-1,0
+4002256335,"Pregassona,",6963 Pregassona,3.5,80.0,1800,-1,Apartment,-1,-1,0
+4002256530,"Via Giuseppe Maggi 12,",6963 Pregassona,3.5,60.0,1363,4.5,Apartment,-1,1991,1
+4002256535,"Via G. Brentani 16,",6900 Lugano,1.5,37.0,1350,4.5,Apartment,-1,-1,0
+4002256676,"Via Soldini 14d,",6830 Chiasso,3.0,54.0,970,5.0,Apartment,-1,1993,0
+4002257868,"Via Soldini 14e,",6830 Chiasso,4.5,97.0,1350,5.0,Apartment,-1,1993,0
+4002259669,"Casrtagnola,",6900 Lugano,3.5,85.0,2200,4.5,Apartment,-1,-1,1
+4002259686,"Casrtagnola,",6976 Castagnola,3.5,85.0,2200,7.0,Apartment,-1,-1,1
+4002259830,"Via Monte Carmen 13,",6900 Lugano,2.0,36.0,1210,6.5,Apartment,2015,1974,1
+4002261624,"Verscio 26,",6527 Lodrino,5.0,85.0,1690,-1,Single house,2022,-1,1
+4002262344,"via roncaccio 2,",6900 Lugano,2.5,50.0,1250,7.75,Apartment,-1,-1,0
+4002262345,"via rained 9A,",6807 Taverne,4.5,105.0,1200,8.67,Apartment,-1,-1,0
+4002262511,,,2.5,-1,1200,-1,Apartment,-1,-1,0
+4002262513,,,3.5,-1,3800,-1,Apartment,-1,-1,0
+4002264637,"Via del Canvetto 1,",6900 Lugano,2.5,87.0,1650,3.25,Terrace flat,-1,2012,1
+4002264638,"Via del Canvetto 1,",6900 Lugano,2.5,87.0,1650,3.25,Terrace flat,-1,2012,1
+4002267267,"Via Giuseppe Motta 7,",6648 Minusio,3.0,118.0,1850,4.0,Apartment,-1,1970,1
+4002267819,"Via Salvioni 6,",6500 Bellinzona,4.5,109.0,1645,6.5,Apartment,-1,1986,0
+4002268684,"Via Sasso Corbaro 6,",6593 Cadenazzo,4.5,96.0,1850,3.75,Apartment,-1,2017,1
+4002268697,"Via Sasso Corbaro 4,",6593 Cadenazzo,4.5,96.0,1710,4.25,Roof flat,-1,2017,1
+4002268713,"Via Sasso Corbaro 4,",6593 Cadenazzo,3.5,73.0,1600,4.25,Apartment,-1,2017,1
+4002269061,"Via Dragone 6,",6710 Biasca,4.5,-1,1690,5.25,Apartment,-1,-1,1
+4002269148,"Via S. Franscini 16,",6850 Mendrisio,4.5,145.0,1850,4.25,Apartment,2021,1991,0
+4002269164,"Via Stefano Franscini 2,",6600 Locarno,2.5,-1,1500,6.5,Apartment,-1,-1,0
+4002269916,"Via delle scuole 27,",6900 Lugano,6.5,209.0,4300,3.5,Apartment,-1,-1,0
+4002270097,"Via Brenno Bertoni 15,",6900 Lugano,4.5,117.0,2700,6.5,Apartment,-1,-1,0
+4002270099,,,12.0,-1,4800,-1,Villa,-1,-1,0
+4002270284,"Via Lischedo 3,",6802 Rivera,3.5,78.0,1870,4.0,Apartment,-1,-1,0
+4002270408,"Via Dante Alighieri 5,",6830 Chiasso,3.5,150.0,3300,2.25,Apartment,-1,-1,0
+4002271068,"Via Pioda 17,",6600 Locarno,3.5,120.0,1820,4.5,Apartment,-1,-1,0
+4002271186,"Via al Castello 18,",6964 Davesco-Soragno,3.5,75.0,1450,15.5,Apartment,-1,1994,0
+4002271884,,,4.5,-1,2800,-1,Apartment,-1,-1,0
+4002272648,"Via Pratocarasso 44 C - Geb. D,",6500 Bellinzona,2.5,52.0,1284,5.75,Apartment,-1,2019,1
+4002272649,"Via Ceresio 2,",6900 Massagno,3.5,60.0,1500,4.5,Apartment,-1,1971,1
+4002272650,"Via Pratocarasso 46 A - Geb. A,",6500 Bellinzona,3.5,78.0,1690,6.0,Apartment,-1,2019,0
+4002272652,"Via Gerretta 15 B - Geb. E,",6500 Bellinzona,3.5,83.0,1750,4.75,Apartment,-1,2019,1
+4002273103,"Via Lisano,",6900 Massagno,2.5,50.0,1400,-1,Apartment,-1,2025,0
+4002273104,"Via Lisano,",6900 Massagno,2.5,50.0,1300,-1,Apartment,-1,2025,0
+4002273359,"Via Vincenzo Vela 44,",6834 Morbio Inferiore,3.5,84.0,1390,5.75,Apartment,-1,-1,0
+4002273776,"Via Ghitello 4,",6834 Morbio Inferiore,3.5,-1,1390,4.25,Attic flat,-1,-1,0
+4002274486,"Via Roggiana 8,",6833 Vacallo,3.5,80.0,1250,7.25,Attic flat,2022,-1,1
+4002274868,"Via Pier Francesco Mola,",6877 Coldrerio,4.5,170.0,1600,6.0,Apartment,-1,-1,1
+4002275122,,,-1,-1,1580,-1,Apartment,-1,-1,0
+4002275132,,,-1,120.0,1860,-1,Apartment,-1,-1,0
+4002275137,,,-1,65.0,2000,-1,Apartment,-1,-1,0
+4002275736,,,6.5,200.0,3000,-1,Single house,-1,-1,0
+4002275849,"Via Molinazzo 2D,",6517 Arbedo,3.5,87.0,1610,5.33,Apartment,-1,2016,0
+4002275864,"Via Lischedo 1,",6802 Rivera,3.5,81.0,1865,4.0,Apartment,-1,-1,0
+4002275865,"Via Lischedo 1,",6802 Rivera,4.5,99.0,2150,4.0,Apartment,-1,-1,0
+4002276440,,,-1,-1,-1,-1,,-1,-1,0
+4002276766,"via Serafino Balestra 20,",6600 Locarno,4.5,102.0,2570,4.0,Apartment,-1,2014,1
+4002276809,,,3.5,150.0,2500,-1,Apartment,-1,-1,0
+4002276810,,,3.5,-1,1600,-1,Apartment,-1,-1,0
+4002277503,"Via Roncone 22,",6927 Agra,3.5,208.0,10525,16.0,Apartment,-1,2012,1
+4002277828,"Collina d'Oro,",6926 Montagnola,6.5,215.0,4950,-1,Apartment,-1,-1,0
+4002277990,"Via Molinazzo 8b,",6900 Lugano,2.5,31.0,1130,3.25,Apartment,2021,-1,0
+4002277994,"Via G. Brentani 16,",6900 Lugano,1.5,37.0,1180,4.5,Apartment,-1,-1,0
+4002278477,"Strada della Brima 6,",6612 Ascona,1.0,-1,700,8.5,Hobby room,-1,-1,0
+4002278795,"Via Lugano 39,",6500 Bellinzona,5.5,-1,2500,6.25,Maisonette / Duplex,-1,-1,0
+4002278982,"Via Castello,",6864 Mendrisio,2.5,120.0,1280,7.0,Apartment,-1,-1,1
+4002279084,,,2.5,50.0,1380,-1,Apartment,-1,-1,1
+4002279234,"Via Luigi Taddei 15,",6962 Viganello,3.5,71.0,1500,3.75,Apartment,-1,1992,0
+4002279250,"Piazza Grande 1,",6986 Curio,-1,-1,1200,4.67,Hobby room,2023,1900,1
+4002279321,"Viale Carlo Cattaneo 17 A,",6900 Lugano,-1,24.0,2983,3.25,Apartment,-1,-1,0
+4002279373,"Via Brenno Bertoni 1,",6500 Bellinzona,3.5,82.0,2017,7.5,Apartment,-1,2017,0
+4002279641,"Via Gerretta 15 B - Geb. E,",6500 Bellinzona,3.5,81.0,1730,4.75,Apartment,-1,2019,1
+4002279642,"Via al Gaggio 15,",6912 Pazzallo,2.5,42.0,1310,7.75,Apartment,-1,2020,1
+4002279731,"Via Dottor Giovanni Varesi 23A,",6600 Locarno,3.5,115.0,2200,3.75,Apartment,-1,-1,1
+4002280625,"Strada della Brima 6,",6612 Ascona,1.0,25.0,700,8.5,Cellar compartment,-1,-1,0
+4002282216,"viale Stefano Franscini 3,",6900 Lugano,3.5,100.0,2750,3.5,Attic flat,-1,2015,0
+4002282217,,,4.5,144.0,3650,-1,Apartment,-1,-1,1
+4002282225,"via Coremmo,",6900 Lugano,3.5,100.0,2100,-1,Apartment,-1,1989,0
+4002284194,"Via al Ticino 30a,",6514 Bellinzona,2.5,57.0,1300,3.75,Apartment,-1,-1,1
+4002284223,"Via al Ponte 25,",6900 Massagno,2.5,42.0,1450,6.75,Apartment,-1,2023,1
+4002285365,"Via Vallemaggia 53,",6600 Solduno,2.5,45.0,1650,3.75,Apartment,-1,2025,1
+4002285980,"Ruvigliana,",6977 Ruvigliana,3.5,120.0,3000,-1,Apartment,-1,-1,0
+4002285982,"Gentilino,",6925 Collina D'Oro,4.5,150.0,4350,-1,Apartment,-1,-1,0
+4002286609,,,2.5,50.0,1300,-1,Apartment,-1,-1,0
+4002286677,"Via Castagnola,",6900 Lugano,6.5,200.0,7600,-1,Apartment,-1,-1,0
+4002286680,"Via Ceresio di Ruvigliana,",6977 Ruvigliana,10.0,393.0,14000,-1,Apartment,-1,-1,0
+4002287676,"Via San Gottardo 4,",6593 Cadenazzo,2.5,-1,1380,4.67,Apartment,-1,-1,0
+4002287688,"Via Tommaso Rodari 9,",6500 Bellinzona,3.5,-1,1950,7.0,Apartment,-1,-1,0
+4002287714,"Via Taiada 26,",6517 Arbedo,3.5,-1,1300,4.0,Apartment,-1,-1,1
+4002287748,"Via Crena 12,",6949 Comano,2.5,-1,1800,17.25,Apartment,-1,-1,0
+4002287755,"Via Montecucco 44,",6596 Gordola,4.5,-1,2600,20.0,Terrace flat,-1,-1,0
+4002287779,"Via Tomaso Rodari 20 B,",6500 Bellinzona,3.5,107.0,2200,8.0,Apartment,-1,2017,0
+4002287792,"Via San Gottardo 23,",6500 Bellinzona,3.5,-1,1150,4.0,Apartment,-1,-1,0
+4002287797,"Via Rodello 14,",6518 Bellinzona,3.5,-1,1700,16.75,Apartment,-1,-1,0
+4002287798,"Via Tomaso Rodari 20 B,",6500 Bellinzona,3.5,105.0,2200,8.0,Apartment,-1,2017,0
+4002287810,"Via Tomaso Rodari 20 B,",6500 Bellinzona,3.5,110.0,2200,8.0,Apartment,-1,2017,0
+4002287814,"Via Rodello 14,",6518 Bellinzona,2.5,-1,1490,16.75,Apartment,-1,-1,0
+4002287819,"Via San Gottardo 24b,",6532 Castione,4.5,-1,-1,8.25,Apartment,-1,-1,0
+4002287823,"Via Cantonale,",6532 Castione,1.0,99.0,1660,4.25,Apartment,-1,-1,0
+4002287834,"Via Tesserete 59A,",6900 Lugano,5.5,220.0,5500,9.0,Apartment,-1,-1,0
+4002288021,"Via Giuseppe Motta 5,",6830 Chiasso,2.5,-1,1010,4.25,Apartment,-1,2026,0
+4002288081,"Via Giuseppe Motta 5,",6830 Chiasso,2.5,-1,1030,4.25,Apartment,-1,2026,0
+4002288152,"Via Giuseppe Motta 5,",6830 Chiasso,2.5,-1,1030,4.25,Apartment,-1,2026,0
+4002288153,"Via Giuseppe Motta 5,",6830 Chiasso,2.5,-1,1020,4.25,Apartment,-1,2026,0
+4002288164,"Via Giuseppe Motta 5,",6830 Chiasso,2.5,-1,1030,4.25,Apartment,-1,2026,0
+4002288194,"Via Giuseppe Motta 5,",6830 Chiasso,3.5,-1,1250,4.25,Apartment,-1,2026,0
+4002288496,"via Gen. E. Guisan 19A,",6830 Chiasso,5.5,90.0,1380,6.5,Apartment,2018,1991,1
+4002289375,"Via San Gottardo 119b,",6596 Gordola,1.5,32.0,1160,10.0,Apartment,-1,2017,1
+4002289512,"Via del Canvetto 1,",6900 Lugano,3.5,90.0,1900,3.25,Terrace flat,-1,2012,1
+4002289574,"Via del Canvetto 1,",6900 Lugano,3.5,90.0,1900,3.25,Terrace flat,-1,2012,1
+4002289982,"via Villa Luganese 14,",6965 Cadro,3.5,140.0,2300,10.0,Apartment,-1,2009,1
+4002290280,"via vedò 9,",6963 Pregassona,3.5,85.0,2200,6.5,Apartment,-1,-1,0
+4002290281,"via la risciada 48,",6915 Pambio-Noranco,4.5,115.0,1870,5.75,Apartment,-1,-1,0
+4002290428,,,3.5,-1,1350,-1,Apartment,-1,-1,0
+4002290435,,,-1,-1,-1,-1,,-1,-1,0
+4002290553,,,-1,-1,-1,-1,,-1,-1,0
+4002290593,,,-1,-1,-1,-1,,-1,-1,0
+4002290856,"Viale Lungo Breggia 13,",6834 Morbio Inferiore,4.5,110.0,1450,6.75,Apartment,-1,-1,1
+4002291120,"Viale 1814,",6512 Bellinzona,4.5,130.0,2450,3.25,Apartment,-1,-1,1
+4002291201,,,3.5,118.0,2350,-1,Attic flat,-1,-1,1
+4002291252,"Via Alberto Di Sacco 5,",6500 Bellinzona,5.5,123.0,2350,4.25,Apartment,2025,-1,1
+4002291470,,,2.5,-1,1250,-1,Apartment,-1,2025,1
+4002291643,"Via Convento 4 A,",6500 Bellinzona,4.5,108.0,1890,8.0,Apartment,1997,1981,0
+4002291655,"Via della Pace 20a,",6600 Locarno,4.0,104.0,1820,6.0,Apartment,-1,-1,0
+4002291846,,,3.5,-1,1300,-1,Apartment,-1,-1,0
+4002291850,,,2.5,-1,1400,-1,Apartment,-1,-1,0
+4002291933,,,2.5,-1,1400,-1,Apartment,-1,2024,1
+4002291995,,,3.5,129.0,2000,-1,Apartment,-1,2025,1
+4002292112,,,3.5,-1,1100,-1,Apartment,-1,-1,1
+4002292306,"Via Pascuritt 1,",6834 Morbio Inferiore,2.5,51.0,1050,5.0,Apartment,-1,-1,1
+4002293228,,,3.5,75.0,1400,-1,Apartment,-1,-1,1
+4002293237,,,3.5,-1,1000,-1,Apartment,-1,-1,1
+4002293244,,,2.5,-1,1160,-1,Apartment,-1,-1,1
+4002293694,"Via Vigizzi 12,",6600 Locarno,3.5,66.0,1450,3.25,Apartment,-1,-1,0
+4002293695,"Via Vigizzi 12,",6600 Locarno,2.5,46.0,1070,3.25,Apartment,-1,-1,0
+4002293696,"Via Vigizzi 12,",6600 Locarno,2.5,56.0,1330,3.25,Apartment,-1,-1,0
+4002296949,"Via Case Tinetti 8,",6710 Biasca,4.5,105.0,1470,8.33,Maisonette / Duplex,2017,1996,1
+4002297082,"Largo F. Zorzi 1/Via S. Cat. 1,",6600 Locarno,1.0,39.0,970,4.0,Apartment,2020,1930,0
+4002297329,"Via Cantonale 37,",6705 Cresciano,4.5,97.0,1400,-1,Apartment,-1,-1,1
+4002298336,"Piazza del Sole 7,",6500 Bellinzona,1.5,26.0,810,4.25,Apartment,-1,-1,0
+4002299106,"via val barberina 1,",6807 Taverne,2.5,65.0,1050,8.0,Apartment,-1,-1,0
+4002299393,"Via Coremmo 3,",6900 Lugano,8.0,-1,8000,6.0,Attic flat,2025,-1,1
+4002299939,,,2.5,96.0,2650,-1,Apartment,-1,2016,0
+4002302491,"Via Soldini 2A,",6830 Chiasso,3.5,66.0,1250,4.75,Apartment,2021,-1,1
+4002302492,"Via Soldini 2A,",6830 Chiasso,2.5,60.0,1150,4.75,Apartment,2021,-1,1
+4002302507,"Via Massagno 32 / Belinda,",6900 Lugano,2.5,66.0,1750,7.5,Apartment,-1,2018,0
+4002302540,"Vicolo del Municipio 2,",6988 Ponte Tresa,2.5,52.0,1140,8.33,Apartment,2021,-1,0
+4002302541,"Vicolo del Municipio 2,",6988 Ponte Tresa,2.5,37.0,930,8.33,Apartment,2021,-1,0
+4002302545,"Piazza Boffalora 3,",6830 Chiasso,2.5,61.0,1190,3.25,Apartment,2021,-1,1
+4002302548,"Piazza Boffalora 3,",6830 Chiasso,2.5,56.0,1090,3.25,Apartment,2021,-1,1
+4002303277,"Via Carlo Pereda 16,",6828 Balerna,4.5,140.0,1900,9.25,Apartment,-1,2013,1
+4002303590,"via ruster,",6822 Arogno,5.5,647.0,10000,4.5,Apartment,-1,-1,1
+4002303709,"Via Moncucco 10,",6746 Lavorgo,3.5,-1,1040,-1,Apartment,2025,-1,1
+4002304657,"Via Industrie sud 11,",6703 Osogna,3.5,-1,1550,-1,Apartment,-1,-1,1
+4002304658,"Via Industrie sud 11,",6703 Osogna,3.5,-1,1550,-1,Apartment,-1,-1,1
+4002305141,,,-1,-1,-1,-1,,-1,-1,0
+4002305664,"Via Trevano 91,",6900 Lugano,1.5,35.0,880,2.25,Apartment,2025,-1,1
+4002305684,"Viale Moesa 58,",6517 Arbedo,2.5,-1,890,13.5,Apartment,-1,-1,0
+4002307261,,,-1,-1,-1,-1,,-1,-1,0
+4002307428,"Via al Poggio 11,",6833 Vacallo,1.5,33.0,600,5.75,Studio,2022,1996,1
+4002307515,"Via Paradiso,",6924 Sorengo,4.5,120.0,2650,-1,Apartment,-1,-1,0
+4002307947,,,2.5,-1,1180,-1,Apartment,-1,-1,0
+4002307952,"via Giuseppe Lanz 11,",6825 Mendrisio,3.5,82.0,1390,5.0,Apartment,-1,-1,0
+4002308104,"Via alla Bozzoreda 37,",6963 Pregassona,4.5,107.0,2120,3.5,Apartment,2012,2012,0
+4002308391,"Bissone,",6816 Bissone,5.0,238.0,9900,-1,Apartment,-1,-1,0
+4002308766,"Via Lombardia,",6833 Vacallo,2.5,-1,1100,6.25,Apartment,-1,-1,0
+4002310110,"Via Domenico Fontana 27,",6710 Biasca,3.5,-1,1290,10.25,Apartment,2025,1971,1
+4002310745,"via Mera 2b,",6987 Caslano,2.5,55.0,1330,6.0,Apartment,-1,2011,0
+4002310870,"Contrada San Marco 4,",6982 Agno,1.5,29.0,990,4.0,Apartment,-1,-1,0
+4002311257,"Via del Carmagnola 36A,",6517 Arbedo,3.0,-1,1730,9.5,Apartment,2024,-1,0
+4002311345,"Via Franco Zorzi 10,",6900 Paradiso,3.5,71.0,1665,2.5,Apartment,-1,1982,1
+4002311428,"Via al Pero 5D,",6852 Mendrisio,5.0,210.0,3050,12.0,Single house,-1,2014,1
+4002311911,"via Ciseri 7,",6900 Lugano,2.5,-1,1200,6.0,Apartment,-1,-1,1
+4002312000,"Via C. Pellandini 3,",6500 Bellinzona,3.5,105.0,2100,3.5,Maisonette / Duplex,-1,-1,0
+4002312392,,,3.5,103.0,2150,-1,Apartment,-1,2015,1
+4002312879,"Via Soldini 14i,",6830 Chiasso,3.0,62.0,980,4.75,Apartment,-1,1993,0
+4002312882,"Via Soldini 14b,",6830 Chiasso,2.0,53.0,900,4.5,Apartment,-1,1993,0
+4002312883,"Via Soldini 14b,",6830 Chiasso,4.5,121.0,1540,4.5,Apartment,-1,1993,0
+4002312884,"Via Soldini 14g,",6830 Chiasso,3.0,60.0,980,5.25,Apartment,-1,1993,0
+4002312887,"Via Pazzalino 11,",6962 Viganello,5.5,141.0,2470,2.75,Apartment,2006,1991,0
+4002313168,"Via Nolgio 5,",6900 Massagno,3.5,72.0,1900,3.25,Apartment,-1,1971,1
+4002313288,,,3.5,100.0,1900,-1,Apartment,-1,-1,0
+4002313471,,,3.5,95.0,1260,-1,Apartment,-1,-1,0
+4002313551,"Via Carlo Maderno 62,",6825 Mendrisio,3.5,146.0,2420,13.75,Apartment,-1,2021,0
+4002314115,"Via Tommaso Rodari 20,",6500 Bellinzona,4.5,-1,2600,8.25,Apartment,-1,-1,0
+4002314375,"via Antonio Riva Caccia 1,",6900 Lugano,3.5,-1,4700,7.5,Apartment,2021,-1,1
+4002314606,"Via Giovanni Serodine 12,",6612 Ascona,4.5,-1,2950,8.75,Apartment,-1,-1,0
+4002314626,,,4.5,133.0,3500,-1,Apartment,-1,-1,1
+4002314627,,,2.5,71.0,2000,-1,Apartment,-1,-1,1
+4002315550,"Via Pizzamiglio,",6833 Vacallo,2.5,60.0,1000,6.5,Apartment,-1,-1,1
+4002315656,,,5.5,270.0,11000,-1,Apartment,-1,-1,0
+4002316106,"Via Canonico Ghiringhelli 57 E,",6500 Bellinzona,2.5,46.0,1160,5.25,Apartment,-1,2020,0
+4002316114,"Via Lugano 17,",6500 Bellinzona,2.5,49.0,1400,6.75,Apartment,-1,2017,0
+4002316858,"Salita delle Ginestre,",6900 Lugano,4.5,240.0,5500,-1,Apartment,-1,-1,0
+4002316859,"Via Vincenzo D'Alberti 10,",6830 Chiasso,4.5,100.0,1200,4.0,Apartment,-1,-1,1
+4002318651,"Via Dottor Giovanni Varesi 23A,",6600 Locarno,3.5,115.0,2200,3.75,Apartment,-1,-1,1
+4002318673,"Via Panoramica 12,",6645 Brione sopra Minusio,2.5,60.0,1350,9.5,Apartment,2018,1970,1
+4002319444,,,4.5,120.0,1300,-1,Apartment,2016,-1,1
+4002319446,,,4.5,120.0,1300,-1,Apartment,2016,-1,1
+4002320016,"Via al Lido 1,",6962 Viganello,3.5,100.0,3800,3.5,Roof flat,-1,2022,1
+4002320582,"Via C. Pellandini 3,",6500 Bellinzona,1.0,30.0,950,3.5,Apartment,-1,-1,0
+4002320595,"via Quartiere co de Lago 1/2/3/4,",6825 Capolago,4.5,-1,1740,6.5,Apartment,-1,-1,0
+4002320835,"Via Lisora 3,",6998 Monteggio,3.5,77.0,1650,11.0,Roof flat,-1,2023,1
+4002321018,"Via Bossi 12,",6830 Chiasso,3.5,-1,1640,3.0,Apartment,-1,-1,0
+4002321464,,,-1,-1,-1,-1,,-1,-1,0
+4002321992,"Via Arbostora 15,",6900 Lugano,3.5,100.0,1800,-1,Apartment,-1,-1,1
+4002322088,"Via Cereghetti 8,",6834 Morbio Inferiore,3.5,93.0,1242,6.0,Apartment,-1,-1,0
+4002322089,"Via Cereghetti 8,",6834 Morbio Inferiore,4.5,126.0,1500,6.0,Apartment,-1,-1,0
+4002323151,,,3.5,120.0,1500,-1,Apartment,-1,-1,0
+4002323600,,,2.5,40.0,1000,-1,Apartment,2025,2025,0
+4002323903,"Via Camminata 3E,",6500 Bellinzona,2.0,-1,950,3.5,Apartment,-1,-1,0
+4002323964,"Via Ghiringhelli 13,",6500 Bellinzona,3.5,105.0,2030,7.0,Apartment,-1,-1,1
+4002324133,"Via Ferrera 109,",6612 Ascona,1.5,-1,900,6.25,Apartment,-1,-1,0
+4002324159,"Via dei Fiori 1,",6600 Muralto,2.5,-1,1200,5.75,Apartment,-1,-1,0
+4002324366,"Via Canonico Ghiringhelli 57 B,",6500 Bellinzona,1.5,40.0,1135,5.25,Apartment,-1,2020,0
+4002324443,,,4.0,161.0,4500,-1,Single house,-1,-1,1
+4002324849,"Via Carlo Maderno 62,",6825 Mendrisio,6.5,250.0,4650,13.75,Attic flat,-1,2021,0
+4002324861,"Via Campagna,",6926 Montagnola,4.5,184.0,6000,-1,Apartment,-1,2023,0
+4002324869,"Via Lavizzari 1,",6830 Chiasso,3.5,90.0,1220,4.25,Apartment,-1,-1,1
+4002324872,"Via Mercole 1,",6877 Coldrerio,3.5,100.0,1160,3.25,Apartment,-1,-1,0
+4002324880,"Via Soldini 25,",6830 Chiasso,3.0,85.0,1100,4.75,Apartment,-1,-1,1
+4002324881,"via alla Roggia,",6900 Lugano,4.5,200.0,6000,-1,Apartment,-1,2014,1
+4002326492,,,1.5,-1,1300,-1,Apartment,-1,-1,1
+4002327005,,,1.5,-1,1300,-1,Apartment,-1,-1,1
+4002327011,"Via Clemente Maraini,",6900 Lugano,2.0,-1,1410,8.25,Apartment,-1,-1,1
+4002327068,"Via Roncone 22,",6927 Agra,6.5,258.0,10750,16.0,Apartment,-1,2012,1
+4002327669,"Via Franco Zorzi 10,",6900 Paradiso,5.0,121.0,2270,2.5,Apartment,-1,1982,1
+4002327834,"Via Loco,",6963 Pregassona,2.5,55.0,1250,-1,Apartment,-1,1980,1
+4002328139,"Via Merlina,",6900 Lugano,2.5,58.0,1700,-1,Apartment,-1,2018,0
+4002328140,"Contrada Busi,",6816 Bissone,4.5,170.0,1650,-1,Attic flat,-1,1900,0
+4002328240,"Via Romerio 15,",6600 Locarno,1.0,19.0,545,5.25,Apartment,-1,1972,0
+4002328595,"Corso San Gottardo 76,",6830 Chiasso,2.5,52.0,1140,2.5,Apartment,2022,2015,0
+4002328600,"Via Monte Carmen 13,",6900 Lugano,2.0,36.0,1150,6.5,Apartment,2015,1974,1
+4002328601,"Via Monte Carmen 13,",6900 Lugano,3.5,81.0,1950,6.5,Apartment,2015,1974,1
+4002328608,"Via Molinazzo 8,",6900 Lugano,2.5,30.0,1170,2.75,Apartment,2021,-1,0
+4002328609,"Via Molinazzo 8b,",6900 Lugano,1.5,31.0,1170,3.25,Apartment,2021,-1,0
+4002328614,"Via al Fiume 6,",6962 Viganello,3.5,104.0,1895,3.75,Apartment,-1,1992,0
+4002328615,"Via al Fiume 8,",6962 Viganello,4.5,103.0,1905,3.75,Apartment,-1,1992,0
+4002328616,"Via Trevano 9,",6900 Lugano,3.5,86.0,2110,4.25,Apartment,2014,1970,0
+4002328618,"Corso San Gottardo 25,",6830 Chiasso,2.5,54.0,1020,3.5,Apartment,-1,-1,0
+4002328623,"Via G. Brentani 16,",6900 Lugano,1.5,37.0,1260,4.5,Apartment,-1,-1,0
+4002328628,"Via Norello 17a,",6928 Manno,4.5,110.0,1960,9.5,Apartment,-1,2008,0
+4002328633,"Via degli Albrici 3A,",6830 Chiasso,3.0,75.0,1345,5.25,Apartment,-1,2019,0
+4002328634,"Via degli Albrici 3,",6830 Chiasso,3.0,83.0,1350,5.25,Apartment,-1,-1,0
+4002328818,,,-1,-1,-1,-1,,-1,-1,0
+4002328819,,,-1,-1,-1,-1,,-1,-1,0
+4002328824,"Lugano,",6900 Lugano,4.0,95.0,4150,-1,Apartment,-1,-1,0
+4002328826,,,-1,-1,-1,-1,,-1,-1,0
+4002329002,,,-1,-1,-1,-1,,-1,-1,0
+4002329403,"Contrada dei Silva 15,",6834 Morbio Inferiore,3.0,75.0,1150,7.75,Apartment,-1,-1,0
+4002329761,"Via Rinaldo Simen 16,",6830 Chiasso,6.0,120.0,2100,2.5,Apartment,-1,1920,1
+4002329773,"Salita degli Olivi 14,",6976 Castagnola,3.5,110.0,3830,9.5,Apartment,-1,-1,0
+4002330080,"Via Olgiati 5A,",6512 Giubiasco,2.5,58.0,1280,1.75,Apartment,-1,-1,1
+4002330082,"Via Olgiati 5D,",6512 Giubiasco,2.5,53.0,1280,4.5,Apartment,-1,-1,1
+4002330206,"Lugano,",6900 Lugano,9.5,430.0,21000,-1,Attic flat,-1,-1,0
+4002330520,,,-1,-1,-1,-1,,-1,-1,0
+4002330791,"Via Giuseppe Motta,",6900 Lugano,4.5,-1,5150,6.0,Apartment,2024,-1,1
+4002331677,"Prati dei Vizi,",6616 Losone,2.5,80.0,1650,3.75,Apartment,-1,-1,1
+4002331679,"Prati dei Vizi,",6616 Losone,2.5,80.0,1650,3.75,Apartment,-1,-1,1
+4002331790,"Via ai Molini 3,",6616 Losone,3.5,-1,1600,7.25,Apartment,2024,-1,1
+4002332826,"Via Ghiringhelli 13,",6500 Bellinzona,3.5,105.0,2180,7.0,Apartment,-1,2025,1
+4002333372,"via cantonale 21,",6900 Lugano,2.5,50.0,1130,4.5,Apartment,-1,-1,1
+4002333729,"Via Campione 69,",6816 Bissone,2.5,52.0,2730,8.33,Apartment,-1,-1,1
+4002333812,"Via Franco Zorzi 25A,",6500 Bellinzona,2.5,45.0,1070,4.25,Apartment,-1,1985,1
+4002333813,"Via Franco Zorzi 25A,",6500 Bellinzona,2.5,45.0,1120,4.25,Apartment,-1,1985,1
+4002333816,"Via Molinazzo 8b,",6900 Lugano,2.5,31.0,1145,3.25,Apartment,2021,-1,0
+4002333870,,,-1,-1,-1,-1,,-1,-1,0
+4002333990,"Via Mondonico 81,",6982 Agno,3.5,76.0,2500,17.75,Attic flat,-1,2022,1
+4002334074,"Via Ronco 2,",6883 Novazzano,4.5,115.0,1720,4.33,Maisonette / Duplex,2015,1991,1
+4002334721,"via Cittadella 6,",6944 Cureglia,5.0,270.0,3200,7.5,Apartment,-1,-1,1
+4002335074,,,-1,-1,-1,-1,,-1,-1,0
+4002335254,"Via Battaglini 1,",6950 Capriasca,4.5,129.0,1690,-1,Apartment,-1,-1,0
+4002335476,,,-1,-1,-1,-1,,-1,-1,0
+4002336346,"Via Emilio Bossi 12 A,",6830 Chiasso,3.5,91.0,1400,3.0,Apartment,-1,-1,1
+4002337630,,,-1,-1,-1,-1,,-1,-1,0
+4002337667,,,4.5,150.0,5200,-1,Apartment,-1,-1,0
+4002337892,"Via Sara Frontini 8,",6962 Viganello,3.5,85.0,1600,3.75,Apartment,2025,1970,1
+4002339090,,,-1,-1,-1,-1,,-1,-1,0
+4002339212,,,-1,-1,-1,-1,,-1,-1,0
+4002339443,,,-1,-1,-1,-1,,-1,-1,0
+4002340035,,,-1,-1,-1,-1,,-1,-1,0
+4002340104,"Via Lepori 16,",6900 Massagno,2.5,65.0,1595,4.5,Apartment,-1,2020,0
+4002340115,"I Mundásc 2A,",6513 Monte Carasso,2.5,-1,1120,9.0,Apartment,-1,-1,1
+4002340340,"Via Collina,",6962 Lugano,2.5,63.0,2150,4.75,Apartment,-1,2024,1
+4002340600,"Via Carona 13,",6815 Melide,4.5,80.0,1600,2.67,Apartment,-1,-1,1
+4002340601,"Via Lucino 20B,",6932 Breganzona,3.5,-1,1400,4.25,Apartment,-1,1965,1
+4002340822,"Via Nocc,",6925 Collina d'Oro,2.5,86.0,2550,11.25,Maisonette / Duplex,-1,-1,0
+4002340824,"Via Crena,",6949 Comano,3.5,117.0,3800,16.75,Roof flat,-1,1971,1
+4002340835,,,-1,-1,-1,-1,,-1,-1,0
+4002341045,"Via Boscioro,",6996 Molinazzo di Monteggio,2.5,-1,1350,8.0,Apartment,-1,-1,1
+4002341071,"Via Boscioro,",6996 Molinazzo di Monteggio,3.5,-1,1700,8.0,Apartment,-1,-1,0
+4002341587,"Via Vergiò 22,",6932 Breganzona,3.5,88.0,1720,2.0,Apartment,-1,-1,1
+4002341588,"Via Vergiò 22,",6932 Breganzona,3.5,86.0,1735,2.0,Apartment,-1,-1,1
+4002342239,"via Cantonale 22,",6818 Melano,3.5,100.0,1340,8.5,Apartment,-1,-1,0
+4002342530,"Via Alberto Franzoni 49,",6600 Solduno,3.5,76.0,1200,1.75,Apartment,-1,-1,0
+4002342678,"Via Breganzona 10,",6900 Lugano,3.5,-1,1780,4.25,Apartment,-1,-1,1
+4002343105,"Via ai Monti 95,",6605 Locarno,3.5,130.0,3850,-1,Apartment,-1,2013,1
+4002343330,,,-1,-1,-1,-1,,-1,-1,0
+4002343589,,,4.5,115.0,3250,-1,Apartment,2020,1985,1
+4002344615,"In Nosicc 31,",6703 Osogna,3.5,-1,1400,-1,Apartment,-1,-1,0
+4002344647,"Via Saleggi 2,",6512 Giubiasco,3.5,82.0,1506,4.75,Apartment,-1,-1,0
+4002344857,"Via Mastri Ligornettesi 3C,",6853 Mendrisio,3.0,100.0,1800,8.0,Apartment,-1,2025,1
+4002345178,,,4.5,130.0,1600,-1,Apartment,-1,-1,0
+4002345243,"Corso San Gottardo 17a,",6830 Chiasso,2.0,45.0,1090,4.75,Apartment,-1,-1,0
+4002345508,"contrada busi 3,",6816 Bissone,4.5,140.0,1700,2.33,Apartment,-1,-1,0
+4002345509,,,4.0,-1,1500,-1,Apartment,-1,-1,0
+4002345524,"Via Croci,",6850 Mendrisio,1.5,26.0,1200,-1,Apartment,-1,-1,0
+4002345526,"Via Cantonale 26,",6818 Melano,3.5,140.0,2200,8.5,Apartment,-1,-1,1
+4002345658,"T. A3 - Via F. Ballerini 19B,",6600 Locarno,2.5,59.0,1415,4.25,Apartment,2024,2021,0
+4002346022,,,-1,-1,-1,-1,,-1,-1,0
+4002346024,,,-1,-1,-1,-1,,-1,-1,0
+4002346159,"La Strécia di Emigránt 8,",6658 Borgnone,4.0,64.0,900,-1,Terrace flat,1998,1820,1
+4002346720,"Via Aldesago 48,",6974 Aldesago,4.5,-1,6000,16.75,Apartment,2025,-1,1
+4002346737,"Corso San Gottardo 76,",6830 Chiasso,2.5,-1,1290,2.5,Apartment,2022,-1,1
+4002347394,"Via Francesca 11,",6598 Tenero,3.5,74.0,1575,6.0,Apartment,2023,1995,1
+4002347642,"Viale Stazione 21,",6500 Bellinzona,3.5,101.0,1720,4.25,Apartment,-1,1910,0
+4002348028,"Via Vorame,",6612 Ascona,4.5,167.0,2500,9.5,Apartment,-1,-1,1
+4002348494,"Via Foletti,",6900 Massagno,4.5,172.0,3700,-1,Apartment,-1,2024,0
+4002348531,"Via dei Faggi 27,",6912 Pazzallo,5.5,132.0,2520,10.75,Apartment,-1,-1,0
+4002348532,"Piazza della comunità 5,",6912 Pazzallo,2.5,-1,1050,8.25,Apartment,-1,-1,0
+4002348537,"Via 19 Giugno nr 6,",6913 Carabbia,3.0,90.0,1250,18.33,Apartment,-1,-1,1
+4002349379,"Vicolo Bena,",6850 Mendrisio,5.5,160.0,2200,8.0,Apartment,-1,-1,1
+4002349430,"Via G. Maggi, 6,",6874 Castel San Pietro,3.5,-1,1240,10.25,Apartment,-1,1970,1
+4002349585,"Via Nosetto 6,",6500 Bellinzona,1.5,-1,1600,3.5,Apartment,-1,-1,0
+4002349761,"Via Chiossaccio 8,",6594 Contone,4.5,-1,1690,5.0,Apartment,-1,-1,0
+4002349909,"Via Lepori 14,",6900 Massagno,2.5,65.0,1540,5.75,Apartment,-1,2020,0
+4002350168,"Via G.B. Pioda 12,",6900 Lugano,3.5,95.0,1700,3.25,Attic flat,2024,-1,1
+4002351135,"Via Mastri 6B,",6853 Mendrisio,2.0,142.0,1990,7.67,Loft,-1,2024,0
+4002351160,"Via Canonico Ghiringhelli 57 B,",6500 Bellinzona,3.5,66.0,1580,5.25,Apartment,-1,2020,0
+4002351261,"Via del Tiglio,",6900 Lugano,3.5,82.0,1870,3.75,Apartment,2015,-1,1
+4002351594,"via della Zoca 5,",6964 Davesco-Soragno,4.5,-1,2900,11.33,Apartment,-1,2023,0
+4002351765,"viale Castagnola,",6900 Lugano,6.5,189.0,4500,-1,Apartment,-1,-1,0
+4002351766,"via alla Fontana,",6900 Lugano,5.5,151.0,5400,-1,Apartment,-1,-1,0
+4002352006,"Via Stefano Franscini 18,",6830 Chiasso,2.5,70.0,1200,2.75,Apartment,-1,-1,0
+4002352380,"RIVA PARADISO 26,",6900 Paradiso,4.5,145.0,5500,6.25,Apartment,-1,2020,1
+4002352506,"Riva Paradiso 26,",6900 Paradiso,4.5,168.0,8000,6.0,Apartment,2020,2020,1
+4002353391,"Via Pratocarasso 42 A,",6500 Bellinzona,3.5,83.0,1880,5.0,Apartment,-1,2019,0
+4002353392,,,-1,-1,-1,-1,,-1,-1,0
+4002353544,"Via San Gottardo 168,",6942 Savosa,4.5,-1,2000,4.25,Apartment,-1,-1,1
+4002354318,"Ra Strécia 1,",6986 Novaggio,5.5,140.0,1600,9.33,Single house,-1,-1,1
+4002355967,"Magazzini Generali 10,",6828 Balerna,2.5,60.0,1150,9.0,Apartment,-1,-1,0
+4002355968,"Via Al Dosso,",6828 Balerna,4.5,240.0,2500,-1,Villa,-1,-1,1
+4002356096,"Via Bertoni 1,",6900 Lugano,3.5,80.0,1350,6.0,Apartment,-1,-1,1
+4002356219,,,2.5,65.0,1280,-1,Apartment,-1,-1,0
+4002357064,"Via ai Portici, 2,",6930 Bedano,5.5,185.0,3350,14.5,Maisonette / Duplex,2012,1780,1
+4002357106,"Via Poeta Francesco Chiesa 15B,",6833 Vacallo,3.5,117.0,1750,5.75,Roof flat,-1,2019,1
+4002357459,,,3.5,85.0,1500,-1,Apartment,-1,-1,0
+4002357935,,,4.5,136.0,1950,-1,Apartment,-1,-1,0
+4002359545,"Via del Carmagnola 36a,",6517 Arbedo,2.5,-1,1580,9.5,Apartment,2023,-1,0
+4002359761,"El Sgerbi 7,",6513 Monte Carasso,4.5,-1,1760,5.0,Apartment,-1,-1,0
+4002359783,"Lugano,",6900 Pregassona,4.5,165.0,5200,-1,Apartment,-1,-1,0
+4002359786,"Lugano,",6900 Lugano,3.5,130.0,5000,-1,Apartment,-1,-1,0
+4002359787,"Lugano,",6900 Ruvigliana,5.5,154.0,5400,-1,Apartment,-1,-1,0
+4002359788,"Massagno,",6900 Massagno,4.5,125.0,2000,-1,Apartment,-1,-1,0
+4002359789,"Collina d'Oro,",6926 Collina D'Oro,4.5,140.0,7200,-1,Apartment,-1,-1,0
+4002360039,,,2.5,-1,2250,-1,Apartment,-1,2024,0
+4002360304,"T. A3 - Via F. Ballerini 19B,",6600 Locarno,2.5,59.0,1470,4.25,Apartment,2024,2021,0
+4002360473,"Via Dr. Giovanni Varesi 50,",6600 Locarno,3.5,73.0,1530,4.75,Apartment,-1,-1,1
+4002360605,"Via Serafino Balestra 1,",6600 Locarno,4.0,91.0,1550,3.5,Apartment,-1,-1,0
+4002360727,,,4.5,150.0,4000,-1,Apartment,-1,2022,1
+4002360879,"Via Carlo Pasta,",6850 Mendrisio,2.5,-1,1400,5.5,Apartment,-1,2025,1
+4002361179,"Via Soldino 30,",6900 Lugano,3.5,124.0,2750,4.0,Apartment,-1,2014,1
+4002361313,"Via Fiorina 18,",6600 Locarno,2.5,-1,800,3.5,Apartment,-1,-1,0
+4002361532,"Via Soldini 47,",6830 Chiasso,2.5,45.0,980,4.75,Apartment,-1,1972,0
+4002361533,"Via Soldini 47,",6830 Chiasso,2.5,45.0,980,4.75,Apartment,-1,1972,0
+4002361534,"Via Soldini 47,",6830 Chiasso,2.5,45.0,980,4.75,Apartment,-1,1972,0
+4002361657,,,-1,-1,-1,-1,,-1,-1,0
+4002361658,"Salita Viarno 16,",6962 Viganello,4.0,111.0,1800,4.5,Apartment,-1,1989,0
+4002362046,,,3.5,80.0,1800,-1,Apartment,-1,-1,0
+4002362064,,,3.5,95.0,1300,-1,Single house,-1,-1,0
+4002362104,,,3.5,90.0,850,-1,Apartment,-1,-1,1
+4002362137,,,6.0,150.0,1650,-1,Apartment,-1,-1,0
+4002362175,,,4.5,120.0,1900,-1,Apartment,2021,-1,1
+4002362286,"Via Lisano,",6900 Massagno,4.5,115.0,2600,-1,Apartment,-1,2025,0
+4002362516,,,-1,-1,-1,-1,,-1,-1,0
+4002362555,"Via Viganell 4,",6952 Canobbio,4.5,112.0,1980,5.75,Apartment,-1,-1,0
+4002362556,"Via Viganell 4,",6952 Canobbio,2.0,32.0,1530,5.75,Apartment,-1,-1,0
+4002362557,"Via Viganell 4,",6952 Canobbio,4.5,112.0,2030,5.75,Apartment,-1,-1,0
+4002362558,"Via Viganell 4,",6952 Canobbio,4.5,112.0,2130,5.5,Apartment,-1,-1,0
+4002362559,"Via Viganell 4,",6952 Canobbio,2.0,32.0,1530,5.5,Apartment,-1,-1,0
+4002363414,"Via Credera 30,",6987 Caslano,7.0,250.0,3850,8.25,Villa,2024,1950,1
+4002363681,"Cugiaree,",6822 Arogno,5.5,153.0,2650,14.0,Villa,-1,-1,1
+4002363731,"Via Baldassare Fontana,",6830 Chiasso,4.5,1.0,1378,3.0,Apartment,-1,-1,1
+4002363857,"Via Muraccio 65,",6612 Ascona,2.5,77.0,1400,7.75,Apartment,2025,1989,1
+4002364057,"Via Pratocarasso 42 A,",6500 Bellinzona,2.5,52.0,1523,5.0,Apartment,-1,2019,0
+4002364182,"Lugano,",6900 Lugano,4.5,140.0,5000,-1,Apartment,-1,-1,0
+4002364441,"Via Cornigo 1,",6503 Bellinzona,4.5,109.0,2500,-1,Apartment,-1,2020,1
+4002364930,"Via San Gottardo 46,",6596 Gordola,3.5,130.0,2300,5.0,Attic flat,-1,-1,1
+4002364980,,,-1,-1,-1,-1,,-1,-1,0
+4002365228,,,3.5,110.0,3650,-1,Apartment,-1,-1,1
+4002365364,"Via la Santa 16,",6962 Viganello,1.0,-1,950,2.25,Apartment,-1,1974,1
+4002365580,"Via Motta,",6900 Massagno,4.5,130.0,2450,-1,Apartment,-1,-1,0
+4002365728,"Strada Cantonale 37,",6964 Davesco-Soragno,3.5,65.0,1350,13.75,Apartment,-1,-1,1
+4002365797,"Via Maestri Comacini 13,",6834 Morbio Inferiore,3.5,81.0,1130,6.75,Apartment,-1,-1,1
+4002365798,"Corso San Gottardo 54 C,",6830 Chiasso,3.5,80.0,830,3.75,Apartment,-1,-1,0
+4002365901,"Via Aldesago,",6974 Aldesago,4.5,114.0,2300,-1,Apartment,-1,-1,0
+4002365938,"Via Del Battistone 3,",6533 Lumino,2.0,66.0,1570,8.0,Apartment,-1,2024,0
+4002366209,,,5.0,110.0,1690,-1,Single house,-1,1700,1
+4002366394,,,4.0,70.0,1930,-1,Apartment,-1,1980,0
+4002366442,,,1.5,25.0,1170,-1,Apartment,-1,1980,0
+4002366485,,,2.5,60.0,1950,-1,Apartment,-1,-1,1
+4002366512,,,4.5,100.0,1600,-1,Apartment,-1,1800,1
+4002366538,"Via Carlo Maderno 28,",6825 Mendrisio,2.5,72.0,1050,10.5,Apartment,-1,-1,0
+4002367221,"Via Francesco Chiesa 65,",6850 Mendrisio,4.0,150.0,2700,5.5,Attic flat,-1,2007,1
+4002367333,"Via Moncucchetto 19,",6900 Lugano,3.0,68.0,1465,7.75,Apartment,-1,1971,1
+4002367544,"Via al Fiume,",6962 Lugano,3.5,80.0,1450,3.75,Apartment,2025,-1,1
+4002367797,,,3.5,-1,1850,-1,Apartment,-1,2025,1
+4002367854,,,-1,-1,-1,-1,,-1,-1,0
+4002367939,,,2.5,-1,1160,-1,Apartment,-1,-1,1
+4002368340,"Via Emilio Rava,",6962 Lugano,3.5,80.0,1480,3.0,Apartment,2025,-1,1
+4002368648,"Viale Carlo Pereda 5,",6828 Balerna,3.5,87.0,1600,8.5,Apartment,-1,2018,1
+4002368731,"Via Olgiati 5C,",6512 Giubiasco,1.5,39.0,990,4.5,Apartment,-1,-1,1
+4002369135,,,2.5,87.0,1880,-1,Apartment,-1,-1,0
+4002369441,"Via Co' De Lago 1,",6825 Capolago,4.5,96.0,1740,7.0,Apartment,-1,-1,0
+4002369442,,,4.5,-1,1550,-1,Apartment,-1,-1,0
+4002369648,,,-1,-1,-1,-1,,-1,-1,0
+4002369649,,,-1,-1,-1,-1,,-1,-1,0
+4002370284,"Via Carlo Maderno,",6850 Mendrisio,2.5,57.0,1400,7.5,Apartment,-1,2025,1
+4002370316,"Via Cortivallo 12,",6900 Lugano,2.5,50.0,1450,9.75,Apartment,-1,2022,1
+4002370324,"Via Cantonale,",6900 Lugano,1.0,-1,1130,7.0,Apartment,-1,-1,1
+4002370616,"Via Sasso Corbaro 23,",6593 Cadenazzo,3.5,77.0,1717,5.0,Apartment,-1,-1,0
+4002370617,"Via Gerbione 8,",6598 Tenero,2.5,49.0,1230,5.25,Apartment,-1,2012,1
+4002370618,"Via F. Borromini 20,",6500 Bellinzona,3.0,82.0,1470,8.25,Apartment,-1,1982,1
+4002370625,"Via Pratocarasso 33,",6500 Bellinzona,2.5,53.0,1285,6.0,Apartment,-1,2019,0
+4002371192,"Strada Collina 24,",6612 Ascona,4.5,-1,2800,5.25,Apartment,-1,-1,0
+4002371267,"Via San Lorenzo,",6900 Lugano,2.5,-1,1900,6.0,Apartment,-1,-1,1
+4002371339,"Via Ortascio 21,",6594 Gambarogno,2.5,56.0,1300,7.67,Apartment,-1,-1,1
+4002372112,"Via Pratocarasso 46 B - Geb. B,",6500 Bellinzona,4.5,97.0,2135,6.0,Apartment,-1,2019,1
+4002372332,"Via Cantonale 56,",6987 Caslano,-1,-1,1290,5.0,Apartment,-1,-1,1
+4002372355,"Via al Ticino 29,",6514 Sementina,-1,-1,1340,5.5,Apartment,-1,-1,1
+4002372998,"Alberto di sacco 6,",6500 Bellinzona,4.5,152.0,2400,4.5,Attic flat,-1,-1,1
+4002373134,"Via Cantonale 47,",6613 Porto Ronco,3.5,-1,1900,-1,Apartment,-1,-1,0
+4002373899,"Via Canonico Manera 5,",6965 Lugano,2.5,-1,1200,6.33,Apartment,2025,-1,0
+4002373978,"Lugano,",6900 Lugano,7.5,600.0,12000,-1,Villa,-1,-1,0
+4002373979,"Paradiso,",6900 Paradiso,4.5,168.0,5000,-1,Apartment,-1,-1,0
+4002373980,"Paradiso,",6900 Paradiso,4.5,168.0,7400,-1,Apartment,-1,2021,0
+4002374490,"Via al Ponte 31,",6900 Massagno,6.0,136.0,3260,5.5,Attic flat,-1,1965,1
+4002374637,,,2.5,53.0,980,-1,Apartment,2024,1960,1
+4002374638,,,1.5,32.0,890,-1,Apartment,2023,1970,1
+4002374640,,,4.5,99.0,1530,-1,Apartment,2024,1960,1
+4002374642,,,3.5,77.0,1250,-1,Apartment,2024,1960,1
+4002374868,,,4.5,143.0,6000,-1,Apartment,-1,2023,1
+4002375230,,,3.0,62.0,1500,-1,Roof flat,2025,2010,1
+4002375272,,,2.5,40.0,1200,-1,Apartment,2025,2010,0
+4002375319,,,3.5,170.0,2500,-1,Roof flat,-1,-1,1
+4002375422,"Via Dragone 6,",6710 Biasca,2.5,-1,1020,5.25,Apartment,-1,-1,1
+4002375526,,,2.5,63.0,1300,-1,Apartment,2023,1970,1
+4002376126,"Via Pratocarasso 46 B - Geb. B,",6500 Bellinzona,3.5,81.0,1680,6.0,Apartment,-1,2019,1
+4002376127,,,-1,-1,-1,-1,,-1,-1,0
+4002376458,"Strada Granda 10,",6945 Origlio,3.5,85.0,1750,13.0,Apartment,-1,2022,1
+4002376500,"Via Macello 3,",6710 Biasca,4.5,-1,1550,7.75,Apartment,-1,-1,0
+4002376504,"Strada Regina 22,",6873 Castel San Pietro,3.5,77.0,1190,7.25,Apartment,-1,-1,0
+4002376508,"Villaggio del Sole 9,",6988 Ponte Tresa,4.0,115.0,1680,8.0,Apartment,-1,-1,0
+4002376509,"Via Emilio Rava 13,",6900 Lugano,3.0,90.0,1680,4.25,Apartment,-1,1956,1
+4002376517,,,2.5,-1,1300,-1,Apartment,-1,-1,0
+4002376520,"Via Pelli 10,",6900 Lugano,2.5,-1,1650,4.0,Apartment,-1,-1,0
+4002376524,,,-1,-1,-1,-1,,-1,-1,0
+4002376525,"Via Industrie Sud 11,",6703 Osogna,3.5,-1,1550,-1,Apartment,-1,-1,0
+4002376529,"Via Pedemonte 20,",6962 Viganello,1.0,-1,1000,4.0,Apartment,-1,-1,0
+4002376531,"Via Lavizzari 4,",6825 Mendrisio,3.0,115.0,2100,1.5,Apartment,-1,-1,0
+4002376539,,,-1,-1,-1,-1,,-1,-1,0
+4002376542,"Via Ripari Tondi 10,",6500 Bellinzona,3.5,-1,1750,6.25,Apartment,-1,-1,0
+4002376546,"Via Giocondo Albertolli,",6830 Chiasso,2.5,68.0,1390,-1,Apartment,-1,2025,0
+4002376547,"Via Belvedere,",6952 Canobbio,2.5,50.0,1575,-1,Apartment,-1,-1,0
+4002376548,"Via Belvedere,",6952 Canobbio,2.5,54.0,1575,-1,Apartment,-1,-1,0
+4002376549,"Via Belvedere,",6952 Canobbio,2.5,48.0,1600,-1,Apartment,-1,-1,0
+4002376554,"Via del bosco 1a,",6500 Bellinzona,5.6,170.0,1980,7.75,Apartment,-1,-1,0
+4002376555,,,4.5,-1,2550,-1,Apartment,-1,-1,0
+4002376823,,,2.5,55.0,1780,-1,Apartment,-1,1990,0
+4002377981,"Via Sant'Apollonia 4,",6877 Coldrerio,2.0,70.0,1250,6.25,Apartment,-1,-1,0
+4002379142,,,3.5,120.0,1650,-1,Apartment,2011,-1,1
+4002379184,,,4.5,123.0,2480,-1,Apartment,2009,-1,0
+4002379850,"Via Carlo Maderno,",6850 Mendrisio,2.5,57.0,1400,7.5,Apartment,-1,2025,1
+4002380261,"Strada Cantonale,",6987 Caslano,2.5,66.0,1500,6.0,Apartment,-1,2022,1
+4002380299,"I Mundásc 2A,",6513 Monte Carasso,4.5,-1,1370,9.0,Maisonette / Duplex,-1,-1,1
+4002380336,"Lungolago Giuseppe Motta 84,",6815 Melide,2.5,60.0,1580,10.0,Apartment,2018,1967,1
+4002380362,"Via al Colle 30,",6833 Vacallo,4.5,110.0,1750,6.5,Apartment,-1,-1,1

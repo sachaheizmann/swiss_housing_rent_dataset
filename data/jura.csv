@@ -1,0 +1,507 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+3003233448,"Denise Péronne 1,",2800 Delémont,4.0,-1,1750,10.0,Apartment,-1,2023,1
+3003233449,"Denise Péronne 1,",2800 Delémont,2.0,-1,1000,10.0,Apartment,-1,2023,1
+3003233450,"Denise Péronne 1,",2800 Delémont,3.0,-1,1400,10.0,Apartment,-1,2023,1
+3003324856,"Route de Moutier 89/Neuve 2,",2800 Delémont,-1,-1,30,4.5,Apartment,-1,-1,0
+3003533474,"Route de Bâle 29,",2800 Delémont,1.0,-1,580,2.25,Studio,-1,-1,1
+4000567747,"Rue Brûlée 11,",2802 Develier,3.5,87.0,1150,-1,Apartment,-1,-1,1
+4000574103,"Rue de la Farrère 7,",2830 Courrendlin,4.5,117.0,1670,7.5,Apartment,-1,-1,1
+4000635971,"Rue des Pinsons 11,",2800 Delémont,3.5,-1,1300,7.0,Apartment,-1,-1,1
+4000963937,"Route de la Scheulte 15,",2827 Mervelier,4.5,-1,1185,-1,Apartment,-1,-1,1
+4001158429,"Le Genevrier 6,",2950 Courgenay,4.0,-1,890,5.5,Apartment,-1,-1,1
+4001169239,"Rue de la Rauracie 40,",2853 Courfaivre,2.5,-1,1010,-1,Apartment,-1,2020,0
+4001173574,"Impasse du Curé Copin 4,",2340 Le Noirmont,4.5,97.0,1550,-1,Apartment,-1,-1,1
+4001224471,"Rue du Vieux-Moulin 6,",2852 Courtételle,6.0,178.0,1900,3.0,Maisonette / Duplex,-1,-1,0
+4001261447,"Rue de l'Avenir 29,",2800 Delémont,4.5,82.0,1485,3.25,Apartment,-1,-1,1
+4001334100,"Rue des Tilleuls 31,",2900 Porrentruy,4.5,73.0,1150,5.25,Apartment,-1,-1,0
+4001356523,"Route de Moutier 1,",2800 Delémont,1.0,-1,650,2.25,Studio,-1,-1,0
+4001423550,"Rue de l'Industrie 11,",2800 Delémont,3.0,-1,890,2.25,Apartment,-1,-1,0
+4001423551,"Industrie 11,",2800 Delémont,4.0,-1,990,2.25,Apartment,-1,-1,0
+4001429247,"Résidence Bellevie 8A -8B,",2822 Courroux,2.5,65.0,1220,3.0,Apartment,-1,-1,1
+4001430099,"Chemin des Marguerites,",2350 Saignelégier,2.5,65.0,1400,-1,Apartment,-1,2024,1
+4001431952,"Rue de la Sorne 1,",2852 Courtételle,4.5,107.0,1420,4.33,Apartment,-1,-1,1
+4001454350,"Route de Belfort 6,",2900 Porrentruy,4.5,-1,1350,6.0,Apartment,2024,-1,0
+4001541624,"Route de la Scheulte 15,",2827 Mervelier,2.5,-1,615,-1,Apartment,-1,-1,1
+4001551795,"Rière de l'Auberge 2,",2825 Courchapoix,4.5,-1,995,-1,Apartment,-1,-1,0
+4001559902,"Corban,",2826 Corban,3.0,80.0,1050,-1,Apartment,-1,-1,0
+4001654038,"Rue Jeanne Haas-Ulmann 2,",2800 Delémont,2.5,61.0,1320,2.5,Apartment,-1,2022,0
+4001654161,"Rue des Tilleuls 31,",2900 Porrentruy,3.5,62.0,1140,5.25,Apartment,-1,-1,0
+4001668472,"Chemin du Finage 6 (b),",2350 Saignelégier,4.5,101.0,1811,-1,Apartment,-1,-1,1
+4001668476,"Rue du 23-Juin 70, 70B,",2905 Courtedoux,4.0,100.0,1720,-1,Apartment,-1,-1,0
+4001668477,"Rue du 23-Juin 70, 70B,",2905 Courtedoux,4.0,100.0,-1,-1,Apartment,-1,-1,0
+4001668478,"Rue du 23-Juin 70, 70B,",2905 Courtedoux,4.0,98.0,1690,-1,Apartment,-1,-1,1
+4001668479,"Rue du 23-Juin 70, 70B,",2905 Courtedoux,2.0,64.0,1120,-1,Apartment,-1,-1,0
+4001668480,"Rue du Kirlou 24,",2800 Delémont,4.0,97.0,1430,12.5,Apartment,-1,-1,0
+4001668481,"Rue du Kirlou 25,",2800 Delémont,4.0,103.0,1500,13.5,Apartment,-1,-1,0
+4001668482,"Rue du Kirlou 26,",2800 Delémont,4.0,97.0,1430,13.75,Apartment,-1,-1,0
+4001668483,"Rue du Kirlou 27,",2800 Delémont,4.0,103.0,1500,12.33,Apartment,-1,-1,0
+4001668484,"Rue du Kirlou 27,",2800 Delémont,4.0,103.0,1500,12.33,Apartment,-1,-1,0
+4001668485,"Rue du Kirlou 27,",2800 Delémont,4.0,103.0,1460,12.33,Apartment,-1,-1,0
+4001668486,"Rue des Carrières 19,",2800 Delémont,2.0,58.0,1020,12.25,Apartment,-1,-1,0
+4001668488,"Rue des Carrières 25,",2800 Delémont,4.0,97.0,1440,13.0,Apartment,-1,-1,0
+4001668489,"Rue des Carrières 26,",2800 Delémont,4.0,97.0,1440,12.5,Apartment,-1,-1,0
+4001671689,"Emile-Boéchat 15,",2800 Delémont,4.5,-1,2000,5.5,Apartment,-1,-1,0
+4001671712,"Rue Emile-Boéchat 15,",2800 Delémont,4.5,-1,2050,4.5,Apartment,-1,-1,0
+4001671713,"Rue Emile-Boéchat 17,",2800 Delémont,3.5,-1,1375,4.5,Apartment,-1,-1,0
+4001671714,"Rue Emile-Boéchat 15,",2800 Delémont,3.5,-1,1440,5.5,Apartment,-1,-1,0
+4001671715,"Rue Emile-Boéchat 9,",2800 Delémont,3.5,-1,1484,5.25,Apartment,-1,-1,0
+4001671716,"Rue Emile-Boéchat 3,",2800 Delémont,4.5,-1,1779,5.5,Apartment,-1,-1,0
+4001681162,"Chemin du Finage 8 (a),",2350 Saignelégier,4.5,106.0,1650,-1,Apartment,-1,-1,1
+4001729255,"Rue de la Faverge 29,",2853 Courfaivre,4.5,160.0,1700,-1,Apartment,-1,-1,1
+4001743479,"Sous Bellevue 27,",2900 Porrentruy,3.5,-1,950,4.0,Apartment,-1,-1,1
+4001743480,"Sous Bellevue 27,",2900 Porrentruy,1.5,-1,695,4.0,Apartment,-1,-1,1
+4001746394,"Rue de l' Eglise 8,",2822 Courroux,3.0,-1,1150,3.5,Apartment,-1,-1,1
+4001763247,"Rue du Puits 16,",2800 Delémont,4.5,-1,1100,5.0,Apartment,-1,-1,1
+4001780967,"La Colombière 119,",2900 Porrentruy,2.5,69.0,990,10.0,Apartment,-1,-1,1
+4001802952,"Rue du Nord 8,",2800 Delémont,2.5,-1,850,2.5,Apartment,-1,-1,0
+4001812041,"Les Carrelles 26,",2950 Courgenay,2.5,64.0,1320,6.0,Apartment,-1,2017,1
+4001812042,"Les Carrelles 28,",2950 Courgenay,2.5,64.0,1320,5.5,Apartment,-1,2024,1
+4001837556,"Rue du Haut-Fourneau 24,",2800 Delémont,4.5,100.0,1555,5.25,Apartment,-1,1986,0
+4001837561,"Rue Neuve 35,",2800 Delémont,3.5,84.0,1205,5.5,Apartment,-1,1986,0
+4001837562,"Rue Neuve 35,",2800 Delémont,3.5,84.0,1315,5.5,Apartment,-1,1986,0
+4001843725,"Aux Fossés 9,",2852 Courtételle,2.5,45.0,1030,7.33,Apartment,-1,-1,1
+4001857967,"Route du Câre 1,",2812 Movelier,2.0,-1,800,-1,Apartment,-1,-1,0
+4001860546,"Rue Jeanne Haas-Ulmann 4,",2800 Delémont,2.5,62.0,1320,3.25,Apartment,-1,2022,0
+4001864277,"Rue Auguste-Quiquerez 70,",2800 Delémont,4.0,73.0,1375,7.25,Apartment,-1,1960,1
+4001893618,"Rue de l'Eglise 18,",2900 Porrentruy,2.0,65.0,790,2.25,Apartment,-1,1919,0
+4001895316,"Rue des Prés 26,",2800 Delémont,3.5,-1,1020,3.0,Apartment,2016,-1,1
+4001897918,"Rue des Prés 18,",2800 Delémont,3.5,-1,990,3.75,Apartment,2018,-1,0
+4001897955,"Rue des Prés 22,",2800 Delémont,4.5,-1,1100,3.5,Apartment,2018,-1,1
+4001898808,"Sous-Rosé 4,",2822 Courroux,2.0,52.0,1080,6.75,Apartment,-1,-1,1
+4001906307,"Birse 7,",2822 Courroux,2.5,-1,1050,4.0,Apartment,-1,-1,0
+4001908416,"Rue de la Fin Doie 23,",2854 Bassecourt,3.5,-1,1085,6.5,Apartment,-1,-1,1
+4001913533,"Maltière 34,",2800 Delsberg,4.5,95.0,1340,10.75,Apartment,-1,-1,0
+4001913602,"Rue de la Maltière 34,",2800 Delémont,4.5,116.0,1340,1.75,Apartment,-1,-1,0
+4001916218,"Rue du Pont-Neuf 4,",2800 Delémont,2.5,60.0,1350,2.5,Apartment,-1,-1,1
+4001946541,"Chemin du Château 26 a,",2805 Soyhières,4.5,119.0,1620,-1,Apartment,-1,-1,1
+4001946675,"Rue du 23-Juin 11,",2882 Clos du Doubs,3.5,84.0,1026,3.0,Apartment,2003,2003,0
+4001946921,,,1.5,30.0,530,-1,Apartment,-1,-1,0
+4001959818,"Rue du Kirlou 25,",2800 Delémont,4.0,103.0,1490,13.5,Apartment,-1,-1,0
+4001962764,"Rue de la Paix 5,",2800 Delémont,3.0,66.0,1130,7.0,Apartment,-1,-1,1
+4001964375,"Prévot 15,",2915 Bure,3.5,-1,1020,-1,Apartment,-1,-1,0
+4001979847,"Ecluse 4,",2800 Delémont,3.5,75.0,1250,4.25,Apartment,2016,-1,1
+4001979992,"Route de la Transjurane 3,",2855 Haute-Sorne,2.5,37.0,1150,-1,Apartment,2025,-1,1
+4001980050,"Route de la Transjurane 3,",2855 Haute-Sorne,3.5,73.0,1350,-1,Apartment,2025,-1,0
+4001981510,"Aux Fossés 9b,",2852 Courtételle,3.5,97.0,1725,7.33,Apartment,-1,-1,1
+4001981693,"Aux Fossés 9a,",2852 Courtételle,4.5,98.0,1735,7.33,Apartment,-1,-1,1
+4001983158,"Rière l'Arsenal 7,",2800 Delémont,4.0,86.0,1250,4.0,Apartment,-1,-1,0
+4001983703,"Rue de l'Avenir 40,",2800 Delémont,4.5,100.0,1435,5.25,Apartment,-1,1986,0
+4001997101,,,3.5,73.0,990,-1,Apartment,-1,-1,1
+4002014558,"Rue de la Vendline 193B,",2944 Bonfol,3.0,100.0,1230,4.0,Maisonette / Duplex,2019,-1,0
+4002021347,"Pierre Pequignat 30,",2900 Pruntrut,3.5,60.0,1000,-1,Apartment,-1,-1,0
+4002022066,"Chemin du Finage 4 (c),",2350 Saignelégier,3.0,85.0,1520,7.33,Apartment,-1,-1,0
+4002027528,"Rue des Moulins,",2800 Delémont,2.5,43.0,790,-1,Apartment,-1,-1,0
+4002028914,"Rue de Chêtre 53,",2800 Delémont,4.5,145.0,3100,8.75,Apartment,-1,2019,1
+4002041805,"Rue Xavier-Stockmar 13,",2900 Porrentruy,1.5,39.0,650,5.25,Apartment,-1,-1,1
+4002042494,"Sous-Maichereux 11,",2800 Delémont,4.5,110.0,1770,11.75,Bifamiliar house,-1,-1,0
+4002042840,"Rue des Rochets 8,",2952 Cornol,3.5,95.0,1570,-1,Apartment,-1,-1,0
+4002043777,,,4.5,131.0,1750,-1,Maisonette / Duplex,-1,2023,0
+4002045527,,,2.5,-1,720,-1,Apartment,-1,-1,0
+4002045557,,,3.5,-1,1200,-1,Apartment,-1,-1,0
+4002054709,"Rue de l'Avenir 42,",2800 Delémont,3.5,84.0,1395,5.75,Apartment,-1,1986,0
+4002061775,"Rue Emile-Boéchat 3,",2800 Delémont,3.5,-1,1400,5.5,Apartment,-1,-1,0
+4002061981,"Rue Emile-Boéchat 15,",2800 Delémont,3.5,-1,1391,5.5,Apartment,-1,-1,0
+4002068632,"Rue du 23-Juin 70, 70B,",2905 Courtedoux,2.0,63.0,1120,-1,Apartment,-1,-1,0
+4002068733,"Rue des Prés 2,",2800 Delémont,2.0,33.0,900,2.75,Apartment,-1,2017,0
+4002068811,"Rue du Temple 7,",2830 Courrendlin,4.5,85.0,1050,6.67,Apartment,2023,1970,1
+4002069201,"Route Principale 51,",2824 Vicques,4.0,110.0,1720,-1,Apartment,2024,1988,1
+4002069925,"Le Brue 1,",2825 Courchapoix,4.5,-1,1470,-1,Apartment,-1,-1,1
+4002069927,"Sous Bellevue 27,",2900 Porrentruy,2.5,-1,945,4.0,Apartment,-1,-1,1
+4002071377,"Rue des malvoisins 11,",2900 Porrentruy,2.5,50.0,905,3.25,Apartment,2021,-1,0
+4002071650,"Rue Neuve 35,",2800 Delémont,-1,10.0,90,5.5,Hobby room,-1,1986,0
+4002073413,"Impasse du Curé Copin 3,",2340 Le Noirmont,3.5,77.0,1170,4.25,Apartment,-1,2011,1
+4002076689,"Place de la Gare 20,",2800 Delémont,3.5,87.0,1490,2.25,Apartment,2025,-1,1
+4002082385,"Rue Briscol 6,",2853 Courfaivre,4.5,90.0,1300,-1,Apartment,2020,1970,1
+4002086365,,,2.5,49.0,850,-1,Apartment,-1,-1,1
+4002089483,"Rue du Guéret 5,",2800 Delémont,4.5,98.0,1565,13.25,Apartment,2021,-1,1
+4002089958,"Rue des Bordgeais 35,",2800 Delémont,4.0,88.0,1350,12.0,Apartment,2024,-1,0
+4002090488,"Rue des Moulins,",2800 Delémont,4.5,78.0,1280,-1,Apartment,-1,-1,0
+4002090536,"Route de France 45,",2805 Soyhières,5.0,180.0,1500,-1,Apartment,2023,-1,1
+4002092001,"Rue du 23-Juin 9,",2830 Courrendlin,3.5,123.0,1250,4.0,Roof flat,-1,-1,0
+4002092082,"Rue Saint-Germain 2,",2853 Courfaivre,4.5,-1,1180,-1,Apartment,-1,-1,1
+4002092459,"Rue de la Sorne 1,",2852 Courtételle,4.5,82.0,1205,4.33,Apartment,-1,-1,0
+4002092628,"Rue de l'Abbé-Monnin 24,",2854 Bassecourt,4.5,-1,1360,6.25,Apartment,-1,-1,1
+4002092710,"Rue des Romains 1R,",2856 Boécourt,1.0,25.0,427,-1,Apartment,-1,-1,0
+4002092995,"Rue Emile-Boéchat 15,",2800 Delémont,4.5,-1,1691,5.5,Apartment,-1,-1,0
+4002096365,"Rue des Prés 3,",2830 Courrendlin,3.5,-1,1460,5.75,Apartment,-1,-1,1
+4002098836,"Rue Xavier-Stockmar 13,",2900 Porrentruy,2.5,53.0,880,5.25,Apartment,-1,-1,1
+4002100949,"Rue de Porrentruy 124,",2916 Fahy,4.0,90.0,1280,-1,Apartment,2012,1810,1
+4002106146,"Rue du Temple 4,",2830 Courrendlin,4.5,85.0,1000,5.67,Apartment,2025,-1,1
+4002108442,"Rue des Tourterelles 22,",2800 Delémont,5.5,157.0,2130,10.25,Apartment,-1,2015,1
+4002110599,"Route d'Alle 28,",2952 Cornol,1.0,45.0,840,-1,Studio,-1,2011,1
+4002110771,"Quai de la Sorne 8,",2800 Delémont,5.5,-1,1590,2.75,Apartment,-1,-1,0
+4002110775,"Rue Chavon-Dessus 6,",2853 Courfaivre,4.5,140.0,1540,-1,Terrace flat,-1,-1,1
+4002115820,,,-1,-1,-1,-1,,-1,-1,0
+4002118536,"Rue du 23 Juin 40,",2905 Courtedoux,5.5,160.0,1680,-1,Apartment,-1,-1,0
+4002118537,"Sous-Bellevue 28,",2900 Porrentruy,4.5,79.0,1160,6.5,Apartment,-1,-1,1
+4002118540,"Sous-Bellevue 47,",2900 Porrentruy,3.5,-1,990,5.33,Apartment,-1,-1,1
+4002119471,"Rue des Bâts 12,",2800 Delémont,3.0,79.0,1150,2.25,Apartment,-1,1962,1
+4002136615,"Route de Bâle 12-14-16,",2800 Delémont,4.5,108.0,2035,2.0,Apartment,-1,2021,1
+4002136617,"Route de Bâle 12-14-16,",2800 Delémont,4.5,99.0,1740,2.0,Apartment,-1,2021,1
+4002136619,"Route de Bâle 12-14-16,",2800 Delémont,4.5,92.0,2015,2.0,Apartment,-1,2021,1
+4002136621,"Route de Bâle 12-14-16,",2800 Delémont,4.5,108.0,1860,2.0,Apartment,-1,2021,1
+4002136622,"Route de Bâle 12-14-16,",2800 Delémont,3.5,92.0,1910,2.0,Apartment,-1,2021,1
+4002136623,"Route de Bâle 12-14-16,",2800 Delémont,4.5,100.0,2180,2.0,Apartment,-1,2021,1
+4002136624,"Route de Bâle 12-14-16,",2800 Delémont,4.5,108.0,1770,2.0,Apartment,-1,2021,1
+4002136626,,,-1,-1,-1,-1,,-1,-1,0
+4002136627,"Route de Bâle 12-14-16,",2800 Delémont,2.5,62.0,1419,2.0,Apartment,-1,2021,1
+4002136628,"Route de Bâle 12-14-16,",2800 Delémont,3.5,78.0,1609,2.0,Apartment,-1,2021,1
+4002136629,"Route de Bâle 12-14-16,",2800 Delémont,2.5,55.0,1327,2.0,Apartment,-1,2021,1
+4002136654,"rue des Carrières 19,",2800 Delémont,2.5,58.0,1130,12.25,Apartment,-1,-1,0
+4002136714,"Rue de Montjoie 2,",2900 Porrentruy,7.0,100.0,1370,3.0,Apartment,-1,1955,0
+4002136726,"Rue de la Brasserie 10,",2800 Delémont,3.0,73.0,1100,2.25,Apartment,-1,1965,0
+4002136727,"Route d'Alle 54,",2900 Porrentruy,3.0,-1,1050,8.25,Apartment,-1,-1,0
+4002136729,"Rue du Vieux-Moulin 14,",2852 Courtételle,4.0,-1,1460,3.0,Apartment,-1,-1,0
+4002136730,"Champs-Hulay 55,",2854 Bassecourt,3.5,60.0,1120,-1,Apartment,-1,-1,0
+4002136731,"Rue des Tourniquets 250,",2944 Bonfol,3.0,-1,575,3.0,Apartment,-1,1877,0
+4002136732,"Route de Bonfol 1,",2943 Vendlincourt,2.0,-1,570,-1,Apartment,-1,1886,0
+4002136733,"Rue de la Poste 42,",2856 Boécourt,3.0,67.0,1200,-1,Apartment,-1,2017,0
+4002136736,"Rue des Mérovingiens 30,",2854 Bassecourt,4.5,-1,1120,8.0,Apartment,-1,1971,0
+4002136737,"Rue du Vieux-Moulin 14,",2852 Courtételle,3.0,-1,1210,3.0,Apartment,-1,-1,0
+4002136740,"Rue de la Brasserie 4,",2800 Delémont,3.0,69.0,1100,2.25,Apartment,-1,-1,0
+4002136742,"Route de Faverge 62,",2853 Courfaivre,3.0,-1,1350,-1,Apartment,-1,-1,0
+4002136744,"Rue de la Brasserie 10,",2800 Delémont,1.0,22.0,570,2.25,Apartment,-1,1965,0
+4002136797,"Route de Vicques 6a,",2830 Courrendlin,4.5,-1,1900,5.75,Apartment,-1,-1,0
+4002136806,"Rue du 23 juin 6,",2830 Courrendlin,4.5,-1,1150,3.5,Apartment,-1,1982,0
+4002136817,"Rue de Montjoie 8,",2900 Porrentruy,3.5,55.0,1050,2.5,Apartment,-1,1955,0
+4002136818,"Route d'Alle 54,",2900 Porrentruy,4.5,-1,1058,8.25,Apartment,-1,-1,0
+4002136821,"Rue des Pervenches 50,",2800 Delémont,4.5,-1,1300,7.5,Apartment,-1,-1,0
+4002136844,"Rue de la Poste 42,",2856 Boécourt,3.5,66.0,1150,-1,Apartment,-1,2017,0
+4002139974,"Rue des Téxérans 7,",2800 Delémont,2.5,53.0,1200,3.5,Apartment,-1,2022,0
+4002157226,"Emile-Boéchat 30,",2800 Delémont,2.5,64.0,1038,4.25,Apartment,-1,-1,1
+4002159252,"Rue de Fer,",2800 Delsberg,1.5,26.0,650,-1,Apartment,-1,-1,0
+4002162405,"Sous-Rosé 2,",2822 Courroux,1.0,56.0,980,5.75,Apartment,-1,-1,1
+4002164998,"Route de Courgenay 10,",2952 Cornol,3.0,-1,1200,-1,Apartment,-1,1965,1
+4002173268,"Rue de la Molière 22,",2800 Delémont,4.5,-1,1555,1.75,Apartment,-1,-1,1
+4002178091,"Guillaume Triponez 41,",2336 Les Bois,3.5,-1,1080,9.33,Apartment,2022,-1,0
+4002178459,"Rue des Bordgeais 34,",2800 Delémont,4.0,91.0,1470,11.75,Apartment,-1,-1,1
+4002180025,"Rue de l'Avenir 3,",2800 Delémont,4.5,107.0,1950,1.75,Apartment,-1,-1,0
+4002185632,"Rue du 23 Juin 34,",2905 Courtedoux,3.5,60.0,1150,-1,Apartment,-1,-1,1
+4002191450,"Rue de la Brasserie 10,",2800 Delémont,5.5,-1,1514,2.25,Apartment,-1,1965,0
+4002197927,"Sous-Bellevue 13,",2900 Porrentruy,4.5,81.0,1147,6.75,Apartment,-1,-1,1
+4002197928,"Rue du 23 Juin 34,",2905 Courtedoux,3.5,60.0,950,-1,Apartment,-1,-1,1
+4002198730,"Rue de la Paix 6,",2800 Delémont,3.0,58.0,700,6.75,Roof flat,-1,-1,0
+4002198860,"Rue Neuve 33,",2800 Delémont,4.5,100.0,1485,5.75,Apartment,-1,1986,0
+4002198962,"Rue du Jura 35,",2900 Porrentruy,1.0,26.0,650,3.25,Studio,2024,-1,0
+4002210995,"Résidence Bellevie 8A -8B,",2822 Courroux,2.5,65.0,1220,3.0,Apartment,-1,-1,1
+4002214652,"Rue de l?Hôpital 56,",2800 Delémont,2.0,61.0,1350,2.75,Apartment,-1,-1,0
+4002214653,"Rue de l?Hôpital 56,",2800 Delémont,1.0,36.0,950,2.75,Studio,-1,-1,0
+4002216969,"Rue des Pervenches 46,",2800 Delémont,3.5,-1,1070,6.5,Apartment,-1,-1,0
+4002216970,"Rue de la Brasserie 2,",2800 Delémont,3.5,69.0,1100,3.25,Apartment,-1,-1,0
+4002217617,"Rue des Collèges 21/23,",2340 Le Noirmont,4.5,84.0,1230,7.75,Apartment,-1,-1,1
+4002218685,"Sous-Bellevue 24,",2900 Porrentruy,4.5,-1,1180,7.0,Apartment,-1,-1,1
+4002219654,"Rue des Prés 3,",2830 Courrendlin,2.5,-1,1290,5.75,Apartment,-1,-1,1
+4002219736,"Rue du Kirlou 24,",2800 Delémont,4.0,113.0,1510,12.5,Apartment,-1,-1,0
+4002219877,,,3.5,-1,-1,-1,Apartment,-1,-1,0
+4002220412,,,-1,-1,-1,-1,,-1,-1,0
+4002222950,"Le Genevrier 3,",2950 Courgenay,4.5,133.0,1950,5.5,Apartment,2025,2021,1
+4002224018,"Lorette 9,",2900 Pruntrut,4.5,90.0,1350,8.0,Apartment,-1,-1,0
+4002224922,,,4.0,240.0,1890,-1,Hobby room,-1,-1,0
+4002226446,"Rue de la Gare 284,",2944 Bonfol,3.5,-1,930,3.0,Apartment,-1,-1,0
+4002227779,"Courroux,",2822 Courroux,3.0,-1,1080,-1,Single house,-1,-1,0
+4002229991,"2718,",2718 Lajoux JU,3.0,-1,1000,-1,Apartment,-1,-1,0
+4002229994,,,3.0,-1,780,-1,Apartment,-1,-1,0
+4002230106,,,4.5,90.0,1400,-1,Apartment,-1,-1,0
+4002230578,"Grand-Rue 32, 1Est,",2900 Porrentruy,1.5,-1,475,19.0,Apartment,2025,-1,0
+4002230591,,,3.5,90.0,2000,-1,Apartment,-1,2023,1
+4002230625,"Grand-Rue 32, 2Est,",2900 Porrentruy,1.5,-1,517,19.0,Apartment,2025,-1,0
+4002233325,"Le Moitan 23,",2912 Réclère,3.5,80.0,750,-1,Apartment,-1,-1,0
+4002233417,"Rue des Primevères 51,",2800 Delsberg,3.5,-1,950,7.5,Apartment,-1,-1,0
+4002235563,"Route de Bourrignon 8,",2802 Develier,2.5,71.0,1340,-1,Apartment,-1,-1,0
+4002236593,"Rue Pierre-Péquignat 13,",2906 Chevenez,3.5,90.0,900,-1,Apartment,-1,-1,0
+4002236657,"Grand-rue 10,",2345 Le Cerneux-Veusil,1.0,40.0,830,-1,Apartment,-1,-1,0
+4002244647,,,-1,-1,-1,-1,,-1,-1,0
+4002246744,"Grand-Rue 22,",2900 Pruntrut,5.0,126.0,1270,2.25,Apartment,-1,-1,0
+4002246775,"Rue du Creugenat 29,",2900 Pruntrut,3.5,60.0,850,5.0,Apartment,-1,-1,0
+4002250500,"Bourrignon,",2803 Bourrignon,3.5,80.0,-1,-1,Apartment,-1,-1,0
+4002252438,"Rue des Andains 10,",2800 Delémont,3.5,91.0,1325,13.75,Apartment,2021,-1,1
+4002253049,"Place de la Gare 14,",2800 Delémont,1.5,36.0,720,2.0,Apartment,-1,-1,0
+4002253810,"Bellevoie,",2800 Delsberg,-1,16.0,550,-1,Single Room,-1,-1,0
+4002253878,"Rue de l'Eglise 16,",2800 Delsberg,6.0,92.0,2010,2.0,Apartment,-1,-1,0
+4002253920,"route de Courtemblin 31,",2950 Courgenay,5.5,113.0,1595,9.67,Apartment,-1,-1,0
+4002254103,"Rue du Jura 3,",2800 Delémont,1.0,-1,595,5.25,Apartment,2020,-1,1
+4002255898,"Rue des Herbages 3,",2800 Delémont,3.5,115.0,1790,7.0,Apartment,-1,-1,1
+4002256142,"Rue de Chêtre 61,",2800 Delémont,3.0,60.0,1250,10.25,Apartment,2021,1919,0
+4002256197,"Rue du Cornat 5,",2822 Courroux,2.5,50.0,930,5.25,Apartment,-1,-1,0
+4002256577,"Sous-Bellevue 31,",2900 Porrentruy,3.5,65.0,1190,5.0,Apartment,-1,-1,1
+4002256991,"Chemin des Combattes 187 B,",2916 Fahy,5.5,-1,1500,-1,Bifamiliar house,-1,-1,1
+4002257189,"Faubourg de France,",2900 Pruntrut,-1,-1,350,-1,Single Room,-1,-1,0
+4002257282,"16, rue de la Rauracie,",2340 Le Noirmont,2.0,42.0,715,2.75,Apartment,-1,-1,0
+4002257330,"Le Peupéquignot A,",2340 Le Noirmont,5.5,112.0,1650,-1,Apartment,-1,-1,0
+4002257558,,,2.5,-1,950,-1,Apartment,-1,-1,0
+4002260683,"Grand'Rue 14,",2900 Pruntrut,3.5,93.0,1050,-1,Apartment,-1,-1,0
+4002260728,"Rauracie 48,",2340 Le Noirmont,2.5,42.0,770,6.25,Apartment,-1,-1,0
+4002261516,"Rue Neuve 33,",2800 Delémont,4.5,100.0,1450,5.5,Apartment,-1,1986,0
+4002262832,"Rue de l'Hôpital 17,",2350 Saignelégier,2.5,-1,840,3.0,Apartment,-1,-1,0
+4002265023,"Breuilleté 12, Glovelier,",2855 Glovelier,4.5,-1,1350,-1,Apartment,-1,-1,0
+4002265033,"Rue Maltière 8,",2800 Delsberg,4.0,90.0,750,-1,Apartment,-1,-1,0
+4002265041,"Rue de I'Hôpital 17,",2350 Saignelégier,2.5,-1,700,3.67,Apartment,-1,-1,0
+4002265044,"Route de Bâle 14,",2800 Delsberg,2.5,62.0,1275,2.0,Apartment,-1,-1,0
+4002266093,"Prévôt 9,",2915 Bure,4.5,-1,1020,-1,Apartment,-1,-1,0
+4002266230,"Prévôt 9,",2915 Bure,4.5,-1,1020,-1,Apartment,-1,-1,0
+4002266232,"Charrère 68,",2864 Soulce,4.0,-1,870,-1,Apartment,-1,-1,0
+4002268632,"Rue de la Préfecture n°9,",2800 Delsberg,4.0,90.0,1060,1.75,Apartment,-1,-1,0
+4002268638,,,5.5,113.0,1450,-1,Apartment,-1,-1,0
+4002271175,"Route de Porrentruy 22,",2800 Delémont,5.5,137.0,2490,5.5,Apartment,2024,-1,1
+4002271716,"Haut-Fourneau 7,",2800 Delsberg,4.5,110.0,1520,5.0,Apartment,-1,-1,0
+4002271717,"Annonciades 6,",2900 Pruntrut,4.5,120.0,1250,2.25,Apartment,-1,-1,0
+4002271820,,,5.5,135.0,1640,-1,Apartment,-1,-1,0
+4002274805,"Rue des Foyards 7,",2900 Porrentruy,3.5,138.0,1550,6.75,Apartment,2012,2012,0
+4002275344,"Route de Porrentruy 8,",2800 Delsberg,2.5,60.0,950,3.75,Apartment,-1,-1,0
+4002275421,"Bure,",2915 Bure,3.5,-1,1130,-1,Apartment,-1,-1,0
+4002278637,,,5.5,135.0,2050,-1,Apartment,-1,-1,0
+4002279095,"Rue du 23 Juin 26,",2900 Porrentruy,2.0,-1,880,2.5,Apartment,-1,1919,0
+4002280945,"Rue de l'Eglise 24,",2900 Pruntrut,3.5,118.0,1200,2.5,Apartment,-1,-1,0
+4002282695,"Au Village 2,",2855 Glovelier,4.5,118.0,1170,-1,Apartment,-1,-1,0
+4002284018,"Rue des Romains 3,",2854 Bassecourt,2.5,56.0,960,3.25,Apartment,-1,-1,1
+4002285525,"Les Tuileries 192c,",2906 Chevenez,3.5,80.0,850,-1,Apartment,-1,-1,0
+4002285538,"Courtetelle,",2852 Courtételle,7.5,440.0,1800,-1,Apartment,-1,-1,0
+4002285562,,,7.5,440.0,1,-1,Apartment,-1,-1,0
+4002285591,"Senteurs 3,",2336 Les Bois,3.5,-1,900,2.0,Apartment,-1,-1,0
+4002285605,"Les Tuileries 197,",2906 Chevenez,5.5,100.0,1200,-1,Single house,-1,-1,0
+4002286130,"Rue de la Golatte 25,",2800 Delémont,3.0,66.0,955,10.5,Apartment,-1,-1,1
+4002286665,"Rue du Creugenat 14,",2900 Porrentruy,3.0,-1,1045,5.75,Apartment,-1,-1,1
+4002286979,"Le Genevrier 6,",2950 Courgenay,3.0,-1,965,5.5,Apartment,-1,-1,1
+4002286980,"Le Brue 1,",2825 Courchapoix,2.5,70.0,1090,-1,Maisonette / Duplex,-1,-1,0
+4002287563,"Place de la Poste 3,",2800 Delémont,-1,-1,222,2.5,Commercial,-1,-1,0
+4002289014,"Croix 13,",2340 Le Noirmont,2.5,55.0,750,5.75,Apartment,-1,-1,0
+4002289137,"Rue des Prés 3,",2830 Courrendlin,4.5,140.0,1890,6.0,Apartment,-1,-1,0
+4002289520,"Rue du 23-Juin 70, 70B,",2905 Courtedoux,4.0,98.0,1670,-1,Apartment,-1,-1,1
+4002289995,"Rue de l?Hôpital 56,",2800 Delémont,2.0,62.0,1410,2.75,Apartment,-1,-1,0
+4002289996,"Rue de l?Hôpital 56,",2800 Delémont,1.0,36.0,890,2.75,Studio,-1,-1,0
+4002289997,"Rue de l?Hôpital 56,",2800 Delémont,2.0,62.0,1484,2.75,Apartment,-1,-1,0
+4002290000,"Rue de l?Hôpital 56,",2800 Delémont,2.0,61.0,1280,2.75,Apartment,-1,-1,0
+4002290107,"Rue Bel-Air 8,",2350 Saignelégier,2.5,55.0,890,4.67,Apartment,2015,-1,0
+4002290805,"Avenue de la Gare 38,",2800 Delémont,4.5,124.0,1590,1.5,Apartment,-1,-1,1
+4002291139,"Grand Rue 6,",2345 Les Breuleux,5.5,106.0,1400,7.0,Apartment,2021,-1,1
+4002291888,"Passage de la Poste 1,",2714 Les Genevez (JU),4.5,94.0,1575,-1,Apartment,2025,-1,1
+4002291890,"Passage de la Poste 1,",2714 Les Genevez (JU),4.5,94.0,1675,-1,Apartment,2025,-1,1
+4002291907,"Passage de la Poste 5,",2714 Les Genevez (JU),3.5,68.0,1075,-1,Apartment,2025,-1,1
+4002291918,"Route de Bâle 109,",2800 Delémont,4.5,117.0,1625,5.0,Maisonette / Duplex,2016,1919,0
+4002291920,"Route de Bâle 5,",2805 Soyhières,3.5,92.0,1495,-1,Apartment,-1,2019,1
+4002291935,"Rue Saint-Germain 31,",2853 Courfaivre,2.5,49.0,950,-1,Apartment,-1,-1,0
+4002291943,"Rue du Cornat 3,",2852 Courtételle,5.5,134.0,1455,6.0,Apartment,-1,-1,0
+4002291947,"Rue des Montates 12,",2855 Haute-Sorne,3.5,82.0,1675,-1,Apartment,2024,-1,1
+4002291948,"Rue des Montates 12,",2855 Haute-Sorne,3.5,77.0,1380,-1,Apartment,2024,-1,1
+4002291949,"Rue des Montates 12,",2855 Haute-Sorne,2.5,62.0,1250,-1,Apartment,2024,-1,1
+4002291953,"La Rochette 21,",2900 Porrentruy,4.5,69.0,1250,5.75,Apartment,2024,-1,0
+4002291955,"La Rochette 21,",2900 Porrentruy,2.5,46.0,1000,5.75,Apartment,2024,1932,0
+4002291957,"La Rochette 21,",2900 Porrentruy,2.0,45.0,1000,5.75,Loft,2024,1932,0
+4002292009,"Rue Saint-Pierre 18,",2854 Bassecourt,2.0,-1,990,3.25,Apartment,-1,-1,0
+4002292200,"Route principale 51,",2800 Delsberg,5.5,160.0,1720,-1,Apartment,-1,-1,0
+4002292685,,,5.5,150.0,1750,-1,Apartment,-1,-1,1
+4002294034,"Impasse de la Basilique 8,",2852 Courtételle,2.5,67.0,1250,7.0,Apartment,-1,2024,1
+4002294992,"Rue du 23 Juin 6,",2340 Le Noirmont,2.0,-1,850,3.25,Apartment,-1,-1,0
+4002295044,"Rue des Encrannes 3,",2800 Delsberg,4.5,115.0,1790,9.0,Apartment,-1,-1,0
+4002295062,"Route des fontaines 2,",2952 Cornol,2.5,55.0,800,-1,Apartment,-1,-1,0
+4002295071,"Develier,",2802 Develier,4.5,-1,1200,-1,Single house,-1,-1,0
+4002297024,"Rue de Temple 30,",2800 Delémont,1.5,50.0,790,4.25,Apartment,-1,-1,0
+4002297647,"Rue de Porrentruy 124,",2916 Fahy,3.5,58.0,1050,-1,Apartment,2012,1810,0
+4002299813,"Pré-Guillaume 10,",2800 Delsberg,1.5,32.0,900,2.0,Apartment,-1,-1,0
+4002299865,"Rte de Porrentruy 14,",2942 Alle,2.5,53.0,920,4.0,Apartment,-1,-1,0
+4002299873,"Rue Georeges-Bajol 8,",2800 Delsberg,3.0,-1,870,-1,Apartment,-1,-1,0
+4002300857,"Route de Bâle 17,",2805 Soyhières,2.5,38.0,895,-1,Apartment,-1,-1,0
+4002304059,"Chemin des Senteurs 3,",2336 Les Bois,3.5,70.0,900,2.0,Apartment,2017,1910,1
+4002304060,"Guillaume Triponez 19,",2336 Les Bois,2.5,60.0,900,-1,Apartment,2017,1696,0
+4002305784,"Rue des Carrières 19,",2800 Delémont,3.0,78.0,1280,12.25,Apartment,-1,-1,0
+4002306115,"Rue des Moulins 5,",2800 Delémont,1.0,-1,640,2.25,Studio,-1,-1,0
+4002306140,"Route de France 6,",2345 Les Breuleux,1.5,-1,640,7.33,Apartment,-1,-1,0
+4002306498,"rue du crêt 9,",2800 Delsberg,3.5,-1,980,6.75,Apartment,-1,-1,0
+4002306527,"Rue Lorette 14,",2900 Pruntrut,4.5,90.0,13900,5.25,Apartment,-1,-1,0
+4002307160,"Rue des Moulins 5,",2800 Delémont,1.0,-1,640,2.25,Studio,-1,-1,0
+4002309402,"Rue Pierre-Péquignat 44,",2900 Pruntrut,1.5,25.0,620,4.25,Apartment,-1,-1,0
+4002309424,"Le Cras 139,",2932 Coeuve,5.5,-1,1300,7.5,Single house,-1,-1,0
+4002311866,,,4.5,100.0,2420,-1,Single house,2025,1995,0
+4002311931,"Rue des Moulins,",2800 Delémont,3.5,61.0,1040,-1,Apartment,-1,-1,0
+4002312405,"Rue du kirlou 24,",2800 Delsberg,4.5,-1,1420,12.5,Apartment,-1,-1,0
+4002312408,"Rue des Longs-Champs 21,",2854 Bassecourt,4.0,79.0,950,6.25,Apartment,-1,-1,1
+4002312414,"Les Prailats 4,",2336 Les Bois,5.5,120.0,1200,-1,Apartment,-1,-1,0
+4002312493,"Rue de la Soie 5,",2822 Courroux,5.5,105.0,1950,4.75,Apartment,-1,-1,0
+4002312810,"Rue des Carrières 26,",2800 Delémont,4.0,97.0,1360,12.5,Apartment,-1,-1,0
+4002314618,"Grand Rue 6,",2345 Les Breuleux,3.0,100.0,1330,7.0,Apartment,2022,2022,0
+4002315464,"Rue de l'église 1,",2900 Pruntrut,3.5,85.0,1150,-1,Apartment,-1,-1,0
+4002316104,"Rue de l'Avenir 3,",2800 Delémont,2.5,54.0,1175,2.0,Apartment,-1,-1,0
+4002316291,"Faubourg de France 11,",2900 Porrentruy,3.5,75.0,1050,5.0,Apartment,-1,-1,0
+4002317778,"Pierre-Pequignat 30,",2900 Pruntrut,3.5,75.0,920,2.5,Apartment,-1,-1,0
+4002317784,"Vieux Moulin 18,",2852 Courtételle,4.0,-1,-1,-1,Apartment,-1,-1,0
+4002317815,"Rue du 23 Juin 78,",2822 Courroux,2.5,-1,1050,6.25,Apartment,-1,-1,0
+4002317843,,,1.5,27.0,745,-1,Apartment,-1,-1,0
+4002317890,"Bout Dedô,",2718 Lajoux JU,-1,35.0,520,-1,Single Room,-1,-1,0
+4002318217,,,6.0,300.0,2200,-1,Maisonette / Duplex,-1,-1,0
+4002318926,"Courrendlin,",2830 Courrendlin,4.5,-1,1890,-1,Apartment,-1,-1,0
+4002318965,"Rue du 23-juin,",2842 Rossemaison,3.5,-1,1540,4.0,Apartment,-1,-1,0
+4002319323,"Route principale 52,",2718 Lajoux JU,2.5,64.0,1090,-1,Apartment,-1,2016,0
+4002320438,"Les Carrelles 30,",2950 Courgenay,3.5,100.0,1500,5.0,Apartment,-1,2020,1
+4002321193,,,-1,-1,-1,-1,,-1,-1,0
+4002321544,"Rue du Jura 15,",2800 Delémont,4.5,-1,1290,5.0,Apartment,2025,-1,1
+4002321545,"Rue du Jura 15,",2800 Delémont,3.5,-1,1190,5.0,Apartment,2025,-1,1
+4002322739,"Rue de Montjoie 10,",2900 Porrentruy,2.5,44.0,750,2.75,Apartment,-1,1955,0
+4002323679,,,4.5,83.0,1290,-1,Apartment,2025,1965,1
+4002324263,"Route de Choindez 1,",2830 Courrendlin,4.5,-1,1100,6.67,Apartment,-1,-1,0
+4002324529,"Rte Principale 6,",2824 Vicques,5.5,165.0,1550,3.33,Apartment,2012,-1,1
+4002324565,"Grand-Rue 9,",2345 Les Breuleux,4.0,240.0,1890,7.0,Hobby room,2024,-1,0
+4002326720,"Rue du Faubourg 109,",2905 Courtedoux,4.5,90.0,1350,-1,Apartment,-1,-1,0
+4002326728,"Rue de l'Eglise 14,",2900 Pruntrut,2.5,60.0,850,2.25,Apartment,-1,-1,0
+4002326730,"Transjurane 7,",2855 Glovelier,4.5,-1,1400,-1,Apartment,-1,-1,0
+4002326736,"rue du 24-Septembre 5,",2800 Delsberg,4.5,130.0,1450,6.75,Apartment,-1,-1,0
+4002326746,"Rue du Canal, Develier,",2802 Develier,4.5,100.0,1950,-1,Single house,-1,-1,0
+4002326772,"Rue de la Paix,",2800 Delsberg,3.5,-1,1300,-1,Apartment,-1,-1,0
+4002326891,"Les Primevères 62, Delémont,",2800 Delsberg,3.0,68.0,1000,-1,Apartment,-1,-1,0
+4002326957,"Rue du Jura 16 2854,",2854 Bassecourt,3.5,100.0,1390,2.75,Apartment,-1,-1,0
+4002327904,,,-1,-1,-1,-1,,-1,-1,0
+4002328063,,,3.5,77.0,985,-1,Apartment,-1,-1,1
+4002328324,,,-1,-1,-1,-1,,-1,-1,0
+4002328606,"Rue des Carrières 25,",2800 Delémont,2.0,55.0,1010,13.0,Apartment,-1,-1,0
+4002330182,"Rue de la Sorne 3,",2852 Courtételle,3.5,-1,990,6.0,Apartment,-1,-1,0
+4002330214,"Rue de la Farrère 21,",2830 Courrendlin,3.5,86.0,1170,9.0,Apartment,-1,-1,1
+4002330256,"Rue des Tourterelles 28,",2800 Delémont,4.5,147.0,1980,9.5,Apartment,-1,-1,1
+4002330593,"Rue de la Farrère 15,",2830 Courrendlin,3.5,109.0,1350,8.5,Apartment,-1,-1,1
+4002331235,"Centre village,",2800 Delsberg,3.5,75.0,1450,-1,Apartment,-1,-1,0
+4002331256,,,4.5,-1,1250,-1,Apartment,-1,-1,0
+4002331988,"28, Ch. des Adelles,",2800 Delémont,5.0,-1,2050,8.0,Apartment,-1,-1,1
+4002332885,"Rue de la Birse 5,",2822 Courroux,3.5,-1,1245,4.0,Apartment,-1,-1,1
+4002332969,"Rue Pierre-Péquignat 30,",2900 Porrentruy,3.5,-1,1040,3.0,Apartment,-1,-1,0
+4002334630,,,4.5,100.0,1650,-1,Apartment,-1,-1,0
+4002335038,"Rue Brûlée 5,",2802 Develier,2.5,61.0,1090,-1,Apartment,-1,-1,0
+4002335600,"Faubourg de France 11,",2900 Porrentruy,3.5,80.0,1090,5.0,Apartment,-1,-1,0
+4002336952,"Rue de la Fontaine 18,",2800 Delsberg,4.5,-1,1750,-1,Apartment,-1,-1,0
+4002336988,"Grand-Rue 13,",2900 Pruntrut,4.5,135.0,1300,2.25,Apartment,-1,-1,0
+4002336990,,,2.5,61.0,1230,-1,Apartment,-1,-1,0
+4002336991,"Allée des Soupirs 9,",2900 Pruntrut,4.5,120.0,1500,2.75,Apartment,-1,-1,0
+4002337022,"Imp. Petit-Pré,",2853 Courfaivre,3.5,85.0,1600,-1,Apartment,-1,-1,0
+4002337041,"Brunchenal du lilieu 2,",2800 Delsberg,1.0,-1,500,-1,Apartment,-1,-1,0
+4002337048,"Rue Saint Maurice 17,",2852 Courtételle,5.5,180.0,1900,-1,Apartment,-1,-1,0
+4002337060,,,-1,-1,500,-1,Single Room,-1,-1,0
+4002338161,"Beaupré 3,",2900 Pruntrut,3.5,65.0,1220,9.25,Apartment,-1,-1,0
+4002338187,"Impasse de la Basilique 4,",2852 Courtételle,3.5,81.0,1510,7.67,Apartment,-1,-1,0
+4002338197,"beaupré 3,",2900 Pruntrut,2.0,35.0,640,9.25,Apartment,-1,-1,0
+4002338447,"Rue des tanneurs 17,",2900 Porrentruy,5.5,113.0,1570,2.75,Apartment,2021,1881,1
+4002338631,,,1.5,60.0,990,-1,Roof flat,-1,-1,0
+4002339407,"Rue de l'Eglise 14,",2900 Porrentruy,2.5,-1,850,2.25,Apartment,-1,-1,0
+4002339683,"Promenade Iris de Roten 1,",2800 Delsberg,3.5,80.0,1610,4.0,Apartment,-1,2021,1
+4002340638,"Chemin des Places 4,",2800 Delsberg,2.5,48.0,950,2.75,Apartment,-1,-1,0
+4002340714,"La Chaive 74, Courtedoux,",2905 Courtedoux,5.5,85.0,1050,-1,Apartment,-1,-1,0
+4002341135,"La Schliff 7,",2900 Porrentruy,4.5,-1,1390,4.0,Apartment,-1,-1,0
+4002341175,"Route de Choindez 3,",2830 Courrendlin,4.5,-1,1000,6.67,Apartment,-1,-1,0
+4002341742,"Grand-Rue 8,",2900 Porrentruy,3.0,75.0,990,2.25,Apartment,-1,1919,0
+4002341805,"Rue des Andains 7,",2800 Delémont,4.5,98.0,1565,12.75,Apartment,2025,-1,1
+4002341831,,,3.5,180.0,1650,-1,Loft,-1,-1,0
+4002341832,,,4.5,-1,1100,-1,Apartment,-1,-1,1
+4002341850,,,3.5,45.0,1050,-1,Row house,-1,-1,0
+4002341871,,,3.5,-1,970,-1,Apartment,-1,-1,0
+4002342537,"Route de Belfort 38,",2900 Porrentruy,3.0,70.0,990,6.0,Apartment,-1,-1,0
+4002342753,"Rue du 23 Juin 78,",2822 Courroux,2.0,48.0,1050,6.75,Apartment,-1,2023,0
+4002342842,"Rue de la Gare 14,",2830 Courrendlin,4.5,116.0,1700,7.25,Apartment,-1,-1,1
+4002342931,"Faubourg de France 4,",2900 Porrentruy,3.0,-1,950,4.25,Apartment,-1,-1,0
+4002342954,"Champs du Moulin 9,",2853 Courfaivre,3.0,-1,990,-1,Apartment,-1,-1,0
+4002343163,"Rue Georges Bajol 9,",2800 Delémont,3.0,-1,1170,2.5,Apartment,-1,-1,1
+4002343164,"Rue Georges Bajol 9,",2800 Delémont,4.0,-1,1230,2.5,Apartment,-1,-1,1
+4002343166,"Rue des Bats 6,",2800 Delémont,2.0,-1,840,2.75,Apartment,-1,-1,0
+4002343167,"Rue des Bats 6,",2800 Delémont,4.0,-1,1290,2.75,Apartment,-1,-1,0
+4002343174,"Rue de Lorette 20,",2900 Porrentruy,3.5,-1,990,7.25,Apartment,-1,-1,0
+4002343181,"Rue de Lorette 20,",2900 Porrentruy,3.5,-1,950,7.25,Apartment,-1,-1,0
+4002343182,"Rue des Tourterelles 10,",2800 Delémont,3.5,-1,1590,11.75,Apartment,-1,-1,1
+4002343188,"Rue de Lorette 20,",2900 Porrentruy,2.5,-1,840,7.25,Apartment,-1,-1,0
+4002343202,"Rue des Tourterelles 12,",2800 Delémont,4.5,-1,1790,11.75,Apartment,-1,-1,1
+4002343219,"Rue du 23-Juin 15,",2830 Courrendlin,3.0,-1,890,4.25,Apartment,-1,-1,0
+4002343479,"Route de Bâle 12-14-16,",2800 Delémont,2.5,65.0,1330,2.0,Apartment,-1,2021,1
+4002344017,"Rue Basse 42,",2882 St-Ursanne,3.5,60.0,990,3.33,Apartment,-1,-1,0
+4002344122,"Route de Bâle 16,",2800 Delsberg,3.5,72.0,1455,2.25,Apartment,-1,-1,0
+4002344158,"Chemin de Beaupré 3,",2900 Porrentruy,3.5,-1,1240,9.25,Apartment,-1,-1,0
+4002344170,"Chemin de Beaupré 3,",2900 Porrentruy,1.5,28.0,640,9.25,Studio,-1,-1,1
+4002344482,,,1.0,51.0,850,-1,Studio,-1,-1,0
+4002344565,,,1.0,44.0,750,-1,Studio,-1,-1,0
+4002345065,,,-1,-1,-1,-1,,-1,-1,0
+4002345134,,,-1,-1,-1,-1,,-1,-1,0
+4002345179,,,2.5,75.0,1280,-1,Apartment,-1,-1,0
+4002345198,,,4.5,95.0,1600,-1,Apartment,-1,-1,0
+4002346769,"Rue des Annonciades 2,",2900 Porrentruy,2.0,40.0,700,2.5,Apartment,2022,-1,0
+4002347028,"Rue des Jonnières 1B,",2900 Porrentruy,3.0,-1,1100,9.25,Roof flat,2024,-1,1
+4002347153,"Rue du Puits,",2800 Delsberg,3.5,95.0,1450,-1,Apartment,-1,-1,0
+4002347256,"Sur-le-Bottenier 13,",2950 Courgenay,2.0,-1,840,7.67,Apartment,2023,1965,1
+4002347350,"Rue des Lilas 7,",2822 Courroux,3.5,-1,1050,4.75,Apartment,-1,-1,1
+4002347393,"Rue du 23 Juin 52,",2822 Courroux,3.5,68.0,1450,2.5,Apartment,-1,-1,1
+4002347401,"Rue des Chenevières 7,",2852 Courtételle,4.0,74.0,924,6.33,Apartment,-1,-1,1
+4002347856,"12, Rue des Planchettes,",2900 Porrentruy,2.5,45.0,980,3.0,Apartment,-1,-1,0
+4002348167,,,3.5,120.0,1850,-1,Roof flat,-1,-1,0
+4002348523,,,-1,-1,-1,-1,,-1,-1,0
+4002348524,"rue du Kirlou 24,",2800 Delémont,4.5,97.0,1510,12.5,Apartment,-1,-1,0
+4002348790,"Rue de l'Avenir 24,",2800 Delémont,4.5,107.0,1500,2.25,Apartment,2021,-1,1
+4002350455,"rue des Carrières 19,",2800 Delémont,3.5,78.0,1280,12.25,Apartment,-1,-1,0
+4002350456,"rue des Carrières 26,",2800 Delémont,4.5,97.0,1430,12.5,Apartment,-1,-1,0
+4002350457,"rue des Carrières 25,",2800 Delémont,2.5,55.0,1050,13.0,Apartment,-1,-1,0
+4002350563,"Rue de la Gare12,",2830 Courrendlin,4.5,-1,1320,-1,Apartment,-1,-1,0
+4002350632,"Faubourg de France 4,",2900 Pruntrut,3.5,95.0,950,4.25,Apartment,-1,-1,0
+4002350654,"Chemin de la Louvière,",2362 Montfavergier,6.0,300.0,2200,-1,Apartment,-1,-1,0
+4002350658,"rue de la gare 12,",2350 Saignelégier,4.5,140.0,1240,3.0,Apartment,-1,-1,0
+4002350726,"Rue Denise-Péronne 2,",2800 Delsberg,2.5,54.0,1150,9.0,Apartment,-1,-1,0
+4002351627,,,1.5,34.0,790,-1,Apartment,-1,-1,0
+4002352296,"Rue des Montates 12,",2855 Haute-Sorne,2.5,52.0,990,-1,Apartment,2024,-1,0
+4002352415,"Rue Pierre Péquignat 31,",2950 Courgenay,4.5,-1,1145,1.0,Apartment,2023,-1,0
+4002353328,"Route d'Alle 3,",2900 Porrentruy,4.0,-1,915,6.0,Apartment,-1,-1,0
+4002353344,,,3.5,-1,1050,-1,Apartment,-1,-1,0
+4002353848,"Courfaivre,",2854 Bassecourt,3.5,-1,1200,-1,Apartment,-1,-1,0
+4002353880,"Grand-Rue 3,",2345 Le Cerneux-Veusil,3.0,45.0,700,-1,Apartment,-1,-1,0
+4002354301,"La Ruelle 3,",2882 St-Ursanne,3.5,89.0,1470,3.33,Apartment,-1,-1,1
+4002355815,,,4.5,80.0,1350,-1,Apartment,-1,-1,0
+4002356413,"Rue Colonel-Corbat 17,",2800 Delémont,2.0,41.0,790,6.75,Apartment,-1,-1,0
+4002356552,"17, Rue du 23 Juin,",2900 Porrentruy,2.5,48.0,1000,2.5,Apartment,-1,-1,0
+4002356997,"Guillaume-Triponez 7,",2336 Les Bois,5.5,140.0,1450,3.0,Apartment,-1,-1,0
+4002357415,,,6.5,150.0,1800,-1,Apartment,-1,-1,0
+4002357925,"Rue de la Golatte 28,",2800 Delémont,4.5,-1,1145,10.25,Apartment,2025,-1,1
+4002358103,"14 Rue de la Colline,",2830 Courrendlin,1.0,16.0,700,10.25,Apartment,-1,-1,0
+4002358111,"Rue de la Gare 297,",2944 Bonfol,2.5,65.0,490,4.0,Apartment,-1,-1,0
+4002358114,"Route principale,",2718 Lajoux JU,2.5,64.0,980,-1,Apartment,-1,-1,0
+4002358818,"Rue de la Golatte 24,",2800 Delémont,3.5,-1,975,9.25,Apartment,2025,-1,1
+4002358831,"Rue des Arquebusiers 57,",2800 Delémont,2.5,-1,890,8.5,Apartment,2025,-1,1
+4002360917,"Courchapoix,",2825 Courchapoix,3.5,50.0,950,-1,Apartment,-1,-1,0
+4002360927,,,4.0,90.0,990,-1,Apartment,-1,-1,0
+4002360955,,,2.0,-1,700,-1,Apartment,-1,-1,0
+4002360970,"Rue de l'Hôpital,",2800 Delsberg,4.5,100.0,950,-1,Apartment,-1,-1,0
+4002360986,"Bel-Air 2,",2350 Saignelégier,2.5,-1,895,3.67,Apartment,-1,-1,0
+4002361111,"Rue du 23 Juin 36,",2942 Alle,2.5,60.0,1290,5.33,Apartment,2023,-1,1
+4002361158,"Milieu du Village 76,",2932 Coeuve,3.5,-1,1500,2.5,Apartment,-1,2025,1
+4002363494,,,5.5,185.0,2200,-1,Apartment,-1,2025,0
+4002364204,"Route de Bâle 12-14-16,",2800 Delémont,2.5,59.0,1265,2.0,Apartment,-1,2021,1
+4002364205,"Route de Bâle 12-14-16,",2800 Delémont,2.5,55.0,1212,2.0,Apartment,-1,2021,1
+4002364445,"Rue des Bâts 12,",2800 Delémont,2.0,48.0,800,2.25,Apartment,-1,1962,1
+4002364597,,,2.5,60.0,1150,-1,Apartment,-1,-1,0
+4002364676,"Milieu du Village 3,",2923 Courtemaîche,2.5,50.0,950,3.5,Apartment,-1,-1,0
+4002364823,"Rue des Prés 13,",2800 Delémont,1.5,51.0,730,3.0,Apartment,-1,1919,0
+4002365633,"Rue des Sommêtres 9,",2350 Saignelégier,3.5,79.0,1360,3.67,Apartment,-1,1948,0
+4002367503,"Sous-Bellevue 47,",2900 Porrentruy,1.5,40.0,595,5.33,Apartment,-1,-1,0
+4002368162,"Cornol,",2952 Cornol,4.5,110.0,1800,-1,Apartment,-1,-1,0
+4002368328,"Route de Courtavon 11,",2944 Bonfol,3.0,-1,1200,-1,Single house,-1,-1,1
+4002368566,"Rte de Porrentruy 7A,",2942 Alle,3.5,100.0,1450,4.67,Apartment,-1,2016,1
+4002369297,"Route de Bâle 12-14-16,",2800 Delémont,4.5,80.0,1702,2.0,Apartment,-1,2021,1
+4002370374,"Route de Courtavon 22,",2944 Bonfol,4.0,-1,950,9.5,Apartment,-1,-1,1
+4002370383,"Rue Jean-Pierre Riat 61B,",2906 Haute-Ajoie,4.0,93.0,1150,-1,Apartment,2024,-1,1
+4002370384,"Route de Courtavon 22,",2944 Bonfol,3.0,-1,780,9.5,Apartment,-1,-1,1
+4002370387,"Rue de la Cousterie 59,",2882 St-Ursanne,1.0,-1,450,4.67,Studio,-1,-1,0
+4002370390,"Route du Jura 28,",2926 Boncourt,3.0,70.0,900,6.67,Apartment,-1,-1,0
+4002370395,"Rue Jean-Pierre Riat 61B,",2906 Haute-Ajoie,2.0,42.0,880,-1,Apartment,2024,-1,0
+4002370601,"Route des Fontaines 24,",2953 La Baroche,1.0,-1,900,-1,Single house,-1,-1,0
+4002370602,"rue des granges 1,",2800 Delémont,-1,-1,850,1.75,Apartment,-1,-1,0
+4002370989,"Rue du 23-Juin 5,",2842 Rossemaison,3.5,88.0,1540,4.5,Apartment,-1,2020,0
+4002371208,"Route de Châtillon 10,",2830 Courrendlin,4.5,-1,1610,6.25,Maisonette / Duplex,2000,-1,0
+4002371214,"La Claverie 1,",2853 Courfaivre,3.5,-1,1050,-1,Apartment,2020,-1,0
+4002371215,"Rue de Porrentruy 124,",2916 Fahy,3.0,68.0,1080,-1,Apartment,2012,1810,0
+4002371695,"Sous-Rosé 3,",2822 Courroux,4.0,104.0,1272,5.75,Apartment,-1,-1,1
+4002371696,"Sous-Rosé 4,",2822 Courroux,3.0,90.0,1100,6.75,Apartment,-1,-1,1
+4002371727,"Franquemont 6,",2350 Saignelégier,4.5,136.0,1500,5.33,Apartment,-1,-1,0
+4002371738,"Rue de la Paix 1,",2800 Delsberg,3.5,-1,1150,5.75,Apartment,-1,-1,0
+4002371771,"Rue de la Gare 284,",2944 Bonfol,2.5,-1,680,3.0,Apartment,-1,-1,0
+4002373480,"Rue de l'Avenir 30,",2854 Haute-Sorne,3.5,72.0,1150,6.75,Apartment,2024,-1,1
+4002374934,"route de Porrentruy 4,",2800 Delsberg,4.5,84.0,1580,3.25,Apartment,-1,-1,0
+4002375095,"Réservoir 54,",2856 Boécourt,2.5,-1,890,-1,Apartment,-1,-1,0
+4002375112,,,3.5,-1,1450,-1,Apartment,-1,-1,0
+4002375117,"Roches,",2852 Courtételle,3.5,70.0,949,-1,Apartment,-1,-1,0
+4002375812,"Rue de Chêtre 20,",2800 Delémont,2.5,53.0,1630,4.25,Maisonette / Duplex,-1,-1,0
+4002377423,"Roches, milieu du village 24A,",2824 Vicques,3.5,70.0,949,-1,Apartment,-1,-1,0
+4002377427,"Undervelier Jura,",2800 Delsberg,7.5,-1,1850,-1,Single house,-1,-1,0
+4002377497,"Primevères 57,",2800 Delsberg,3.5,80.0,1600,-1,Apartment,-1,-1,0
+4002377518,"Rue du Haut-Fourneau 29, Delémont,",2800 Delsberg,4.5,100.0,1400,-1,Apartment,-1,-1,0
+4002377525,"Franche 13,",2800 Delsberg,3.5,100.0,1200,-1,Apartment,-1,-1,0
+4002377867,"Rue du Doubs 17,",2336 Les Bois,2.5,62.0,1320,5.0,Apartment,-1,2017,1
+4002378639,"Rue du Collège 27,",2900 Pruntrut,2.5,50.0,895,3.5,Apartment,-1,-1,0
+4002378674,"Rue de la Gruère 17,",2350 Saignelégier,4.0,112.0,1235,2.33,Apartment,-1,-1,0

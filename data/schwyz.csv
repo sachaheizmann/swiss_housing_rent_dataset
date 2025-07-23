@@ -1,0 +1,183 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+3001525468,"Bahnhofstrasse 172,",6423 Seewen SZ,1.0,-1,750,5.25,Single Room,-1,-1,0
+3003296216,"Bahnhofstrasse 172,",6423 Seewen SZ,1.0,24.0,1090,5.25,Apartment,2022,2022,0
+3003296264,"Bahnhofstrasse 172,",6423 Seewen SZ,1.0,25.0,1140,5.25,Apartment,2022,2022,1
+4001723241,"Mühlebachstrasse 1,",8832 Wollerau,2.5,93.0,3370,6.75,Apartment,-1,-1,1
+4001724220,"Bahnhofstrasse 172,",6423 Seewen SZ,1.0,20.0,1040,5.25,Apartment,2022,2022,0
+4001751936,"Bahnhofstrasse 172,",6423 Seewen SZ,1.0,-1,850,5.25,Single Room,-1,-1,0
+4001945574,"Churerstrasse 109,",8808 Pfäffikon SZ,1.0,-1,1119,6.0,Single Room,2021,-1,0
+4001960100,"Dorfstrasse 27,",8834 Schindellegi,1.0,13.0,1010,4.33,Single Room,2017,1900,0
+4001966479,,,5.5,168.0,9400,-1,Single house,-1,1984,1
+4002044403,"Mühlestrasse 35,",8854 Siebnen,-1,-1,6500,11.0,Single house,-1,-1,0
+4002045421,"Glarnerstrasse 25a,",8854 Siebnen,3.5,79.0,1950,2.25,Apartment,2018,-1,0
+4002060788,"Chlausjägergasse 8,",6403 Küssnacht am Rigi,2.5,58.0,2450,5.75,Apartment,-1,2025,1
+4002060789,"Chlausjägergasse 8,",6403 Küssnacht am Rigi,3.5,76.0,2900,6.0,Apartment,-1,2025,1
+4002074583,"Schwanenstrasse 32,",8840 Einsiedeln,2.5,67.0,2050,3.0,Apartment,2025,-1,1
+4002097062,,,5.5,129.0,2650,-1,Apartment,-1,2000,1
+4002112081,,,4.5,160.0,3800,-1,Row house,2017,1997,0
+4002129150,,,3.5,121.0,2440,-1,Maisonette / Duplex,2025,1820,0
+4002133471,"Dorfstrasse 31,",6417 Sattel,6.5,181.0,3740,3.33,Apartment,-1,2017,1
+4002166659,"Kantonsstrasse 31,",8862 Schübelbach,4.5,120.0,2790,8.67,Apartment,2023,2012,1
+4002166743,"Etzelblickstrasse,",8834 Schindellegi,2.5,75.0,3980,4.67,Apartment,-1,2009,1
+4002166799,"Etzelblickstrasse 1,",8834 Schindellegi,3.5,130.0,5450,4.67,Apartment,2024,2009,1
+4002168941,"Rebstockstrasse,",8808 Pfäffikon SZ,3.5,114.0,4050,4.25,Apartment,2020,2011,1
+4002174048,"Chällenstrasse 8,",8852 Altendorf,5.5,143.0,3600,13.75,Maisonette / Duplex,-1,2011,1
+4002175643,,,4.0,100.0,2280,-1,Chalet,2023,2000,0
+4002185597,"Balbweg 7,",8832 Wollerau,3.0,163.0,7950,7.25,Roof flat,-1,-1,1
+4002188764,"Obere Paulistrasse 42,",8834 Schindellegi,4.5,226.0,7950,8.0,Apartment,-1,2023,1
+4002190849,,,3.5,66.0,2400,-1,Roof flat,2025,-1,0
+4002190850,,,3.5,68.0,2400,-1,Apartment,2025,-1,0
+4002195540,"Langrütistrasse 39a,",8840 Einsiedeln,5.5,182.0,4750,5.25,Maisonette / Duplex,-1,-1,1
+4002209059,,,6.5,178.0,3950,-1,Row house,-1,2010,0
+4002209998,"Churerstrasse,",8808 Pfäffikon SZ,4.5,95.0,3000,-1,Apartment,-1,-1,0
+4002228057,,,4.5,144.0,6200,-1,Apartment,2025,2010,1
+4002231941,"Dorfstrasse 31,",6417 Sattel,6.5,-1,3880,3.33,Maisonette / Duplex,-1,2017,1
+4002233252,"Speerstrasse 4b,",8832 Wilen b. Wollerau,-1,120.0,1300,8.25,Single Room,-1,-1,0
+4002233455,"Speerstrasse 4b,",8832 Wilen b. Wollerau,-1,120.0,1300,8.25,Single Room,-1,-1,0
+4002236443,"Marktstrasse 30,",6436 Muotathal,-1,140.0,1100,-1,Single Room,-1,-1,0
+4002243075,"Birchli 35,",8840 Einsiedeln,7.5,148.0,3650,7.5,Single house,-1,-1,0
+4002245690,"Bahnhofstrasse 1a,",8862 Schübelbach,4.5,106.0,2740,4.33,Apartment,-1,2018,1
+4002246663,,,3.5,173.0,9900,-1,Single house,2020,-1,1
+4002248740,"Zürcherstrasse 5,",8854 Siebnen,1.0,-1,850,3.0,Apartment,-1,-1,0
+4002249095,,,5.5,172.0,3690,-1,Roof flat,-1,2010,1
+4002250224,"Schlüsselmattweg 12,",8840 Einsiedeln,5.5,153.0,3700,7.75,Apartment,-1,-1,0
+4002250763,"Rubiswilstrasse 27,",6438 Ibach,4.5,123.0,2580,5.0,Apartment,-1,2000,1
+4002252466,"Waldweg 3,",8849 Alpthal,3.5,136.0,3750,12.5,Single house,-1,2008,1
+4002257143,"Schlyffistrasse 12,",8806 Bäch SZ,1.0,26.0,850,12.25,Apartment,-1,-1,0
+4002257440,,,1.0,13.0,800,-1,Apartment,2017,1950,0
+4002260670,,,-1,-1,-1,-1,,-1,-1,0
+4002267893,"Bachstrasse 13,",6442 Gersau,3.5,80.0,2130,3.33,Roof flat,2019,-1,1
+4002267915,"Seestrasse 110,",6442 Gersau,4.5,116.0,3280,-1,Apartment,2025,-1,1
+4002270827,"Wilenstrasse 37,",8832 Freienbach,3.5,106.0,4550,6.0,Apartment,-1,-1,1
+4002272323,"Zürcherstrasse 5,",8854 Siebnen,1.5,34.0,890,3.0,Studio,-1,-1,0
+4002273360,"Spreite 6a,",8853 Lachen SZ,3.5,105.0,3430,8.75,Attic flat,-1,2012,1
+4002275846,"Rosalia-Allee 1,",6440 Brunnen,4.5,101.0,2480,7.67,Apartment,-1,2023,1
+4002276722,"Postgässli 3,",6417 Sattel,3.5,89.0,2300,3.67,Apartment,-1,-1,1
+4002278405,"Bahnhofstrasse 1,",8854 Siebnen,3.5,109.0,2930,3.0,Apartment,-1,2016,0
+4002278645,"Schlyffistrasse 17L,",8806 Freienbach,5.5,170.0,-1,10.75,Terrace flat,-1,-1,1
+4002282652,,,-1,15.0,1200,-1,Single Room,-1,-1,0
+4002282655,"Zürcherstrasse 102 Altendorf,",8852 Altendorf,4.0,126.0,2850,3.0,Apartment,-1,-1,0
+4002284763,"Wilenstrasse 29b,",8832 Wilen b. Wollerau,7.0,-1,-1,11.33,Single house,-1,2022,0
+4002285237,,,3.5,100.0,6450,-1,Apartment,-1,2018,1
+4002285772,,,4.5,110.0,4250,-1,Row house,-1,-1,0
+4002288963,"Kantonsstrasse 15a,",8853 Lachen SZ,-1,12.0,750,-1,Single Room,-1,-1,0
+4002289151,"Kantonsstrasse 15a,",8853 Lachen SZ,-1,12.0,750,-1,Single Room,-1,-1,0
+4002291113,"Gsteigstrasse 14,",6403 Küssnacht am Rigi,2.0,70.0,1140,9.5,Commercial,-1,-1,0
+4002291393,"Artherstrasse 81,",6318 Walchwil,4.5,-1,7050,-1,Row house,2023,2023,1
+4002291412,,,4.5,-1,7050,-1,Row house,2023,2023,1
+4002292595,"Samstagernstrasse 48A,",8832 Wollerau,5.5,147.0,5900,4.5,Terrace flat,-1,-1,1
+4002294352,"Marktstrasse 12,",8853 Lachen,4.5,110.0,2920,2.75,Roof flat,-1,1986,1
+4002294842,,,1.5,45.0,1300,-1,Apartment,-1,-1,0
+4002294844,,,1.5,24.0,1250,-1,Apartment,-1,-1,0
+4002297589,"Kantonsstrasse,",8807 Freienbach,2.5,45.0,2200,-1,Apartment,-1,-1,0
+4002297607,"Galtbrunnen 9,",8855 Wangen SZ,1.0,-1,980,9.33,Apartment,-1,-1,0
+4002301673,"Roosweidstrasse 1,",8832 Wollerau,7.5,200.0,-1,10.25,Single house,2021,1977,0
+4002302665,"Dorfbachstrasse 6B,",6430 Schwyz,5.5,145.0,2997,4.5,Apartment,-1,-1,1
+4002305442,"Alte Etzelstrasse 18A,",8840 Einsiedeln,2.5,-1,1590,11.5,Bachelor flat,-1,-1,0
+4002306532,"Dorfkern, Schindellegi,",8834 Schindellegi,3.0,-1,1980,-1,Apartment,-1,-1,0
+4002306753,"Mittlere Altmatt 11,",6418 Rothenthurm,5.5,104.0,2300,-1,Apartment,-1,1995,1
+4002308945,"Jostenstrasse 11 a,",8854 Galgenen,4.5,132.0,2500,8.67,Single house,-1,-1,1
+4002309257,"Gersau,",6440 Brunnen,-1,14.0,1250,-1,Single Room,-1,-1,0
+4002309882,"Aeschstrasse 3,",8834 Schindellegi,4.0,86.0,2220,11.33,Apartment,2015,1973,1
+4002313178,"Süsswinkelstrasse 16,",8864 Reichenburg,3.5,92.0,2120,4.67,Apartment,-1,2016,0
+4002314150,"Hauptstrasse 127,",8832 Wollerau,4.5,118.0,3750,10.5,Apartment,-1,2024,1
+4002314551,,,4.5,165.0,-1,-1,Terrace flat,-1,2026,1
+4002314554,,,3.5,142.0,-1,-1,Terrace flat,-1,2026,1
+4002315325,,,-1,-1,900,-1,Single Room,-1,-1,0
+4002320433,"Baumgartenweg 4,",8854 Siebnen,3.5,99.0,2500,-1,Apartment,2021,1988,0
+4002321490,"Aeschstrasse 14,",8834 Schindellegi,2.5,42.0,2100,11.0,Apartment,2018,1970,0
+4002321648,"Rubisacherrain 18,",6440 Brunnen,5.5,179.0,5600,12.25,Terrace flat,-1,2012,0
+4002321680,"Moosstrasse, 5,",8840 Trachslau,4.5,107.0,2380,4.5,Apartment,-1,-1,0
+4002323863,"Mühlestrasse 8,",8864 Reichenburg,3.5,80.0,1680,5.0,Apartment,-1,-1,1
+4002328057,"Am Eubach 11,",8844 Euthal,4.5,112.0,2940,-1,Apartment,-1,2018,1
+4002328122,"Fürtistrasse 11,",8832 Wollerau,4.5,129.0,4350,11.0,Apartment,-1,-1,1
+4002328409,"Talstrasse 23,",8852 Altendorf,4.0,100.0,2550,5.5,Apartment,-1,-1,1
+4002328463,"Postgässli 5,",6417 Sattel,3.5,92.0,2890,3.33,Apartment,-1,-1,1
+4002329217,"Artherstrasse 81c,",6318 Walchwil,5.5,-1,7100,-1,Row house,-1,2023,0
+4002331024,"Hausmatt 5,",6423 Seewen SZ,6.0,170.0,2660,4.25,Apartment,-1,-1,0
+4002331025,,,-1,-1,-1,-1,,-1,-1,0
+4002333781,,,-1,-1,-1,-1,,-1,-1,0
+4002334240,,,-1,-1,-1,-1,,-1,-1,0
+4002334424,"Kantonsstrasse,",8807 Freienbach,-1,15.0,1200,-1,Single Room,-1,-1,0
+4002334425,"Kornmatt 6,",6430 Schwyz,5.5,-1,2600,-1,Single house,-1,-1,0
+4002335156,"Höh-Rohnenweg 19,",8832 Wilen b. Wollerau,5.5,225.0,9500,15.0,Apartment,2022,2006,1
+4002335224,"Steineggerhof 4,",8855 Wangen SZ,4.5,100.0,2020,3.0,Apartment,-1,1996,1
+4002335800,,,5.5,112.0,3540,-1,Apartment,2025,-1,1
+4002336902,"Goldau,",6410 Goldau,1.0,-1,-1,-1,Apartment,-1,-1,0
+4002337963,"Unter Hafen 17,",8806 Bäch SZ,3.5,105.0,5000,13.0,Terrace flat,2016,1986,1
+4002338484,"Gängstrasse 2,",6436 Muotathal,3.5,86.0,2000,-1,Apartment,2025,1976,1
+4002339152,,,4.5,100.0,1840,-1,Apartment,-1,1990,1
+4002340617,"Waagtalstrasse 3,",8842 Unteriberg,4.0,-1,1390,-1,Apartment,-1,-1,0
+4002341427,"Herrengasse 18,",8853 Lachen,4.5,105.0,2650,3.25,Apartment,-1,-1,1
+4002342057,"Blockweg 4,",6410 Goldau,3.5,81.0,1795,4.0,Roof flat,-1,-1,1
+4002343404,"Büelstrasse 4,",8854 Siebnen,3.5,102.0,2450,4.25,Roof flat,-1,-1,1
+4002343405,"Büelstrasse 4,",8854 Siebnen,3.5,106.0,2350,4.25,Apartment,-1,-1,1
+4002344874,"Riedgutschstrasse 25,",8832 Wollerau,5.5,175.0,11900,7.25,Single house,-1,-1,0
+4002345805,"Sonnenpark 20B,",8808 Pfäffikon SZ,5.5,200.0,5600,4.25,Row house,2021,2005,1
+4002345988,"Langrütistrasse 39b,",8840 Einsiedeln,4.5,142.0,3980,5.75,Maisonette / Duplex,-1,2023,1
+4002346529,"Urenmatt 3,",6432 Rickenbach b. Schwyz,2.5,56.0,1500,7.25,Apartment,-1,2008,1
+4002346694,"Breitenstrasse 92,",8832 Wilen b. Wollerau,5.5,-1,4800,7.0,Single house,-1,-1,0
+4002346743,"Schlyffistrasse 14,",8806 Bäch SZ,1.0,-1,855,12.5,Single Room,-1,-1,0
+4002346981,"8834, Feusisberg,",8834 Schindellegi,2.0,80.0,2250,-1,Apartment,-1,-1,0
+4002347364,,,-1,-1,-1,-1,,-1,-1,0
+4002347435,,,5.5,120.0,3350,-1,Roof flat,-1,-1,0
+4002348162,,,6.5,200.0,5900,-1,Single house,2025,-1,1
+4002349299,"Mostelbergstrasse 130b,",6417 Sattel,5.5,131.0,3200,-1,Chalet,-1,2010,1
+4002349685,"Verenastrasse 5,",8832 Wollerau,3.5,102.0,3500,5.0,Maisonette / Duplex,-1,2025,1
+4002350317,"Sihlegg,",8832 Wilen b. Wollerau,3.0,73.0,1980,-1,Apartment,-1,-1,0
+4002350319,"Dorfstrasse 25,",8835 Feusisberg,2.0,54.0,750,7.33,Apartment,-1,-1,0
+4002350429,"Pfäffikon SZ,",8808 Pfäffikon SZ,-1,-1,950,-1,Single Room,-1,-1,0
+4002351399,"Gweerhofstrasse 1,",8853 Lachen SZ,3.5,89.0,2510,8.0,Apartment,-1,2008,0
+4002351445,,,-1,-1,-1,-1,,-1,-1,0
+4002351577,"Silbergasse 38,",6443 Morschach,5.5,154.0,3455,5.0,Apartment,-1,2023,0
+4002353658,"Zürcherstrasse 25,",8854 Siebnen,3.5,-1,2890,4.5,Apartment,-1,-1,1
+4002353697,"Feldweg27,",6438 Ibach,1.5,48.0,850,-1,Apartment,-1,-1,0
+4002353722,"Grünhaldenstrasse 6,",8862 Schübelbach,3.0,-1,1600,10.0,Apartment,-1,-1,0
+4002354100,"Kantonsstrasse 9,",8864 Reichenburg,5.5,150.0,2800,6.0,Apartment,-1,2011,1
+4002354101,"Churerstrasse 92k,",8808 Pfäffikon SZ,2.5,80.0,2590,5.5,Apartment,-1,-1,0
+4002355376,"Gersauerstrasse 78,",6440 Brunnen,3.5,94.0,2150,8.0,Apartment,-1,-1,1
+4002356689,"Bödelistrasse 3,",8843 Oberiberg,4.5,-1,1600,-1,Apartment,2018,1850,0
+4002356833,"Seewenstrasse 6b,",6440 Ingenbohl,2.5,61.0,2145,5.0,Apartment,-1,2020,1
+4002356859,"Gotthardstrasse 44a,",6410 Rigi Klösterli,1.5,30.0,990,6.25,Apartment,-1,-1,0
+4002356872,"Aahusweg 34,",6403 Küssnacht am Rigi,4.0,-1,1600,18.0,Apartment,-1,-1,0
+4002357779,"Wägitalstrasse 65,",8857 Vorderthal,4.0,140.0,2250,-1,Maisonette / Duplex,-1,2023,1
+4002359723,"Roosstrasse 1,",8832 Wollerau,4.5,86.0,2870,3.0,Apartment,2010,1966,1
+4002359749,"Roosstrasse 1,",8832 Wollerau,4.5,86.0,1390,3.0,Apartment,2010,1966,1
+4002359928,"Luegetenhalde 8,",8840 Einsiedeln,3.5,86.0,2400,4.5,Apartment,-1,-1,1
+4002360815,"Glarnerstrasse 3A,",8854 Siebnen,3.5,90.0,2190,2.75,Apartment,-1,-1,0
+4002360841,"Föhneneichstrasse 50,",6440 Brunnen,-1,17.0,1000,9.75,Single Room,-1,-1,0
+4002361083,"Kirchenstrasse 3,",8843 Oberiberg,3.5,84.0,1650,-1,Apartment,-1,1991,0
+4002362540,,,-1,-1,-1,-1,,-1,-1,0
+4002363025,,,6.5,194.0,7250,-1,Terrace house,2010,1996,1
+4002363336,"Mühlebachhof,",8852 Altendorf,2.5,69.0,2590,10.25,Apartment,-1,2016,1
+4002364337,"Luziaweg 10,",8807 Freienbach,4.5,114.0,2995,3.33,Apartment,2025,2002,1
+4002364519,"Steisteg 11,",6430 Schwyz,4.5,137.0,2800,3.75,Apartment,-1,-1,0
+4002364523,"Rufibergstrasse,",6415 Arth,4.5,-1,2400,-1,Apartment,-1,-1,0
+4002364654,,,-1,-1,-1,-1,,-1,-1,0
+4002364871,"Hauptstrasse 60,",8840 Einsiedeln,3.5,57.0,1740,2.5,Apartment,2019,-1,0
+4002365363,"Sperberweg 5,",8836 Bennau,2.0,28.0,1090,9.5,Bachelor flat,2021,1983,0
+4002366783,"Adlerstrasse 1,",8854 Siebnen,2.5,59.0,1320,2.25,Apartment,-1,1964,0
+4002366784,"Adlerstrasse 1,",8854 Siebnen,3.5,73.0,1380,2.25,Apartment,-1,1964,0
+4002368093,"Bartengut1387,",8863 Buttikon SZ,6.0,-1,2130,-1,Apartment,-1,-1,0
+4002368439,"Steineggerhof 6,",8855 Wangen SZ,4.5,127.0,2300,3.0,Apartment,-1,-1,1
+4002369041,"Birchli 38,",8840 Einsiedeln,4.0,95.0,1700,6.0,Attic flat,-1,-1,1
+4002369108,,,5.5,190.0,3975,-1,Chalet,2017,-1,1
+4002369432,"Talstrasse 15a,",8852 Altendorf,4.5,111.0,3220,5.5,Apartment,-1,2017,1
+4002370460,,,3.0,150.0,6500,-1,Maisonette / Duplex,-1,2025,1
+4002373634,"Dorfplatz 2,",6405 Immensee,3.5,125.0,6500,2.67,Attic flat,2022,2022,1
+4002373701,"Unteres Nidlau 2,",8842 Unteriberg,3.5,70.0,1150,-1,Apartment,-1,-1,1
+4002374418,"Luziaweg 12,",8807 Freienbach,4.5,-1,2690,3.33,Maisonette / Duplex,-1,-1,1
+4002374424,"Luziaweg 2,",8807 Freienbach,2.0,55.0,1620,2.0,Apartment,2025,-1,1
+4002374746,"Gütschweg 1,",6436 Muotathal,2.5,61.0,2200,-1,Apartment,-1,-1,0
+4002374750,"Schulstrasse 6,",8640 Hurden,2.5,56.0,1463,-1,Apartment,-1,-1,0
+4002374754,"Glarnerstrasse 3,",8854 Siebnen,4.5,94.0,2190,2.75,Apartment,-1,-1,0
+4002375421,"Postplatz 3,",6430 Schwyz,4.5,-1,2800,2.75,Multi-family house,2024,-1,0
+4002375670,"Harmettlenstrasse 13,",6410 Goldau,-1,-1,105,9.75,Hobby room,-1,2014,0
+4002375687,"Hinterfeld 1B,",8852 Altendorf,4.5,118.0,4400,7.25,Attic flat,2025,1961,1
+4002377105,"Glänternstrasse 5,",8864 Reichenburg,4.5,210.0,3750,7.67,Apartment,-1,2013,1
+4002377437,"Oberstöckenstrasse 4,",8842 Unteriberg,5.5,165.0,2500,-1,Apartment,-1,-1,0
+4002377466,"Oberdorf, 15,",6403 Küssnacht am Rigi,-1,115.0,1650,3.0,Single Room,-1,-1,0
+4002378619,"Roosstrasse35,",8832 Wollerau,2.0,42.0,1420,11.75,Apartment,2024,1966,1
+4002378730,"Eulenbachstrasse 38,",8832 Wilen b. Wollerau,5.5,145.0,5900,6.5,Row house,2023,1979,1
+4002379640,"Glänternstrasse 5a,",8864 Reichenburg,3.5,121.0,2550,6.67,Apartment,-1,2013,1
+4002379651,"Ilgenstrasse 10,",8854 Siebnen,3.5,108.0,2535,5.25,Apartment,-1,2013,1

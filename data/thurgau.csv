@@ -1,0 +1,742 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+3000485250,"Hamelstrasse 1,",9320 Arbon,3.5,113.0,2421,2.75,Apartment,-1,2020,1
+3002715275,"Schützenstrasse 4,",8575 Bürglen TG,-1,11.0,70,3.67,Hobby room,-1,-1,0
+4000708738,"Mirabellenweg 4,",8590 Romanshorn,-1,7.0,90,5.67,Hobby room,-1,2011,0
+4000939381,"Märwilerstrasse 41,",9556 Affeltrangen,1.0,-1,550,6.67,Single Room,-1,-1,0
+4001020026,"Sommeristrasse 22,",8580 Amriswil,4.5,133.0,2700,10.0,Roof flat,2024,-1,0
+4001092631,"Amriswilerstrasse 5,",8570 Weinfelden,3.5,89.0,1830,3.75,Apartment,-1,-1,1
+4001349554,"Amriswilerstrasse 5,",8570 Weinfelden,4.0,127.0,2000,3.75,Maisonette / Duplex,-1,-1,1
+4001543499,"Brauerstrasse 5,",9320 Arbon,4.0,72.0,1290,5.0,Apartment,-1,-1,0
+4001565743,"Stickereistrasse 4,",9320 Arbon,1.5,82.0,1780,2.75,Apartment,-1,2015,0
+4001596159,"Wiesenstrasse 4,",8580 Amriswil,5.5,150.0,2080,9.75,Roof flat,-1,-1,1
+4001624397,,,4.0,85.0,1800,-1,Apartment,2024,1900,0
+4001653769,"Hauptstrasse 28,",8546 Islikon,4.5,-1,2270,8.0,Apartment,-1,-1,1
+4001688799,"Romanshornerstrasse 225,",8580 Hefenhofen,4.5,120.0,1900,-1,Apartment,-1,-1,1
+4001712535,,,8.5,213.0,2920,-1,Apartment,-1,1991,1
+4001730200,"Brühlstrasse 96,",9320 Arbon,4.5,111.0,2040,8.33,Apartment,-1,-1,1
+4001744943,"Laagasse 1,",9565 Rothenhausen,4.5,130.0,2460,10.5,Apartment,-1,2022,1
+4001761110,"Romanshornerstrasse 7,",8592 Uttwil,9.0,208.0,3900,6.0,Single house,-1,1808,1
+4001783318,"Hamelplatz 2,",9320 Arbon,3.5,90.0,2034,3.75,Apartment,-1,2020,1
+4001786289,"Hubstrasse 9,",8590 Romanshorn,4.5,77.0,1430,6.25,Apartment,2012,-1,1
+4001787073,"Reckholdernstrasse 13,",8590 Romanshorn,-1,75.0,1440,6.75,Studio,-1,-1,0
+4001799704,"Giessereistrasse 11,",9320 Arbon,2.5,60.0,1510,7.0,Apartment,-1,-1,1
+4001809246,"Buchenweg 1,",8266 Steckborn,4.5,70.0,1360,5.75,Apartment,-1,-1,1
+4001818750,"Städeliweg 5,",9220 Bischofszell,3.5,82.0,1625,6.75,Apartment,-1,1996,1
+4001857355,"Wilerstrasse 20,",9542 Münchwilen TG,2.5,65.0,1470,3.5,Apartment,-1,2015,0
+4001859422,"Hofenstrasse 2,",9542 Münchwilen TG,4.5,98.0,1990,8.0,Attic flat,-1,1995,1
+4001867453,"Metropolstrasse 4,",9320 Arbon,3.5,63.0,1270,5.0,Apartment,2022,1960,1
+4001883013,"Hirschenweg 2,",8580 Amriswil,2.5,-1,1285,4.0,Apartment,-1,-1,1
+4001884415,"St. Gallerstrasse 194,",9548 Matzingen,4.5,121.0,2780,13.0,Attic flat,-1,-1,1
+4001884416,"St. Gallerstrasse 194,",9548 Matzingen,5.5,161.0,3200,13.0,Attic flat,-1,-1,1
+4001919304,,,5.5,197.0,2950,-1,Apartment,-1,2013,0
+4001923828,,,3.5,54.0,1280,-1,Apartment,2020,1850,0
+4001924784,"Giessereistrasse 11,",9320 Arbon,2.5,53.0,1460,7.0,Apartment,-1,-1,1
+4001927172,"Hubstrasse 7,",8590 Romanshorn,4.5,77.0,1430,6.5,Apartment,-1,-1,1
+4001945754,"Brühlstrasse 63,",9320 Arbon,3.5,89.0,1290,10.0,Maisonette / Duplex,1994,1960,0
+4001946487,"Seeblickstrasse 1,",9320 Arbon,4.5,105.0,1790,7.25,Apartment,-1,-1,0
+4001947534,"Bruggmühle 7,",9220 Bischofszell,4.5,203.0,2950,5.75,Loft,2023,-1,1
+4001947535,"Bruggmühle 7,",9220 Bischofszell,3.5,203.0,2950,5.75,Loft,2023,-1,1
+4001950385,"Poststrasse 11A,",8586 Erlen,4.5,115.0,2100,8.67,Apartment,-1,2006,1
+4001956031,"Untere Bahnhofstrasse 12,",8580 Amriswil,4.5,100.0,1860,5.75,Apartment,-1,-1,1
+4001957082,"Hauptstrasse 146b,",8272 Ermatingen,2.5,52.0,1400,2.67,Apartment,-1,-1,1
+4001958909,"Hauptstrasse 4,",8586 Kümmertshausen,4.5,100.0,1550,-1,Apartment,-1,1992,1
+4001961301,,,3.5,97.0,1490,-1,Apartment,2023,-1,0
+4001963564,,,-1,-1,-1,-1,,-1,-1,0
+4001967635,"Amriswilerstrasse 13,",8589 Sitterdorf,2.5,60.0,1490,6.0,Apartment,-1,-1,1
+4001975771,"Pestalozzistrasse 5,",9320 Arbon,3.0,60.0,1250,4.75,Apartment,2024,1910,1
+4001975984,"Walzmühlenstrasse 49/49a,",8500 Frauenfeld,4.5,163.0,2990,8.75,Apartment,-1,-1,0
+4001976806,,,-1,-1,-1,-1,,-1,-1,0
+4001992094,,,4.5,-1,1950,-1,Apartment,2024,-1,0
+4001999692,"Rodelstrasse 8,",8266 Steckborn,3.5,60.0,1270,6.75,Apartment,-1,-1,0
+4002004961,"Rebenacker 29,",9542 Münchwilen TG,4.5,103.0,2130,5.75,Apartment,-1,2018,0
+4002007600,"Brühlstrasse 63,",9320 Arbon,3.5,89.0,1350,10.0,Maisonette / Duplex,1994,1960,0
+4002007601,"Brühlstrasse 63,",9320 Arbon,3.5,89.0,1290,10.0,Maisonette / Duplex,1994,1960,0
+4002009644,,,-1,-1,-1,-1,,-1,-1,0
+4002023100,"Hamelstrasse 19,",9320 Arbon,3.5,86.0,1760,5.5,Apartment,-1,2016,0
+4002024185,,,-1,-1,-1,-1,,-1,-1,0
+4002024905,"Steckbornstrasse 1C,",8505 Pfyn,3.5,94.0,2330,6.33,Apartment,-1,2023,1
+4002024961,,,-1,-1,-1,-1,,-1,-1,0
+4002025782,"Schützenstrasse 7b,",8575 Bürglen TG,4.5,113.0,2250,4.0,Attic flat,-1,2010,0
+4002026368,"Thundorferstrasse 88/90,",8500 Frauenfeld,5.5,144.0,3490,5.5,Single house,2024,-1,1
+4002028601,,,4.5,147.0,2660,-1,Maisonette / Duplex,-1,2025,1
+4002041161,"Pestalozzistrasse 9,",9320 Arbon,3.5,-1,950,4.75,Apartment,-1,-1,0
+4002047107,"Waidackerstrasse 9,",8592 Uttwil,3.5,86.0,1590,11.33,Apartment,-1,-1,0
+4002050033,"Käsereistrasse 6,",8582 Dozwil,7.5,208.0,3100,3.33,Apartment,2025,-1,1
+4002051339,"Romanshornerstr. 76b,",9320 Arbon,4.5,81.0,1320,6.0,Apartment,-1,1956,1
+4002055567,,,5.5,120.0,1900,-1,Roof flat,2000,1650,0
+4002064355,"Luggenackerstrasse 3,",8596 Scherzingen,4.5,-1,2340,3.67,Apartment,-1,1971,0
+4002070335,,,-1,-1,750,-1,Single Room,-1,-1,0
+4002070859,"Schottengasse 17,",9220 Bischofszell,2.5,55.0,940,6.5,Apartment,-1,-1,0
+4002071612,"Oberwiesenstrasse 55,",8500 Frauenfeld,4.5,99.0,1930,4.75,Apartment,1999,1972,0
+4002072703,"Lindenstrasse 22,",8370 Sirnach,2.5,164.0,2555,6.75,Maisonette / Duplex,-1,2013,1
+4002073086,"Rennweg 6,",8580 Amriswil,3.0,-1,1400,2.5,Apartment,-1,-1,1
+4002074516,"Schützenstrasse 4,",8575 Bürglen TG,2.0,34.0,1060,3.67,Apartment,-1,-1,0
+4002076366,"Ifangweg 5,",8570 Weinfelden,4.5,-1,1980,5.5,Apartment,-1,1995,0
+4002076512,"Obertor 30,",8253 Diessenhofen,3.5,93.0,1650,4.5,Apartment,-1,-1,0
+4002076714,"Hauptstrasse 48a,",8586 Erlen,3.5,-1,1465,10.0,Apartment,-1,-1,0
+4002083820,"Bahnhofstrasse 4a,",8360 Eschlikon TG,2.5,61.0,1690,5.67,Apartment,-1,2020,1
+4002085471,"Hauptstrasse 29,",9565 Bussnang,1.0,22.0,700,7.5,Single Room,-1,-1,0
+4002088209,"Schwalbenstrasse 1a,",8374 Dussnang,3.5,66.0,1650,9.0,Apartment,-1,2025,0
+4002092374,"Zihlstrasse 10,",8280 Kreuzlingen,4.5,-1,2040,5.67,Apartment,-1,1981,0
+4002094315,"Sportplatzstrasse 11,",8580 Amriswil,5.5,172.0,2350,6.75,Attic flat,-1,-1,1
+4002094323,"Schaffhauserstr. 9,",8253 Diessenhofen,3.0,60.0,1490,7.0,Apartment,-1,1968,1
+4002094327,"Mülibach 2,",8259 Wagenhausen,4.5,147.0,2859,12.75,Apartment,-1,-1,1
+4002094333,"Sportplatzstrasse 9,",8580 Amriswil,4.5,85.0,1305,6.75,Apartment,-1,-1,0
+4002097871,"Seestrasse 25,",9320 Arbon,3.5,96.0,1950,6.75,Apartment,2022,1965,1
+4002100952,,,4.5,100.0,2950,-1,Attic flat,-1,2023,0
+4002106579,,,4.5,80.0,1750,-1,Apartment,-1,1900,0
+4002112649,"Brühlstrasse 63,",9320 Arbon,3.5,89.0,1380,10.0,Maisonette / Duplex,1994,1960,0
+4002114277,"Wisliweg 2/4,",8573 Siegershausen,4.5,112.0,2260,-1,Apartment,-1,2025,0
+4002114278,"Wisliweg 2/4,",8573 Siegershausen,3.5,85.0,1920,-1,Apartment,-1,2025,0
+4002118026,"Hubstrasse 5,",8590 Romanshorn,3.5,65.0,1230,6.5,Apartment,2019,1962,1
+4002121631,"Morgenstrasse 13,",8266 Steckborn,2.0,39.0,845,7.75,Apartment,-1,-1,0
+4002129943,"Scheuchenstr. 26,",8500 Frauenfeld,4.5,88.0,1360,4.75,Apartment,1983,1982,0
+4002132197,"Wielsteinstrasse 28,",8500 Frauenfeld,5.5,220.0,4500,5.75,Single house,-1,1966,1
+4002132549,"Wiesenpark 4,",9220 Bischofszell,4.5,85.0,1415,9.0,Apartment,-1,-1,1
+4002134868,"Marktgasse 22,",9220 Bischofszell,3.5,-1,1490,5.5,Apartment,-1,1743,1
+4002135335,"Rütistrasse 16,",8580 Amriswil,1.0,-1,650,3.5,Single Room,-1,-1,0
+4002135399,"Im Bindersgarten 1,",8274 Tägerwilen,3.5,110.0,1970,4.67,Apartment,-1,-1,1
+4002135507,"Hauptstrasse 49A,",8280 Kreuzlingen,1.0,33.0,1120,3.5,Roof flat,2025,-1,0
+4002135573,"Hauptstrasse 49B,",8280 Kreuzlingen,1.0,37.0,1320,3.5,Apartment,2025,-1,0
+4002139980,"Weitenaustrasse 5,",9215 Schönenberg an der Thur,2.5,-1,1400,8.67,Apartment,-1,1983,0
+4002140086,"Hauptstrasse 8,",9565 Bussnang,3.5,126.0,1470,-1,Roof flat,-1,2023,0
+4002140913,"Winterthurerstrasse 35,",8370 Sirnach,5.5,103.0,2298,6.0,Roof flat,2024,-1,1
+4002143480,"Hafenstrasse 11,",8590 Romanshorn,2.5,103.0,1680,4.25,Apartment,-1,-1,0
+4002145439,"Frohheimstrasse 9,",9325 Roggwil TG,3.5,108.0,1895,6.0,Apartment,-1,2005,1
+4002146330,"Metzgergasse 4,",9320 Arbon,3.5,120.0,1750,2.0,Maisonette / Duplex,-1,1904,0
+4002146432,,,3.5,130.0,1890,-1,Roof flat,-1,2015,1
+4002151364,"Poststrasse 27b,",8580 Amriswil,4.5,-1,1520,5.25,Apartment,-1,-1,0
+4002151918,"Weinfelderstrasse 85a,",8580 Amriswil,2.5,-1,1400,5.67,Apartment,-1,2022,1
+4002157622,,,1.0,80.0,1450,-1,Apartment,-1,1947,0
+4002157692,"Lommiserstrasse 2,",9545 Wängi,3.5,92.0,2130,6.67,Apartment,-1,2025,1
+4002157697,"Lommiserstrasse 2,",9545 Wängi,2.5,76.0,1745,6.67,Apartment,-1,2025,1
+4002163318,"Gaswerkstrasse 35,",8500 Frauenfeld,1.0,26.0,870,4.75,Apartment,-1,-1,0
+4002165596,"Römerweg 14,",8594 Güttingen,4.5,-1,1690,8.0,Apartment,2024,-1,1
+4002166935,"Alpenblickstrasse 5,",9320 Arbon,4.5,107.0,1690,9.75,Apartment,-1,1993,0
+4002170313,"Spiegelgasse 8,",8266 Steckborn,2.5,-1,1295,4.5,Apartment,-1,-1,0
+4002170623,"Grünaustrasse 23,",9320 Arbon,3.5,75.0,1440,7.5,Apartment,2023,1966,1
+4002171822,"Sangiweg 18b,",8555 Müllheim Dorf,4.5,-1,2600,10.33,Maisonette / Duplex,-1,2021,0
+4002172353,"Weitegasse 6,",9320 Arbon,-1,100.0,2180,3.25,Loft,2024,-1,1
+4002172413,,,4.5,140.0,2050,-1,Maisonette / Duplex,2025,1990,1
+4002173958,,,3.5,65.0,1570,-1,Apartment,2015,-1,1
+4002178529,"Amriswilerstrasse 5,",8590 Romanshorn,3.5,-1,1080,6.25,Roof flat,2015,-1,0
+4002182542,"Thundorferstrasse 29b,",8500 Frauenfeld,2.5,44.0,1450,5.0,Apartment,2025,1985,1
+4002182544,"Thundorferstrasse 29b,",8500 Frauenfeld,3.5,84.0,2120,5.0,Apartment,2025,1985,1
+4002182546,"Thundorferstrasse 29b,",8500 Frauenfeld,4.5,87.0,2180,5.0,Apartment,2025,1985,1
+4002185678,,,-1,-1,-1,-1,,-1,-1,0
+4002186417,,,-1,-1,-1,-1,,-1,-1,0
+4002186418,,,-1,-1,-1,-1,,-1,-1,0
+4002186419,"Hauptstrasse 57,",8572 Berg TG,3.5,87.0,1860,5.0,Apartment,-1,2026,0
+4002186420,,,-1,-1,-1,-1,,-1,-1,0
+4002187040,"Rodenbergstrasse 6,",8253 Diessenhofen,4.5,135.0,2170,10.25,Apartment,-1,-1,1
+4002189139,"Fabrikweg 12,",8370 Sirnach,4.5,-1,2265,5.25,Apartment,-1,-1,1
+4002189720,"Hauptstrasse 9,",8253 Diessenhofen,2.5,-1,1550,5.75,Studio,2024,1899,0
+4002189721,"Hauptstrasse 9,",8253 Diessenhofen,2.5,71.0,1550,5.75,Apartment,2024,1899,0
+4002190894,"Löwengasse 5,",8586 Kümmertshausen,3.5,93.0,1940,-1,Apartment,-1,2025,0
+4002190915,"Löwengasse 5,",8586 Kümmertshausen,3.5,85.0,1820,-1,Apartment,-1,2025,1
+4002190916,"Löwengasse 5,",8586 Kümmertshausen,2.5,69.0,1665,-1,Roof flat,-1,2025,1
+4002190918,"Löwengasse 5,",8586 Kümmertshausen,3.5,95.0,1990,-1,Apartment,-1,2025,0
+4002191105,"Städeliweg 3,",9220 Bischofszell,4.5,91.0,1775,6.25,Apartment,-1,1996,1
+4002191133,"Mattfeldstrasse 13,",9532 Rickenbach,4.5,80.0,1650,10.0,Apartment,-1,-1,1
+4002191300,"Alte Rosenstrasse 3,",8360 Eschlikon TG,4.5,91.0,1740,6.33,Apartment,-1,-1,0
+4002191643,"Unterseestrasse 29c,",8280 Kreuzlingen,5.5,152.0,2350,7.5,Apartment,-1,1987,1
+4002196993,"Schmidgasse 15a,",8500 Frauenfeld,4.5,88.0,1785,6.5,Apartment,1992,1965,0
+4002198250,"Ackerstrasse 13,",8266 Steckborn,3.5,-1,2330,4.5,Roof flat,-1,2016,1
+4002198637,"Konstanzerstrasse 7,",8280 Kreuzlingen,-1,-1,1522,7.5,Hobby room,-1,-1,0
+4002198659,,,-1,-1,-1,-1,,-1,-1,0
+4002198664,"Rebenstrasse 22,",9320 Arbon,4.5,-1,1690,4.5,Apartment,-1,-1,1
+4002199538,"Amriswilerstrasse 18,",8590 Romanshorn,4.5,104.0,1890,4.0,Apartment,-1,-1,1
+4002200231,"Scheuchenstr. 25,",8500 Frauenfeld,5.5,110.0,1710,5.0,Apartment,1983,1982,1
+4002202437,,,-1,-1,-1,-1,,-1,-1,0
+4002202927,,,-1,-1,-1,-1,,-1,-1,0
+4002204702,,,-1,-1,-1,-1,,-1,-1,0
+4002208714,,,-1,-1,-1,-1,,-1,-1,0
+4002208752,"Weitegasse 6,",9320 Arbon,-1,100.0,2034,3.25,Loft,-1,-1,1
+4002209096,,,-1,-1,-1,-1,,-1,-1,0
+4002209177,"Zelgistr. 2a,",8266 Steckborn,6.5,200.0,2820,6.0,Apartment,-1,2016,1
+4002212752,"Seestrasse 41,",8596 Scherzingen,2.5,-1,1300,3.67,Apartment,-1,-1,0
+4002213055,"Giessereistrasse 11,",9320 Arbon,3.5,90.0,1740,7.0,Apartment,-1,-1,0
+4002213573,"Gartenstrasse,",8280 Kreuzlingen,-1,105.0,925,-1,Single Room,-1,-1,0
+4002214747,,,-1,-1,-1,-1,,-1,-1,0
+4002216153,,,-1,-1,-1,-1,,-1,-1,0
+4002216418,,,-1,-1,-1,-1,,-1,-1,0
+4002217844,"Laubgasse 27a,",8500 Frauenfeld,3.5,97.0,2200,5.25,Apartment,-1,-1,0
+4002218092,"Birkenweg 5,",8500 Frauenfeld,3.5,81.0,1810,6.0,Apartment,-1,-1,0
+4002220329,,,-1,-1,-1,-1,,-1,-1,0
+4002223581,"Hegistr. 2,",9315 Winden,4.5,-1,1280,-1,Apartment,-1,-1,0
+4002223966,,,-1,-1,-1,-1,,-1,-1,0
+4002224650,"Scheuchenstrasse 11,",8500 Frauenfeld,3.5,65.0,1498,6.0,Roof flat,2022,-1,0
+4002224798,,,-1,-1,-1,-1,,-1,-1,0
+4002226110,"Stettfurterstrasse 7,",9548 Matzingen,3.5,80.0,1730,4.0,Apartment,-1,1899,0
+4002226404,"Hauptstrasse 11,",9565 Bussnang,3.5,85.0,1840,10.0,Apartment,-1,-1,0
+4002227326,"Weinfelderstrasse 71a,",8580 Amriswil,2.5,54.0,1500,6.75,Apartment,2024,2024,1
+4002227466,"Trottenackerstrasse 10,",9507 Stettfurt,4.5,99.0,2850,4.33,Apartment,-1,2025,1
+4002228850,"Frauenfelderstrasse 10,",8370 Sirnach,4.5,-1,1370,4.5,Apartment,-1,-1,1
+4002229236,"Ermatingen,",8272 Ermatingen,4.5,159.0,4250,-1,Apartment,-1,2024,1
+4002229639,"Hauptstrasse 32,",8264 Eschenz,3.5,-1,1680,8.75,Apartment,2025,-1,1
+4002229751,"Seestrasse 95,",8266 Steckborn,-1,-1,875,4.75,Apartment,-1,-1,0
+4002229762,"Rheinstrasse 3,",8500 Frauenfeld,4.5,134.0,3047,2.25,Apartment,-1,2018,1
+4002230972,,,-1,184.0,-1,-1,Advertising area,-1,-1,0
+4002232204,"Hauptstrasse 29,",9565 Bussnang,1.0,-1,700,6.5,Apartment,-1,-1,0
+4002232358,"Storchenstrasse 9,",8570 Weinfelden,4.5,-1,1590,6.25,Apartment,-1,-1,0
+4002232960,"Alleestrasse 39,",8590 Romanshorn,2.0,-1,1125,2.25,Apartment,-1,-1,1
+4002232968,"Allestrasse 37,",8590 Romanshorn,5.5,-1,1850,2.5,Apartment,-1,-1,1
+4002233098,"Schützenstrasse 16,",8253 Diessenhofen,3.5,-1,2090,11.25,Attic flat,-1,-1,1
+4002233210,,,4.5,-1,2200,-1,Apartment,-1,-1,0
+4002233958,"Grüntalstrasse 8,",9320 Arbon,3.5,-1,1350,10.0,Apartment,-1,-1,1
+4002234258,"Egelseestrasse 2,",8570 Weinfelden,3.5,108.0,2340,6.75,Attic flat,-1,2012,0
+4002234826,"Alemannenstrasse 5,",9320 Arbon,4.0,83.0,1540,2.75,Apartment,-1,-1,1
+4002236470,"Weinfelderstrasse 81,",9542 Münchwilen TG,3.5,120.0,2000,7.67,Apartment,-1,-1,0
+4002237545,"Châtelstrasse 20,",8355 Aadorf,3.5,-1,2100,3.0,Apartment,-1,2025,1
+4002237546,"Châtelstrasse 20,",8355 Aadorf,3.5,-1,2240,3.0,Roof flat,-1,2025,1
+4002237547,"Châtelstrasse 20,",8355 Aadorf,2.5,-1,1800,3.0,Apartment,-1,2025,1
+4002238832,"Espenstrasse 28,",9220 Bischofszell,3.5,85.0,1733,5.5,Apartment,-1,-1,0
+4002245147,"Wannenfeldstrasse 85,",8500 Frauenfeld,3.5,-1,1700,11.5,Apartment,-1,-1,0
+4002245156,"Wannenfeldstrasse 85,",8500 Frauenfeld,2.5,-1,1500,11.5,Apartment,-1,-1,0
+4002245585,"Bruggmühle 11,",9220 Bischofszell,5.5,-1,2500,8.5,Attic flat,-1,2022,1
+4002246264,"Bleichewiesenstrasse 11,",8546 Gachnang,3.0,64.0,1540,4.33,Apartment,2022,-1,1
+4002247178,"Bahnhofstrasse 42,",8590 Romanshorn,4.5,-1,1700,5.5,Apartment,-1,-1,1
+4002249342,"Weinfelderstrasse 8,",8575 Bürglen TG,4.5,-1,1870,5.0,Apartment,-1,-1,0
+4002250254,"Dorfstr 14,",9535 Wilen b. Wil,-1,15.0,650,2.5,Single Room,-1,-1,0
+4002250255,"Dorfstr 14,",9535 Wilen b. Wil,-1,10.0,600,2.5,Single Room,-1,-1,0
+4002253058,"Kanalstrasse 22,",8575 Bürglen TG,5.5,-1,1880,11.33,Maisonette / Duplex,-1,-1,0
+4002253370,"Rodenbergstrasse 3,",8253 Diessenhofen,3.5,-1,1640,8.5,Roof flat,-1,-1,1
+4002254370,"Haldenstrasse 1/Winterthurerstrasse 51,",8370 Sirnach,3.5,85.0,1790,9.25,Multi-family house,-1,-1,1
+4002254506,"Remisbergstrasse 47,",8280 Kreuzlingen,4.5,83.0,1740,8.25,Apartment,-1,-1,1
+4002254641,"Waidackerstrasse 5,",8592 Uttwil,3.5,65.0,1590,11.33,Apartment,-1,-1,0
+4002256261,"Poststrasse 41,",8580 Amriswil,3.5,-1,1300,6.5,Apartment,-1,1971,1
+4002257028,"Amriswilerstrasse 88,",8590 Romanshorn,5.5,-1,2000,3.0,Apartment,-1,-1,1
+4002257259,"Mühleäcker 9,",8546 Islikon,2.5,91.0,1900,8.33,Apartment,-1,2020,0
+4002257444,"Poststrasse 43,",8580 Amriswil,2.5,50.0,1090,6.25,Apartment,-1,1973,1
+4002257508,"Rütistrasse 4,",8580 Amriswil,4.5,-1,1430,3.5,Apartment,2025,1850,1
+4002257795,"Schulstrasse 6,",8598 Bottighofen,4.5,101.0,1845,5.5,Apartment,-1,1996,0
+4002257830,"Besmerstrasse 48,",8280 Kreuzlingen,2.5,84.0,2190,6.0,Roof flat,-1,2011,1
+4002257961,"Heidengasse 5,",8575 Bürglen TG,4.5,80.0,1550,5.0,Apartment,2016,1940,0
+4002259014,"Islikonerstrasse 7,",8547 Gachnang,4.5,185.0,2950,7.33,Apartment,-1,-1,1
+4002261783,"Wannenfeldstrasse 83,",8500 Frauenfeld,3.5,74.0,1310,11.25,Apartment,-1,-1,0
+4002262455,"Freiestrasse 4,",8570 Weinfelden,4.5,124.0,2145,4.0,Apartment,-1,-1,0
+4002264819,,,-1,-1,-1,-1,,-1,-1,0
+4002264822,,,-1,-1,-1,-1,,-1,-1,0
+4002266025,"Alpenblickweg 13,",9320 Arbon,4.5,104.0,1590,9.75,Apartment,-1,-1,1
+4002266029,"Schwalbenstrasse 1a,",8374 Oberwangen,3.5,61.0,1690,8.33,Apartment,-1,2025,1
+4002266079,"Seestrasse 117,",8266 Steckborn,4.5,69.0,2200,3.5,Apartment,-1,-1,0
+4002266245,"Seestrasse 117,",8266 Steckborn,4.5,69.0,2200,3.5,Apartment,-1,-1,0
+4002266986,"Ifangstrasse 20,",8360 Eschlikon,4.5,113.0,2350,6.0,Apartment,-1,2021,1
+4002267092,"Winkelstrasse 10,",8583 Sulgen,4.5,107.0,2000,7.5,Apartment,-1,2016,1
+4002268427,"Chalchthorestrasse 2c,",8280 Kreuzlingen,3.5,92.0,2350,7.67,Apartment,-1,2008,0
+4002268483,"Bahnhofstrasse 3,",8560 Märstetten,1.0,18.0,600,6.5,Apartment,-1,-1,0
+4002268502,"Brauerstrasse 5,",9320 Arbon,3.5,81.0,1200,5.0,Apartment,-1,-1,0
+4002269583,"Sonnenhalde 6,",9553 Bettwiesen,4.5,130.0,2000,5.0,Apartment,-1,2002,1
+4002269640,"Ackerstrasse 21,",8266 Steckborn,3.5,64.0,1390,5.5,Apartment,-1,1939,1
+4002270206,"Langrütistrasse,",8553 Eschikofen,5.5,-1,2690,-1,Maisonette / Duplex,-1,-1,0
+4002270612,"Buchstrasse 7,",8586 Erlen,4.5,90.0,1740,-1,Apartment,2000,-1,1
+4002270631,"Kreuzlingerstrasse,",8590 Romanshorn,4.5,88.0,1640,8.33,Apartment,2020,-1,1
+4002270639,"Ackerstrasse 20,",8266 Steckborn,4.5,125.0,2000,5.0,Single house,-1,-1,1
+4002270641,"Grabenstrasse 13A,",8266 Steckborn,4.0,80.0,1300,18.0,Apartment,-1,-1,1
+4002270789,"Sankt Gallerstrasse 31,",9320 Arbon,3.5,74.0,1200,4.0,Apartment,-1,1989,1
+4002270866,"Schaffhauserstrasse 1,",8253 Diessenhofen,3.5,64.0,1490,5.5,Apartment,2020,-1,1
+4002270969,"Hamelstrasse 1,",9320 Arbon,-1,58.0,1201,2.75,Commercial,-1,-1,0
+4002271618,,,6.0,180.0,3500,-1,Single house,-1,-1,0
+4002271623,"Schulewg 2,",8561 Ottoberg,5.0,-1,2050,-1,Apartment,-1,-1,0
+4002271648,"Remisbergstr 36,",8280 Kreuzlingen,1.5,-1,720,7.0,Apartment,-1,-1,0
+4002271672,,,-1,-1,-1,-1,,-1,-1,0
+4002271745,,,1.0,32.0,1350,-1,Apartment,-1,-1,0
+4002272099,"Alemannenstrasse 6,",9320 Arbon,4.5,105.0,1450,3.0,Apartment,-1,-1,0
+4002272101,"Otmarhof 5,",8594 Güttingen,3.5,100.0,2120,5.67,Apartment,-1,2025,0
+4002272102,"Otmarhof 3,",8594 Güttingen,4.5,114.0,2320,6.0,Apartment,-1,2025,0
+4002272104,"Otmarhof 3/5,",8594 Güttingen,3.5,105.0,2160,6.0,Apartment,-1,2025,0
+4002272119,"Amriswilerstrasse 82B,",8570 Weinfelden,3.5,85.0,2295,7.5,Apartment,-1,2025,1
+4002272127,"Amriswilerstrasse 82B,",8570 Weinfelden,4.5,101.0,2350,7.5,Apartment,-1,2025,1
+4002274141,"Bahnhofstrasse 10,",8594 Güttingen,1.5,-1,1410,6.33,Apartment,-1,2026,0
+4002274187,"Bahnhofstrasse 6,",8594 Güttingen,2.5,-1,1350,6.33,Apartment,-1,2026,0
+4002274259,"Bahnhofstrasse 10,",8594 Güttingen,3.5,-1,1765,6.33,Apartment,-1,2026,0
+4002274310,"Bahnhofstrasse 6,",8594 Güttingen,4.5,-1,2070,6.33,Apartment,-1,2026,0
+4002274357,"Bahnhofstrasse 10,",8594 Güttingen,5.5,-1,3100,6.33,Apartment,-1,2026,0
+4002275239,,,-1,-1,600,-1,Single Room,-1,-1,0
+4002275264,"Bleichenweg 4,",8508 Homburg,3.5,120.0,2200,-1,Apartment,-1,-1,0
+4002275310,"Alterswilerstrasse 19,",8573 Siegershausen,2.5,-1,1840,5.5,Loft,-1,-1,0
+4002275325,"Amriswilerstrasse 16,",9220 Bischofszell,5.5,-1,2100,5.75,Maisonette / Duplex,2024,-1,1
+4002275717,"Dietlismühle 1,",8512 Thundorf,2.5,75.0,1990,11.33,Apartment,-1,-1,1
+4002275719,"Dietlismühle 1,",8512 Thundorf,3.5,83.0,2360,11.33,Apartment,-1,-1,1
+4002276069,,,5.5,120.0,1600,-1,Apartment,2020,1991,0
+4002276300,"Egelseestrasse 4,",8570 Weinfelden,4.5,119.0,2205,7.25,Attic flat,-1,2012,0
+4002276777,"Freiestrasse 4a,",8570 Weinfelden,2.5,69.0,1645,5.0,Apartment,-1,-1,0
+4002277860,"Rütistrasse 16,",8580 Amriswil,1.0,-1,770,3.5,Studio,-1,-1,1
+4002278354,"Weingartenstrasse 3A,",9535 Wilen b. Wil,6.5,-1,3200,4.5,Single house,2025,-1,1
+4002278527,"Zentrum Arbon,",8280 Kreuzlingen,3.0,78.0,1060,-1,Apartment,-1,-1,0
+4002278548,"St. Galler Strasse 45,",9320 Arbon,3.0,78.0,1080,5.25,Apartment,-1,-1,0
+4002279019,"Amriswilerstrasse 20A,",8590 Romanshorn,4.5,100.0,1650,7.0,Apartment,-1,-1,1
+4002279286,"Rankstrasse 5,",8280 Kreuzlingen,3.5,91.0,2070,5.75,Apartment,-1,2016,1
+4002280879,,,-1,16.0,680,-1,Single Room,-1,-1,0
+4002280893,"Unterdorfstrasse 4,",8595 Altnau,-1,18.0,600,5.0,Single Room,-1,-1,0
+4002280934,"Egnacherstrasse 23a,",9320 Arbon,4.5,-1,1970,6.67,Apartment,-1,2015,0
+4002284005,,,-1,-1,-1,-1,,-1,-1,0
+4002284158,"Bahnhofstrasse 20,",8253 Diessenhofen,4.5,117.0,2500,3.75,Apartment,-1,2014,1
+4002285113,"Obertor 30,",8253 Diessenhofen,2.0,74.0,1550,4.5,Apartment,-1,-1,0
+4002285420,"Waldorfstrasse 6,",8577 Schönholzerswilen,4.5,-1,2200,-1,Single house,-1,-1,0
+4002285444,"Gottlieberstr. 5,",8274 Gottlieben,2.0,45.0,1130,-1,Apartment,-1,-1,0
+4002285749,"Säntisstrasse 4,",8580 Amriswil,3.0,-1,1330,2.75,Apartment,-1,-1,1
+4002286495,"Neuhofstrasse 1,",8500 Frauenfeld,-1,26.0,120,2.5,Hobby room,-1,-1,0
+4002286581,"Birkenweg 5a,",8500 Frauenfeld,4.5,105.0,2100,6.0,Apartment,-1,-1,0
+4002287850,"Säntisstrasse 4,",8580 Amriswil,3.0,-1,1270,2.75,Apartment,-1,-1,1
+4002287890,"Bahnhofstrasse 16,",8580 Amriswil,1.5,-1,860,2.25,Apartment,-1,-1,0
+4002287894,"Talacker 13,",8259 Kaltenbach,3.5,83.0,1680,11.5,Maisonette / Duplex,-1,1997,1
+4002288004,"Mittlere Grenzstrasse 7,",8580 Amriswil,5.5,-1,1930,6.75,Maisonette / Duplex,-1,-1,1
+4002288502,"Mülibach 1,",8259 Wagenhausen,1.5,46.0,1258,10.33,Apartment,-1,-1,1
+4002288959,"Pünt, Bottighofen,",8598 Bottighofen,4.0,-1,1760,-1,Apartment,-1,-1,0
+4002289519,,,6.5,150.0,2450,-1,Bifamiliar house,2025,1990,1
+4002289916,"Egelseestrasse 4,",8570 Weinfelden,4.5,111.0,2050,7.25,Apartment,-1,2012,1
+4002290781,"Kapellenweg 2,",9213 Hauptwil-Gottshaus,4.0,82.0,1690,1.0,Apartment,2025,-1,1
+4002290810,"Kapellenweg 2,",9213 Hauptwil-Gottshaus,3.5,73.0,1450,1.0,Apartment,2025,-1,1
+4002290917,"Bahnhofstrasse 3,",8590 Romanshorn,3.5,85.0,2150,3.5,Attic flat,2025,-1,1
+4002291734,"Hauptstrasse 48a,",8586 Erlen,5.5,-1,1820,10.0,Apartment,-1,-1,0
+4002292080,"Remisbergstr 36,",8280 Kreuzlingen,1.5,-1,720,7.0,Apartment,-1,-1,0
+4002292589,"Neuhofstrasse 4,",8586 Erlen,3.5,-1,1190,5.33,Apartment,2007,-1,1
+4002293666,"Schützenstrasse 2,",8580 Sommeri,2.5,70.0,1545,1.5,Apartment,-1,-1,1
+4002293906,"Hintergasse 17,",8253 Diessenhofen,3.5,-1,1470,6.5,Roof flat,-1,-1,0
+4002294077,"Meieboolstrasse 2,",8598 Bottighofen,3.5,80.0,1850,11.33,Roof flat,2003,1935,1
+4002294235,"Bühlstrasse 6,",8371 Sirnach,4.5,-1,1990,4.5,Apartment,-1,-1,1
+4002294351,"Hauptstrasse 54/56,",8546 Islikon,-1,-1,130,8.0,Hobby room,-1,-1,0
+4002294358,"Hauptstrasse 65,",8580 Sommeri,4.5,155.0,2850,5.5,Maisonette / Duplex,2025,-1,1
+4002294837,"Oberer Höhenweg 11,",8266 Steckborn,-1,24.0,1100,9.0,Single Room,-1,-1,0
+4002294857,"Rebbergstrasse 33,",8583 Donzhausen,3.0,75.0,1300,11.33,Apartment,-1,-1,0
+4002295159,"Sägestrasse 2,",8580 Amriswil,2.0,-1,1090,9.25,Apartment,-1,-1,1
+4002295218,"Wannenfeldstrasse 85,",8500 Frauenfeld,1.5,-1,1300,11.5,Apartment,-1,-1,0
+4002295287,"Seestrasse 2b,",8599 Salmsach,3.5,67.0,1740,6.0,Loft,-1,2022,1
+4002295454,"Sankt Gallerstrasse 158,",9320 Arbon,4.5,104.0,2400,6.0,Apartment,-1,2024,1
+4002295466,"Sankt Gallerstrasse 150,",9320 Stachen,3.5,101.0,2250,6.0,Apartment,-1,2024,0
+4002295654,"Heiniswingerten 1,",9507 Stettfurt,5.5,170.0,2606,5.33,Single house,-1,1993,1
+4002296387,"Hafenstrasse 5,",8280 Kreuzlingen,1.5,26.0,870,6.0,Apartment,-1,2013,1
+4002296880,"Alleeweg 12,",8280 Kreuzlingen,4.5,-1,1760,4.25,Apartment,-1,-1,1
+4002297328,"St. Gallerstrasse 14,",9548 Matzingen,3.0,65.0,1300,4.67,Roof flat,2013,-1,0
+4002297914,"Alte Landstrasse 8,",8580 Hefenhofen,4.0,-1,1070,2.0,Apartment,-1,-1,0
+4002298314,"Im Grund 4a,",9553 Bettwiesen,4.5,92.0,2370,5.0,Apartment,-1,2023,1
+4002299346,"Breitestrasse 4,",8572 Berg,3.5,98.0,1700,5.67,Maisonette / Duplex,-1,1994,1
+4002302038,"Bachstrasse 23,",8597 Landschlacht,5.5,107.0,2190,5.5,Apartment,2025,-1,1
+4002302346,,,4.0,106.0,3650,-1,Single house,-1,2009,1
+4002302474,"Bsetziweg 6,",8500 Frauenfeld,3.5,89.0,2120,5.0,Apartment,-1,2012,0
+4002302542,"St. Gallerstrasse 194,",9548 Matzingen,3.5,113.0,2260,13.0,Apartment,-1,-1,1
+4002302749,"Hauptstrasse 56,",8264 Eschenz,-1,-1,2020,5.0,Apartment,-1,2025,1
+4002302803,"Quellenstrasse 2,",8555 Müllheim Dorf,4.5,-1,1881,6.67,Apartment,-1,1994,1
+4002302851,"Bahnhoftsrasse 35,",8575 Bürglen TG,2.5,-1,1451,3.67,Apartment,-1,-1,0
+4002302895,"Hafenstrasse 58,",8590 Romanshorn,-1,20.0,780,5.75,Single Room,-1,-1,0
+4002302901,"Uttwilerstrasse 20,",8593 Kesswil,2.5,65.0,1300,5.0,Apartment,-1,-1,0
+4002303466,"Amriswilerstrasse 82B,",8570 Weinfelden,2.5,62.0,1550,7.5,Apartment,-1,2025,1
+4002303608,"Klarastrasse 6,",9320 Arbon,4.5,106.0,1701,3.5,Apartment,-1,1994,1
+4002303654,"Scheuchenstr. 25,",8500 Frauenfeld,5.5,110.0,1710,5.0,Apartment,1983,1982,1
+4002304127,,,-1,280.0,3550,-1,Advertising area,-1,-1,0
+4002305063,"Bächligartenweg 9,",8280 Kreuzlingen,3.0,-1,1570,6.5,Apartment,-1,-1,1
+4002305403,,,-1,-1,-1,-1,,-1,-1,0
+4002305737,"Weiherstrasse 33,",8580 Amriswil,4.0,75.0,1530,7.0,Apartment,-1,-1,1
+4002306328,"Im Lanacker 18e,",8535 Herdern,4.5,100.0,2700,6.5,Apartment,-1,-1,0
+4002306336,"Kanalstrasse 7,",8370 Sirnach,4.5,129.0,2845,7.25,Apartment,-1,-1,0
+4002306352,"Gartenstrasse,",8590 Romanshorn,3.5,79.0,1200,-1,Apartment,-1,-1,0
+4002306814,"Neugasse 7,",9220 Bischofszell,1.0,38.0,1030,3.25,Apartment,2025,1919,1
+4002308390,"Stacherholzstrasse 24,",9320 Arbon,4.5,103.0,1430,7.75,Apartment,1984,1961,0
+4002308477,"Ergatenweg 25,",8583 Sulgen,4.5,111.0,2290,-1,Apartment,-1,2025,1
+4002308938,"Amriswilerstrasse 59,",9314 Steinebrunn,3.5,98.0,1340,3.0,Apartment,2018,1910,0
+4002309221,"Quellenstrasse,",8280 Kreuzlingen,2.5,65.0,1399,-1,Apartment,-1,-1,0
+4002310578,"Bahnhofstrasse 22B,",8360 Eschlikon,5.0,130.0,2150,7.0,Maisonette / Duplex,-1,1994,1
+4002310594,"Weidwiesenstrasse 12,",8580 Amriswil,3.5,95.0,1720,8.75,Apartment,2025,1993,1
+4002311145,"Kirchstrasse 30,",8580 Amriswil,4.5,84.0,1170,4.5,Apartment,2018,1951,1
+4002311149,"Bachweg 3,",8590 Romanshorn,4.0,102.0,1770,5.25,Apartment,2025,1994,1
+4002311224,"Uttwilerstrasse 5,",8582 Dozwil,4.0,75.0,1450,3.33,Apartment,2020,1965,1
+4002311249,"Bankstrasse 10,",8590 Romanshorn,3.0,-1,1180,4.25,Roof flat,2025,1900,0
+4002311564,"Trottenackerstrasse 10,",9507 Stettfurt,5.5,115.0,-1,4.33,Apartment,-1,2025,1
+4002311617,"Grünaustrasse 23,",9320 Arbon,4.5,75.0,1495,7.5,Apartment,2023,1966,1
+4002311869,"Amriswilerstrasse 46,",9314 Steinebrunn,6.5,144.0,3100,7.5,Maisonette / Duplex,2025,1899,1
+4002311905,"Waidackerstrasse 9,",8592 Uttwil,6.5,165.0,2350,11.33,Apartment,-1,-1,0
+4002311918,"Amriswilerstrasse 46,",9314 Steinebrunn,3.0,65.0,1700,7.5,Apartment,2025,1899,1
+4002312046,"Fischingerstrasse 59,",8370 Sirnach,3.5,-1,1850,8.5,Apartment,-1,2024,0
+4002312217,"Hamelplatz 2,",9320 Arbon,4.5,124.0,2746,4.0,Apartment,-1,2020,1
+4002312334,"Amriswilerstrasse 102,",8590 Romanshorn,3.5,91.0,1590,2.0,Apartment,-1,-1,0
+4002312848,,,-1,-1,-1,-1,,-1,-1,0
+4002312870,"Frauenfelderstrasse 4a,",8252 Schlatt TG,3.5,111.0,1811,-1,Apartment,-1,2015,1
+4002312945,,,-1,-1,-1,-1,,-1,-1,0
+4002313886,"Welfensberg 4A,",9515 Hosenruck,1.5,-1,960,-1,Apartment,-1,-1,0
+4002314561,"Frauenfelderstrasse 4c,",8252 Schlatt TG,2.5,54.0,1285,-1,Apartment,-1,2016,1
+4002314744,"Rietweiherweg 6b,",8500 Frauenfeld,4.5,119.0,2340,12.67,Apartment,-1,2007,0
+4002315349,"Oberhof 427,",9502 Braunau,2.0,-1,1180,-1,Apartment,-1,-1,0
+4002315354,"8274Tägerwilen,",8274 Tägerwilen,5.5,175.0,2990,-1,Apartment,-1,-1,0
+4002315376,,,-1,-1,-1,-1,,-1,-1,0
+4002315378,,,-1,-1,-1,-1,,-1,-1,0
+4002315511,,,5.5,175.0,2990,-1,Apartment,-1,-1,0
+4002317092,"Weidwiesenstrasse 1,",8580 Amriswil,3.5,87.0,1790,5.75,Apartment,-1,-1,1
+4002317318,"Bütenstrasse 12,",8595 Altnau,5.5,-1,3620,5.0,Row house,-1,2025,0
+4002317704,"Reutistrasse 4,",8575 Bürglen TG,1.0,30.0,720,9.5,Apartment,-1,-1,0
+4002318053,"Bitzisteig 3,",9220 Bischofszell,1.0,35.0,845,6.0,Apartment,-1,-1,0
+4002319475,,,5.5,140.0,2650,-1,Single house,-1,-1,0
+4002319743,"Basadingerstrasse 34,",8253 Diessenhofen,3.5,83.0,1900,5.25,Apartment,-1,2025,0
+4002319756,"Basadingerstrasse 34,",8253 Diessenhofen,3.5,85.0,1910,5.25,Apartment,-1,2025,0
+4002319757,"Basadingerstrasse 34,",8253 Diessenhofen,3.5,80.0,2140,5.25,Attic flat,-1,2025,0
+4002319758,"Basadingerstrasse 34,",8253 Diessenhofen,4.5,99.0,2190,5.25,Apartment,-1,2025,0
+4002319759,"Basadingerstrasse 34,",8253 Diessenhofen,3.5,83.0,1850,5.25,Apartment,-1,2025,0
+4002319761,"Basadingerstrasse 34,",8253 Diessenhofen,3.5,83.0,1850,5.25,Apartment,-1,2025,0
+4002319763,"Basadingerstrasse 34,",8253 Diessenhofen,4.5,99.0,2190,5.25,Apartment,-1,2025,0
+4002319764,"Basadingerstrasse 34,",8253 Diessenhofen,4.5,126.0,2950,5.25,Attic flat,-1,2025,0
+4002320161,"Im Lerchenfeld 11,",9535 Wilen b. Wil,2.5,-1,1480,3.75,Apartment,-1,2000,1
+4002320793,"Im Zentrum 0C,",8522 Häuslenen,3.5,70.0,1750,9.0,Apartment,2023,1989,1
+4002320920,"Konradstrasse 10,",8590 Romanshorn,1.0,-1,770,5.75,Apartment,-1,-1,0
+4002320988,"Gartenstrasse 6,",8590 Romanshorn,3.5,82.0,1250,5.75,Apartment,-1,-1,1
+4002321010,"Bachweg 1,",8274 Tägerwilen,-1,16.0,720,5.5,Single Room,-1,-1,0
+4002321100,"Wilerstrasse 98 in,",8514 Amlikon-Bissegg,-1,20.0,680,9.0,Single Room,-1,-1,0
+4002322544,"Döllistrasse 9,",8592 Uttwil,4.5,109.0,1960,3.67,Apartment,-1,2011,1
+4002322731,"Hubstrasse 7,",8590 Romanshorn,2.0,48.0,1000,6.0,Apartment,-1,1962,1
+4002322861,"Sonnenhügelstrasse 40,",9320 Arbon,3.5,-1,1690,5.5,Apartment,-1,-1,1
+4002322888,"Sonnenhügelstrasse 40,",9320 Arbon,3.5,-1,1590,5.5,Apartment,-1,-1,1
+4002322944,"Weitegasse 6,",9320 Arbon,1.5,75.0,1680,4.25,Apartment,-1,-1,1
+4002322951,"Hauptstrasse 11,",8507 Hörhausen,4.5,158.0,2500,5.33,Farm house,2019,-1,1
+4002323343,"Blumenstrasse 2,",8514 Amlikon-Bissegg,5.5,129.0,3000,6.0,Single house,2023,1899,1
+4002323375,"Kreuzlingerstrasse 119,",8587 Oberaach,3.5,87.0,1680,9.5,Apartment,-1,-1,1
+4002323480,"Kapfstrasse 6,",8253 Diessenhofen,4.5,110.0,1900,10.25,Apartment,-1,1997,0
+4002323601,,,4.5,85.0,1550,-1,Roof flat,-1,-1,1
+4002323729,"Sonnhaldenstrasse 1,",8264 Eschenz,4.5,-1,2040,7.33,Apartment,-1,-1,1
+4002323745,"Metzgergasse 10,",9320 Arbon,1.0,21.0,670,2.25,Studio,-1,-1,0
+4002323926,"Hauptstrasse 87,",8274 Tägerwilen,3.5,100.0,1690,5.25,Apartment,-1,-1,1
+4002324160,"Diessenhoferstrasse 17,",8254 Basadingen,4.5,115.0,2150,6.5,Apartment,2024,-1,1
+4002324162,"Bahnhof,",8500 Frauenfeld,2.5,-1,1475,-1,Apartment,-1,-1,0
+4002324258,"Heidengasse 5,",8575 Bürglen TG,4.5,-1,1550,5.0,Apartment,2017,1940,0
+4002324281,"Mittlere Gasse 8,",8590 Romanshorn,4.5,-1,1350,2.5,Apartment,-1,-1,0
+4002324358,,,-1,-1,-1,-1,,-1,-1,0
+4002324403,"Romanshornerstrasse 225,",8580 Hefenhofen,4.5,120.0,1750,-1,Apartment,-1,-1,1
+4002324444,"Winzerstrasse 12,",8280 Kreuzlingen,5.5,185.0,3500,8.25,Bifamiliar house,-1,2014,1
+4002324599,"Buchenweg 5c,",8500 Frauenfeld,3.5,81.0,1830,5.5,Apartment,-1,-1,0
+4002324604,"Giessereistrasse 13,",9320 Arbon,2.5,52.0,1460,6.5,Apartment,-1,-1,1
+4002325283,"Mühlenstrasse 5,",8587 Oberaach,4.5,80.0,1380,-1,Apartment,-1,-1,0
+4002325380,"Bernrainstrasse 2,",8280 Kreuzlingen,4.5,-1,2200,7.25,Apartment,-1,-1,1
+4002325679,"Höfli 53a,",8555 Müllheim Dorf,4.5,114.0,2900,4.67,Apartment,-1,2025,1
+4002325680,"Höfli 55,",8555 Müllheim Dorf,4.5,114.0,2900,4.67,Apartment,-1,2025,1
+4002325681,"Höfli 55,",8555 Müllheim Dorf,5.5,130.0,3150,6.67,Apartment,-1,2025,1
+4002325754,"Murgstrasse 12,",8500 Frauenfeld,3.0,-1,1580,2.75,Apartment,-1,-1,1
+4002325953,"Kornfeldstrasse 14,",9320 Arbon,2.0,47.0,1080,7.25,Apartment,-1,1966,1
+4002326060,"Chalchthorestrasse 1a,",8280 Kreuzlingen,4.5,111.0,2250,7.33,Apartment,-1,2008,0
+4002326215,"Breitholz 3,",8370 Sirnach,4.5,130.0,2290,11.5,Apartment,2022,-1,1
+4002326241,"Hauptstrasse 57a,",9553 Bettwiesen,3.5,-1,1864,4.0,Apartment,-1,2017,1
+4002326422,"Seestrasse 29,",9320 Arbon,4.5,98.0,1990,7.0,Apartment,2023,-1,1
+4002326519,"Hauptstrasse 82,",8272 Ermatingen,-1,22.0,1150,4.33,Single Room,-1,-1,0
+4002326536,"Nordstrasse 6,",8360 Wallenwil,4.5,113.0,2350,-1,Apartment,-1,-1,0
+4002326549,"Sonnenplatz 4,",8536 Hüttwilen,3.5,80.0,1975,3.67,Apartment,-1,-1,0
+4002326774,"Kurhausstrasse 10, Oberwangen TG,",8374 Oberwangen TG,6.0,180.0,3500,4.67,Single house,-1,-1,0
+4002328077,,,5.5,151.0,2270,-1,Attic flat,-1,2021,1
+4002328317,,,-1,-1,-1,-1,,-1,-1,0
+4002328519,"Salensteinerstrasse 10b,",8272 Ermatingen,3.5,76.0,1840,9.0,Apartment,-1,2017,0
+4002328720,"Zürcherstrasse 212,",8500 Frauenfeld,1.0,16.0,775,3.5,Apartment,-1,-1,1
+4002329028,,,2.5,75.0,1950,-1,Apartment,2025,-1,0
+4002329237,"Hölzlistrasse 20a,",8580 Amriswil,2.5,61.0,1620,11.75,Attic flat,-1,-1,0
+4002329837,"Rebhaldenstrasse 10,",9320 Arbon,3.5,93.0,2020,3.0,Apartment,-1,-1,1
+4002329944,"Alterswilerstrasse 19,",8573 Siegershausen,3.0,-1,1850,5.5,Maisonette / Duplex,-1,-1,0
+4002330127,,,-1,-1,-1,-1,,-1,-1,0
+4002330204,"St. Gallerstrasse 194,",9548 Matzingen,4.5,128.0,2480,13.0,Apartment,-1,-1,1
+4002330255,"Flurstrasse 4,",8585 Happerswil,5.5,155.0,2190,-1,Roof flat,-1,2015,1
+4002330417,"Trottenackerstrasse 10,",9507 Stettfurt,3.5,125.0,3050,4.33,Apartment,-1,2025,1
+4002330566,"Wannenfeldstrasse 85,",8500 Frauenfeld,3.5,-1,1700,11.5,Apartment,-1,-1,0
+4002330616,,,-1,-1,-1,-1,,-1,-1,0
+4002330711,"Untere Bisrütistrasse 2,",9220 Bischofszell,6.0,-1,2260,6.75,Maisonette / Duplex,-1,-1,1
+4002330922,"Hauptstrasse 11,",9225 Wilen (Gottshaus),4.5,106.0,1590,6.0,Maisonette / Duplex,2011,-1,1
+4002331005,,,1.5,-1,900,-1,Apartment,-1,-1,0
+4002331261,"Frauenfelderstrasse 4,",9542 Münchwilen TG,4.5,133.0,1755,3.5,Apartment,-1,-1,0
+4002331597,"Freihofstrasse 10,",8575 Bürglen TG,3.5,65.0,1400,6.33,Apartment,1995,1965,1
+4002331626,"Seestrasse 112,",8266 Steckborn,3.0,75.0,1250,4.25,Apartment,2024,-1,0
+4002332005,"Mirabellenweg 4,",8590 Romanshorn,4.5,122.0,2280,5.67,Apartment,-1,2011,0
+4002332149,"Andhauserstrasse 54,",8572 Berg TG,1.5,-1,1050,8.0,Apartment,-1,-1,0
+4002332156,"Weinfelderstrasse 10,",8575 Bürglen TG,4.5,-1,1635,5.0,Apartment,-1,-1,0
+4002332351,,,3.5,79.0,2020,-1,Attic flat,-1,2024,0
+4002332841,,,-1,-1,-1,-1,,-1,-1,0
+4002333353,"Sattelbogenstrasse 7,",9220 Bischofszell,2.5,-1,1190,6.75,Apartment,-1,-1,0
+4002333544,"Weinstrasse 30,",8280 Kreuzlingen,4.0,65.0,1590,5.5,Apartment,2023,1965,1
+4002333988,"Sportplatzstrasse 5,",8580 Amriswil,1.5,-1,1060,7.0,Apartment,-1,-1,1
+4002334335,"Kirchstrasse 25,",8580 Amriswil,4.5,-1,1690,4.0,Apartment,-1,-1,1
+4002334387,"Frauenfelderstrasse 4,",9542 Münchwilen TG,4.5,133.0,1755,3.5,Apartment,-1,-1,0
+4002334898,"Unterhof 18,",8595 Altnau,3.5,96.0,2130,7.5,Apartment,-1,2022,1
+4002335091,"Hauptstrasse 45,",8546 Islikon,2.5,-1,1910,3.67,Apartment,-1,-1,1
+4002335104,,,-1,-1,-1,-1,,-1,-1,0
+4002335125,"Thundorferstrasse 114,",8500 Frauenfeld,4.5,130.0,2490,4.0,Apartment,-1,-1,1
+4002335202,"Seefeldstrasse 10,",8280 Kreuzlingen,3.5,112.0,1940,3.0,Apartment,-1,-1,1
+4002335264,"Alleestrasse 7,",8590 Romanshorn,3.5,-1,1550,3.0,Apartment,-1,-1,1
+4002335293,"Alleestrasse 7A,",8590 Romanshorn,3.0,-1,1420,5.0,Apartment,-1,-1,1
+4002335339,,,-1,-1,-1,-1,,-1,-1,0
+4002335560,"Alpenblickstrasse 3,",9320 Arbon,4.5,102.0,1670,10.0,Apartment,-1,1993,1
+4002336530,"Bahnhofstr. 55,",8500 Frauenfeld,2.5,59.0,1630,2.25,Apartment,-1,2023,0
+4002336703,"Schooswiesen 30,",9225 Wilen (Gottshaus),3.5,95.0,1590,10.5,Apartment,2024,-1,1
+4002336898,"Tägermoosstrasse 2,",8280 Kreuzlingen,2.5,57.0,1717,5.0,Apartment,-1,-1,0
+4002337223,"Brunnenwiesen 7,",9320 Frasnacht,4.5,95.0,1690,5.33,Apartment,-1,-1,1
+4002338089,,,4.5,85.0,1370,-1,Apartment,-1,-1,0
+4002338109,"Neuhofstrasse 75,",8590 Romanshorn,4.0,-1,1270,4.75,Apartment,-1,-1,0
+4002338301,"Andhauserstrasse,",8572 Berg,4.5,152.0,3300,9.33,Attic flat,-1,-1,1
+4002338638,,,4.5,124.0,2200,-1,Apartment,-1,-1,1
+4002338649,,,2.5,55.0,1350,-1,Apartment,-1,-1,0
+4002339102,"Ringstrasse 1,",8575 Bürglen,5.5,-1,1960,4.33,Apartment,-1,-1,0
+4002339104,"Mittlere Grenzstrasse 7,",8580 Amriswil,3.5,-1,1680,6.75,Apartment,-1,-1,1
+4002339117,,,-1,-1,-1,-1,,-1,-1,0
+4002339784,,,-1,-1,-1,-1,,-1,-1,0
+4002339836,,,-1,-1,-1,-1,,-1,-1,0
+4002339843,,,-1,-1,-1,-1,,-1,-1,0
+4002339882,"Propstei 10,",8259 Wagenhausen,4.5,110.0,1500,11.0,Apartment,2019,1087,0
+4002340307,"Stationsstrasse 3,",8355 Aadorf,4.0,90.0,1670,5.25,Apartment,-1,-1,1
+4002340530,"Gerbergasse 4,",9220 Bischofszell,4.5,160.0,1650,2.75,Apartment,-1,-1,0
+4002340552,"Seestr. 48a,",8594 Güttingen,5.5,152.0,2950,13.33,Apartment,-1,-1,0
+4002340561,,,-1,-1,-1,-1,,-1,-1,0
+4002340567,"Kirchweg 17,",8555 Müllheim Dorf,3.5,96.0,2109,3.0,Apartment,-1,2017,1
+4002340782,"Meieboolstrasse 2,",8598 Bottighofen,3.5,109.0,2190,11.33,Apartment,2003,1935,1
+4002340831,"Wigärtlistrasse 6b,",8274 Tägerwilen,3.5,-1,2110,5.0,Apartment,-1,2022,1
+4002341500,"Mühlebachweg 1c,",8580 Amriswil,3.5,92.0,2135,4.67,Apartment,-1,2020,1
+4002341565,"Südstrasse 4,",8570 Weinfelden,3.5,81.0,1570,7.75,Apartment,2021,1995,0
+4002341566,"Schmidgasse 15a,",8500 Frauenfeld,4.5,88.0,1780,6.5,Apartment,1992,1965,0
+4002341569,"Alpenblickstrasse 5,",9320 Arbon,3.5,80.0,1365,9.75,Maisonette / Duplex,-1,1993,1
+4002341578,"Tellstrasse 13,",8280 Kreuzlingen,3.5,-1,1390,5.75,Apartment,-1,1960,0
+4002341583,,,-1,-1,-1,-1,,-1,-1,0
+4002342458,"Stockenstrasse 12,",8362 Balterswil,4.5,124.0,2420,5.0,Attic flat,-1,2012,0
+4002342459,"Stockenstrasse 14,",8362 Balterswil,4.5,124.0,2545,5.67,Attic flat,-1,2012,0
+4002342602,"Freihofstrasse 7,",8280 Kreuzlingen,3.5,-1,2060,6.75,Apartment,-1,2010,1
+4002342903,"Bahnhofstrasse 13,",8560 Märstetten,5.5,150.0,2140,6.0,Maisonette / Duplex,-1,-1,0
+4002342909,"Talacker 15,",8259 Wagenhausen,4.5,-1,2390,5.5,Maisonette / Duplex,-1,-1,1
+4002343103,"Seestrasse 121a,",9326 Horn,3.5,79.0,1946,3.75,Apartment,-1,-1,1
+4002343192,"Bahnhofstrasse 1A,",8570 Weinfelden,3.0,-1,1652,2.5,Roof flat,-1,-1,1
+4002343213,"Friedhofstrasse 2,",8583 Sulgen,1.5,-1,850,7.67,Apartment,-1,-1,0
+4002343238,"Mattfeldstrasse 6,",9532 Rickenbach,4.5,74.0,1600,9.5,Apartment,2017,1970,1
+4002343316,"Breitestrasse 1,",8552 Felben-Wellhausen,4.5,122.0,2260,5.67,Apartment,-1,2021,0
+4002343505,,,-1,-1,-1,-1,,-1,-1,0
+4002343634,,,4.5,100.0,1100,-1,Apartment,-1,-1,1
+4002343853,"Im Feldbach 1h,",8266 Steckborn,4.5,185.0,4730,4.25,Attic flat,-1,2016,0
+4002343922,"Romanshornerstr. 80,",9320 Arbon,3.0,55.0,1230,6.25,Apartment,-1,-1,0
+4002343940,"Bachstrasse 6,",8590 Romanshorn,-1,-1,560,4.0,Single Room,-1,-1,0
+4002343975,"Gaissbergstrasse 60,",8280 Kreuzlingen,3.5,125.0,2290,9.25,Apartment,-1,1973,1
+4002344018,"Romanshornerstr. 80,",9320 Arbon,3.0,55.0,1195,6.25,Apartment,-1,-1,0
+4002344213,"Otmarhof 4,",8594 Güttingen,2.5,70.0,1645,5.33,Apartment,-1,2025,0
+4002344214,"Hauptstrasse 27,",9215 Kradolf,3.5,55.0,1135,4.67,Apartment,-1,-1,0
+4002344242,"Hauptstrasse 17,",8265 Mammern,3.5,-1,1450,3.5,Apartment,-1,-1,1
+4002344327,"Paul Reinhartstrasse 25,",8570 Weinfelden,4.5,-1,1700,6.25,Roof flat,-1,-1,0
+4002344528,"Lindenstrasse 4,",8500 Frauenfeld,2.5,56.0,1710,4.5,Apartment,-1,2016,1
+4002344538,"Besmerstrasse 50,",8280 Kreuzlingen,4.5,107.0,2680,6.33,Apartment,-1,2011,1
+4002345000,"Zeughausstrasse 8a,",8500 Frauenfeld,2.5,68.0,1690,3.0,Apartment,-1,-1,0
+4002345002,"Birkenweg 5,",8500 Frauenfeld,3.5,81.0,1810,6.0,Apartment,-1,-1,0
+4002345004,"Gaswerkstrasse 35,",8500 Frauenfeld,3.5,63.0,1610,4.75,Apartment,-1,-1,0
+4002345125,,,5.5,120.0,1550,-1,Maisonette / Duplex,-1,-1,1
+4002345417,"Lindenackerstrasse 1a,",8360 Eschlikon,3.5,119.0,2170,2.0,Apartment,-1,2018,1
+4002345480,"Auwiesenstrasse 3,",8583 Sulgen,4.5,106.0,1930,10.0,Apartment,-1,-1,1
+4002345951,"Schützenstrasse 34,",8280 Kreuzlingen,1.0,23.0,910,7.25,Apartment,-1,-1,1
+4002345999,"Langhaldenstrasse 26a,",8280 Kreuzlingen,4.0,80.0,1830,8.25,Apartment,2014,-1,1
+4002346392,"Teupelackerweg 5,",8597 Landschlacht,4.5,-1,2295,3.0,Apartment,-1,2024,1
+4002346661,"Hornstrasse 10,",8272 Ermatingen,-1,-1,240,6.33,Hobby room,-1,-1,0
+4002346670,"Bahnhofstrasse 1a,",8586 Erlen,1.0,-1,800,11.33,Studio,-1,-1,0
+4002346834,"Romanshornerstrasse 130,",9322 Egnach,4.5,121.0,2800,10.0,Roof flat,-1,-1,1
+4002346847,"Romanshornerstrasse 130,",9322 Egnach,4.5,93.0,1650,10.0,Apartment,-1,-1,1
+4002346861,"Romanshornerstrasse 130,",9322 Egnach,2.0,61.0,990,10.0,Roof flat,-1,-1,0
+4002346877,"Romanshornerstrasse 130,",9322 Egnach,2.5,51.0,1200,10.0,Apartment,-1,-1,1
+4002346908,,,-1,-1,-1,-1,,-1,-1,0
+4002346954,,,3.5,73.0,1870,-1,Apartment,-1,-1,0
+4002346955,"Säntisstrasse Amriswil,",8580 Amriswil,2.5,-1,970,-1,Apartment,-1,-1,0
+4002346961,"Bergerswilerstrasse,",8572 Berg TG,4.5,123.0,2680,-1,Apartment,-1,-1,0
+4002347331,"Weitegasse 13,",9320 Arbon,3.5,70.0,1210,4.5,Apartment,-1,-1,0
+4002347390,,,-1,-1,-1,-1,,-1,-1,0
+4002347400,,,-1,-1,-1,-1,,-1,-1,0
+4002347509,"Brückenstrasse 3,",8280 Kreuzlingen,4.5,116.0,2590,5.5,Apartment,-1,-1,1
+4002348050,"Uesslingerstrasse 1,",8532 Warth,4.5,162.0,2700,4.33,Apartment,-1,2023,1
+4002348070,"Hauptstrasse 103,",8357 Guntershausen b. Aadorf,3.0,60.0,1300,2.67,Apartment,2025,-1,0
+4002348155,,,3.5,112.0,1650,-1,Apartment,-1,-1,1
+4002348171,,,5.5,160.0,2050,-1,Maisonette / Duplex,-1,-1,1
+4002348848,"Bucherstrasse 12,",9556 Affeltrangen,3.5,72.0,1900,5.67,Attic flat,-1,2024,1
+4002348944,"Hinterdorf 8a,",8564 Engwilen,3.5,81.0,1850,-1,Apartment,-1,2019,1
+4002348977,"Kirchweg 15,",8555 Müllheim Dorf,3.5,-1,2109,3.0,Apartment,-1,2017,1
+4002349008,"Brühlwiesenstrasse 21,",9545 Wängi,3.5,-1,1450,8.0,Roof flat,-1,1989,0
+4002349079,"Kreuzlingerstrasse 2,",8590 Romanshorn,-1,-1,280,5.5,Storage room,-1,-1,0
+4002349327,"Riesenbergstrasse 2A,",8362 Balterswil,4.5,98.0,1725,2.0,Apartment,-1,-1,0
+4002349460,"Sonnhaldenstrasse 1,",8280 Kreuzlingen,4.5,85.0,1640,8.25,Apartment,-1,1969,1
+4002349841,"Romanshornerstr. 41,",8280 Kreuzlingen,3.5,-1,2040,9.0,Apartment,-1,-1,0
+4002349929,"Bahnhofstrasse 18-20,",8560 Märstetten,4.5,103.0,2090,3.0,Apartment,-1,2025,1
+4002349957,"Rosengartenstrasse 9,",9214 Kradolf-Schönenberg,5.5,150.0,2490,6.0,Single house,-1,2025,1
+4002349971,"Anwil 8,",8372 Wiezikon b. Sirnach,3.5,106.0,2500,-1,Single house,-1,2025,0
+4002350034,"Bühlstrasse 8a,",8371 Busswil TG,4.5,-1,1305,4.5,Apartment,-1,-1,1
+4002350195,"Weinfelderstrasse 4,",9542 Münchwilen,3.5,103.0,2310,3.25,Apartment,-1,2024,1
+4002350213,,,-1,-1,-1,-1,,-1,-1,0
+4002350349,"Seestrasse 51,",8267 Berlingen,3.0,90.0,2570,7.0,Apartment,-1,-1,0
+4002350416,,,2.5,100.0,1500,-1,Apartment,-1,-1,0
+4002350435,"Finkenstrasse 7,",9535 Wilen b. Wil,3.5,95.0,2320,7.0,Apartment,-1,-1,0
+4002350439,,,2.5,45.0,1050,-1,Apartment,-1,-1,0
+4002350448,,,-1,-1,-1,-1,,-1,-1,0
+4002350452,"Steinbruchstrasse 8,",8280 Kreuzlingen,1.0,-1,260,8.75,Hobby room,-1,2025,0
+4002350568,"Badgasse 19,",9322 Egnach,5.5,100.0,2050,-1,Apartment,-1,-1,0
+4002350624,,,2.5,100.0,1250,-1,Apartment,-1,-1,0
+4002350711,"Wannenfeldstrasse 89,",8500 Frauenfeld,4.5,95.0,1850,11.0,Apartment,-1,-1,0
+4002351136,"Grundweg 5,",9502 Braunau,6.5,230.0,2500,-1,Bifamiliar house,-1,2012,1
+4002352165,"Bahnhofstrasse 18-20,",8560 Märstetten,5.5,142.0,3090,3.0,Apartment,-1,2025,1
+4002352181,"Freiestrasse 44,",8570 Weinfelden,4.5,100.0,2900,7.5,Single house,-1,1940,1
+4002352185,"Wydenstrasse 13B,",8575 Bürglen TG,4.5,110.0,2000,5.67,Roof flat,-1,2009,1
+4002352189,,,-1,-1,-1,-1,,-1,-1,0
+4002352751,"Bühlstrasse 8a,",8371 Busswil TG,4.5,-1,1260,4.5,Apartment,-1,-1,1
+4002353190,"Bahnhofstrasse 58C,",9315 Neukirch (Egnach),4.5,105.0,2500,5.0,Row house,2012,1994,1
+4002353324,"Sandbreitestrasse 10,",8280 Kreuzlingen,4.5,156.0,3360,3.25,Apartment,-1,2016,1
+4002353732,"Rodenbergstrasse 10,",8253 Diessenhofen,2.5,73.0,1890,10.75,Apartment,-1,-1,0
+4002353886,"Frauenfelderstrasse 38,",8570 Weinfelden,3.5,80.0,1345,3.0,Apartment,-1,-1,0
+4002354044,"Hauptstrasse 46,",8546 Islikon,3.5,92.0,2350,5.0,Apartment,2022,1990,1
+4002354072,"Unterlangnau 9E,",9562 Affeltrangen,4.5,100.0,1890,9.67,Apartment,-1,2022,1
+4002354347,"Im Näggis 1,",8374 Oberwangen TG,4.5,148.0,2150,5.67,Apartment,-1,-1,0
+4002354449,"Speiserslehn 5,",9320 Arbon,3.5,81.0,1890,7.25,Apartment,-1,-1,1
+4002355381,"Brühlstrasse 96,",9320 Arbon,5.5,128.0,2420,8.33,Apartment,-1,-1,1
+4002355561,"Wannenfeldstrasse 79,",8500 Frauenfeld,4.5,94.0,1540,10.0,Apartment,-1,-1,0
+4002355584,"Poststrasse 1,",8269 Salenstein,5.5,125.0,3300,7.5,Single house,2021,1957,1
+4002356839,,,3.5,-1,1500,-1,Apartment,-1,-1,0
+4002356857,,,5.5,-1,1600,-1,Apartment,-1,-1,0
+4002356858,"Laagasse,",9565 Bussnang,4.5,130.0,2460,-1,Apartment,-1,-1,0
+4002356860,"seestrasse,",8266 Steckborn,1.5,-1,1500,-1,Apartment,-1,-1,0
+4002356871,"Bilchenstrasse,",8580 Amriswil,3.0,75.0,1223,-1,Apartment,-1,-1,0
+4002357388,,,5.5,160.0,2350,-1,Maisonette / Duplex,2024,-1,1
+4002358784,"Konstanzerstrasse 1,",8280 Kreuzlingen,4.0,70.0,1950,4.25,Apartment,2025,1913,0
+4002359375,,,-1,-1,-1,-1,,-1,-1,0
+4002359377,"Leimatweg 4,",8580 Amriswil,3.0,-1,1180,4.75,Apartment,-1,-1,1
+4002359392,,,9.5,230.0,2500,-1,Apartment,2025,-1,1
+4002359404,"Döllistrasse 5,",8592 Uttwil,3.5,104.0,1980,4.0,Apartment,-1,2010,1
+4002359481,,,-1,-1,-1,-1,,-1,-1,0
+4002359494,"Goldackerstrasse 5,",8500 Frauenfeld,3.0,74.0,1480,7.25,Apartment,2025,-1,1
+4002359496,"Goldackerstrasse 5,",8500 Frauenfeld,4.0,74.0,1720,7.25,Apartment,2025,-1,1
+4002359529,"Ziegeleistrasse 1,",8572 Berg TG,1.0,73.0,500,8.0,Cellar compartment,-1,2025,0
+4002359725,"Seestrasse 2,",8266 Steckborn,3.5,128.0,3250,-1,Attic flat,-1,2014,1
+4002360200,"Weinstrasse 41,",8280 Kreuzlingen,4.5,-1,1585,6.0,Apartment,-1,-1,1
+4002360580,,,-1,-1,-1,-1,,-1,-1,0
+4002360620,"Rebhaldenstrasse 10,",9320 Arbon,3.5,80.0,1800,3.0,Apartment,-1,-1,0
+4002360671,,,-1,-1,-1,-1,,-1,-1,0
+4002360778,,,-1,-1,-1,-1,,-1,-1,0
+4002360831,,,-1,-1,-1,-1,,-1,-1,0
+4002360846,,,-1,-1,-1,-1,,-1,-1,0
+4002360854,"Ellighausen,",8566 Ellighausen,6.0,200.0,2500,-1,Single house,-1,-1,0
+4002360858,,,-1,-1,-1,-1,,-1,-1,0
+4002361072,"Zürcherstrasse 166,",8500 Frauenfeld,3.5,80.0,1700,3.5,Apartment,-1,-1,1
+4002361321,"Kümmertshauserstrasse 13,",8586 Erlen,5.5,115.0,1900,8.0,Apartment,2025,-1,1
+4002361335,"Lerchenfeldstrasse 20,",9535 Wilen b. Wil,3.5,88.0,1910,5.0,Apartment,-1,2014,1
+4002361411,"Schützenstrasse 34,",8280 Kreuzlingen,1.5,36.0,1180,7.25,Apartment,-1,-1,1
+4002361413,"Lerchenfeldstrasse 20,",9535 Wilen,3.5,88.0,1870,5.0,Apartment,-1,2014,1
+4002361456,"Rankstrasse 5,",8280 Kreuzlingen,3.5,110.0,2480,5.75,Attic flat,-1,2016,1
+4002361679,"Stadelgasse 1,",9220 Bischofszell,3.5,-1,1250,3.5,Maisonette / Duplex,-1,-1,0
+4002361818,"Sankt Gallerstrasse 16,",9320 Arbon,4.5,126.0,1860,4.0,Apartment,-1,-1,1
+4002361891,,,-1,-1,-1,-1,,-1,-1,0
+4002361909,,,5.5,-1,8700,-1,Single house,2025,2007,0
+4002362513,,,-1,-1,-1,-1,,-1,-1,0
+4002362538,"Hamelstrasse 19,",9320 Arbon,3.5,91.0,1880,5.5,Apartment,-1,2016,0
+4002363124,"Dorfstrasse 12,",9306 Freidorf TG,5.5,142.0,2950,8.0,Roof flat,-1,2025,1
+4002363165,"Weiherstrasse 55,",8580 Amriswil,4.5,87.0,1490,7.75,Apartment,-1,-1,0
+4002363166,"Seemoosholzstrasse 7a,",9320 Arbon,2.5,65.0,1535,7.25,Apartment,-1,2023,1
+4002363213,"Kirchgasse 5,",8266 Steckborn,1.0,25.0,990,4.75,Apartment,2025,-1,0
+4002363580,"Käsereistrasse 2b,",9555 Tobel,3.5,76.0,1690,6.5,Apartment,-1,2024,1
+4002363625,"Schrofenstrasse 3,",8580 Amriswil,3.0,-1,1188,4.0,Apartment,-1,-1,1
+4002363867,"Südhalde 21,",8586 Ennetaach,5.5,-1,2250,17.67,Single house,2024,-1,0
+4002363914,"St. Gallerstrasse 14,",9548 Matzingen,2.5,56.0,980,5.67,Roof flat,-1,1972,0
+4002364240,"Sportplatzstrasse 9,",8580 Amriswil,1.5,28.0,709,6.75,Apartment,-1,-1,0
+4002364323,,,-1,-1,-1,-1,,-1,-1,0
+4002364346,"Mooswiesenstrasse 9,",9322 Egnach,3.5,74.0,1130,7.67,Apartment,-1,-1,1
+4002364452,"Hauptstrasse 82, Ermatingen,",8272 Ermatingen,1.0,24.0,1250,4.33,Apartment,-1,-1,0
+4002364468,"Gillhof 2,",8560 Märstetten,7.5,230.0,2500,25.5,Apartment,-1,-1,0
+4002364484,"Friedbergstrasse 7,",9502 Braunau,4.5,-1,1650,-1,Apartment,-1,-1,0
+4002364485,,,1.5,-1,900,-1,Apartment,-1,-1,0
+4002364490,"Amriswil,",8580 Amriswil,1.0,22.0,850,-1,Apartment,-1,-1,0
+4002364678,,,1.5,-1,900,-1,Apartment,-1,-1,0
+4002364804,"Hubstrasse 13,",9535 Wilen b. Wil,4.5,-1,3050,3.0,Roof flat,-1,2021,0
+4002364805,"Hubstrasse 13,",9535 Wilen b. Wil,1.0,-1,1200,3.0,Advertising area,-1,2021,0
+4002364948,"Bahnhofstrasse 34,",8580 Amriswil,3.0,77.0,1390,2.5,Apartment,2020,-1,1
+4002365048,"Rheinstrasse 5,",8500 Frauenfeld,3.5,100.0,2312,2.25,Apartment,-1,2018,1
+4002365431,"Bleichestrasse 26,",8280 Kreuzlingen,2.5,66.0,1550,3.0,Apartment,-1,-1,0
+4002365434,"Zürcherstrasse 229,",8500 Frauenfeld,1.5,37.0,920,3.25,Apartment,2008,1970,0
+4002366861,"Wilerstrasse 8,",8570 Weinfelden,3.5,61.0,1550,4.5,Apartment,2023,-1,0
+4002367071,"Kreuzlingerstrasse 3,",8570 Weinfelden,3.5,67.0,1300,6.0,Apartment,-1,-1,1
+4002367083,"Brühlstrasse 90, 9320 Arbon,",9320 Arbon,2.5,50.0,1079,8.0,Apartment,-1,-1,1
+4002367133,"Romanshornerstrasse 64,",8280 Kreuzlingen,3.5,90.0,2180,3.33,Apartment,-1,2015,1
+4002367162,"St. Gallerstrasse 14,",9548 Matzingen,3.0,65.0,1195,4.67,Apartment,2013,-1,1
+4002367271,"Spielgasse 2a,",8590 Romanshorn,4.5,100.0,1595,5.75,Apartment,-1,-1,0
+4002367343,"Blumenstrasse 2,",8514 Amlikon-Bissegg,5.5,129.0,3000,6.0,Single house,2023,1899,1
+4002367491,"St. Gallerstrasse 18,",9548 Matzingen,4.0,65.0,1690,4.67,Apartment,2013,-1,1
+4002367539,"Hasenbühlstrasse 13,",8500 Frauenfeld,3.0,70.0,1490,6.75,Apartment,-1,-1,1
+4002367547,,,3.5,81.0,2400,-1,Apartment,-1,-1,0
+4002367573,"Hauptstrasse 25,",8259 Wagenhausen,2.5,-1,980,8.5,Apartment,-1,-1,1
+4002367772,"Freihofstrasse 5,",8280 Kreuzlingen,3.5,79.0,1695,5.5,Apartment,-1,-1,0
+4002367850,"Südstrasse 3,",8570 Weinfelden,2.5,-1,1490,7.25,Apartment,-1,2005,1
+4002367863,"Grundstrasse 11,",9502 Braunau,4.5,113.0,1990,-1,Apartment,-1,2018,1
+4002367866,"Schlossmühlestrasse 21,",8500 Frauenfeld,4.5,119.0,2513,4.25,Apartment,2023,2023,1
+4002368121,"Heidengasse 22,",8575 Bürglen TG,4.5,108.0,1505,4.0,Apartment,-1,1987,1
+4002368281,"Freiestrasse 4a,",8570 Weinfelden,1.5,49.0,1260,5.0,Apartment,-1,-1,0
+4002368654,,,-1,-1,-1,-1,,-1,-1,0
+4002368660,"Zürcherstrasse 161,",8500 Frauenfeld,1.5,21.0,1200,2.25,Single Room,-1,1899,1
+4002368675,"Sandbüel 6,",8500 Frauenfeld,2.5,55.0,1750,-1,Apartment,-1,-1,1
+4002368771,"Industriestrasse 13,",8500 Frauenfeld,2.5,56.0,1160,4.25,Apartment,-1,-1,1
+4002368823,,,1.0,25.0,850,-1,Apartment,-1,1870,0
+4002368989,"Berglistr,,",8599 Salmsach,3.5,81.0,1400,5.0,Roof flat,2021,1984,1
+4002369096,,,3.5,65.0,1774,-1,Apartment,-1,-1,1
+4002369122,,,4.5,-1,2000,-1,Apartment,-1,-1,0
+4002369429,"Nordstrasse 1,",9220 Bischofszell,3.5,73.0,1760,5.0,Apartment,-1,-1,1
+4002369592,,,-1,-1,-1,-1,,-1,-1,0
+4002369596,,,-1,-1,-1,-1,,-1,-1,0
+4002369703,"Untere Bisrütistrasse 4,",9220 Bischofszell,4.5,-1,1690,7.25,Apartment,-1,-1,1
+4002369781,"Unterdorfstrasse 3,",8370 Sirnach,2.5,-1,1340,3.5,Apartment,-1,-1,0
+4002369804,"Unterdorfstrasse 11,",8585 Zuben,3.5,-1,1640,-1,Apartment,-1,2013,1
+4002370069,,,-1,-1,-1,-1,,-1,-1,0
+4002370076,"Konstanzerstrasse 15a,",8280 Kreuzlingen,2.5,55.0,1502,5.5,Apartment,-1,-1,1
+4002370104,"Aeulistrasse 4,",8570 Weinfelden,3.5,85.0,1580,6.5,Apartment,-1,-1,1
+4002370131,"Frauenfelderstrasse 20b,",9542 Münchwilen,3.5,100.0,1891,6.5,Apartment,-1,-1,0
+4002370140,,,3.0,74.0,1250,-1,Apartment,-1,1870,0
+4002370544,"Untermattstrasse 13,",8370 Sirnach,4.0,-1,1390,5.75,Apartment,-1,-1,1
+4002370964,,,-1,-1,-1,-1,,-1,-1,0
+4002370982,"Sägestrasse 4,",8580 Amriswil,4.5,-1,1550,9.0,Apartment,-1,-1,1
+4002371281,"Sonnmattstrasse 5,",9532 Rickenbach b. Wil,5.5,120.0,1890,9.25,Apartment,-1,1975,1
+4002371296,"Wannenfeldstrasse 87,",8500 Frauenfeld,4.5,-1,1850,10.75,Apartment,-1,-1,0
+4002371298,"Lohstrasse 11,",8280 Kreuzlingen,3.5,-1,1400,4.5,Apartment,-1,-1,1
+4002371607,,,1.0,35.0,1050,-1,Apartment,-1,-1,0
+4002371611,"Dorfstrasse 14,",8576 Mauren TG,-1,14.0,650,5.0,Single Room,-1,-1,0
+4002371620,"Kreuzlingen,",8280 Kreuzlingen,1.0,30.0,950,-1,Apartment,-1,-1,0
+4002371627,,,4.5,-1,2520,-1,Apartment,-1,-1,0
+4002371703,,,-1,-1,-1,-1,,-1,-1,0
+4002371968,"Kamorstr. 13,",8570 Weinfelden,3.5,88.0,1965,6.33,Apartment,-1,2013,1
+4002372035,,,-1,-1,-1,-1,,-1,-1,0
+4002372378,"Im Ehrmerk 7,",8360 Wallenwil,-1,-1,1450,9.33,Apartment,-1,-1,1
+4002372400,,,-1,-1,-1,-1,,-1,-1,0
+4002372723,,,4.5,100.0,2025,-1,Apartment,-1,-1,1
+4002373392,"Wannenfeldstrasse 67,",8500 Frauenfeld,4.5,87.0,1800,9.5,Apartment,-1,-1,1
+4002373408,,,-1,-1,-1,-1,,-1,-1,0
+4002373773,"Zürcherstrasse 138,",8500 Frauenfeld,3.5,73.0,1670,8.25,Apartment,-1,-1,1
+4002373817,,,2.5,-1,1100,-1,Apartment,-1,-1,0
+4002373818,,,2.0,-1,1150,-1,Apartment,-1,-1,0
+4002374092,"Romanshornerstrasse 32a,",8280 Kreuzlingen,4.5,125.0,2855,8.5,Attic flat,-1,-1,1
+4002374134,"Käsereistrasse 8b,",9555 Tobel-Tägerschen,3.5,88.0,1725,7.0,Apartment,-1,2016,1
+4002374208,"Oberwiesenstrasse 43a,",8500 Frauenfeld,2.5,-1,1240,4.25,Apartment,-1,-1,1
+4002374348,"Esslenstrasse 24,",8280 Kreuzlingen,3.5,75.0,1630,8.0,Apartment,-1,-1,0
+4002374439,,,-1,-1,-1,-1,,-1,-1,0
+4002374519,"Kreuzlingerstrasse 25,",8590 Romanshorn,5.5,-1,3070,7.5,Attic flat,2025,-1,1
+4002374661,,,-1,-1,-1,-1,,-1,-1,0
+4002374760,"Pünt,",8598 Bottighofen,4.0,90.0,2490,-1,Apartment,-1,-1,0
+4002375123,,,-1,-1,-1,-1,,-1,-1,0
+4002375198,,,-1,-1,-1,-1,,-1,-1,0
+4002375306,,,-1,-1,-1,-1,,-1,-1,0
+4002375346,"Stockwiese 1,",9542 Münchwilen TG,3.5,-1,1580,8.75,Apartment,-1,-1,1
+4002375938,"Im Ehrmerk 7,",8360 Wallenwil,-1,-1,1450,9.33,Apartment,-1,-1,1
+4002375984,"Weiherstrasse 56,",8580 Amriswil,-1,-1,1740,7.75,Apartment,-1,-1,1
+4002375989,"Hauptstrasse 28,",9214 Kradolf,-1,-1,1548,5.67,Apartment,-1,-1,1
+4002375991,"Wiesenstrasse 2,",8589 Sitterdorf,-1,-1,1430,7.5,Apartment,-1,-1,0
+4002376205,,,-1,-1,-1,-1,,-1,-1,0
+4002376252,"Im Ehrmerk 7,",8360 Wallenwil,-1,-1,1450,9.33,Apartment,-1,-1,1
+4002376264,"Hauptstrasse 28,",9214 Kradolf,-1,-1,1548,5.67,Apartment,-1,-1,1
+4002376269,"Wiesenstrasse 2,",8589 Sitterdorf,-1,-1,1430,7.5,Apartment,-1,-1,0
+4002376379,,,4.5,112.0,2355,-1,Roof flat,-1,2025,1
+4002376387,,,5.5,146.0,2700,-1,Maisonette / Duplex,2024,-1,0
+4002376390,,,4.5,112.0,2355,-1,Roof flat,-1,2025,1
+4002376395,,,4.5,110.0,2355,-1,Apartment,-1,2025,0
+4002376398,,,4.5,112.0,2355,-1,Roof flat,-1,2025,1
+4002376402,,,4.5,112.0,2355,-1,Apartment,-1,2025,1
+4002376403,,,4.5,112.0,2355,-1,Roof flat,-1,2025,1
+4002376404,,,-1,-1,-1,-1,,-1,-1,0
+4002376407,,,4.5,110.0,2355,-1,Roof flat,-1,2025,1
+4002376950,"Kreuzlingerstrasse 32a,",8555 Müllheim Dorf,5.5,135.0,2530,3.0,Apartment,-1,2025,1
+4002377068,"Bälisteigstrasse 1,",8264 Eschenz,3.5,72.0,1360,8.75,Roof flat,2021,1995,1
+4002377252,"Bahnhofplatz 6,",9555 Tobel,7.5,187.0,2300,6.5,Maisonette / Duplex,2022,1991,1
+4002377333,"Hauptstr. 41,",8272 Ermatingen,1.5,60.0,1550,-1,Apartment,2025,1975,1
+4002377645,"Aeulistrasse 11,",8570 Weinfelden,4.5,-1,1300,7.25,Apartment,-1,-1,1
+4002377650,"Aeulistrasse 9,",8570 Weinfelden,3.5,-1,1230,7.25,Apartment,-1,-1,1
+4002378574,"Bahnhofstrasse,",8500 Frauenfeld,-1,70.0,800,-1,Single Room,-1,-1,0
+4002378577,,,-1,16.0,800,-1,Single Room,-1,-1,0
+4002378589,"Schönenhofstrasse,",8500 Frauenfeld,4.5,-1,1750,-1,Apartment,-1,-1,0
+4002378611,"poststrasse 1,",8554 Müllheim-Wigoltingen,5.5,125.0,2800,-1,Single house,-1,-1,0
+4002379552,"Seestrasse 75,",8266 Steckborn,3.5,66.0,1550,6.0,Terrace flat,2016,1899,1
+4002379580,"Rheinstrasse 7a,",8280 Kreuzlingen,3.5,96.0,1820,7.75,Apartment,-1,-1,1
+4002379642,"Frauenfelderstrasse 20a,",8370 Sirnach,3.0,60.0,1200,6.0,Apartment,-1,-1,1
+4002379709,"Seestrasse 45,",8596 Scherzingen,1.5,45.0,1200,5.33,Apartment,-1,2024,1
+4002379826,"Hubstrasse 27,",9535 Wilen b. Wil,3.5,85.0,1550,4.25,Apartment,2025,1899,0
+4002380002,"Weiherstrasse 56,",8580 Amriswil,-1,-1,1740,7.75,Apartment,-1,-1,1
+4002380051,"Im Ehrmerk 7,",8360 Wallenwil,-1,-1,1450,9.33,Apartment,-1,-1,1
+4002380062,"Hauptstrasse 28,",9214 Kradolf,-1,-1,1548,5.67,Apartment,-1,-1,1
+4002380069,"Wiesenstrasse 2,",8589 Sitterdorf,-1,-1,1430,7.5,Apartment,-1,-1,0

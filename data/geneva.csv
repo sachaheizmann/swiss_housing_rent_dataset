@@ -1,0 +1,927 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+3003136868,"Rue de la Cloche 6,",1201 Genève,4.5,100.0,4500,4.5,Apartment,-1,-1,0
+4000923044,,,7.0,205.0,8900,-1,Apartment,-1,-1,0
+4001029119,"Avenue Ernest-Pictet,",1203 Genève,6.0,200.0,9400,-1,Apartment,-1,-1,0
+4001029131,,,12.0,-1,20000,-1,Single house,-1,-1,0
+4001084656,,,8.0,250.0,10500,-1,Apartment,-1,-1,1
+4001221160,,,4.5,-1,6200,-1,Apartment,2025,-1,1
+4001324102,"Rue de l' Athénée 38,",1206 Genève,4.0,93.0,4390,3.25,Apartment,-1,-1,0
+4001414280,"Route de l'Etraz 3,",1239 Collex-Bossy,1.0,14.0,1550,3.0,Single Room,2022,-1,0
+4001505783,,,-1,-1,-1,-1,Cellar compartment,-1,-1,0
+4001532182,,,6.0,-1,7000,-1,Villa,-1,-1,1
+4001532384,"Rue du Rhône 65,",1204 Genève,-1,-1,-1,2.25,Hobby room,-1,-1,0
+4001532445,"Chemin de Blandonnet 8,",1214 Vernier,-1,-1,2650,6.25,Hobby room,-1,2002,0
+4001532779,"Esplanade de Pont-Rouge 4-6,",1212 Grand-Lancy,-1,-1,1375,3.75,Hobby room,-1,-1,0
+4001533540,"Rue Rothschild 57,",1202 Genève,-1,-1,750,2.5,Hobby room,-1,1969,0
+4001533544,"Chemin du Fief-de-Chapitre 12,",1213 Petit-Lancy,-1,-1,200,5.0,Hobby room,2015,1973,0
+4001533554,"Chemin Auguste-Vilbert 30,",1218 Le Grand-Saconnex,-1,-1,130,4.0,Hobby room,-1,-1,0
+4001533555,"Chemin Auguste-Vilbert 38,",1218 Le Grand-Saconnex,-1,-1,130,5.0,Hobby room,-1,-1,0
+4001533559,"Rue de Jargonnant 1,",1207 Genève,-1,-1,1080,1.5,Hobby room,2018,1979,0
+4001533560,"Chemin de Blandonnet 8,",1214 Vernier,-1,-1,800,6.25,Hobby room,-1,2002,0
+4001533561,"Chemin de Blandonnet 8,",1214 Vernier,-1,-1,2249,6.25,Hobby room,-1,2002,0
+4001553799,,,7.0,-1,22000,-1,Single house,-1,-1,1
+4001613867,"Rue de Lausanne 23,",1201 Genève,3.0,63.0,2233,2.5,Apartment,-1,1911,0
+4001667904,"Rue de Berne 3,",1201 Genève,-1,-1,109,2.5,Cellar compartment,-1,-1,0
+4001684572,"Route de Florissant 120,",1206 Genève,6.0,160.0,7830,4.0,Apartment,-1,-1,0
+4001684659,"Route de la Chapelle 15,",1212 Grand-Lancy,5.0,85.0,3900,7.75,Apartment,-1,2024,0
+4001689465,,,6.0,180.0,7900,-1,Apartment,2025,-1,0
+4001701615,"Rue Goetz-Monin 24,",1205 Genève,2.0,24.0,2300,4.5,Apartment,-1,-1,0
+4001701618,"Jonction,",1205 Genève,4.5,-1,4500,5.75,Apartment,-1,-1,1
+4001705577,,,3.0,40.0,3600,-1,Apartment,-1,-1,0
+4001705581,,,3.0,40.0,3600,-1,Apartment,-1,-1,0
+4001722754,"Jonction,",1205 Genève,3.5,-1,3650,5.75,Apartment,-1,-1,1
+4001722766,,,1.0,25.0,2700,-1,Apartment,-1,-1,0
+4001746761,"Avenue de l'Etang 69-71,",1219 Châtelaine,1.0,-1,1460,4.0,Single Room,-1,-1,0
+4001763170,"Rue Sismondi 15,",1201 Genève,4.0,-1,2800,3.0,Apartment,-1,-1,0
+4001789320,"Place de l'Eglise,",1255 Veyrier,6.0,130.0,4750,-1,Apartment,-1,-1,0
+4001822457,"Rue de Lyon 59,",1203 Genève,-1,-1,140,3.75,Hobby room,1990,1974,0
+4001822459,"Rue de Lyon 59,",1203 Genève,-1,-1,240,3.75,Hobby room,1990,1974,0
+4001827888,"Esplanade de Pont-Rouge 4-6,",1212 Grand-Lancy,-1,-1,2281,3.75,Hobby room,-1,-1,0
+4001860391,,,4.5,-1,4250,-1,Bifamiliar house,2021,1986,1
+4001863630,"Quai des Arénières 8,",1205 Geneva,2.5,70.0,3650,3.75,Apartment,-1,-1,1
+4001864248,"Chemin de Colladon 20,",1209 Genève,7.5,-1,4500,2.75,Apartment,-1,-1,0
+4001886181,"Chausse-Coq 10,",1204 Genève,5.0,100.0,4100,3.5,Apartment,-1,-1,0
+4001889637,,,5.0,155.0,4400,-1,Maisonette / Duplex,2025,2007,0
+4001895726,"Avenue de Sécheron 2,",1202 Genève,-1,-1,170,4.25,Hobby room,-1,1956,0
+4001899566,"Boulevard George-Favon 16,",1204 Genève,5.0,137.0,5252,4.25,Apartment,-1,1870,0
+4001903310,"Avenue Marc-Doret,",1224 Chêne-Bougeries,3.0,72.0,6400,9.75,Apartment,2021,2021,1
+4001910452,"Chemin des Semailles 9C,",1212 Grand-Lancy,7.0,142.0,4470,4.75,Apartment,2019,1963,0
+4001945360,"Rue de Contamines 35,",1206 Genève,3.0,80.0,3185,2.75,Apartment,2001,1938,1
+4001959868,"Rue de Richemont 7,",1202 Genève,1.0,36.0,2400,4.0,Studio,-1,-1,0
+4001962810,"Rue De-Beaumont,",1206 Genève,8.5,-1,8649,4.0,Apartment,-1,-1,1
+4001979098,"Chemin William Barbey,",1292 Pregny-Chambésy,8.0,-1,18000,-1,Single house,-1,-1,0
+4001979187,,,10.0,650.0,22000,-1,Single house,2000,-1,0
+4001981371,"Quai Wilson,",1201 Genève,11.0,425.0,-1,-1,Apartment,2024,-1,0
+4001988136,"Avenue Soret 9,",1203 Genève,5.0,95.0,2900,5.0,Apartment,1985,1985,0
+4001988242,"Quai de la Poste 4,",1204 Genève,2.0,32.0,2290,5.0,Apartment,-1,-1,0
+4002002704,"Avenue de France 6,",1202 Genève,6.5,162.0,6717,5.0,Apartment,-1,-1,1
+4002003438,,,8.0,280.0,14000,-1,Apartment,-1,-1,0
+4002003439,,,8.0,300.0,10500,-1,Apartment,-1,-1,0
+4002020542,"Rue de Saint-Jean 32a,",1203 Genève,4.0,135.0,4840,3.5,Attic flat,2008,1992,0
+4002022167,"Rue de la Servette 73, 75,",1202 Genève,-1,-1,415,2.25,Hobby room,-1,1955,0
+4002024090,,,-1,320.0,-1,-1,Chalet,-1,2023,0
+4002024094,,,4.0,138.0,6000,-1,Apartment,-1,-1,0
+4002024099,,,4.0,138.0,6000,-1,Single house,-1,-1,0
+4002024104,,,5.5,180.0,7490,-1,Apartment,2024,1984,0
+4002031560,"Route de Chêne,",1208 Genève,7.0,280.0,9095,-1,Apartment,-1,-1,0
+4002032846,,,5.0,122.0,3230,-1,Maisonette / Duplex,-1,2000,1
+4002037892,"Chemin du Vieux -Vésenaz,",1222 Vésenaz,2.5,60.0,4100,-1,Apartment,-1,2025,0
+4002042761,,,8.0,250.0,6900,-1,Row house,-1,2002,0
+4002046822,"Parc Château-Banquet 8,",1202 Genève,5.5,102.0,4040,3.75,Apartment,-1,-1,0
+4002047117,"Rue des Falaises,",1205 Genève,10.0,314.0,10500,-1,Apartment,-1,2014,0
+4002051385,,,-1,173.0,5800,-1,Single house,-1,-1,0
+4002052756,"Rue de Genève 137,",1226 Thônex,5.0,-1,4300,4.25,Apartment,-1,-1,0
+4002053396,"Ch. des Graviers 7-9,",1290 Versoix,-1,243.0,6300,9.25,Apartment,-1,-1,0
+4002056667,"Chemin François-ROSSIAUD 11,",1247 Anières,6.0,-1,9500,-1,Single house,-1,-1,0
+4002061567,"Quai Wilson 43,",1201 Genève,-1,250.0,14000,4.0,Apartment,-1,-1,0
+4002066884,"Rue Jean-Calvin,",1204 Genève,5.5,-1,7150,5.5,Terrace flat,-1,-1,1
+4002071549,"Chemin des Aulx 18,",1228 Plan-les-Ouates,-1,-1,1348,6.25,Hobby room,-1,-1,0
+4002074051,,,6.0,117.0,7000,-1,Apartment,-1,-1,0
+4002075047,"Route de Florissant 70,",1206 Genève,4.0,118.0,3630,2.5,Apartment,-1,-1,1
+4002076132,,,10.0,400.0,-1,-1,Single house,-1,-1,0
+4002080594,,,6.0,130.0,4750,-1,Apartment,-1,-1,0
+4002086678,"Chemin de Surville 1,",1213 Petit-Lancy,1.5,23.0,1778,1.75,Apartment,2025,2025,1
+4002086683,"Chemin de Surville 1,",1201 Genève,1.5,23.0,1778,3.25,Apartment,2025,2025,1
+4002093599,"Chemin Taverney 9,",1218 Le Grand-Saconnex,1.5,44.0,1990,4.25,Apartment,-1,-1,0
+4002093878,,,-1,-1,15000,-1,Attic flat,-1,-1,0
+4002097086,"Rue Ferdinand-Hodler,",1207 Genève,-1,80.0,990,3.75,Apartment,-1,-1,0
+4002097242,"Rue des Granges 3,",1204 Genève,4.0,127.0,4800,5.0,Apartment,-1,-1,0
+4002097552,"Chemin de la Tour de Champel 2,",1206 GENEVE,4.5,135.0,4200,-1,Apartment,-1,-1,0
+4002097823,"Chemin du Fief-de-Chapitre 6,",1213 Petit-Lancy,-1,-1,275,4.0,Hobby room,2015,1973,0
+4002097824,"Chemin du Fief-de-Chapitre 10,",1213 Petit-Lancy,-1,-1,220,5.0,Hobby room,2015,1973,0
+4002101010,"chemin des Hutins,",1247 Anières,7.0,185.0,7200,-1,Bifamiliar house,-1,2017,1
+4002106691,,,1.5,-1,-1,-1,Apartment,-1,-1,0
+4002107451,"Avenue de la Martinière 7,",1225 Chêne-Bourg,6.0,255.0,5700,4.25,Single house,2025,1907,0
+4002108810,"rue de Coutance 10,",1201 Genève,5.0,156.0,4900,3.25,Apartment,-1,-1,0
+4002109067,"Chemin de la Menuiserie 19,",1293 BELLEVUE,5.0,-1,5620,5.5,Apartment,-1,-1,0
+4002110035,"Chemin des Crêts-de-Pregny 13,",1218 Grand-Saconnex,5.0,141.0,6250,8.0,Apartment,-1,-1,0
+4002127608,"Chemin des Courbes,",1247 Anières,10.0,-1,15000,-1,Single house,-1,-1,0
+4002129832,"Route de Cornière 1,",1241 Puplinge,5.0,120.0,3610,6.0,Apartment,-1,-1,0
+4002130456,,,10.0,320.0,5500,-1,Single house,-1,-1,0
+4002130458,,,7.0,420.0,12500,-1,Single house,-1,-1,0
+4002130464,,,7.0,250.0,22000,-1,Single house,-1,-1,0
+4002133673,"Chemin de Cornière 62,",1241 Puplinge,5.0,-1,4500,-1,Row house,-1,-1,0
+4002137171,"Chemin Marc Emery 5,",1239 Collex,4.0,83.0,3110,6.0,Apartment,-1,-1,1
+4002140820,"Rue de Contamines 35,",1206 Genève,3.0,70.0,2845,2.75,Apartment,2001,1938,0
+4002148096,"Chemin de l'Avanchet 20,",1216 Cointrin,7.0,399.0,6200,5.5,Villa,-1,-1,1
+4002150675,"Rue Etienne-Dumont 5,",1204 Genève,1.5,25.0,1835,3.5,Studio,-1,-1,0
+4002150677,"Chemin de la Mousse 131,",1226 Thônex,5.0,-1,4500,7.5,Apartment,-1,-1,0
+4002154454,,,4.0,72.0,4000,-1,Apartment,-1,-1,0
+4002156886,"Place Camoletti 6,",1207 Genève,8.0,228.0,-1,3.75,Apartment,-1,-1,1
+4002162965,,,-1,15.0,950,-1,Single Room,-1,-1,0
+4002162967,,,-1,-1,-1,-1,,-1,-1,0
+4002165294,"Rue de Monthoux 25,",1201 Genève,5.0,-1,3292,2.5,Apartment,-1,-1,0
+4002166204,,,-1,155.0,6400,-1,Single house,-1,-1,0
+4002169411,,,4.0,-1,4200,-1,Apartment,-1,-1,0
+4002170829,,,4.0,138.0,6000,-1,Apartment,-1,2001,1
+4002170832,,,5.0,130.0,5950,-1,Single house,-1,-1,1
+4002170834,,,4.0,110.0,4950,-1,Apartment,-1,-1,0
+4002170835,,,4.0,75.0,4200,-1,Apartment,-1,-1,1
+4002170836,,,3.0,78.0,4350,-1,Apartment,-1,-1,1
+4002173517,,,5.5,180.0,7490,-1,Apartment,2024,1984,1
+4002175835,"Rue des Etuves 14,",1201 Genève,4.5,-1,4525,2.75,Apartment,-1,-1,0
+4002176316,"Route de Challex 29,",1283 La Plaine,5.0,103.0,3200,6.5,Apartment,-1,2016,0
+4002176793,"Route de Veyrier 41,",1227 Carouge GE,-1,-1,400,3.25,Hobby room,-1,-1,0
+4002183276,,,8.0,320.0,10500,-1,Single house,-1,-1,1
+4002187360,"Rue Jean-Etienne Liotard 31,",1202 Genève,6.5,-1,5410,3.25,Apartment,-1,-1,1
+4002189210,,,5.0,250.0,6900,-1,Row house,-1,-1,0
+4002189462,"Route de Malagnou,",1208 Genève,3.0,100.0,3990,-1,Apartment,2023,1972,1
+4002189802,"Chemin de Planta,",1223 Cologny,6.0,-1,5500,-1,Apartment,2024,-1,0
+4002193645,"13 Chemin des Fins,",1218 Genève,4.0,85.0,3075,-1,Apartment,-1,-1,1
+4002193663,"44, quai Gustave- Ador,",1207 Genève,8.0,205.0,-1,-1,Apartment,-1,-1,0
+4002196623,"Route de Frontenex,",1208 Genève,7.0,125.0,5990,-1,Apartment,-1,-1,0
+4002197122,"Rue de l' Encyclopédie 12,",1201 GENEVE,5.0,98.0,3850,4.25,Apartment,-1,1996,0
+4002198428,,,8.0,300.0,7750,-1,Single house,-1,-1,0
+4002199962,"Avenue Louis-Aubert,",1206 Genève,5.5,148.0,8865,-1,Attic flat,-1,2025,0
+4002200253,,,-1,-1,-1,-1,,-1,-1,0
+4002201822,,,4.0,74.0,3100,-1,Apartment,-1,2023,1
+4002202979,"Route de Jussy 38 B,",1226 Thônex,6.0,141.0,4120,5.5,Apartment,-1,2022,0
+4002204372,"Rue de la Navigation 3,",1201 Genève,4.5,130.0,4050,1.25,Apartment,-1,-1,1
+4002204377,"Rue de la Navigation 3,",1201 Genève,5.0,143.0,4580,1.25,Apartment,-1,-1,0
+4002204393,"Chemin du Champ-d'Anier 13,",1209 Genève,5.0,122.0,3620,4.25,Apartment,-1,1969,1
+4002204407,,,-1,515.0,25000,-1,Single house,2025,-1,0
+4002205662,,,5.0,-1,4780,-1,Apartment,-1,-1,0
+4002209926,,,8.0,230.0,4800,-1,Single house,-1,-1,0
+4002210668,"Chemin Marc Emery 3,",1239 Collex,4.0,83.0,3190,-1,Apartment,-1,-1,1
+4002210673,"Rue Etienne-Dumont 18,",1204 Genève,1.5,30.0,1990,3.5,Apartment,-1,-1,0
+4002213026,,,6.0,-1,7500,-1,Apartment,2025,1975,0
+4002213122,"Place Claparède 1,",1205 Genève,5.5,148.0,4980,3.0,Apartment,-1,1932,0
+4002214349,"Boulevard James-Fazy 6,",1201 Genève,3.0,100.0,4841,2.5,Apartment,2008,1897,0
+4002217275,,,-1,-1,-1,-1,,-1,-1,0
+4002217906,,,8.0,213.0,9000,-1,Apartment,-1,-1,0
+4002217990,,,-1,650.0,28000,-1,Single house,2007,1980,0
+4002218154,"Ch. de Valérie 9,",1292 Chambésy,-1,320.0,6500,8.0,Villa,-1,-1,0
+4002218446,,,4.0,110.0,4950,-1,Apartment,-1,-1,0
+4002219730,"Avenue de Champel 61,",1206 Genève,7.0,233.0,6980,2.75,Apartment,-1,1958,0
+4002220381,,,-1,-1,-1,-1,,-1,-1,0
+4002220428,,,-1,-1,-1,-1,,-1,-1,0
+4002220520,,,-1,-1,-1,-1,,-1,-1,0
+4002221025,,,4.5,90.0,4300,-1,Apartment,2024,2014,0
+4002221209,"Rue du Village-Suisse 4,",1205 Genève,5.0,60.0,2650,4.0,Apartment,-1,1920,0
+4002221964,,,5.5,260.0,8000,-1,Apartment,-1,-1,1
+4002221965,,,6.0,179.0,12000,-1,Apartment,-1,-1,0
+4002222133,"Avenue des Cavaliers,",1224 Chêne-Bougeries,5.5,-1,3900,-1,Apartment,-1,-1,1
+4002222193,"Rue de la Synagogue 33,",1204 Genève,7.0,236.0,8955,4.25,Maisonette / Duplex,-1,-1,0
+4002223320,"Chemin des Sylvains,",1234 Vessy,6.0,180.0,6500,-1,Row house,-1,2019,0
+4002223899,"Ch. des Sarments,",1222 Vésenaz,7.0,-1,12500,-1,Single house,-1,2025,0
+4002223958,"Vigne-Rouge,",1227 Les Acacias,6.0,110.0,2200,-1,Apartment,-1,-1,0
+4002226443,"Vernier,",1214 Vernier,-1,-1,1000,-1,Single Room,-1,-1,0
+4002226517,,,-1,-1,1000,-1,Single Room,-1,-1,0
+4002227747,"rue de zurich,",1200 Genf,3.0,79.0,2340,-1,Apartment,-1,-1,0
+4002227754,"Confignon,",1232 Confignon,3.0,55.0,2000,-1,Apartment,-1,-1,0
+4002227804,"rue de carouge 17,",1200 Genf,4.0,75.0,3650,-1,Apartment,-1,-1,0
+4002227806,"Rue Charles-Cusin,",1201 Genf,1.5,-1,1550,-1,Apartment,-1,-1,0
+4002230065,,,4.0,70.0,2100,-1,Apartment,-1,-1,0
+4002230259,"Avenue De-Budé 13,",1202 Genève,5.0,-1,5000,2.75,Apartment,-1,-1,1
+4002230500,"Rue de Contamines 35,",1206 Genève,3.0,70.0,2815,2.75,Apartment,2001,1938,0
+4002230914,,,6.0,205.0,6000,-1,Single house,2020,-1,1
+4002232816,"Rue de la Filature 39,",1227 Carouge GE,4.0,-1,3661,4.0,Apartment,-1,-1,1
+4002233314,,,2.5,58.0,2000,-1,Apartment,-1,-1,0
+4002233374,"Chemin de la Gradelle 18,",1208 Genf,2.5,55.0,2800,-1,Apartment,-1,-1,0
+4002233736,"Parc du Château-Banquet,",1202 Genève,5.5,102.0,4040,-1,Apartment,2018,-1,1
+4002236636,"Morgins,",1245 Collonge-Bellerive,1.5,70.0,550,-1,Apartment,-1,-1,0
+4002236641,"rue de la Servette 43,",1202 Genf,4.5,78.0,2200,3.0,Apartment,-1,-1,0
+4002236947,"Route de Vandoeuvres 8,",1223 Cologny,5.5,146.0,6150,5.5,Apartment,2015,2011,1
+4002238969,,,1.5,30.0,13001300,-1,Apartment,-1,-1,0
+4002238975,,,1.0,-1,500,-1,Apartment,-1,-1,0
+4002240505,"45, rue Jacque Dalphin,",1227 Carouge GE,-1,30.0,290,-1,Attic compartment,-1,-1,0
+4002241525,"Lancy-Onex,",1213 Onex,4.0,-1,950,-1,Apartment,-1,-1,0
+4002241545,,,3.0,-1,-1,-1,Apartment,-1,-1,0
+4002241929,"Chemin de Blandonnet 8,",1214 Vernier,-1,-1,6500,6.25,Hobby room,-1,2002,0
+4002243151,,,3.0,68.0,3295,-1,Apartment,-1,-1,0
+4002243625,"Route de la Branvaude 65 A- 1290 Chavannes des Bois.,",1290 Versoix,9.0,400.0,14000,-1,Villa,-1,-1,0
+4002245155,,,5.0,141.0,7920,-1,Apartment,2019,-1,1
+4002245354,"Chemin de Sous-Caran 30,",1222 Collonge-Bellerive,4.0,84.0,3500,9.5,Villa,2020,1996,1
+4002246342,"Avenue Eugène-Pittard 11,",1206 Genève,3.5,95.0,3550,3.0,Apartment,-1,-1,0
+4002246714,"Malagnou,",1208 Genf,3.0,70.0,1500,-1,Apartment,-1,-1,0
+4002246798,"1202,",1202 Genf,-1,-1,800,-1,Single Room,-1,-1,0
+4002246820,,,-1,-1,-1,-1,,-1,-1,0
+4002246939,,,4.0,97.0,3650,-1,Apartment,-1,-1,0
+4002247370,"Chemin Moïse-Duboule 41,",1209 Genève,4.0,94.0,3220,3.0,Apartment,-1,1967,1
+4002247379,,,-1,-1,-1,-1,,-1,-1,0
+4002247470,"Rue Albert-Gos,",1206 Genève,7.0,180.0,7200,-1,Apartment,-1,-1,0
+4002247686,"Allée Pic-Pic 2,",1203 Genève,4.5,170.0,6000,4.0,Apartment,-1,-1,0
+4002248000,"..,",1293 Bellevue,6.0,150.0,6500,-1,Villa,-1,-1,0
+4002248506,,,2.0,-1,-1,-1,Farm house,-1,-1,0
+4002250383,"Avenue Rosemont 15,",1208 Genf,1.5,25.0,1990,7.0,Apartment,-1,-1,0
+4002250488,"Rue Coutance 7,",1201 Genf,-1,-1,900,-1,Single Room,-1,-1,0
+4002251172,"Place du Rondeau 3,",1227 Carouge,4.0,130.0,4900,3.25,Roof flat,2025,1880,0
+4002251327,"Rue Abraham-Constantin,",1206 Genève,9.0,280.0,11450,-1,Apartment,2025,-1,0
+4002253875,"Chemin Grand-Montfleury 2,",1290 Versoix,-1,-1,1500,5.33,Single Room,-1,-1,0
+4002253876,,,-1,14.0,550,-1,Single Room,-1,-1,0
+4002253890,"Cour de l'Emine,",1226 Thônex,6.0,137.0,4564,-1,Apartment,-1,-1,0
+4002253956,,,-1,-1,-1,-1,,-1,-1,0
+4002253963,"Meyrin,",1217 Meyrin,4.0,-1,1000,-1,Apartment,-1,-1,0
+4002254508,"Rue Jean-Antoine Gautier 8,",1201 Genève,3.0,63.0,3110,2.5,Apartment,-1,1905,0
+4002254706,"Rue du Mont-Blanc 9,",1201 Genève,2.5,-1,2770,3.25,Attic flat,1982,1878,0
+4002254707,"Rue du Mont-Blanc 9,",1201 Genève,4.0,-1,4380,3.25,Attic flat,1982,1878,0
+4002254730,,,6.0,176.0,7500,-1,Apartment,-1,-1,0
+4002255188,": Rte de la Branvaude 65 B, Chavannes des Bois,,",1290 Versoix,8.0,300.0,7500,-1,Villa,-1,-1,0
+4002255674,,,-1,-1,-1,-1,,-1,-1,0
+4002255693,"Chemin du Prunier15,",1218 Le Grand-Saconnex,5.0,165.0,4303,-1,Apartment,-1,-1,0
+4002256313,"Rue de la Coulouvrenière 40,",1204 Genève,1.5,23.0,2164,5.25,Apartment,2022,2022,0
+4002256318,"Chemin Pont-Céard 27,",1290 Versoix,5.5,130.0,3550,8.25,Apartment,-1,-1,0
+4002257262,"128 bis chemin des Chambettes,",1252 Meinier,-1,9.0,520,-1,Single Room,-1,-1,0
+4002257301,"Rue de Lausanne, Genève,",1202 Genf,1.0,21.0,200,-1,Apartment,-1,-1,0
+4002257337,,,2.5,-1,1700,-1,Apartment,-1,-1,0
+4002257409,"Rue hoffmann 3,",1202 Genf,3.5,75.0,900,4.25,Apartment,-1,-1,0
+4002258315,"Parc Dinu-Lipatti  3,",1225 Chêne-Bourg,3.0,44.0,1827,4.25,Apartment,2020,-1,1
+4002258403,,,6.0,250.0,9000,-1,Apartment,2009,1986,1
+4002258734,,,6.0,130.0,6000,-1,Single house,2025,-1,1
+4002258994,,,7.0,302.0,-1,-1,Single house,2018,1932,0
+4002259924,"Plateau de Frontenex,",1223 Cologny,2.0,35.0,2500,-1,Apartment,-1,-1,0
+4002260338,"Plateau de Frontenex,",1223 Cologny,2.0,-1,2500,6.0,Apartment,-1,-1,0
+4002260430,,,5.0,133.0,4150,-1,Apartment,2022,2006,1
+4002260487,,,4.0,172.0,2895,-1,Apartment,-1,-1,0
+4002260705,"5 rue Voltaire,",1201 Genf,-1,-1,900,-1,Single Room,-1,-1,0
+4002260706,"5 rue Voltaire,",1201 Genf,-1,-1,900,2.5,Single Room,-1,-1,0
+4002260759,"Av. du Bouchet 20,",1209 Genf,4.0,125.0,4500,6.5,Apartment,-1,-1,0
+4002260791,,,1.0,30.0,1880,-1,Apartment,-1,-1,0
+4002260799,,,-1,-1,850,-1,Single Room,-1,-1,0
+4002261288,"Chemin du Champ-d'Anier 9,",1209 Genève,4.0,94.0,3170,3.75,Apartment,-1,1969,1
+4002261731,"Chemin de Champ-Fleury 7 et 9,",1233 Bernex,6.0,-1,4010,-1,Apartment,-1,2025,1
+4002261735,"Chemin de Champ-Fleury 7 et 9,",1233 Bernex,4.0,70.0,3140,-1,Apartment,-1,2025,1
+4002261737,"Chemin de Champ-Fleury 7 et 9,",1233 Bernex,5.0,108.0,3370,-1,Apartment,-1,2025,1
+4002262432,"Ch. des Clochettes 8A,",1206 Genève,4.0,62.0,2590,4.5,Apartment,1984,1984,0
+4002262542,"Chemin de la Tulette 3c,",1223 Cologny,-1,-1,4200,6.75,Apartment,-1,-1,0
+4002263236,,,1.0,-1,800,-1,Apartment,-1,-1,0
+4002265057,"Avenue du Bouchet 20,",1209 Genève,5.0,165.0,6000,6.5,Apartment,-1,-1,1
+4002265058,"Avenue du Bouchet 22A,",1209 Genève,8.5,230.0,8250,7.5,Apartment,-1,-1,1
+4002265070,"Meyrin Gravière,",1217 Meyrin,5.0,85.0,2300,-1,Apartment,-1,-1,0
+4002266164,"Chemin du Champ d'Anier,",1209 Genf,5.5,125.0,3889,-1,Apartment,-1,-1,0
+4002266180,"Route du Camp 70,",1228 Plan-les-Ouates,-1,-1,980,7.75,Single Room,-1,-1,0
+4002266186,"CHEMIN DES BELOSSES, 6,",1222 Vésenaz,-1,12.0,850,10.5,Single Room,-1,-1,0
+4002266215,"14 Ed. Olivet,",1226 Thônex,-1,-1,800,-1,Single Room,-1,-1,0
+4002266222,"126 Route de Bonneville,",1200 Genf,-1,120.0,650,-1,Single Room,-1,-1,0
+4002266231,"Rue Sismondi,",1201 Genf,-1,20.0,1100,-1,Single Room,-1,-1,0
+4002266237,"Rue gaudy le fort,",1213 Onex,-1,16.0,900,-1,Single Room,-1,-1,0
+4002266256,"Vessy, Pinchat, Troinex, Carouge, etc,",1208 Genf,4.0,60.0,1800,-1,Apartment,-1,-1,0
+4002266260,"Miremont,",1206 Genf,4.0,92.0,3700,-1,Apartment,-1,-1,0
+4002267488,"Route d'Annecy 54,",1256 Troinex,4.0,138.0,6000,12.25,Loft,-1,2001,0
+4002267730,"Chemin de la Milière 27,",1234 Vessy,6.0,-1,6000,11.5,Villa,-1,-1,0
+4002268184,,,4.0,79.0,3300,-1,Apartment,-1,-1,0
+4002268655,,,7.5,250.0,4500,-1,Single house,-1,-1,0
+4002268668,,,-1,12.0,1000,-1,Single Room,-1,-1,0
+4002269434,"Route de Florissant 112,",1206 Genève,5.0,155.0,5950,4.5,Apartment,-1,-1,0
+4002270717,"Chemin Eugène Charlet 15A,",1228 Plan-les-Ouates,7.5,250.0,7900,7.5,Single house,2025,-1,1
+4002270762,"Bld des Tranchées,",1206 Genève,9.0,310.0,15795,-1,Apartment,-1,-1,0
+4002271134,"W2962 - Route de Chêne 40,",1208 Genève,6.0,-1,4000,6.25,Apartment,-1,-1,0
+4002271783,"vessy,",1226 Thônex,7.5,-1,7000,-1,Single house,-1,-1,0
+4002271829,,,3.5,55.0,2220,-1,Apartment,-1,-1,0
+4002271837,"Rue du Clos,",1207 Genf,2.5,55.0,1860,-1,Apartment,-1,-1,0
+4002272228,"Chemin des Semailles 9A,",1212 Grand-Lancy,4.5,95.0,3695,5.75,Apartment,2019,1963,0
+4002272744,,,7.5,-1,7900,-1,Single house,2025,-1,0
+4002273883,"Place du Rondeau 5,",1227 Carouge,4.0,75.0,3500,3.25,Apartment,-1,-1,1
+4002274186,"Route des Fayards 59,",1239 Collex-Bossy,5.0,140.0,4500,10.0,Apartment,-1,-1,0
+4002275042,"Chemin de Malvand,",1292 Pregny-Chambésy,5.0,-1,4500,-1,Apartment,-1,2021,0
+4002275454,"Rue de Grand-Lancy 100,",1206 Genf,1.0,50.0,1930,-1,Apartment,-1,-1,0
+4002275745,"Route de Covery 12 bis,",1252 Meinier,4.0,-1,1950,-1,Apartment,-1,-1,0
+4002276137,"Rue des Mouettes 4,",1227 Les Acacias,6.0,145.0,4510,2.75,Maisonette / Duplex,-1,1919,1
+4002276441,"rue Lamartine 32,",1203 Genève,3.5,-1,2815,3.75,Apartment,-1,-1,0
+4002276480,,,6.0,134.0,5800,-1,Single house,-1,2017,1
+4002276953,,,5.5,-1,5950,-1,Row house,-1,2025,1
+4002276956,"Chemin Babel 17,",1257 Bardonnex,5.5,-1,6850,12.0,Row house,-1,2025,1
+4002277140,,,4.0,-1,4320,-1,Apartment,-1,-1,0
+4002277141,"Chemin Petit Saconnex,",1209 Genève,9.0,-1,-1,3.25,Apartment,-1,-1,1
+4002277144,"Chemin de la Fléchère 3,",1255 Veyrier,6.0,130.0,4950,4.67,Apartment,-1,-1,0
+4002277146,"Chemin Saladin 9,",1224 Chêne-Bougeries,4.0,-1,4200,8.0,Apartment,-1,-1,1
+4002277149,"Florissant,",1206 Genève,3.0,-1,2600,2.5,Villa,-1,-1,0
+4002277152,"Florissant,",1206 Genève,8.5,-1,18000,2.5,Attic flat,2020,-1,1
+4002277154,"Cologny,",1223 Cologny,1.5,-1,4200,10.0,Apartment,-1,-1,1
+4002277157,,,4.0,-1,5500,-1,Attic flat,-1,-1,1
+4002277159,,,6.0,-1,7900,-1,Apartment,2025,-1,1
+4002277160,"Florissant,",1206 Genève,7.5,-1,-1,4.75,Single house,-1,-1,0
+4002277161,,,7.0,-1,6980,-1,Apartment,-1,1958,1
+4002277163,"Florissant,",1206 Genève,5.0,-1,4500,2.5,Villa,-1,-1,0
+4002277328,,,4.5,84.0,4390,-1,Apartment,-1,-1,0
+4002278210,"Route de Saint-Julien 98,",1228 Plan-les-Ouates,6.5,190.0,4200,4.0,Single house,-1,-1,1
+4002278611,"Rue de Lausanne 40,",1201 Geneva,1.0,28.0,3450,2.25,Apartment,-1,-1,1
+4002278612,"Rue de Lausanne 40,",1201 Geneva,-1,28.0,2450,2.25,Apartment,-1,-1,0
+4002278680,"39, rue de la prulay , meyrin,",1217 Meyrin,-1,-1,850,4.25,Single Room,-1,-1,0
+4002278712,"Rue de l'ancien-lavoir 15,",1245 Collonge-Bellerive,4.5,-1,2100,-1,Apartment,-1,-1,0
+4002278791,"Route d'Hermance 44,",1222 Vésenaz,7.0,286.0,13000,7.0,Bifamiliar house,2025,2010,1
+4002279288,"Chemin du Champ-d'Anier 11,",1209 Genève,2.5,45.0,1960,4.5,Apartment,-1,1969,1
+4002279490,"Chemin de la Chênaie 145A,",1293 Bellevue,6.5,-1,4800,7.67,Apartment,-1,-1,0
+4002279582,"Avenue d'Aïre 77,",1203 Genève,7.0,215.0,5990,5.75,Apartment,-1,-1,1
+4002280386,,,7.0,223.0,9200,-1,Apartment,-1,-1,0
+4002280531,"Cour de Saint-Pierre,",1204 Genève,6.0,180.0,11500,4.0,Apartment,-1,-1,0
+4002281048,"route Antoine-MARTIN,",1234 Vessy,5.5,141.0,4410,-1,Apartment,-1,-1,0
+4002282342,"Route de Malagnou 36,",1208 Genève,3.0,75.0,3514,2.5,Attic flat,-1,1995,0
+4002282713,,,-1,16.0,1300,-1,Single Room,-1,-1,0
+4002282729,"1, Rue de la Martiniere, Ambilly, Annemasse,",1218 Le Grand-Saconnex,-1,15.0,700,-1,Single Room,-1,-1,0
+4002284426,,,3.0,-1,1700,-1,Apartment,-1,-1,0
+4002285077,,,8.0,-1,10500,-1,Apartment,-1,-1,0
+4002285578,"Chêne-Bougeries,",1224 Chêne-Bougeries,3.0,50.0,1700,-1,Apartment,-1,-1,0
+4002285595,"Rue de Motchoisy,",1207 Genf,-1,22.0,1050,-1,Single Room,-1,-1,0
+4002285600,,,3.0,-1,1900,-1,Apartment,-1,-1,0
+4002285651,"chemin des Coudriers 40,",1209 Genève,7.5,160.0,4200,6.0,Apartment,-1,-1,0
+4002286191,"Chemin de la Menuiserie,",1293 Bellevue,6.0,-1,5200,4.5,Apartment,-1,-1,1
+4002288504,"Rue Muzy 1,",1207 Genève,5.5,124.0,5355,3.5,Apartment,-1,-1,0
+4002289015,"rue corbusier 22,",1208 Genf,4.0,80.0,3500,-1,Apartment,-1,-1,0
+4002289040,"19B Chemin de la Fontaine,",1292 Chambésy,1.5,21.0,1590,8.0,Apartment,-1,-1,0
+4002289072,"Rue Pré-jérôme,",1226 Thônex,4.0,123.0,3700,-1,Apartment,-1,-1,0
+4002289091,"Route d?Annecy,",1256 Troinex,2.5,40.0,1700,-1,Apartment,-1,-1,0
+4002289121,"Rue du Vieux Collège,",1204 Genf,4.5,79.0,4645,-1,Apartment,-1,-1,0
+4002289145,"Rue de Berne 1201,",1201 Genf,1.0,-1,975,-1,Apartment,-1,-1,0
+4002289226,,,10.0,600.0,18000,-1,Single house,-1,-1,1
+4002289473,"Rue de la Dôle 4,",1203 Genève,5.0,97.0,3550,3.75,Apartment,-1,-1,0
+4002289479,"Rue du Quartier-Neuf 9,",1205 Genève,4.0,72.0,2990,4.5,Apartment,-1,-1,0
+4002289511,"Place de Pont-Rouge 5,",1212 Grand-Lancy,-1,-1,-1,3.0,Commercial,-1,-1,0
+4002289684,"Avenue De-Luserna,",1203 Genève,4.0,65.0,2510,-1,Apartment,-1,-1,0
+4002289745,"Chemin du Champ-d'Anier 11,",1209 Genève,4.0,94.0,3120,4.5,Apartment,-1,1969,1
+4002289747,"Chemin du Champ-d'Anier 9,",1209 Genève,4.0,94.0,3095,3.75,Apartment,-1,1969,1
+4002289748,"Chemin du Champ-d'Anier 9,",1209 Genève,4.0,94.0,3020,3.75,Apartment,-1,1969,1
+4002290014,,,5.0,135.0,4840,-1,Apartment,-1,-1,1
+4002291572,"Route de Sauverny 1,",1290 Versoix,6.0,103.0,3375,3.75,Apartment,-1,-1,1
+4002291662,"Rue de Lausanne 139,",1202 Genève,-1,-1,165,4.5,Hobby room,-1,1968,0
+4002291858,"Chemin Charles-Poluzzi,",1227 Carouge,5.0,-1,5250,-1,Apartment,-1,2025,0
+4002292183,,,-1,-1,-1,-1,,-1,-1,0
+4002292189,"Chemin des Chavannes 5,",1286 Soral,4.0,89.0,3200,3.0,Apartment,-1,-1,0
+4002292197,,,-1,16.0,1250,-1,Single Room,-1,-1,0
+4002292254,"Avenue de la concorde 23,",1203 Genf,-1,-1,900,5.75,Single Room,-1,-1,0
+4002292256,"Avenue de la concorde 30,",1203 Genf,-1,-1,900,-1,Single Room,-1,-1,0
+4002292261,,,-1,-1,900,-1,Single Room,-1,-1,0
+4002294087,"Route de la Foliaz 18B,",1257 La Croix-de-Rozon,6.5,170.0,4500,4.0,Single house,-1,-1,0
+4002294240,"Avenue Adrien-Jeandin 16,",1226 Thônex,-1,-1,1815,6.75,Apartment,-1,-1,0
+4002294345,,,9.5,400.0,10500,-1,Single house,2017,1936,0
+4002294480,"rue de Vermont,",1202 Genève,6.5,159.0,6800,-1,Attic flat,2025,-1,1
+4002294679,"6, rue de Contamines,",1206 Genève,6.0,148.0,4050,3.75,Apartment,-1,-1,1
+4002294796,,,6.0,-1,7000,-1,Single house,2025,2002,1
+4002294930,,,3.0,83.0,2870,-1,Apartment,-1,1958,1
+4002294945,"Avenue du Bouchet 20,",1209 Genève,4.0,109.0,3830,6.5,Apartment,-1,-1,0
+4002294949,"Chemin des Crêts 19,",1209 Genf,4.0,107.0,6500,5.25,Apartment,-1,-1,0
+4002294953,"av. Eugene Pittard,",1206 Genf,4.0,90.0,3541,-1,Apartment,-1,-1,0
+4002294984,,,-1,144.0,1000,-1,Single Room,-1,-1,0
+4002295013,"Ch de la cartoucherie 1,",1228 Plan-les-Ouates,4.5,-1,2300,-1,Apartment,-1,-1,0
+4002295064,"Avenue de Bel-air,",1225 Chêne-Bourg,4.0,84.0,3000,-1,Apartment,-1,-1,0
+4002295385,"Place des Charmilles 1,",1203 Genève,6.0,110.0,3280,2.25,Apartment,-1,1962,0
+4002296149,,,7.0,302.0,-1,-1,Single house,2020,1932,0
+4002296171,,,7.5,250.0,7900,-1,Single house,2025,-1,0
+4002296911,,,10.0,284.0,16500,-1,Single house,2024,-1,0
+4002297770,"184 route de saint julien,",1228 Plan-les-Ouates,1.0,23.0,1500,-1,Apartment,-1,-1,0
+4002298234,"Avenue Théodore-Weber 36,",1208 Genève,3.0,62.0,2670,2.25,Apartment,-1,1945,0
+4002299828,"Place Du Métral 1,",1226 Thônex,5.0,121.0,3344,10.75,Apartment,-1,-1,0
+4002299853,"Rue du moillebeau 36,",1209 Genf,-1,45.0,2050,-1,Single Room,-1,-1,0
+4002299855,"Grand-Saconnex,",1218 Le Grand-Saconnex,-1,16.0,1400,-1,Single Room,-1,-1,0
+4002299864,,,1.5,38.0,1300,-1,Apartment,-1,-1,0
+4002299896,"Eugène lance,",1212 Grand-Lancy,4.0,90.0,2100,-1,Apartment,-1,-1,0
+4002300840,"La Voie-du-coin,",1218 Le Grand-Saconnex,5.5,155.0,4410,-1,Single house,-1,-1,0
+4002300856,"Chemin des Marais 95,",1255 Veyrier,3.0,40.0,2000,10.33,Apartment,-1,-1,0
+4002300878,"rue des lilas blancs,",1225 Chêne-Bourg,4.5,75.0,2500,-1,Apartment,-1,-1,0
+4002300916,"Montchoisy,",1201 Genf,1.0,18.0,1790,-1,Apartment,-1,-1,0
+4002300919,,,6.0,120.0,6200,-1,Single house,-1,-1,0
+4002300920,,,5.5,260.0,7500,-1,Apartment,-1,-1,1
+4002300923,,,10.0,270.0,15000,-1,Single house,-1,-1,0
+4002300925,,,5.0,103.0,2449,-1,Single house,-1,2025,1
+4002300926,,,5.0,130.0,2649,-1,Single house,-1,2025,1
+4002300927,,,5.0,110.0,5400,-1,Single house,-1,-1,0
+4002300928,,,8.0,230.0,7000,-1,Single house,-1,-1,0
+4002300930,,,6.0,170.0,5100,-1,Single house,-1,-1,0
+4002300935,,,5.0,100.0,5000,-1,Apartment,-1,-1,0
+4002300938,,,6.0,-1,6100,-1,Single house,-1,-1,1
+4002301614,"Chemin de la Combe 8,",1285 Athenaz (Avusy),5.0,100.0,3500,-1,Apartment,2025,1964,1
+4002301965,"Rue Abraham-Gevray 1,",1201 Genève,4.0,156.0,8540,2.5,Apartment,-1,-1,1
+4002301989,"Rue du Gothard,",1225 Chêne-Bourg,3.0,-1,2900,-1,Apartment,-1,-1,0
+4002302080,"Avenue du Bois-de-la Chapelle 99,",1213 Onex,5.0,100.0,3133,6.75,Apartment,-1,-1,1
+4002302084,"Avenue de Miremont 8A,",1206 Genève,4.0,92.0,3700,4.75,Apartment,-1,-1,1
+4002302216,"136 Route de Choulex,",1244 Choulex,8.0,-1,5200,-1,Rustic house,-1,-1,1
+4002302244,"Parc-des-Mayens 42,",1218 Le Grand-Saconnex,7.0,160.0,6500,10.5,Single house,-1,1987,0
+4002302742,,,6.0,-1,9000,-1,Apartment,-1,-1,0
+4002303003,,,-1,30.0,940,-1,Single Room,-1,-1,0
+4002303033,"Meyrin,",1217 Meyrin,3.0,60.0,1825,-1,Apartment,-1,-1,0
+4002303049,"Satigny,",1242 Satigny,3.5,65.0,3000,-1,Apartment,-1,-1,0
+4002303072,,,-1,100.0,3690,-1,Villa,-1,-1,0
+4002303115,"Chemin des Vignes 1C,",1213 Petit-Lancy,4.0,86.0,3800,5.0,Apartment,-1,-1,0
+4002303521,"Route de Malagnou 241,",1224 Chêne-Bougeries,5.5,223.0,6500,8.0,Apartment,2024,-1,0
+4002303744,,,11.0,600.0,18000,-1,Single house,-1,-1,0
+4002306305,"Chemin de Chafalet 16,",1283 Dardagny,6.5,270.0,2800,-1,Loft,2022,1780,0
+4002306460,,,6.0,110.0,3900,-1,Maisonette / Duplex,-1,2024,1
+4002306505,,,4.5,119.0,3900,-1,Apartment,-1,-1,0
+4002306561,"avenue Dumas 17,",1206 Genf,3.0,70.0,2203,3.5,Apartment,-1,-1,0
+4002306581,"Chemin Kermely 12,",1206 Genf,2.5,42.0,2050,4.25,Apartment,-1,-1,0
+4002306784,"Rue de la Servette 44,",1202 Genève,3.0,60.0,2590,3.25,Apartment,-1,-1,0
+4002306964,"6 Chemin de la Tourelle,",1209 Genève,5.0,127.0,4945,1.75,Apartment,-1,-1,0
+4002307264,"Place du Bourg-de-Four,",1204 Genève,1.0,60.0,2700,4.75,Studio,-1,-1,0
+4002307708,"Route,",1292 Chambésy,8.0,236.0,11900,-1,Villa,2024,1891,0
+4002307873,"Avenue Soret 5,",1203 Genève,3.0,54.0,1558,4.0,Apartment,1984,1984,0
+4002307874,"Avenue du Bois-de-la-Chapelle 59,",1213 Onex,4.0,72.0,2410,3.5,Apartment,1985,1972,0
+4002308159,,,4.0,100.0,4500,-1,Apartment,-1,-1,1
+4002308654,"Rue Robert-de-Traz 14,",1206 Genève,6.0,186.0,8400,4.25,Attic flat,-1,-1,1
+4002308790,,,3.5,82.0,2440,-1,Apartment,-1,1990,0
+4002308870,,,6.5,143.0,6500,-1,Single house,-1,-1,1
+4002309328,"CHEMIN DES BELOSSES, 6,",1222 Vésenaz,3.5,80.0,1400,10.5,Apartment,-1,-1,0
+4002309357,"Promenade des oiseaux 4,",1226 Thônex,-1,35.0,650,4.25,Single Room,-1,-1,0
+4002309366,"Cern, saint genis pouilly,",1217 Meyrin,-1,74.0,-1,-1,Single Room,-1,-1,0
+4002309515,"Chemin de la Chevillarde 43,",1224 Chêne-Bougeries,7.5,162.0,7620,5.5,Apartment,-1,2016,0
+4002309871,"Avenue de Champel 59,",1206 Genève,5.5,140.0,4900,3.0,Apartment,-1,1958,0
+4002309885,"Chemin de la Vendée 26,",1213 Petit-Lancy,5.0,100.0,3700,3.5,Apartment,-1,-1,1
+4002309925,"Rue de la Navigation 3,",1201 Genève,5.0,143.0,4580,1.25,Apartment,-1,-1,0
+4002310029,,,8.0,-1,-1,-1,Villa,-1,-1,0
+4002311053,"Avenue de Champel 23,",1206 Genève,5.0,108.0,4057,2.0,Apartment,-1,1997,0
+4002311285,"Route des Acacias,",1227 Carouge GE,4.0,-1,2800,4.0,Apartment,-1,-1,0
+4002311382,"Chemin des Ancolies 10,",1292 Pregny-Chambésy,7.0,164.0,6950,8.0,Single house,-1,2014,0
+4002311419,,,4.0,80.0,2200,-1,Bachelor flat,2012,1970,0
+4002312055,"avenue Eugène-Pittard 11,",1206 Genève,6.5,170.0,5950,3.0,Apartment,-1,-1,0
+4002312157,"Rue de Moillebeau 3C,",1209 Genève,3.0,60.0,2250,5.25,Apartment,-1,-1,1
+4002312443,"Rue des bains,",1205 Genf,1.5,35.0,1000,-1,Apartment,-1,-1,0
+4002312489,"Grand saconnex,",1218 Le Grand-Saconnex,-1,-1,1350,-1,Single Room,-1,-1,0
+4002312498,"Rue du Quartier-Neuf,",1205 Genf,4.0,90.0,4250,-1,Apartment,-1,-1,0
+4002312507,"Rue Philippe-plantamour,",1201 Genf,3.0,80.0,2800,-1,Apartment,-1,-1,0
+4002312554,"Chemin de la Tourelle 10,",1209 Genève,4.0,93.0,3600,2.0,Apartment,2019,-1,0
+4002312712,"Chemin de la Bessonnette 5,",1224 Chêne-Bougeries,4.0,90.0,3500,5.0,Apartment,-1,2015,0
+4002312836,,,-1,-1,-1,-1,,-1,-1,0
+4002312840,"Quai de Seujet,",1201 Genève,1.0,26.0,1880,-1,Apartment,-1,-1,0
+4002312946,"Rue de Monthoux 25,",1201 Genève,5.0,-1,3100,2.5,Apartment,-1,-1,0
+4002313918,"Chemin des Crêts-de-Champel 20,",1206 Genève,4.0,94.0,4050,4.5,Apartment,-1,-1,1
+4002314620,,,10.0,263.0,9500,-1,Single house,2019,1960,1
+4002314772,"Chemin de Trémessaz 15,",1222 Vésenaz,5.0,-1,4900,3.25,Apartment,-1,-1,1
+4002315071,"Route de Corsinge,",1252 Meinier,6.5,156.0,5000,-1,Apartment,-1,-1,0
+4002315159,"Rue Chaponnière 14,",1201 Genève,4.0,-1,2925,2.75,Apartment,2009,1958,0
+4002315497,,,-1,20.0,1150,-1,Single Room,-1,-1,0
+4002315504,"Chemin de la Chevillarde 1208,",1208 Genf,6.0,-1,3859,5.5,Apartment,-1,-1,0
+4002315514,"Rue des Jardins 12,",1205 Genf,2.0,57.0,1800,3.0,Apartment,-1,-1,0
+4002315610,"Route des Hospitaliers 119,",1257 La Croix-de-Rozon,1.0,120.0,1500,12.75,Apartment,-1,-1,0
+4002316021,"Rue de la Dôle 4,",1203 Genève,5.0,97.0,3350,3.75,Apartment,-1,-1,0
+4002316026,"Avenue Théodore-Weber 34,",1208 Genève,2.5,57.0,2450,3.5,Apartment,-1,1945,0
+4002316051,"rue du marche,",1227 Carouge GE,4.0,-1,3830,-1,Apartment,-1,-1,0
+4002316052,"Rue du Mont-Blanc 9,",1201 Genève,3.5,76.0,3465,3.25,Apartment,1982,1878,0
+4002316124,"Av.de Thonex 10,",1225 Chêne-Bourg,6.0,96.0,3660,-1,Apartment,-1,-1,0
+4002316236,,,7.5,-1,-1,-1,Single house,2025,1957,0
+4002316244,,,2.0,-1,1650,-1,Apartment,-1,-1,0
+4002316245,,,-1,-1,-1,-1,,-1,-1,0
+4002316247,,,-1,-1,-1,-1,,-1,-1,0
+4002316249,,,-1,-1,-1,-1,,-1,-1,0
+4002316250,,,4.5,80.0,3610,-1,Apartment,-1,-1,0
+4002316252,,,-1,-1,-1,-1,,-1,-1,0
+4002316432,,,-1,-1,-1,-1,,-1,-1,0
+4002317830,"Proche lac,",1207 Genf,2.0,32.0,1500,-1,Apartment,-1,-1,0
+4002317831,,,7.0,340.0,-1,-1,Single house,-1,-1,0
+4002317840,"Eaux Vives,",1207 Genf,-1,-1,800,-1,Single Room,-1,-1,0
+4002317877,"Route de Corsier,",1246 Corsier GE,3.5,85.0,2525,-1,Apartment,-1,-1,0
+4002318789,"Chemin des Palettes 31,",1212 Lancy,5.5,104.0,3090,3.5,Apartment,2023,1970,1
+4002318949,"Chemin des Lilas-Blancs,",1225 Chêne-Bourg,4.5,75.0,2700,-1,Apartment,-1,-1,0
+4002318975,,,5.0,90.0,2220,-1,Apartment,-1,-1,0
+4002319191,"Route de Troinex 46C,",1234 Vessy,5.5,170.0,4800,10.0,Row house,2015,1998,1
+4002320195,,,5.5,155.0,4410,-1,Single house,-1,-1,0
+4002320614,"Rue du Rhône 57,",1204 Genève,7.0,178.0,8385,3.5,Apartment,-1,1856,0
+4002321260,,,11.0,450.0,25000,-1,Single house,-1,-1,1
+4002321340,,,-1,-1,-1,-1,,-1,-1,0
+4002321618,"Rue Maunoir 19,",1207 Genève,2.0,50.0,2260,2.25,Apartment,-1,-1,0
+4002321668,,,7.0,141.0,4400,-1,Apartment,-1,-1,1
+4002321901,,,6.0,250.0,6900,-1,Bifamiliar house,-1,-1,0
+4002321938,,,8.0,290.0,18000,-1,Single house,2024,-1,0
+4002321941,,,-1,-1,-1,-1,,-1,-1,0
+4002322051,"Route,",1208 Genève,7.0,216.0,8100,-1,Maisonette / Duplex,-1,1989,0
+4002322548,"Route de Peney 97 C,",1214 Vernier,-1,-1,5200,9.25,Villa,-1,-1,0
+4002322962,"Rue de l'Athénée 22,",1206 Genève,4.0,74.0,2990,2.75,Apartment,-1,-1,0
+4002323133,,,4.0,93.0,5500,-1,Apartment,2020,-1,1
+4002323194,,,4.5,97.0,2450,-1,Apartment,-1,-1,0
+4002323586,"Avenue de Choiseul 8,",1290 Versoix,4.0,65.0,2660,8.5,Apartment,-1,-1,0
+4002323643,,,-1,-1,-1,-1,,-1,-1,0
+4002323958,"Ruelle du Midi,",1207 Genève,4.0,-1,2923,3.25,Apartment,-1,-1,0
+4002324414,"Place de la Navigation 8,",1201 Genève,2.5,50.0,2400,2.25,Apartment,2025,-1,0
+4002324719,"Rue de la Fontenette 29,",1227 Carouge GE,6.0,105.0,3700,5.25,Apartment,-1,1987,1
+4002324780,,,6.0,-1,5250,-1,Single house,-1,-1,0
+4002324781,,,6.0,-1,5149,-1,Single house,2022,2013,0
+4002324830,,,5.0,170.0,4850,-1,Maisonette / Duplex,-1,-1,0
+4002325645,"Rue Charles-Cusin 7,",1201 Genève,2.0,-1,2480,2.75,Apartment,-1,-1,0
+4002325811,"1, rue Marignac,",1206 Genève,5.5,101.0,3900,-1,Apartment,-1,-1,1
+4002325961,,,-1,-1,-1,-1,,-1,-1,0
+4002326231,"Rue Merle d'Aubigné 25,",1207 Genève,-1,-1,130,-1,Cellar compartment,-1,-1,0
+4002326595,"Rue Virginio Malnati 26,",1217 Meyrin,3.0,45.0,1541,-1,Apartment,-1,-1,0
+4002326798,,,3.0,75.0,2425,-1,Apartment,-1,-1,0
+4002326812,,,2.5,-1,1826,-1,Apartment,-1,-1,0
+4002326857,"Rue Virginio Malnati 26,",1217 Meyrin,3.0,45.0,1541,-1,Apartment,-1,-1,0
+4002326931,,,2.5,40.0,2000,-1,Apartment,-1,-1,0
+4002326933,"Rue Michel-Chauvet 15,",1208 Genf,5.5,130.0,4588,2.75,Apartment,-1,-1,0
+4002326953,,,-1,-1,50,-1,Single Room,-1,-1,0
+4002326968,"Rue Virginio-Malnati,",1217 Meyrin,3.0,41.0,1391,-1,Apartment,-1,-1,0
+4002327255,"Rue de la Servette 42,",1202 Genève,4.0,72.0,2860,2.5,Apartment,-1,-1,0
+4002327373,"Boulevard James-Fazy 6,",1201 Genève,4.0,87.0,4293,2.5,Apartment,2008,1897,0
+4002327513,,,6.5,180.0,12000,-1,Attic flat,-1,-1,0
+4002327529,"Bd de Saint-Georges 64,",1205 Genève,5.0,80.0,2890,3.25,Apartment,-1,-1,0
+4002327613,"Ch. des Crêts 19,",1209 Genève,2.5,65.0,3700,5.25,Apartment,-1,-1,0
+4002328073,,,6.5,160.0,6000,-1,Villa,-1,-1,1
+4002328154,"Quai de Cologny,",1223 Cologny,17.0,-1,-1,-1,Single house,-1,-1,1
+4002328157,"Rue des Pitons 7,",1205 Genève,4.0,-1,3550,4.5,Apartment,-1,-1,0
+4002328380,"Rue du Grand-Pré 42,",1202 GENEVE,5.0,109.0,4280,2.75,Apartment,-1,2010,0
+4002328582,,,4.0,95.0,3940,-1,Apartment,-1,-1,1
+4002328584,,,5.0,127.0,3700,-1,Single house,-1,-1,0
+4002328585,,,4.0,120.0,3200,-1,Apartment,-1,-1,0
+4002328832,"rue de Zürich,",1201 Genève,3.0,44.0,1870,-1,Apartment,2018,-1,0
+4002329003,,,-1,-1,-1,-1,,-1,-1,0
+4002329031,,,4.0,88.0,3620,-1,Apartment,-1,2019,1
+4002329315,"Rue des Lattes 53,",1217 Meyrin,5.0,86.0,2640,4.75,Apartment,1972,1972,0
+4002329377,,,12.0,470.0,17000,-1,Single house,-1,-1,0
+4002330014,"Chemin Lullin 34,",1256 Troinex,8.0,210.0,5900,6.5,Single house,-1,-1,0
+4002330045,"Rue Marignac,",1206 Genève,7.0,165.0,6140,-1,Apartment,-1,-1,0
+4002330149,"Route de Collex 28,",1294 Genthod,7.0,250.0,4950,7.5,Single house,-1,-1,0
+4002330362,"64, route de Florissant,",1206 Genève,7.5,166.0,6300,2.75,Apartment,-1,-1,1
+4002330585,"rue Verdaine,",1204 Genève,2.0,32.0,2392,-1,Apartment,2019,-1,1
+4002330608,,,3.0,80.0,2870,-1,Apartment,-1,-1,0
+4002331191,"Chemin de Mouille - Galand 2,",1214 Vernier,6.0,100.0,2860,-1,Apartment,-1,-1,0
+4002331211,"Rue de Veyrier 29,",1227 Les Acacias,-1,12.0,590,-1,Single Room,-1,-1,0
+4002331283,"rue du mont-blanc,",1201 Genf,-1,15.0,1150,-1,Single Room,-1,-1,0
+4002331311,,,3.0,50.0,2700,-1,Apartment,-1,-1,0
+4002331325,"Rue Liotard,",1202 Genève,6.5,-1,5410,-1,Attic flat,-1,1904,0
+4002331619,"Chem. de Sous-Balme 9,",1255 Veyrier,4.0,-1,3000,4.0,Apartment,-1,-1,0
+4002331628,"Place de la Diversité 7,",1217 Meyrin,4.0,76.0,2466,3.75,Apartment,-1,-1,0
+4002331637,"Rue de Contamines 35,",1206 Genève,3.0,80.0,2970,2.75,Apartment,2001,1938,1
+4002331732,"Rue Alfred-Vincent 23,",1201 Genève,3.0,56.0,2200,2.5,Apartment,-1,-1,0
+4002331733,"Rue des Cordiers 5,",1207 Genève,4.5,66.0,3110,2.25,Apartment,-1,1965,0
+4002331819,,,7.0,178.0,8500,-1,Single house,2025,1985,0
+4002331974,"Rue des Pâquis 16,",1201 Genève,3.0,72.0,3190,2.25,Apartment,-1,-1,0
+4002331975,"Rue des Pâquis 16,",1201 Genève,5.0,146.0,6668,2.25,Apartment,-1,-1,0
+4002333088,"Cologny 1,",1223 Cologny,4.0,-1,7000,10.0,Attic flat,2023,-1,1
+4002333229,"Rue des Battoirs 8,",1205 Genève,5.5,-1,4300,4.0,Apartment,-1,-1,0
+4002333658,"Bocage 7,",1213 Onex,5.0,121.0,3955,8.5,Apartment,-1,2004,0
+4002333678,"Chemin François-Lehmann,",1218 Le Grand-Saconnex,4.0,-1,2700,4.0,Apartment,-1,-1,0
+4002333748,"Ch. de la Milice 1,",1228 Plan-les-Ouates,-1,17.0,100,5.0,Hobby room,-1,-1,0
+4002333778,,,6.0,120.0,3850,-1,Apartment,-1,-1,1
+4002333869,"Ch. François-Lehmann,",1218 Le Grand-Saconnex,4.0,75.0,2700,-1,Apartment,-1,-1,0
+4002334026,"Rue Verdaine 11,",1204 Genève,5.0,185.0,6600,4.75,Apartment,2020,-1,0
+4002334514,,,-1,-1,14000,-1,Single house,-1,1985,0
+4002334539,,,-1,-1,800,-1,Single Room,-1,-1,0
+4002334549,"8, chemin Champ-Baron,",1209 Genf,4.0,100.0,3200,4.0,Apartment,-1,-1,0
+4002334561,"Route de Frontenex,",1207 Genf,-1,18.0,1350,-1,Single Room,-1,-1,0
+4002334589,,,4.0,-1,1,-1,Apartment,-1,-1,0
+4002334636,,,3.0,-1,2248,-1,Apartment,-1,-1,0
+4002334644,"Avenue Jacques-Martin,",1224 Chêne-Bougeries,6.0,200.0,4900,-1,Single house,-1,-1,0
+4002335200,"Route de Frontenex 86,",1208 Genève,10.0,220.0,6240,6.75,Apartment,-1,-1,1
+4002335347,"Route de Base 105B,",1258 Perly,7.0,-1,4900,2.67,Bifamiliar house,-1,2018,1
+4002335389,"Rue de Berne 25,",1201 Genève,1.5,-1,1575,3.25,Apartment,-1,-1,0
+4002335558,"Chemin de Pré-Roset 5,",1294 Genthod,6.0,-1,6400,5.5,Single house,-1,-1,0
+4002335660,"Chemin du Moulin-de-Vert,",1288 Aire-la-Ville,4.5,90.0,2500,-1,Apartment,-1,-1,0
+4002335784,"Rue des Granges 1,",1204 GENEVE,5.5,-1,5915,4.5,Apartment,-1,1919,0
+4002336291,"Route de Chêne 15,",1207 Genève,8.0,224.0,5800,5.25,Apartment,-1,-1,0
+4002336292,,,-1,-1,-1,-1,,-1,-1,0
+4002337416,,,6.5,148.0,4200,-1,Apartment,-1,-1,1
+4002338179,"Vers Dole,",1203 Genf,-1,-1,800,-1,Single Room,-1,-1,0
+4002338222,,,6.0,-1,1970,-1,Apartment,-1,-1,0
+4002338228,"Chemin Charles-Poluzzi,",1227 Les Acacias,4.5,115.0,2880,-1,Apartment,-1,-1,0
+4002338272,,,10.0,-1,17000,-1,Villa,2016,1997,0
+4002339312,"Chemin de la Gradelle 16,",1224 Chêne-Bougeries,4.5,148.0,5700,4.5,Apartment,2023,-1,0
+4002339313,,,-1,-1,-1,-1,,-1,-1,0
+4002339386,,,4.5,250.0,7250,-1,Maisonette / Duplex,2019,1997,0
+4002339410,,,5.0,105.0,3210,-1,Apartment,-1,-1,1
+4002339816,,,5.0,100.0,4200,-1,Single house,-1,-1,0
+4002340294,"Chemin du Docteur Adolphe-Pasteur 6A,",1209 Genève,5.0,-1,4800,-1,Apartment,-1,-1,1
+4002340387,"Avenue de Frontenex 8,",1207 Genève,6.0,-1,9000,3.5,Apartment,-1,-1,0
+4002340691,,,-1,110.0,750,-1,Single Room,-1,-1,0
+4002340693,,,1.5,30.0,1500,-1,Apartment,-1,-1,0
+4002340702,"Rte de la Capite 24,",1223 Cologny,1.5,80.0,1900,2.5,Apartment,-1,-1,0
+4002340722,,,4.0,-1,2800,-1,Single house,-1,-1,0
+4002340750,"Rue du bois Melly,",1205 Genf,-1,15.0,1000,-1,Single Room,-1,-1,0
+4002340765,"Rue de l'Athénée 26,",1206 Genf,1.5,43.0,1825,4.0,Apartment,-1,-1,0
+4002340976,"Rue Maunoir 19,",1207 Genève,2.5,46.0,2160,2.25,Apartment,-1,-1,0
+4002340979,"Avenue Henri-Golay 12e,",1219 Châtelaine,3.0,60.0,2240,4.25,Attic flat,2015,1965,0
+4002341115,"47, rue de Monthoux,",1201 Genève,4.0,80.0,2800,1.75,Apartment,-1,-1,0
+4002341118,,,4.0,-1,3000,-1,Apartment,-1,-1,0
+4002341256,,,3.0,54.0,1970,-1,Apartment,-1,-1,1
+4002341273,,,5.5,117.0,3600,-1,Apartment,2022,-1,1
+4002341289,"Esplanade des Récréations 11,",1217 Meyrin,-1,-1,155,3.5,Hobby room,-1,2016,0
+4002341558,"Rue de Saint-Jean 30a,",1203 Genève,4.0,118.0,3950,3.5,Attic flat,2008,1992,0
+4002342058,"Chemin Camille-Vidart 9,",1202 Genève,4.0,91.0,3450,5.75,Apartment,-1,2020,1
+4002342065,,,4.0,130.0,4900,-1,Apartment,-1,-1,0
+4002342252,"Limites 3,",1293 Bellevue,4.0,-1,3200,11.33,Apartment,-1,-1,0
+4002342253,,,6.0,-1,4700,-1,Apartment,-1,-1,0
+4002342476,"Chemin du Champ-Baron 8, 10,12,",1209 Genève,4.0,96.0,3468,4.0,Apartment,-1,1986,0
+4002342666,"Plateau de Frontenex 9 B,",1223 Cologny,4.0,140.0,7000,6.25,Attic flat,-1,-1,1
+4002343369,"Chemin de Valérie,",1292 Chambésy,4.5,-1,3850,7.5,Terrace house,-1,-1,0
+4002343585,"Avenue Henri-Dunant 9,",1205 Genève,1.0,24.0,1560,3.5,Studio,-1,-1,0
+4002343763,,,-1,-1,-1,-1,,-1,-1,0
+4002344052,,,-1,-1,600,-1,Single Room,-1,-1,0
+4002344083,,,4.0,86.0,3566,-1,Apartment,-1,-1,0
+4002344278,"Rue des Contamines 19,",1206 Genève,3.5,-1,2970,3.5,Apartment,-1,-1,1
+4002344293,,,6.0,160.0,4900,-1,Single house,2012,1996,0
+4002344464,"Chemin William-Lescaze 1,",1203 Genève,2.0,24.0,1312,3.75,Apartment,-1,-1,0
+4002344499,"Rue Jean-Calvin,",1204 Genève,6.0,-1,7000,5.5,Terrace flat,-1,-1,1
+4002344550,"Chemin Moïse-Duboule 43,",1209 Genève,2.5,44.0,1820,3.25,Apartment,-1,1967,1
+4002344909,,,-1,-1,8000,-1,Single house,-1,-1,0
+4002345157,,,8.5,225.0,8274,-1,Apartment,-1,-1,0
+4002345724,"Rue Liotard 79,",1203 Genève,5.0,92.0,4284,4.0,Apartment,-1,1965,0
+4002346106,"Route d'Hermance 125A,",1245 Collonge-Bellerive,5.0,119.0,3600,2.0,Apartment,2025,1969,0
+4002346114,,,3.0,74.0,3200,-1,Apartment,-1,-1,0
+4002346339,"Avenue Petit-Senn 33,",1225 Genève,2.5,46.0,2085,-1,Apartment,-1,-1,0
+4002346350,,,6.0,140.0,4650,-1,Apartment,2024,-1,0
+4002346669,,,1.0,-1,1370,-1,Single Room,-1,-1,0
+4002347085,"Rue des Savoises 9,",1205 Genf,4.5,96.0,2730,2.75,Apartment,-1,-1,0
+4002347087,,,7.5,360.0,6500,-1,Single house,-1,-1,0
+4002347144,"Grand-Lancy,",1212 Grand-Lancy,6.0,110.0,3508,-1,Apartment,-1,-1,0
+4002347152,,,1.0,34.0,1300,-1,Apartment,-1,-1,0
+4002347252,,,3.5,62.0,2395,-1,Apartment,-1,-1,0
+4002347313,"Rue Caroline,",1227 Les Acacias,4.0,-1,2200,3.75,Apartment,-1,-1,0
+4002347384,"Avenue de la Grenade 19,",1207 Genève,4.0,74.0,2899,3.5,Roof flat,-1,1970,0
+4002347403,"4TER, rue des Moraines,",1227 Carouge,5.0,85.0,4000,2.5,Apartment,-1,1986,1
+4002347430,"Rue des Granges 9,",1204 Genève,1.0,30.0,1742,4.75,Apartment,2018,1900,0
+4002347693,"Rue Sismondi,",1201 Genève,4.0,72.0,2740,-1,Apartment,-1,-1,0
+4002347804,"Rue des Pâquis 16,",1201 Genève,5.0,146.0,6668,2.25,Roof flat,-1,-1,1
+4002347808,"Rue des Pâquis 16,",1201 Genève,3.0,72.0,3190,2.25,Roof flat,-1,-1,0
+4002347825,,,6.0,100.0,2860,-1,Apartment,-1,-1,0
+4002347968,"Route Suisse 123,",1290 Versoix,4.0,67.0,1938,7.25,Apartment,-1,2018,0
+4002348195,"45 chemin Chantefleur,",1234 Vessy,8.0,-1,7000,9.5,Row house,2021,-1,0
+4002349030,,,6.0,176.0,7500,-1,Apartment,-1,-1,0
+4002349053,"Chemin de la Florence,",1208 Genève,4.0,123.0,4930,-1,Apartment,-1,-1,0
+4002349072,,,-1,-1,4388,-1,Apartment,-1,-1,0
+4002349382,"Rue Sismondi,",1201 Genève,4.0,-1,2740,2.75,Apartment,-1,-1,0
+4002349880,"Chemin des Crêts-de-Champel 18,",1206 Genève,4.0,100.0,4500,4.25,Apartment,-1,-1,1
+4002349954,,,-1,-1,-1,-1,,-1,-1,0
+4002350053,,,4.5,90.0,3850,-1,Row house,-1,1919,0
+4002350062,,,-1,-1,-1,-1,,-1,-1,0
+4002350146,"Rue Schaub 21,",1202 Genève,5.0,110.0,3925,4.0,Apartment,-1,-1,0
+4002350479,"Chemin du Velours 6,",1231 Genève,5.0,143.0,5500,5.25,Apartment,-1,-1,0
+4002350559,"Plainpalais,",1201 Genf,-1,-1,1000,-1,Single Room,-1,-1,0
+4002350567,,,4.0,-1,2500,-1,Apartment,-1,-1,0
+4002350607,"23, Avenue des Grandes-Communes,",1213 Onex,3.0,52.0,2000,3.25,Apartment,-1,-1,0
+4002350614,,,-1,-1,-1,-1,,-1,-1,0
+4002350618,"1233,",1233 Bernex,-1,29.0,1000,-1,Single Room,-1,-1,0
+4002350625,,,1.0,-1,1400,-1,Apartment,-1,-1,0
+4002350642,,,-1,13.0,950,-1,Single Room,-1,-1,0
+4002350652,"Rue de Genève,",1226 Thônex,2.0,33.0,1100,-1,Apartment,-1,-1,0
+4002350725,"Avenue Sainte Cecile 41,",1217 Meyrin,4.5,110.0,2956,-1,Apartment,-1,-1,0
+4002350793,"Avenue Wendt 3,",1203 Genève,3.0,51.0,2500,3.75,Attic flat,-1,1950,0
+4002350893,"Route de Florissant 121,",1231 Conches,7.5,-1,12500,5.75,Terrace house,-1,-1,0
+4002350936,,,7.0,300.0,6900,-1,Row house,2025,-1,1
+4002350942,,,-1,-1,-1,-1,,-1,-1,0
+4002350971,,,8.0,300.0,-1,-1,Single house,-1,-1,0
+4002351013,,,6.0,152.0,5000,-1,Apartment,-1,2021,1
+4002351386,"A Le Grand-Saconnex,",1218 Le Grand-Saconnex,8.0,230.0,7400,-1,Apartment,-1,-1,1
+4002351467,,,-1,-1,-1,-1,,-1,-1,0
+4002351504,,,4.0,75.0,2307,-1,Apartment,-1,-1,1
+4002351960,"Avenue des Grandes Communes 27,",1213 Onex,6.0,120.0,4050,-1,Maisonette / Duplex,-1,-1,0
+4002352080,,,4.0,65.0,4250,-1,Apartment,-1,2013,0
+4002352112,"Chemin de Chèvrefeuille,",1234 Vessy,7.0,-1,6800,-1,Single house,-1,2024,0
+4002352357,,,5.0,98.0,3800,-1,Apartment,-1,-1,1
+4002352453,"Chemin Briquet 22,",1209 Genève,3.0,-1,2010,4.25,Apartment,-1,-1,0
+4002352778,"Route de Veyrier 200E,",1234 Veyrier,7.0,200.0,6400,7.67,Row house,2025,2006,1
+4002353121,,,7.0,-1,7600,-1,Maisonette / Duplex,-1,-1,0
+4002353566,"Bvd Helvétique 24,",1207 Genève,4.0,105.0,3830,3.25,Apartment,-1,-1,0
+4002353813,"Quartier Servette,",1202 Genf,2.0,42.0,1745,-1,Apartment,-1,-1,0
+4002353815,"Rue de la Madeleine 14,",1204 Genf,2.5,-1,2480,4.25,Apartment,-1,-1,0
+4002353819,,,-1,-1,-1,-1,,-1,-1,0
+4002353821,,,1.0,30.0,-1,-1,Apartment,-1,-1,0
+4002353829,"9, Rue Des Confessions,",1203 Genf,3.0,52.0,1980,3.5,Apartment,-1,-1,0
+4002353832,"Onex Village,",1213 Onex,1.0,30.0,950,-1,Apartment,-1,-1,0
+4002353883,,,-1,-1,-1,-1,,-1,-1,0
+4002354068,"Rue Jean-Violette 30,",1205 Genève,3.0,69.0,2770,3.5,Apartment,-1,1950,0
+4002354069,"Rue Jean-Violette 30,",1205 Genève,3.0,55.0,2200,3.5,Apartment,-1,1950,0
+4002354070,"Rue Jean-Violette 30,",1205 Genève,3.0,72.0,2680,3.5,Apartment,-1,1950,0
+4002354363,"Rue Henri Christine,",1205 Genève,4.0,75.0,2970,-1,Apartment,-1,-1,0
+4002354371,"Rue de Beaumont 14,",1206 Genève,4.5,91.0,-1,4.5,Apartment,-1,1951,0
+4002355374,"Rue Vignier 2,",1205 Genève,1.5,-1,1365,2.75,Apartment,-1,-1,0
+4002355375,"Rue Vignier 2,",1205 Genève,1.5,-1,1190,2.75,Apartment,-1,-1,0
+4002355747,,,6.0,179.0,11500,-1,Apartment,-1,-1,0
+4002355748,,,10.0,-1,16000,-1,Single house,2020,-1,0
+4002355974,,,6.0,175.0,4830,-1,Apartment,-1,2012,1
+4002356257,"Rue de Bourgogne 22a,",1203 Genève,8.0,-1,3950,5.75,Apartment,-1,-1,0
+4002356546,,,6.0,143.0,4500,-1,Apartment,-1,-1,0
+4002356928,"Chambésy,",1292 Chambésy,6.0,160.0,5500,-1,Single house,-1,-1,0
+4002356929,"Onex,",1213 Onex,-1,-1,900,-1,Single Room,-1,-1,0
+4002356960,,,-1,-1,-1,-1,,-1,-1,0
+4002356969,"Pinchat,",1227 Les Acacias,4.0,100.0,3480,-1,Apartment,-1,-1,0
+4002356976,,,4.0,100.0,3000,-1,Apartment,-1,-1,0
+4002358109,,,4.0,100.0,-1,-1,Apartment,-1,-1,0
+4002358125,,,-1,20.0,1100,-1,Single Room,-1,-1,0
+4002358146,,,-1,-1,900,-1,Single Room,-1,-1,0
+4002358152,,,4.0,71.0,3679,-1,Apartment,-1,-1,0
+4002358160,,,2.0,42.0,2250,-1,Apartment,-1,-1,0
+4002358174,"chemin du Curé Desclouds,",1226 Thônex,-1,14.0,890,-1,Single Room,-1,-1,0
+4002358724,,,6.0,133.0,3316,-1,Apartment,-1,-1,0
+4002359872,,,6.0,110.0,3200,-1,Single house,-1,1980,1
+4002359877,"Route de Villette 6,",1231 Conches,-1,-1,5120,7.5,Apartment,-1,-1,1
+4002360052,"Chemin de L'Ecorcherie 42,",1253 Vandoeuvres,9.0,450.0,22500,8.5,Single house,-1,1830,0
+4002360058,"Route de Malagnou 25,",1208 Genève,5.0,-1,3750,1.75,Apartment,-1,-1,0
+4002360135,"Route de Thonon 69,",1222 Vésenaz,6.0,160.0,5500,4.75,Apartment,-1,-1,1
+4002360136,"Rue de l'Athénée 33,",1206 Genève,6.0,143.0,5200,4.75,Apartment,-1,-1,0
+4002360137,"Boulevard des Tranchées 46,",1206 Genève,5.0,181.0,8500,3.75,Attic flat,-1,-1,0
+4002360154,,,3.0,-1,2850,-1,Apartment,-1,-1,0
+4002360202,"Comtesse-de-Pourtales 1,",1293 Bellevue,6.0,140.0,4500,-1,Apartment,2020,-1,0
+4002360236,,,6.0,130.0,6700,-1,Single house,-1,-1,0
+4002360533,,,-1,-1,-1,-1,,-1,-1,0
+4002360641,,,-1,-1,-1,-1,,-1,-1,0
+4002360644,,,-1,-1,-1,-1,,-1,-1,0
+4002360675,,,-1,-1,-1,-1,,-1,-1,0
+4002360696,"Av. Tronchet 6,",1226 Thônex,6.5,-1,2695,3.75,Apartment,-1,-1,0
+4002361484,"Place du Cirque 4,",1204 Genève,4.0,75.0,2757,2.75,Apartment,2020,1978,0
+4002361518,,,6.0,160.0,5500,-1,Single house,-1,2015,0
+4002361706,"Rue Maunoir 19,",1207 Genève,3.0,58.0,2630,2.25,Apartment,-1,-1,0
+4002361708,"Rue des Pêcheries 12,",1205 Genève,4.0,66.0,2940,3.75,Apartment,-1,-1,0
+4002361879,,,-1,-1,-1,-1,,-1,-1,0
+4002361927,"Chemin du Cèdre 10,",1224 Chêne-Bougeries,9.0,300.0,10900,10.5,Villa,2025,1934,1
+4002362273,,,-1,-1,-1,-1,,-1,-1,0
+4002362984,,,4.0,90.0,4400,-1,Apartment,-1,-1,0
+4002363030,,,5.0,120.0,5800,-1,Apartment,2022,-1,0
+4002363031,,,4.0,77.0,3400,-1,Apartment,2022,-1,0
+4002363032,,,3.0,66.0,2900,-1,Apartment,-1,-1,0
+4002363033,,,6.0,156.0,8150,-1,Apartment,2022,-1,0
+4002363325,"Route des Acacias,",1227 Les Acacias,6.0,109.0,3600,4.0,Apartment,2023,1970,1
+4002363506,,,-1,-1,-1,-1,,-1,-1,0
+4002363507,,,-1,-1,-1,-1,,-1,-1,0
+4002363508,"Avenue des Cavaliers 3,",1224 Chêne-Bougeries,4.5,91.0,2520,4.5,Apartment,-1,1964,0
+4002363574,"Rue Saint-Nicolas-le-Vieux 11,",1227 Carouge,3.0,70.0,2892,5.5,Apartment,-1,2020,1
+4002363815,,,5.0,160.0,6300,-1,Apartment,2022,1962,1
+4002363816,,,6.0,198.0,6800,-1,Row house,-1,-1,0
+4002363817,,,6.0,-1,3342,-1,Apartment,-1,-1,0
+4002363834,"Rue De-Grenus 16,",1201 Genève,3.0,-1,2700,2.75,Apartment,-1,-1,0
+4002363842,"L'Ancienne-Route 70,",1218 Le Grand-Saconnex,5.0,135.0,4400,5.25,Apartment,-1,2022,0
+4002363945,"Ch. de la Montagne 78,",1224 Chêne-Bougeries,6.0,117.0,3680,7.75,Apartment,-1,1965,0
+4002363985,"Chemin du Velours 6A,",1231 Genève,6.0,180.0,7800,5.25,Apartment,-1,-1,0
+4002363991,"Rue Caroline,",1227 Les Acacias,4.0,52.0,2200,-1,Apartment,-1,-1,0
+4002364013,,,5.0,120.0,4500,-1,Apartment,-1,-1,0
+4002364053,"Chemin de la Montagne 102,",1224 Chêne-Bougeries,5.0,105.0,3210,6.25,Apartment,2009,1965,0
+4002364098,"19, rue des Pâquis,",1201 Genève,3.5,64.0,2100,2.25,Apartment,-1,-1,0
+4002364107,"Plateau de Frontenex 9D,",1223 Genève,1.0,-1,1860,7.5,Apartment,-1,-1,1
+4002364313,"Chemin Moïse-Duboule 37,",1209 Genève,4.0,94.0,3270,3.0,Apartment,-1,1967,1
+4002364314,"Chemin Moïse-Duboule 43,",1209 Genève,4.0,94.0,3095,3.25,Apartment,-1,1967,0
+4002364316,"Place de la Diversité 7,",1217 Meyrin,5.0,94.0,3196,4.25,Apartment,-1,-1,0
+4002364451,"Rue du Grand-Pré,",1202 Genève,2.0,-1,1700,3.0,Apartment,-1,-1,0
+4002364586,,,3.0,80.0,1950,-1,Single house,-1,-1,0
+4002364604,,,-1,-1,-1,-1,,-1,-1,0
+4002364673,,,-1,-1,-1,-1,Single Room,-1,-1,0
+4002364680,,,2.5,36.0,1209,-1,Apartment,-1,-1,0
+4002364689,,,3.0,57.0,2076,-1,Apartment,-1,-1,0
+4002364696,,,4.0,65.0,2500,-1,Apartment,-1,-1,0
+4002364699,"10 rue Louis Armand 7,",1241 Puplinge,3.0,55.0,1390,-1,Apartment,-1,-1,0
+4002364742,"Avenue de la Gare des Eaux-Vives 12,",1207 Genève,5.5,123.0,4650,5.25,Apartment,2022,-1,0
+4002364818,"Rue Virginio-Malnati,",1217 Meyrin,7.0,103.0,3650,-1,Apartment,-1,-1,1
+4002364882,"Avenue de Châtelaine 87,",1219 Châtelaine,3.5,68.0,2530,1.5,Apartment,2015,1965,0
+4002364883,"Avenue de Châtelaine 85,",1219 Châtelaine,3.0,48.0,2000,1.5,Apartment,2015,1965,0
+4002364885,"Rue du Quartier-Neuf 7,",1205 Genève,4.0,72.0,2990,4.5,Apartment,-1,-1,0
+4002364894,"Rue des Allobroges,",1227 Carouge GE,2.5,-1,1910,3.5,Apartment,-1,-1,0
+4002364914,"Chemin des Crêts-de-Champel 30,",1206 Genève,2.5,40.0,2500,5.0,Apartment,-1,-1,0
+4002364971,"Chemin de la Fraidieu 4Bis,",1223 Cologny,9.0,270.0,12000,6.0,Single house,-1,-1,0
+4002365024,"avenue trembley,",1209 Genève,4.0,-1,3775,-1,Apartment,-1,-1,0
+4002365074,"Chemin de la Montagne 114,",1224 Chêne-Bougeries,7.0,160.0,4190,6.25,Apartment,2009,1965,0
+4002365075,"Avenue des Cavaliers 21,",1224 Chêne-Bougeries,5.0,115.0,3670,6.25,Apartment,2012,1969,0
+4002365081,"Rue des Allobroges,",1227 Carouge GE,2.5,50.0,1910,-1,Apartment,-1,-1,0
+4002365082,"Rue du Grand-Pré 41,",1202 Genève,2.0,39.0,1700,3.5,Apartment,-1,-1,0
+4002365213,"Avenue Dumas 15,",1206 Genève,4.0,-1,4700,4.0,Apartment,-1,-1,0
+4002365290,"Avenue de l' Etang 56,",1219 Châtelaine,3.0,52.0,1836,3.75,Apartment,-1,2021,1
+4002365373,"L'Ancienne-Route 77A,",1218 Le Grand-Saconnex,2.0,32.0,1450,4.75,Apartment,2017,1962,0
+4002365448,,,4.5,115.0,4800,-1,Apartment,-1,-1,0
+4002366609,,,7.0,210.0,7000,-1,Single house,2025,-1,0
+4002367062,"Rue du Bachet 7,",1212 Grand-Lancy,4.0,90.0,2600,3.75,Apartment,-1,-1,0
+4002367065,,,-1,-1,-1,-1,,-1,-1,0
+4002367099,"Parc Château-Banquet 2,",1202 Genève,6.0,129.0,4000,3.75,Apartment,-1,-1,0
+4002367155,"Rue Henri-Frédéric-Amiel 9,",1203 Genève,6.5,135.0,5500,3.5,Apartment,-1,2011,0
+4002367199,"Chemin Du-Villard 2,",1219 CHATELAINE,5.0,116.0,3000,6.5,Apartment,-1,1995,0
+4002367530,,,8.0,-1,7500,-1,Apartment,-1,-1,0
+4002367906,"Avenue de l' Etang 62,",1219 Châtelaine,4.0,86.0,2777,3.75,Apartment,-1,2021,1
+4002367917,"Rue des Buis 1-3,",1202 Genève,4.0,91.0,2625,3.0,Apartment,-1,1984,1
+4002368015,"Parc Château-Banquet 2,",1202 Genève,4.0,90.0,2960,3.75,Apartment,-1,-1,0
+4002368134,"Rue de la Dôle 10,",1203 Genève,4.5,76.0,3000,3.5,Apartment,-1,-1,1
+4002368166,"UN: 10min en voiture,",1206 Genf,2.0,53.0,2099,-1,Apartment,-1,-1,0
+4002368203,"Route de Malagnou,",1208 Genf,2.5,75.0,4000,-1,Apartment,-1,-1,0
+4002368211,"Rue Coupe Gordon Bennett,",1219 Aïre,4.0,-1,2461,-1,Apartment,-1,-1,0
+4002368212,,,7.5,-1,8900,-1,Single house,-1,-1,0
+4002368234,"Campagne Genève,",1212 Grand-Lancy,1.5,-1,1200,-1,Apartment,-1,-1,0
+4002368242,"Quelques minutes de la gare du Léman Express,",1206 Genf,2.0,55.0,2300,-1,Apartment,-1,-1,0
+4002368265,"Rue de Fremis 12,",1241 Puplinge,-1,100.0,700,7.75,Single Room,-1,-1,0
+4002368632,,,-1,-1,-1,-1,,-1,-1,0
+4002368683,"Chemin Curé Desclouds 23,",1226 Thônex,5.0,100.0,3405,-1,Apartment,-1,2000,0
+4002368733,,,1.5,43.0,1825,-1,Apartment,-1,-1,0
+4002368936,"Quai des Arénières 10,",1205 Genève,3.0,70.0,2655,4.5,Apartment,-1,-1,0
+4002369164,,,-1,-1,-1,-1,,-1,-1,0
+4002369205,,,4.5,155.0,4410,-1,Apartment,-1,-1,0
+4002369727,"route de Valavran 68,",1293 Bellevue,14.0,400.0,15000,13.0,Single house,-1,-1,0
+4002370276,"Rue de la Fontenette 16,",1227 Carouge,5.0,-1,3450,3.25,Apartment,-1,-1,0
+4002370619,"Ch. des Cornillons 88,",1292 Chambésy,3.5,91.0,5000,12.0,Apartment,-1,2002,1
+4002370620,"Ch. des Cornillons 88,",1292 Chambésy,5.5,173.0,7800,12.0,Maisonette / Duplex,-1,2002,0
+4002370780,"Chemin du Champ-d'Anier 13,",1209 Genève,5.0,119.0,3765,4.25,Apartment,-1,1969,1
+4002370936,"Rue de Bâle 13,",1201 Genève,2.5,38.0,1650,2.0,Apartment,-1,-1,0
+4002370942,,,2.5,35.0,2800,-1,Attic flat,-1,2024,0
+4002370943,,,5.5,170.0,4800,-1,Bifamiliar house,-1,-1,0
+4002371062,"Rue de Moillebeau 3B,",1209 Genève,5.0,115.0,3960,4.75,Apartment,-1,-1,1
+4002371078,"Rue du Grand-Pré,",1202 Genève,2.0,-1,1700,3.0,Apartment,-1,-1,0
+4002371297,,,7.5,185.0,12500,-1,Row house,-1,-1,0
+4002371592,"Rue Liotard 29,",1202 Genève,1.0,17.0,1480,3.25,Apartment,-1,-1,0
+4002371711,"Chemin des palettes,",1212 Genève,2.5,47.0,2170,-1,Apartment,-1,-1,0
+4002371729,"Rue Jean-Violette,",1205 Genf,-1,32.0,450,-1,Single Room,-1,-1,0
+4002371735,"Chemin Jeanne Lavergnat,",1256 Troinex,5.0,140.0,5000,-1,Apartment,-1,-1,0
+4002371737,,,3.0,75.0,2950,-1,Apartment,-1,-1,0
+4002371764,"A stone's throw from Champel-Geneva train station,",1206 Genf,2.0,52.0,2120,-1,Apartment,-1,-1,0
+4002371766,,,3.5,60.0,2600,-1,Apartment,-1,-1,0
+4002371767,"Rue de la Dole 4,",1203 Genf,5.5,97.0,3120,-1,Apartment,-1,-1,0
+4002371768,"Av. de Sainte-Clotilde 9,",1205 Genf,-1,10.0,690,4.0,Single Room,-1,-1,0
+4002371772,"Clos du hameau des Sources,",1227 Les Acacias,6.0,112.0,3050,-1,Apartment,-1,-1,0
+4002371794,"Châtelaine,",1219 Châtelaine,4.0,73.0,1538,-1,Apartment,-1,-1,0
+4002371806,"Acacias,",1227 Les Acacias,1.5,23.0,1400,-1,Apartment,-1,-1,0
+4002371814,"Avenue Dumas,",1206 Genf,3.0,-1,2050,-1,Apartment,-1,-1,0
+4002371838,"Quai du Seujet 28,",1201 Genève,6.0,140.0,4567,5.75,Apartment,-1,1984,0
+4002371840,,,7.5,230.0,5500,-1,Single house,-1,1957,1
+4002371842,,,5.0,155.0,4600,-1,Apartment,2025,2007,1
+4002371849,,,6.0,137.0,5180,-1,Attic flat,-1,2005,1
+4002371851,,,4.0,134.0,4900,-1,Apartment,2025,-1,1
+4002371852,,,9.0,250.0,4800,-1,Row house,-1,-1,0
+4002371853,,,8.0,230.0,8950,-1,Apartment,2025,-1,1
+4002371854,,,8.0,360.0,15000,-1,Single house,-1,-1,0
+4002371857,,,6.0,140.0,4800,-1,Single house,2009,1990,1
+4002371923,"Rue de la Fontenette 18bis,",1227 Carouge,1.0,-1,500,4.25,Studio,-1,-1,0
+4002371924,,,-1,-1,-1,-1,,-1,-1,0
+4002371961,,,6.5,-1,6717,-1,Apartment,-1,-1,0
+4002372062,"Rue du Grand-Bureau 25,",1227 Les Acacias,2.0,36.0,1450,3.25,Apartment,-1,1960,0
+4002372071,"Rue de Carouge 37,",1205 Genève,3.5,71.0,2270,3.25,Apartment,1999,1954,1
+4002372704,,,5.0,162.0,7000,-1,Apartment,-1,-1,1
+4002372897,"Route,",1218 Le Grand-Saconnex,7.0,213.0,8500,-1,Bifamiliar house,-1,2009,0
+4002373167,,,5.0,160.0,4900,-1,Single house,-1,-1,0
+4002373168,,,4.0,50.0,6500,-1,Single house,-1,-1,1
+4002373169,,,4.0,65.0,4800,-1,Apartment,2024,-1,0
+4002373170,,,5.0,90.0,4300,-1,Apartment,-1,-1,0
+4002373171,,,4.0,112.0,3550,-1,Apartment,-1,-1,0
+4002373172,,,4.5,-1,5300,-1,Apartment,-1,-1,0
+4002373173,,,10.0,290.0,15500,-1,Single house,2025,-1,1
+4002373174,,,4.0,90.0,4200,-1,Apartment,-1,-1,1
+4002373176,,,6.0,-1,5500,-1,Apartment,-1,-1,0
+4002373177,,,-1,-1,-1,-1,,-1,-1,0
+4002373196,"Chemin de Bonvent 33c,",1218 Le Grand-Saconnex,4.5,90.0,4200,6.25,Apartment,2014,-1,1
+4002373325,"Chemin du Relai 8,",1258 Perly,5.0,147.0,5120,3.33,Apartment,-1,-1,0
+4002373333,"Avenue Eugène-Pittard 5,",1206 Genève,6.0,160.0,6005,3.0,Apartment,-1,-1,0
+4002373334,"route d' Athenaz 4,",1285 Athenaz (Avusy),6.0,140.0,4600,-1,Row house,-1,2022,0
+4002373598,,,6.0,121.0,3850,-1,Apartment,-1,-1,0
+4002373728,"Route de Meyrin 12-12A,",1202 Genève,4.0,68.0,2040,5.0,Apartment,-1,1966,1
+4002373793,,,13.0,-1,60000,-1,Single house,-1,-1,1
+4002373815,,,4.0,-1,3500,-1,Apartment,-1,-1,0
+4002373969,"Chemin de Champ-Joly 2,",1228 Plan-Les-Ouates,5.0,-1,3800,4.75,Apartment,-1,-1,0
+4002374082,,,5.5,173.0,7200,-1,Maisonette / Duplex,2021,2002,0
+4002374083,,,3.5,91.0,4600,-1,Apartment,2021,2002,0
+4002374088,"Route de Frontenex 88,",1208 Genève,5.0,106.0,4829,6.5,Apartment,-1,1983,1
+4002374089,"Route de Frontenex 88,",1208 Genève,4.0,89.0,4091,6.5,Apartment,-1,1983,1
+4002374098,,,5.0,127.0,3342,-1,Apartment,-1,-1,1
+4002374366,"Boulevard des Philosophes,",1205 Genève,7.5,191.0,7000,-1,Apartment,-1,-1,1
+4002374520,,,3.0,53.0,2750,-1,Apartment,-1,-1,0
+4002374629,,,1.5,30.0,1248,-1,Apartment,-1,-1,0
+4002374630,"2 rue de la faucille,",1201 Genève,3.0,-1,2200,3.0,Apartment,-1,-1,0
+4002374631,,,3.5,45.0,1655,-1,Apartment,-1,-1,0
+4002374837,,,5.0,103.0,3250,-1,Apartment,-1,-1,0
+4002374838,,,6.0,125.0,6100,-1,Apartment,-1,-1,0
+4002374869,,,5.0,120.0,3950,-1,Villa,-1,-1,1
+4002374907,,,3.5,85.0,2900,-1,Apartment,-1,-1,0
+4002374933,"Rue des Allobroges,",1227 Les Acacias,2.0,52.0,1500,-1,Apartment,-1,-1,0
+4002374937,"Près du Parc Bertrand,",1206 Genf,2.0,53.0,1990,-1,Apartment,-1,-1,0
+4002375023,,,-1,-1,950,-1,Single Room,-1,-1,0
+4002375028,"Rue Verdaine,",1204 Genf,4.5,115.0,4800,-1,Apartment,-1,-1,0
+4002375042,,,4.0,80.0,2560,-1,Apartment,-1,-1,0
+4002375044,"avenue theodore-weber 9,",1208 Genf,3.0,50.0,2027,3.5,Apartment,-1,-1,0
+4002375110,"Boulevard de la cluse,",1205 Genf,1.5,-1,1480,-1,Apartment,-1,-1,0
+4002375176,"Rue de Richemont,",1202 Genève,5.0,-1,3720,3.75,Attic flat,-1,-1,0
+4002375239,,,9.0,300.0,10900,-1,Single house,2025,1934,1
+4002375355,"Rue des Vollandes 29,",1207 Genève,3.5,57.0,2630,2.25,Apartment,-1,1920,0
+4002375356,"Rue du Grand-Pré 55,",1202 Genève,3.5,67.0,2620,4.0,Apartment,-1,1950,0
+4002375358,,,-1,-1,-1,-1,,-1,-1,0
+4002375360,,,5.5,95.0,4284,-1,Apartment,-1,-1,0
+4002375361,"Rue Jean-Charles Amat 15,",1202 Genève,1.0,30.0,1490,4.0,Apartment,-1,-1,0
+4002375516,"Route de Vernier 184,",1214 Vernier,3.0,42.0,1635,3.5,Apartment,-1,-1,0
+4002375672,"Rue de Richemont,",1202 Genève,5.0,89.0,3720,-1,Attic flat,-1,-1,0
+4002375686,"W2959 - Rue du Môle 24,",1201 Genève,3.0,-1,2800,2.25,Apartment,-1,-1,0
+4002375748,,,1.5,-1,1690,-1,Apartment,-1,-1,0
+4002375825,"Rue de Moillebeau 3A,",1209 Genève,4.0,101.0,3220,4.0,Apartment,-1,-1,0
+4002375852,"Chemin du Jonc 30,",1218 Le Grand-Saconnex,6.0,80.0,4056,7.75,Apartment,-1,-1,0
+4002376182,,,2.0,35.0,1620,-1,Apartment,-1,-1,0
+4002376183,,,4.0,-1,1700,-1,Apartment,-1,-1,0
+4002376364,"Avenue du Petit-Senn 11,",1225 CHENE-BOURG,6.0,116.0,3600,2.25,Apartment,-1,1981,0
+4002376365,"Rue du Tir-au-Canon 7,",1227 CAROUGE GE,6.0,105.0,4100,6.0,Apartment,-1,1997,0
+4002376411,,,6.0,205.0,6000,-1,Bifamiliar house,2020,-1,0
+4002376560,"Rue de la Fontenette,",1227 Carouge,5.5,121.0,3768,3.0,Apartment,2023,1983,1
+4002376826,,,6.5,143.0,3900,-1,Apartment,-1,-1,0
+4002376850,"quai du mont blanc,",1201 Genève,8.5,250.0,15400,-1,Apartment,-1,-1,0
+4002376851,"chemin de planta,",1223 Cologny,6.0,130.0,5500,-1,Apartment,-1,-1,0
+4002376852,"place du rondeau,",1227 Carouge,4.0,130.0,5200,-1,Apartment,-1,-1,0
+4002376854,,,5.0,145.0,4600,-1,Apartment,2023,-1,0
+4002376855,"chemin de pont céard,",1290 Versoix,6.0,137.0,5430,-1,Apartment,-1,-1,0
+4002376857,,,7.0,286.0,-1,-1,Single house,-1,-1,0
+4002376858,,,8.0,250.0,6900,-1,Single house,-1,-1,0
+4002376859,,,8.0,300.0,-1,-1,Single house,-1,-1,0
+4002376909,,,4.0,86.0,3800,-1,Apartment,-1,-1,0
+4002377485,"La Muse Gueule, Plainpalais,",1205 Genf,4.0,60.0,2150,-1,Apartment,-1,-1,0
+4002377490,,,5.0,92.0,2030,-1,Apartment,-1,-1,0
+4002377498,"Thônex 1226,",1226 Thônex,4.0,-1,1700,-1,Apartment,-1,-1,0
+4002377505,"Rue de la Colline 12,",1205 Genf,1.5,25.0,1400,4.5,Apartment,-1,-1,0
+4002377512,"Adrien Jeandin 18,",1226 Thônex,-1,117.0,1260,-1,Single Room,-1,-1,0
+4002377538,"23 fontenette,",1227 Les Acacias,5.5,121.0,3770,-1,Apartment,-1,-1,0
+4002377576,"Rue saleve 1,",1205 Genf,4.5,75.0,1550,-1,Apartment,-1,-1,0
+4002377578,"Route de Frontenex,",1207 Genf,1.5,45.0,1650,-1,Apartment,-1,-1,0
+4002377623,,,-1,-1,-1,-1,,-1,-1,0
+4002377770,,,-1,-1,-1,-1,,-1,-1,0
+4002377945,,,10.0,350.0,17000,-1,Villa,2016,-1,0
+4002378370,"Rue François-Grast 12,",1208 Genève,1.5,35.0,720,3.25,Studio,2022,1994,1
+4002378656,"rue guye 1,",1203 Genf,3.0,60.0,2185,-1,Apartment,-1,-1,0
+4002378658,,,-1,-1,-1,-1,,-1,-1,0
+4002378682,,,-1,-1,-1,-1,,-1,-1,0
+4002378705,"Chemin de Pont-Céard 11,",1290 Versoix,-1,61.0,750,6.25,Single Room,-1,-1,0
+4002378822,"Chemin de la Genevrière 11,",1213 Onex,6.0,130.0,5330,8.25,Single house,-1,2024,1
+4002378917,,,6.5,158.0,6000,-1,Single house,-1,-1,0
+4002378918,,,6.0,130.0,5500,-1,Row house,2025,1978,0
+4002378919,,,-1,-1,-1,-1,,-1,-1,0
+4002378920,,,2.5,42.0,1800,-1,Apartment,-1,-1,0
+4002378921,,,1.5,-1,1700,-1,Apartment,-1,-1,0
+4002378922,,,1.5,-1,1501,-1,Apartment,-1,-1,0
+4002378969,,,5.0,110.0,4990,-1,Apartment,-1,2022,0
+4002379284,"Av.Cavalier 21,",1224 Chêne-Bougeries,2.0,31.0,1285,-1,Apartment,2012,1969,0
+4002379394,,,7.5,180.0,6303,-1,Apartment,-1,-1,1
+4002379396,,,6.0,130.0,5500,-1,Apartment,-1,-1,1
+4002379468,,,4.5,95.0,2960,-1,Apartment,-1,-1,0
+4002379469,,,2.0,-1,1422,-1,Apartment,-1,-1,0
+4002379470,,,6.0,130.0,3879,-1,Apartment,-1,-1,0
+4002379539,,,-1,-1,-1,-1,,-1,-1,0
+4002379564,"Route de Florissant,",1206 Genève,1.5,45.0,1950,5.0,Apartment,2022,1980,0
+4002379588,"Chemin de Grange-Canal 42,",1224 Chêne-Bougeries,1.0,53.0,1700,5.0,Studio,-1,2012,0

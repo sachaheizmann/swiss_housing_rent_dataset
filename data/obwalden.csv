@@ -1,0 +1,32 @@
+id,street,city_postal,rooms,living_space,price,avg_travel_time,type,last_refurbishment,year_built,balcony_or_terrace
+4002204477,,,5.5,140.0,5000,-1,Single house,-1,-1,0
+4002221137,,,2.5,50.0,1770,-1,Apartment,2025,1980,1
+4002246567,"Kantonsstrasse 71 in,",6010 Pilatus Kulm,4.5,95.0,2265,-1,Apartment,-1,-1,0
+4002250186,"Hübeli 25.1,",6074 Giswil,5.5,144.0,2750,14.67,Terrace flat,-1,2018,1
+4002267914,"Brünigstrasse 11,",6053 Alpnachstad,2.0,45.0,1500,-1,Apartment,-1,-1,0
+4002281120,"Tannalpstrasse 4,",6068 Melchsee-Frutt,2.0,35.0,1280,-1,Apartment,2018,-1,0
+4002286053,"Allmendweg 3,",6055 Alpnach Dorf,2.5,61.0,1990,7.5,Attic flat,-1,2012,0
+4002292077,,,-1,-1,-1,-1,,-1,-1,0
+4002294888,"Brünigstrasse 84,",6074 Giswil,1.5,34.0,880,10.0,Apartment,-1,-1,0
+4002294929,,,2.5,35.0,1320,-1,Apartment,2023,-1,0
+4002299092,"Brünigstrasse 11,",6053 Alpnachstad,1.0,20.0,970,-1,Single Room,-1,-1,0
+4002320234,,,-1,-1,-1,-1,,-1,-1,0
+4002326524,"Nidfeldstrasse 2k,",6010 Pilatus Kulm,-1,33.0,1600,-1,Single Room,-1,-1,0
+4002328538,"Rösslimatte 2,",6063 Stalden (Sarnen),4.5,100.0,2030,3.5,Apartment,-1,-1,0
+4002331028,"Seetalstrasse,",6010 Pilatus Kulm,3.0,-1,2100,-1,Apartment,-1,-1,0
+4002334402,"Arsenalstrasse 14,",6010 Pilatus Kulm,-1,20.0,800,-1,Single Room,-1,-1,0
+4002336937,"Schibenriedstrasse,",6074 Giswil,1.5,21.0,520,-1,Apartment,-1,-1,0
+4002338130,"Engelberg,",6390 Engelberg,2.5,52.0,1400,-1,Apartment,-1,-1,0
+4002339663,"Rüteli 30,",6074 Giswil,5.5,145.0,2800,11.0,Apartment,-1,2013,1
+4002347258,,,6.0,150.0,2490,-1,Maisonette / Duplex,-1,-1,1
+4002350369,"Nidfeldstrasse 2E,",6010 Pilatus Kulm,4.5,99.0,2690,-1,Apartment,-1,-1,0
+4002350405,"Brunnmattstrasse 9,",6010 Pilatus Kulm,2.5,60.0,1760,-1,Apartment,-1,-1,0
+4002353727,"Wilerstrasse 110,",6062 Wilen (Sarnen),4.5,100.0,3600,-1,Apartment,-1,-1,0
+4002357255,"Wiesenweg 1,",6074 Giswil,4.5,100.0,2700,4.5,Apartment,-1,2025,1
+4002357430,,,4.5,111.0,2709,-1,Apartment,-1,2020,1
+4002359054,,,3.5,96.0,2525,-1,Apartment,-1,2022,1
+4002359495,"Bahnhofstrasse 11,",6078 Lungern,4.5,-1,1850,4.0,Apartment,-1,-1,1
+4002365467,"Gartenstrasse 27 (Haus B1),",6060 Sarnen,-1,26.0,180,6.0,Hobby room,-1,2018,0
+4002368038,"Dienenchlawen,",6072 Sachseln,3.5,-1,1500,-1,Apartment,-1,-1,0
+4002373404,"Allmendweg 1,",6055 Alpnach Dorf,2.5,51.0,1530,6.75,Apartment,-1,2012,0
+4002374613,"Grossgasse 12,",6060 Sarnen,2.5,73.0,2300,3.5,Apartment,-1,2025,0
